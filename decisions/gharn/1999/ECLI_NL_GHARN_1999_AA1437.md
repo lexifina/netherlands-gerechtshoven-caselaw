@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:1999:AA1437"
-published_in: ["Rechtspraak.nl", "FED 1999/725 met annotatie van J.Th.L. BROUWER", "V-N 1999/31.11 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "FED 1999/725 met annotatie van J.Th.L. BROUWER", "V-N 1999/31.11"]
 ---
 
 # ECLI:NL:GHARN:1999:AA1437 Gerechtshof Arnhem , 30-03-1999 / 97/21878
