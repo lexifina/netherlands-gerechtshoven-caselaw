@@ -1,0 +1,87 @@
+---
+ecli: "ECLI:NL:GHSHE:2002:AE8136"
+court: "Gerechtshof 's-Hertogenbosch"
+court_code: "GHSHE"
+docket: "99/00570"
+decided: "2002-08-27"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2002:AE8136"
+published_in: ["Rechtspraak.nl", "FutD 2002-1877"]
+---
+
+# ECLI:NL:GHSHE:2002:AE8136 Gerechtshof 's-Hertogenbosch , 27-08-2002 / 99/00570
+
+## Uitspraak
+
+BELASTINGKAMER
+
+Nr. 99/00570
+
+HET GERECHTSHOF TE 's-HERTOGENBOSCH
+
+PROCES VERBAAL MONDELINGE UITSPRAAK
+
+Uitspraak van het Gerechtshof te 's-Hertogenbosch, elfde enkelvoudige Belastingkamer, op het beroep van X te Y (hierna: belanghebbende) tegen de uitspraak van het hoofd van de eenheid Particulieren te P van de rijksbelastingdienst (hierna: de Inspecteur), op het bezwaarschrift betreffende de aanslag in de inkomstenbelasting en premie volksverzekeringen voor het jaar 1997.
+
+De mondelinge behandeling
+
+De mondelinge behandeling heeft plaatsgehad met gesloten deuren ter zitting van het Hof van 13 augustus 2002 te 's-Hertogenbosch.
+
+Aldaar zijn verschenen en gehoord belanghebbende, vergezeld van zijn echtgenote, en de gemachtigde van belanghebbende, alsmede, de Inspecteur.
+
+Na behandeling van de zaak heeft het Hof heden, 27 augustus 2002, de volgende mondelinge uitspraak gedaan.
+
+De beslissing
+
+Het Hof:
+
+- verklaart het beroep gegrond;
+
+- vernietigt de bestreden uitspraak;
+
+- vermindert de aanslag tot een naar een belastbaar inkomen van ƒ 32.248,-;
+
+- gelast dat de Inspecteur aan belanghebbende het door deze gestorte griffierecht ad € 36,30 (ƒ 80,-) vergoedt;
+
+- veroordeelt de Inspecteur in de proceskosten van belanghebbende tot een bedrag van € 322 en wijst de Staat der Nederlanden aan als de rechtspersoon die deze kosten moet vergoeden.
+
+De gronden
+
+1. Tussen partijen is in geschil het antwoord op de vraag of een schutting met bijbehorend tegelpad (hierna: de loopschutting) voor belanghebbende, die blind is, een hulpmiddel is in de zin van artikel 46, derde lid, aanhef en onderdeel a van de Wet op de Inkomstenbelasting 1964 (hierna: Wet IB) zodat de kosten van het aanleggen van deze loopschutting ad ƒ 7.903,- in aftrek kunnen worden gebracht op de voet van artikel 46, eerste lid, aanhef en onderdeel b van de Wet IB. Belanghebbende beantwoordt deze vraag bevestigend, de Inspecteur ontkennend.
+
+2. Aanpassingen van woning en woonomgeving kunnen slechts dan als buitengewone last worden aangemerkt indien de aangebrachte voorzieningen ertoe strekken de zieke of invalide in staat te stellen tot het vervullen van een normale lichaamsfunctie waartoe hij zonder die voorziening niet in staat zou zijn, mits deze voorzieningen op medisch voorschrift zijn getroffen, specifiek bestemd zijn voor gebruik door de zieke of invalide en overigens niet tot waardevermeerdering van de woning leiden.
+
+3. Weliswaar is aannemelijk dat de loopschutting voor belanghebbende mede de omgeving schept, waarin hij zijn normale lichaamsfuncties kan vervullen, maar niet aannemelijk is geworden dat, met begrip voor de situatie waarin hij verkeert, de loopschutting een middel betreft dat zijn lichaam in staat stelt tot een normale lichaamsfunctie, die het zonder dat middel niet kan vervullen. Voorts heeft belanghebbende ter zitting desgevraagd verklaard dat de loopschutting niet ten gevolge van medische indicatie of op medisch voorschrift is aangebracht.
+
+4. Het gelijk is derhalve aan de zijde van de Inspecteur. Het belastbaar inkomen is evenwel tot een te hoog bedrag vastgesteld omdat de Inspecteur bij de uitspraak op bezwaar de drempel van de ziektekosten tot een onjuiste hoogte heeft aangelegd. Als gevolg van een niet in geding zijnde vermindering van het onzuiver inkomen met ƒ 225,- wegens een verlaging van de correctie op het huurwaardeforfait, had de bij aanslagregeling op ƒ 4.485,- berekende drempel op de voet van artikel 46, eerste lid, aanhef en onderdeel b van de Wet IB dienen te worden verlaagd met ƒ 27,-.
+
+5. Gelet op al het vorenstaande dient te worden beslist zoals hiervoor vermeld.
+
+De proceskosten en het griffierecht
+
+Nu de aanslag wordt verminderd, acht het Hof termen aanwezig de Inspecteur te veroordelen in de kosten die belanghebbende in verband met de behandeling van dit beroep bij het Hof in redelijkheid heeft moeten maken. Het Hof stelt deze kosten, met inachtneming van het bepaalde in het Besluit proceskosten fiscale procedures, op 2 (punten) maal € 322,- (waarde per punt) maal 0,5 (gewicht van de zaak) ofwel € 322,-.
+
+Mede gelet op artikel 5, lid 7, eerste volzin, van de Wet administratieve rechtspraak belastingzaken dient de Inspecteur aan belanghebbende het door hem gestorte griffierecht van € 36,30 (ƒ 80,-) te vergoeden.
+
+Waarvan is opgemaakt dit proces-verbaal.
+
+Aldus vastgesteld op 27 augustus 2002 door N. van Beelen, lid van voormelde Kamer, in tegenwoordigheid van M.A.M. van den Broek, griffier, en op die datum in het openbaar uitgesproken.
+
+Aangetekend in afschrift aan partijen verzonden
+
+op: 29 augustus 2002
+
+Het aanwenden van een rechtsmiddel:
+
+U kunt binnen vier weken na de verzenddatum van deze uitspraak dit gerechtshof schriftelijk verzoeken de mondelinge uitspraak te vervangen door een schriftelijke (Postadres: Postbus 70583, 5201 CZ 's-Hertogenbosch).
+
+Voor het verkrijgen van een schriftelijke uitspraak bedraagt het griffierecht voor belanghebbende € 68,07.
+
+Het bestuursorgaan is voor het verkrijgen van een schriftelijke uitspraak een griffierecht van € 68,07 verschuldigd.
+
+De vervanging van een mondelinge uitspraak door een schriftelijke strekt ertoe de mondelinge uitspraak in een andere vorm vast te leggen. Het gerechtshof mag daarbij de gedane uitspraak niet aan een heroverweging onderwerpen.
+
+Uitsluitend tegen een schriftelijke uitspraak van het gerechtshof staat beroep in cassatie open bij de Hoge Raad der Nederlanden. Daarvoor is eveneens een griffierecht verschuldigd. Het ter verkrijging van een schriftelijke uitspraak betaalde griffierecht wordt door de griffier van de Hoge Raad in mindering gebracht op het voor beroep in cassatie verschuldigde recht.
