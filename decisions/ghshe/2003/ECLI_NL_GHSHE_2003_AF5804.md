@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2003:AF5804"
-published_in: ["Rechtspraak.nl", "V-N 2003/23.26 met annotatie van Redactie", "FutD 2003-0552"]
+published_in: ["Rechtspraak.nl", "V-N 2003/23.26 met annotatie van Redactie", "NTFR 2003/599"]
 ---
 
 # ECLI:NL:GHSHE:2003:AF5804 Gerechtshof 's-Hertogenbosch , 23-01-2003 / 01/02512
