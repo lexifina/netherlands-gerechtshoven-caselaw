@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2003:AN9842"
-published_in: ["Rechtspraak.nl", "PW 2004, 21698", "FJR 2004, 86", "V-N 2004/8.17 met annotatie van Redactie", "FutD 2003-2320"]
+published_in: ["Rechtspraak.nl", "PW 2004, 21698", "FJR 2004, 86", "V-N 2004/8.17 met annotatie van Redactie", "NTFR 2004/165"]
 cites_law: ["netherlands/national/acts/successiewet-1956/art-024.md"]
 ---
 
