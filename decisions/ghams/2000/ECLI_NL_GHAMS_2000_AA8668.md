@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2000:AA8668"
-published_in: ["Rechtspraak.nl", "V-N 2001/7.3.8"]
+published_in: ["Rechtspraak.nl", "V-N 2001/7.3.8", "NTFR 2000/1847"]
 ---
 
 # ECLI:NL:GHAMS:2000:AA8668 Gerechtshof Amsterdam , 30-10-2000 / P99/03298
