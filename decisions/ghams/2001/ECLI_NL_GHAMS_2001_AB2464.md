@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Cassatie"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2001:AB2464"
-published_in: ["Rechtspraak.nl", "V-N 2001/43.17 met annotatie van Redactie", "FutD 2001-1327"]
+published_in: ["Rechtspraak.nl", "V-N 2001/43.17 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:GHAMS:2001:AB2464 Gerechtshof Amsterdam , 06-06-2001 / 00/2714
