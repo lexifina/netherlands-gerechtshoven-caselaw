@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2000:AA7982"
-published_in: ["Rechtspraak.nl", "V-N 2001/37.25 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N 2001/37.25 met annotatie van Redactie", "NTFR 2000/1640"]
 ---
 
 # ECLI:NL:GHARN:2000:AA7982 Gerechtshof Arnhem , 18-10-2000 / 99/00477
