@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2003:AF6358"
-published_in: ["Rechtspraak.nl", "FED 2003/477", "V-N 2003/33.26 met annotatie van Redactie", "FutD 2003-0610"]
+published_in: ["Rechtspraak.nl", "FED 2003/477", "V-N 2003/33.26 met annotatie van Redactie", "NTFR 2003/619 met annotatie van Dr. E.B. Pechler"]
 ---
 
 # ECLI:NL:GHAMS:2003:AF6358 Gerechtshof Amsterdam , 22-01-2003 / 01/01378
