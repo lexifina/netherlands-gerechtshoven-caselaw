@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:1999:AA1413"
-published_in: ["Rechtspraak.nl", "Belastingblad 2000/45", "FED 1999/492", "V-N 1999/34.2.3", "V-N 1999/46.24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2000/45", "FED 1999/492", "V-N 1999/34.2.3", "V-N 1999/46.24"]
 ---
 
 # ECLI:NL:GHARN:1999:AA1413 Gerechtshof Arnhem , 02-06-1999 / 98/1711
