@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2001:AD6857"
-published_in: ["Rechtspraak.nl", "V-N 2002/5.32 met annotatie van Redactie", "V-N 2002/12.1.14", "FutD 2001-2413"]
+published_in: ["Rechtspraak.nl", "V-N 2002/5.32 met annotatie van Redactie", "V-N 2002/12.1.14"]
 ---
 
 # ECLI:NL:GHARN:2001:AD6857 Gerechtshof Arnhem , 19-11-2001 / 99-01131
