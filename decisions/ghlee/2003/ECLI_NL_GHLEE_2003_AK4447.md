@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2003:AK4447"
-published_in: ["Rechtspraak.nl", "Belastingblad 2004/29"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2004/29", "Viditax (FutD) 2006031009"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2006:AV4036"]]
 ---
 
