@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2002:AF2198"
-published_in: ["Rechtspraak.nl", "V-N 2003/42.4 met annotatie van Redactie", "FutD 2002-2430"]
+published_in: ["Rechtspraak.nl", "V-N 2003/42.4 met annotatie van Redactie", "NTFR 2003/49"]
 ---
 
 # ECLI:NL:GHAMS:2002:AF2198 Gerechtshof Amsterdam , 13-12-2002 / 02/03834 PV
