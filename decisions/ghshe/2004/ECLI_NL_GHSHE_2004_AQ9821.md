@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2004:AQ9821"
-published_in: ["Rechtspraak.nl", "V-N 2005/3.3 met annotatie van Redactie", "FutD 2004-1637"]
+published_in: ["Rechtspraak.nl", "V-N 2005/3.3 met annotatie van Redactie", "NTFR 2004/1357"]
 cites_law: ["netherlands/national/acts/awr/art-055.md", "netherlands/national/acts/besluit-uitbreiding-en-beperking-kring-verzekerden-volksverzekeringen-1999/art-022.md"]
 ---
 
