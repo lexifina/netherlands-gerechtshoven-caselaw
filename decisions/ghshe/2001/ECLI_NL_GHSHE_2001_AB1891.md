@@ -1,0 +1,151 @@
+---
+ecli: "ECLI:NL:GHSHE:2001:AB1891"
+court: "Gerechtshof 's-Hertogenbosch"
+court_code: "GHSHE"
+docket: "98/02839"
+decided: "2001-04-04"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2001:AB1891"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHSHE:2001:AB1891 Gerechtshof 's-Hertogenbosch , 04-04-2001 / 98/02839
+
+## Uitspraak
+
+BELASTINGKAMER
+
+Nr. 98/02839
+
+HET GERECHTSHOF TE 's-HERTOGENBOSCH
+
+PROCES-VERBAAL MONDELINGE UITSPRAAK
+
+Uitspraak van het Gerechtshof te 's-Hertogenbosch, tiende enkelvoudige Belastingkamer, op het beroep van X te Y tegen de uitspraak van het Hoofd afdeling Financiën van de gemeente Q (hierna: de ambtenaar) op het bezwaarschrift betreffende de in het kader van de Wet waardering onroerende zaken aan de belanghebbende gezonden beschikking waarbij de waarde van het object plaatselijk bekend Astraat 1 te Q per de peildatum 1 januari 1995 is vastgesteld voor het tijdvak 1 januari 1997 tot en met 31 december 2000.
+
+De mondelinge behandeling
+
+Deze heeft plaatsgevonden in raadkamer ter zitting van het Hof van 21 maart 2001 te Breda. Aldaar zijn verschenen en gehoord gemachtigde van de belanghebbende, alsmede de ambtenaar, tot zijn bijstand vergezeld van de beëdigd taxateur onroerende zaken en gediplomeerd WOZ-taxateur.
+
+Na de behandeling van de zaak heeft het Hof heden, 4 april 2001, de volgende monde-linge uitspraak gedaan.
+
+De beslissing
+
+Het Hof bevestigt de bestreden uitspraak.
+
+De gronden voor de beslissing
+
+1. Bij voormelde beschikking heeft de ambtenaar de waarde van de woning met ondergrond vastgesteld op ƒ 62.000,= en bij de bestreden uitspraak verminderd tot een waarde van ƒ 53.000,=.
+
+2. Het geschil betreft het antwoord op de volgende vragen:
+
+de vraag of de woning is te beschouwen als een onroerende zaak in de zin van artikel 1, eerste lid, en artikel 16 van de Wet waardering onroerende zaken (hierna: de Wet WOZ);
+
+de vraag of de ondergrond ter grootte van 300 m2 van de woning tot de onroerende zaak moet worden gerekend.
+
+3.1. Voor de betekenis van het begrip ‘onroerende zaak’ moet worden aangesloten bij artikel 3:3 van het Burgerlijk Wetboek (hierna: BW). Als onroerend hebben volgens die bepaling onder meer te gelden de gebouwen en werken die duurzaam met de grond zijn verenigd.
+
+3.2. Het Hof stelt, gelet op het arrest van de Hoge Raad der Nederlanden van 31 oktober 1997, nummer 16 404, onder meer gepubliceerd in Vakstudie-Nieuws 1997, blz. 4334, het volgende voorop:
+
+a. Een gebouw kan duurzaam met de grond verenigd zijn in de zin van art. 3:3 BW,
+
+doordat het naar aard en inrichting bestemd is om duurzaam ter plaatse te blijven; zie de toelichting op de nota van wijzigingen bij art. 3.1.1. 2, eerste lid  ontwerp NBW (Parl. Gesch. Boek 3, blz. 70) en de daarin bedoelde passage in de MvA II bij art. 6.3.2.7 (Parl. Gesch. Boek 6, blz. 760) . Niet van belang is dan meer dat technisch de mogelijkheid bestaat om het bouwsel te verplaatsen (vgl.  het in evengenoemde passage vermelde arrest van de Hoge Raad van 13 juni 1975,  NJ 1975, 509, alsmede de arresten van de Hoge Raad van 23 februari 1994, NJ 1995, 464 en 465).
+
+b. Bij beantwoording van de vraag of een gebouw of een werk bestemd is om duurzaam ter plaatse te blijven moet, zoals in de MvA II betreffende art. 3:3 (Parl Gesch. Boek 3, p. 69 eerste volle alinea) is opgemerkt, worden gelet op de bedoeling van de bouwer voor zover deze naar buiten kenbaar is. Onder de bouwer moet hier mede worden verstaan degene in wiens opdracht het bouwwerk wordt aangebracht.
+
+c. Zoals tot uiting komt in de hiervoor onder b) vermelde passage uit de MvA II,  dient de bestemming van een gebouw of een werk om duurzaam ter plaatse te  blijven naar buiten kenbaar te zijn. Dit vereiste vloeit voort uit het belang dat de zakenrechtelijke verhoudingen voor derden kenbaar dienen te zijn.
+
+d. De verkeersopvattingen kunnen - anders dan voor de vraag of iets bestanddeel van een zaak is in de zin van art. 3:4 BW - niet worden gebezigd als een zelfstandige maatstaf voor de beoordeling van de vraag of een zaak roerend of onroerend is. Zij kunnen echter wel in aanmerking worden genomen in de gevallen dat in het kader van de beantwoording van die vraag onzekerheid blijkt te bestaan of een object kan worden beschouwd als duurzaam met de grond verenigd, en voor de toepassing van die maatstaf nader moet worden bepaald wat in een gegeven geval als ‘duurzaam’, onderscheidenlijk ‘verenigd’ en in verband daarmee als ‘bestemming’ en als ‘naar buiten kenbaar’ heeft te gelden.
+
+3.3. De woning:
+
+heeft haar fundering op in de grond gelegen betonelementen;
+
+is aangesloten op electriciteit, water en riolering, is voorzien van telefoon en heeft een gasvoorziening door middel van gasflessen;
+
+is bestemd als vakantiebungalow op de Astraat en functioneert vele jaren als zodanig.
+
+Aan dit een en ander verbindt het Hof de gevolgtrekking dat de woning naar aard en inrichting, en gelet op de bedoeling van de belanghebbende, bestemd was om duurzaam als vakantiebungalow te worden gebruikt en om duurzaam ter plaatse te blijven, zodat de woning moet worden beschouwd als duurzaam met de grond te zijn verenigd en de woning derhalve onroerend is.
+
+3.4.1. De belanghebbende heeft gesteld, dat de ‘Overeenkomst voor een uitneembare vakantiebungalow’ (hierna: de overeenkomst), gesloten tussen de belanghebbende en B BV (hierna: de vennootschap), eraan in de weg staat de woning als een onroerende zaak aan te merken.
+
+3.4.2. De considerans van de overeenkomst luidt (ten dele) als volgt:
+
+‘(…)
+
+partijen bij het sluiten van deze overeenkomst zijn uitgegaan van de B-voorwaarden 1980, opgesteld in overleg met de ANWB en de Consumentenbond, welke voorwaarden aan deze overeenkomst zijn gehecht;
+
+(…)’.
+
+3.4.3. Artikel 1 van de overeenkomst luidt (ten dele) als volgt:
+
+‘a. de vennootschap verleent aan de bungalow-gebruiker het recht op haar recreatiecentrum gelegen te Q, genaamd ‘Astraat’, een bungalow te plaatsen en deze bungalow voor recreatiedoeleinden te gebruiken, door daarin met zijn gezin en eventuele gasten te verblijven. (…)
+
+b. aan de bungalow-gebruiker wordt geen recht van opstal verleend, maar het recht de bungalow te plaatsen en te gebruiken, alsmede de rechten die normaal voortvloeien uit een verblijf op een recreatiecentrum van de vennootschap.’
+
+3.4.4. Artikel 10 van de overeenkomst luidt (ten dele) als volgt:
+
+‘a. deze overeenkomst eindigt niet door dood van de bungalowgebruiker, in welk geval deze overeenkomst met zijn erfgenamen gedurende maximaal zes maanden wordt voortgezet. Binnen deze termijn van zes maanden moeten de erfgenamen aan de vennootschap mededelen aan welke erfgenaam de rechten uit deze overeenkomst zijn toegescheiden. Deze overeenkomst zal nadien met deze erfgenaam worden voortgezet. De vennootschap is gebonden aan een toescheiding ingeval van scheiding en deling van een gemeenschap c.q. van een nalatenschap.
+
+b. de bungalow-gebruiker heeft het recht om een bloedverwant tot en met de tweede graad in zijn plaats te stellen als kontraktant bij deze overeenkomst.
+
+(…)
+
+c. indien de bungalow-gebruiker een ander dan een bloedverwant als sub b bedoeld in zijn plaats als kontraktant bij deze overeenkomst wil stellen, moet hij van dit voornemen schriftelijk kennis geven aan de vennootschap, die dan gerechtigd is zijn rechten af te kopen.
+
+(…)’
+
+3.4.5. Artikel 11 van de overeenkomst luidt (ten dele) als volgt:
+
+‘(…)
+
+d. in alle gevallen waarin de overeenkomst zal zijn geëindigd, is de bungalow-gebruiker verplicht tot ontruiming van het terrein van de vennootschap, waarbij het bepaalde in artikel 11 lid 1 en lid 2 van de B-voorwaarden van toepassing is.’
+
+3.4.6. Artikel 11 van de B voorwaarden landrecreatie 1980 luidt (ten dele) als volgt:
+
+‘1. Als de overeenkomst is geëindigd moet de recreant zijn vakantieverblijf van het terrein verwijderen, tenzij anders is overeengekomen. Als de recreant dit heeft nagelaten, is de ondernemer gerechtigd na sommatie en met inachtneming van een redelijke termijn op kosten van de recreant de standplaats te ontruimen. De ondernemer is niet aansprakelijk voor enige schade, welke dan ook, voortvloeiende uit of verbandhoudende met het verwijderen van het vakantieverblijf, tenzij deze schade is ontstaan door opzet of onzorgvuldigheid van de ondernemer. Eventuele opslagkosten zijn voor rekening van de recreant.
+
+(…)’
+
+3.4.7. Artikel 13 van de B voorwaarden landrecreatie 1980 luidt (ten dele) als volgt:
+
+‘Overname van de standplaats door een derde na eigendomsoverdracht van het aan recreant toebehorende vakantieverblijf is niet mogelijk, behoudens voorafgaande schriftelijke toestemming van de ondernemer; aan deze toestemming kunnen schriftelijke voorwaarden worden verbonden.’
+
+3.4.8. Uit het feit dat de belanghebbende geen eigenaar van de grond is en het feit dat de woning die op de grond is geplaatst als onroerend is aan te merken vloeit ingevolge het arrest van de Hoge Raad der Nederlanden van 20 september 2000, nummer 34 371, onder meer gepubliceerd in Belastingblad 2001, blz. 61, voort, dat de belanghebbende de woning houdt voor de vennootschap en niet voor zichzelf. De belanghebbende heeft ingevolge de overeenkomst het gebruik van de grond en de woning
+
+3.5. De ambtenaar heeft gemotiveerd gesteld, dat bij het vaststellen van de objecten op een systematische wijze is uitgegaan van 300 m2 grond. Het Hof is van oordeel, dat de belanghebbende onvoldoende aannemelijk heeft gemaakt dat hij niet het gebruik heeft van 300 m2 grond. Het moet ervoor worden gehouden, dat de ambtenaar terecht is uitgegaan van het gebruik van 300 m2 grond.
+
+3.6. Uit hetgeen onder punt 3.4 en 3.5 is overwogen volgt, dat de ambtenaar voor de onderhavige beschikking terecht de grond en de woning als één onroerende zaak in de zin van artikel 16 Wet WOZ heeft aangemerkt.
+
+4. De belanghebbende heeft tijdens de mondelinge behandeling uitdrukkelijk, overeenkomstig het beroepschrift, verklaard, dat het geschil alleen betrekking heeft op de onder punt twee vermelde vragen. De ambtenaar, op wie de bewijslast rust van de juistheid van de in geschil zijnde waarde van de onroerende zaak, beroept zich op een taxatierapport en ter ondersteuning daarvan op de opbrengst behaald bij verkoop van een aantal met de onroerende zaak vergelijkbare objecten.
+
+Het Hof heeft onvoldoende reden aan de betrouwbaarheid van dit taxatierapport te twijfelen, zodat het er op grond hiervan voor moet worden gehouden dat de door de ambtenaar verdedigde waarde juist is
+
+5. Gelet op het vorenstaande is het gelijk aan de zijde van de ambtenaar en moet worden beslist als hiervoor is vermeld.
+
+De proceskosten
+
+Het Hof acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 5a van de Wet administratieve rechtspraak belastingzaken.
+
+Waarvan is opgemaakt dit proces-verbaal.
+
+Aldus vastgesteld op 4 april 2001 door P. Fortuin, lid van voormelde kamer, in tegenwoordigheid van A.W.J. Strik, waarnemend-griffier, en op die dag in het openbaar uitgesproken.
+
+Aangetekend in afschrift aan partijen verzonden
+
+op: 17 april 2001
+
+Het aanwenden van een rechtsmiddel:
+
+U kunt binnen vier weken na de verzenddatum van deze uitspraak dit gerechtshof schriftelijk verzoeken de mondelinge uitspraak te vervangen door een schriftelijke (Postadres: Postbus 70583, 5201 CZ 's-Hertogenbosch).
+
+Voor het verkrijgen van een schriftelijke uitspraak bedraagt het griffierecht voor de belanghebbende ƒ 150,--.
+
+Het bestuursorgaan is voor het verkrijgen van een schriftelijke uitspraak een griffierecht van ƒ 150,-- verschuldigd.
+
+De vervanging van een mondelinge uitspraak door een schriftelijke strekt ertoe de mondelinge uitspraak in een andere vorm vast te leggen. Het gerechtshof mag daarbij de gedane uitspraak niet aan een heroverweging onderwerpen.
+
+Uitsluitend tegen een schriftelijke uitspraak van het gerechtshof staat beroep in cassatie open bij de Hoge Raad der Nederlanden. Daarvoor is eveneens een griffierecht verschuldigd. Het ter verkrijging van een schriftelijke uitspraak betaalde griffierecht wordt door de griffier van de Hoge Raad in mindering gebracht op het voor beroep in cassatie verschuldigde recht.
