@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2004:AR4814"
-published_in: ["Rechtspraak.nl", "Belastingblad 2005/9", "FutD 2004-2035"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2005/9", "NTFR 2004/1686"]
 cites_law: ["netherlands/national/acts/gemeentewet/art-220d.md"]
 ---
 
