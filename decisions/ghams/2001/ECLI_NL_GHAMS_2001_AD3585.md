@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2001:AD3585"
-published_in: ["Rechtspraak.nl", "Belastingblad 2002/228", "FED 2001/615", "V-N 2002/5.30 met annotatie van Redactie", "FutD 2001-1844"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2002/228", "FED 2001/615", "V-N 2002/5.30 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:GHAMS:2001:AD3585 Gerechtshof Amsterdam , 29-08-2001 / 00/130
