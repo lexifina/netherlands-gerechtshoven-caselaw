@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2003:AI0192"
-published_in: ["Rechtspraak.nl", "Belastingblad 2003/970", "FutD 2003-1382"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2003/970", "NTFR 2003/1311"]
 ---
 
 # ECLI:NL:GHARN:2003:AI0192 Gerechtshof Arnhem , 14-07-2003 / 01-02169
