@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2004:AP0576"
-published_in: ["Rechtspraak.nl", "V-N 2004/48.4 met annotatie van Redactie", "FutD 2004-1119"]
+published_in: ["Rechtspraak.nl", "V-N 2004/48.4 met annotatie van Redactie", "NTFR 2004/1053"]
 cites_law: ["netherlands/national/acts/awr/art-004.md", "netherlands/national/acts/successiewet-1956/art-001.md", "netherlands/national/acts/successiewet-1956/art-002.md", "netherlands/national/acts/successiewet-1956/art-024.md"]
 ---
 
