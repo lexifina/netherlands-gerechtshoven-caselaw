@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2003:AF9672"
-published_in: ["Rechtspraak.nl", "FutD 2003-1083"]
+published_in: ["Rechtspraak.nl", "NTFR 2003/1131 met annotatie van mr. drs. A.J. van den Bos"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2004:AO9474"]]
 ---
 
 # ECLI:NL:GHARN:2003:AF9672 Gerechtshof Arnhem , 24-04-2003 / 01-00047
