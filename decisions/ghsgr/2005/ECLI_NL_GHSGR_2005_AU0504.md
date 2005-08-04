@@ -1,0 +1,145 @@
+---
+ecli: "ECLI:NL:GHSGR:2005:AU0504"
+court: "Gerechtshof 's-Gravenhage"
+court_code: "GHSGR"
+docket: "2200094805"
+decided: "2005-08-04"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2005:AU0504"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHSGR:2005:AU0504 Gerechtshof 's-Gravenhage , 04-08-2005 / 2200094805
+
+## Inhoudsindicatie
+
+Medeplegen van moord en vuurwapen voorhanden hebben
+
+De verdachte heeft, zonder enige aanleiding en zelfs zonder het slachtoffer te kennen, deelgenomen aan een goed doordacht en vlot en effectief uitgevoerd plan om de schoonvader van de vrouwelijke mededader van het leven te beroven. Hij heeft de dodelijke schoten gelost. De zakelijke, ongeëmotioneerde wijze waarop het plan tot stand is gekomen en de daders, waaronder de verdachte, zich daarbij hebben laten betrekken, en de snelheid en vanzelfsprekendheid waarmee de daders de kwestie hebben afgewikkeld zijn huiveringwekkend. Noch tijdens de voorbereiding noch tijdens de uitvoering ervan blijkt van enig gewetensbezwaar of twijfel aan de morele rechtvaardiging van de voornemens.
+
+Door de moord hebben de daders onherstelbaar leed berokkend aan de naasten van het slachtoffer, terwijl ze bovendien de meest centrale verbodsbepaling van de strafwet, het verbod een ander van het leven te beroven, hebben overtreden.
+
+Door deze moord is de rechtsorde ernstig geschokt, mede omdat deze bijdraagt aan gevoelens van onveiligheid in de samenleving.
+
+Bovendien heeft de verdachte zich aan een ernstig strafbaar feit schuldig gemaakt door met anderen een vuurwapen voorhanden te hebben. De ernst hiervan weegt des te zwaarder nu het vuurwapen is gebruikt als moordwapen. In deze zaak komt dit feit dan ook naar voren als strafverzwarende omstandigheid.
+
+## Uitspraak
+
+Rolnummer:		22-000948-05
+
+Parketnummer(s):	10-030001-04
+
+Datum uitspraak:	4 augustus 2005
+
+TEGENSPRAAK
+
+Gerechtshof te 's-Gravenhage
+
+meervoudige kamer voor strafzaken
+
+Arrest
+
+gewezen op het hoger beroep tegen het vonnis van de rechtbank te Rotterdam van 31 januari 2005 in de strafzaak tegen de verdachte:
+
+[verdachte]
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting in eerste aanleg en het onderzoek op de terechtzitting in hoger beroep van dit hof van 21 juli 2005.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de verdachte naar voren is gebracht.
+
+Tenlastelegging
+
+Aan de verdachte is tenlastegelegd hetgeen vermeld staat in de inleidende dagvaarding, waarvan een kopie in dit arrest is gevoegd.
+
+Procesgang
+
+In eerste aanleg is de verdachte ter zake van het onder 1 en 2 tenlastegelegde veroordeeld tot een gevangenisstraf voor de duur van veertien jaren, met aftrek van voorarrest.
+
+De verdachte heeft tegen het vonnis hoger beroep ingesteld.
+
+Het vonnis waarvan beroep
+
+Het vonnis waarvan beroep kan niet in stand blijven omdat het hof zich daarmee niet verenigt.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 1 en 2 tenlastegelegde heeft begaan, met dien verstande dat:
+
+(zie de hierna ingevoegde bijlage die van dit arrest deel uitmaakt)
+
+Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+Bewijsvoering
+
+Het hof grondt zijn overtuiging dat de verdachte het bewezenverklaarde heeft begaan op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat en die reden geven tot de bewezenverklaring.
+
+In die gevallen waarin de wet aanvulling van het arrest vereist met de bewijsmiddelen, dan wel, voor zover artikel 359, derde lid, tweede volzin, van het Wetboek van Strafvordering wordt toegepast, met een opgave daarvan, zal zulks plaatsvinden in een aanvulling die als bijlage aan dit arrest zal worden gehecht.
+
+Strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+1.	Medeplegen van moord.
+
+2.	Medeplegen van handelen in strijd met artikel 26, eerste lid van de Wet wapens en munitie en het feit 		begaan met betrekking tot een vuurwapen van categorie III.
+
+Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+Strafmotivering
+
+De advocaat-generaal heeft geconcludeerd tot vernietiging van het vonnis waarvan beroep en tot veroordeling van de verdachte ter zake van het onder 1 en 2 tenlastegelegde tot een gevangenisstraf voor de duur van veertien jaren, met aftrek van voorarrest.
+
+Het hof heeft de op te leggen straf bepaald op grond van de ernst van de feiten en de omstandigheden waaronder deze zijn begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.
+
+Daarbij heeft het hof in het bijzonder het volgende in aanmerking genomen.
+
+De verdachte heeft, zonder enige aanleiding en zelfs zonder het slachtoffer te kennen, deelgenomen aan een goed doordacht en vlot en effectief uitgevoerd plan om de schoonvader van de vrouwelijke mededader van het leven te beroven. Hij heeft de dodelijke schoten gelost. De zakelijke, ongeëmotioneerde wijze waarop het plan tot stand is gekomen en de daders, waaronder de verdachte, zich daarbij hebben laten betrekken, en de snelheid en vanzelfsprekendheid waarmee de daders de kwestie hebben afgewikkeld zijn huiveringwekkend. Noch tijdens de voorbereiding noch tijdens de uitvoering ervan blijkt van enig gewetensbezwaar of twijfel aan de morele rechtvaardiging van de voornemens.
+
+Door de moord hebben de daders onherstelbaar leed berokkend aan de naasten van het slachtoffer, terwijl ze bovendien de meest centrale verbodsbepaling van de strafwet, het verbod een ander van het leven te beroven, hebben overtreden.
+
+Door deze moord is de rechtsorde ernstig geschokt, mede omdat deze bijdraagt aan gevoelens van onveiligheid in de samenleving.
+
+Bovendien heeft de verdachte zich aan een ernstig strafbaar feit schuldig gemaakt door met anderen een vuurwapen voorhanden te hebben. De ernst hiervan weegt des te zwaarder nu het vuurwapen is gebruikt als moordwapen. In deze zaak komt dit feit dan ook naar voren als strafverzwarende omstandigheid.
+
+In het voordeel van de verdachte is dat van hem, blijkens het Uittreksel uit de Justitiële Documentatie, hier te lande geen eerdere veroordelingen bekend zijn.
+
+Het hof is - alles overwegende - van oordeel dat de door de rechtbank opgelegde en de door de advocaat-generaal gevorderde gevangenisstraf passend en geboden is.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 47, 57 en 289 van het Wetboek van Strafrecht en de artikelen 26 en 55 (oud) van de Wet wapens en munitie.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht.
+
+Verklaart bewezen dat de verdachte het onder 1 en 2 tenlastegelegde, zoals hierboven omschreven, heeft begaan.
+
+Verklaart niet bewezen hetgeen ter zake meer of anders is tenlastegelegd en spreekt de verdachte daarvan vrij.
+
+Bepaalt dat het bewezenverklaarde de hierboven vermelde strafbare feiten oplevert.
+
+Verklaart de verdachte strafbaar ter zake van het bewezenverklaarde.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van
+
+14 (veertien) jaren.
+
+Bepaalt dat de tijd, die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Dit arrest is gewezen door mrs. J.J.H. Gerritzen,
+
+H.W.J. de Groot en C.M. le Clercq-Meijer, in bijzijn van de griffier mr. B.P.L. de Vries.
+
+Het is uitgesproken op de openbare terechtzitting van het hof van 4 augustus 2005.
