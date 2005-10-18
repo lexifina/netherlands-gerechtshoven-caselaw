@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2005:AU4705"
-published_in: ["Rechtspraak.nl", "RFR 2006, 6", "EB 2006, 8"]
+published_in: ["Rechtspraak.nl", "RFR 2006, 6", "EB 2006, 8", "FJR 2026/46.40"]
 ---
 
 # ECLI:NL:GHARN:2005:AU4705 Gerechtshof Arnhem , 18-10-2005 / 358/2005
