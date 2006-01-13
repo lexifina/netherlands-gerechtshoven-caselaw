@@ -1,0 +1,118 @@
+---
+ecli: "ECLI:NL:GHLEE:2006:AU9916"
+court: "Gerechtshof Leeuwarden"
+court_code: "GHLEE"
+docket: "BK 1129/04 Inkomstenbelasting"
+decided: "2006-01-13"
+published: "2013-04-04"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2006:AU9916"
+published_in: ["Rechtspraak.nl", "V-N 2006/21.1.4", "FutD 2006-0148"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2009:BI0481, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2009:BI0481"]]
+---
+
+# ECLI:NL:GHLEE:2006:AU9916 Gerechtshof Leeuwarden , 13-01-2006 / BK 1129/04 Inkomstenbelasting
+
+## Inhoudsindicatie
+
+Te dezen is in geschil het antwoord op de vraag of het bedrag van f. 44.814,-- al dan niet terecht tot belanghebbendes belastbaar inkomen is gerekend.
+
+## Uitspraak
+
+BELASTINGKAMER    GERECHTSHOF TE LEEUWARDEN    UITSPRAAK
+
+BK 1129/04                                                                                                 13 januari 2006
+
+Uitspraak van het Gerechtshof te Leeuwar-den, tweede meervoudige belastingkamer, op het beroep van X te Z tegen de uitspraak van de inspecteur van de Belastingdienst/Noord/kantoor Heerenveen (hierna: de inspecteur), gedaan op het bezwaarschrift van belanghebbende tegen de hem opgelegde navorderingsaan-slag in de inkomstenbelasting/premie volksverzekeringen voor het jaar 1999.
+
+1. Ontstaan en loop van het geding.
+
+Aan belanghebbende werd met dagtekening 16 december 2003 voor het jaar 1999 een navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen opgelegd naar een belastbaar inkomen van f. 139.843,--, gegrond op de Wet op de inkomstenbelasting 1964, gelijk deze wet voor het onderhavige jaar gold (nader: de Wet IB). Ook werd met dagtekening 12 december 2003 een navorderingsaanslag premie arbeidsongeschiktheids-verzekering zelfstandigen voor het jaar 1999 (nader: WAZ) opgelegd.
+
+Op het tijdig ingediende bezwaar van belanghebbende heeft de inspecteur bij de bestreden uitspraak van 14 december 2004 de navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen verminderd tot een navorderingsaanslag naar een belastbaar inkomen van f. 126.224,--.
+
+Belanghebbende is tegen deze uitspraak in beroep gekomen bij een beroepschrift (met bijlagen), hetwelk op 15 december 2004 is ingekomen en is aangevuld bij schrijven (met bijlagen) van 24 februari 2005. Het beroepschrift is mede gericht tegen de navordering van premie WAZ.
+
+Nadat de inspecteur zijn verweerschrift (met bijlagen) heeft ingezonden, heeft de mondelinge behandeling plaatsgevonden ter zitting van 21 oktober 2005, gehouden te Leeuwarden, alwaar aanwezig was namens de inspecteur A, bijgestaan door B en C. Namens belanghebbende is diens gemachtigde D verschenen, bijgestaan door E.
+
+Ter zitting is namens belanghebbende het beroep tegen de navordering premie WAZ ingetrokken onder toezegging van de inspecteur dat hij de premie ambtshalve zal aanpassen in navolging van een onherroepelijk geworden eventuele  wijziging van het belastbaar inkomen.
+
+Beide partijen hebben ter zitting een pleitnota voorgedragen en overgelegd.
+
+Van alle genoemde (en nog te noemen) stukken moet de inhoud als hier ingevoegd worden beschouwd.
+
+2. De feiten.
+
+Blijkens de gedingstukken en op grond van het verhandelde ter zitting staat als onbetwist, dan wel onvoldoende betwist, tussen partijen vast:
+
+2.1 Belanghebbende was tot en met het jaar 1998 werkzaam als directeur van F B.V. (nader: F of de BV), van welke vennootschap hij middellijk enig aandeelhouder was.
+
+2.2 De activiteiten van F bestonden uit de exploitatie van een garagebedrijf en de handel in auto’s van het merk Y.
+
+2.3 Per 1 januari 1999 heeft belanghebbende de aandelen in F en daarmee het garagebedrijf verkocht aan een derde. Vanaf die datum is hij ook niet meer in loondienst bij de BV, maar verricht nog wel diensten als adviseur voor het garagebedrijf.
+
+2.4 In het onderhavige jaar was belanghebbende directeur en enig aandeelhouder van G B.V. die alle aandelen bezit van en een fiscale eenheid vormt met enige vennootschappen die onroerende zaken aan- en verkopen en exploiteren (verder te noemen: H).
+
+2.5 In 1999 heeft de inspecteur in overleg met belanghebbendes gemachtigde het gebruikelijk loon als bedoeld in artikel 12a van de Wet op de loonbelasting 1964 bepaald op een bedrag van f. 50.000,-- per jaar. Mede bepalend voor deze vaststelling was de door belanghebbende aan werkzaamheden voor H bestede tijd.
+
+2.6 H kocht tezamen met belanghebbende in 1994 te L, in 1996 te M en in 1999 te N steeds een onroerend goed complex bestaande uit een aantal winkelruimtes met daarboven verhuurde appartementen. Na aankoop werd steeds het complex gesplitst in appartementsrechten, waarvan de winkelruimtes werden toegedeeld aan H en de appartementen aan belanghebbende, die ze tot zijn privévermogen rekende.
+
+2.7 Belanghebbende verkocht de appartementen steeds zodra zij vrij van huur kwamen. Van de appartementen te N kwam één der appartementen vrij van huur tussen het tijdstip van koop en het tijdstip van levering. De 8 appartementen te L zijn verkocht verdeeld over de jaren 1994 tot en met 1998. De 17 appartementen te M zijn sinds de aankoop in 1996 tot het tijdstip van de zitting 21 oktober 2005 op één na verkocht. Ook van de 6 appartementen te N was op 21 oktober 2005 nog één in het bezit van belanghebbende.
+
+2.8 H behaalde met de handel in onroerende zaken jaar op jaar substantiële winsten. Ook de door belanghebbende verkochte appartementen hebben voor hem steeds aanmerkelijke winsten opgeleverd.
+
+2.9 Zowel belanghebbende als H maken voor de transacties en het beheer van onroerende zaken gebruik van de diensten van makelaar I.
+
+2.10 Ter gelegenheid van een boekenonderzoek in 1998 is aan belanghebbende meegedeeld dat zijn onroerend goed transacties tot en met 1997 als vermogensbeheer zouden worden aangemerkt.
+
+Op 21 augustus 2003 is een boekenonderzoek gestart dat zich heeft beperkt tot de beoordeling van belanghebbendes onroerend goed transacties.
+
+2.11 Bij de onderhavige navorderingsaanslag heeft de inspecteur, naast een thans niet in geschil zijnde correctie betreffende de aanschaf van een auto, ter zake van het door belanghebbende in het onderhavige jaar behaalde voordeel bij de verkoop van een appartement te N een bedrag van f. 44.814,-- tot belanghebbendes belastbaar inkomen gerekend.
+
+2.12 Op het tijdig ingediende bezwaar van belanghebbende heeft de inspecteur bij de bestreden uitspraak het bedrag van de bijtelling betreffende de auto verminderd tot f. 15.000,-- en de navorderingsaanslag voor het overige gehandhaafd.
+
+3. Het geschil.
+
+Te dezen is in geschil het antwoord op de vraag of het bedrag van f. 44.814,-- al dan niet terecht tot belanghebbendes belastbaar inkomen is gerekend.
+
+4. De standpunten van partijen.
+
+Belanghebbende heeft op gronden, gelijk vervat in het beroepschrift en de pleitnota, het standpunt ingenomen dat hij geen arbeid heeft verricht voor de aan- en verkoop van het appartement, dat hij geen specifieke kennisvoorsprong had waardoor hij voordeel kon behalen en dat geen voordeel werd beoogd, omdat onzeker was of voordeel kon worden behaald. Derhalve is volgens belanghebbendes mening geen voordeel te belasten. Bovendien is destijds met de belastingdienst de afspraak gemaakt dat de appartementen in privé zouden worden gehouden. Subsidiair is belanghebbende van mening dat door de voorzienbaarheid van leegkomst aan het onderhavige appartement een hogere kostprijs moet worden toegekend. Meer subsidiair stelt belanghebbende zich op het standpunt dat slechts voordeel zou kunnen worden belast voor zover dit meer bedraagt dan is toe te rekenen aan normaal vermogensbeheer.
+
+De inspecteur heeft daartegenover op gronden, gelijk weergegeven in zijn verweerschrift en zijn pleitnota, de opvatting verdedigd dat het voordeel belastbaar is als andere inkomsten uit arbeid als bedoeld in artikel 22, lid 1, letter b, van de Wet IB, daar belanghebbende arbeid heeft verricht –waarbij arbeid van door hem ingeschakelde deskundigen ook aan hem kunnen worden toegerekend- en sprake is van deelname aan het economische verkeer waarbij voordeel is beoogd en redelijkerwijs ook was te verwachten. De arbeid bestond uit de werkzaamheden ter zake van aankoop, splitsing in appartementsrechten en uitponden van de appartementen. Het beoogde en verwachte voordeel bestond uit de waardesprong van de verhuurde staat naar de vrij te aanvaarden staat. Belanghebbende heeft bij verschillende gelegenheden laten blijken dat het zijn bedoeling was de appartementen te verkopen zodra zij vrij van huur zouden komen en dat hij geen behoefte had aan particuliere huurders. Dat geen sprake is van gewoon vermogensbeheer blijkt volgens de inspecteur ook uit de omstandigheid dat de appartementen met vreemd vermogen werden gefinancierd. Een afspraak dat de appartementen in privé zouden worden gehouden is volgens de inspecteur niet gemaakt. De controlerend ambtenaar heeft de transacties van de appartementen in L en M wel tot het privé gerekend, maar daarbij meegedeeld in zijn brief van 6 oktober 1999 dat zulks voor de toekomst anders zou kunnen zijn. Belanghebbende heeft zijn subsidiaire en meer subsidiaire standpunt niet gekwantificeerd.
+
+Partijen hebben ter zitting hun standpunten gehandhaafd, zonder daartoe nog nadere gronden te hebben aangevoerd.
+
+5. De overwegingen omtrent het geschil.
+
+5.1 Ingevolge het bepaalde in artikel 22, eerste lid, van de Wet IB zijn inkomsten uit arbeid alle niet als winst uit onderneming aan te merken voordelen die worden genoten als loon uit dienstbetrekking en uit niet in dienstbetrekking verrichte werkzaamheden en diensten.
+
+5.2 Voor zover te dezen van belang staat vast dat belanghebbende, aanvankelijk naast zijn positie als directeur/enig aandeelhouder van F, directeur en enig aandeelhouder was van de fiscale eenheid waartoe H behoort. Blijkens de als bijlage bij het verweerschrift gevoegde specificatie van de onroerende bezittingen van H bezat H in de jaren 1997 tot en met 2001 10 à 12 onroerende zaken, waarvan de samenstelling wisselde door aankoop en (gedeeltelijke) verkoop. De gezamenlijk met H aangekochte onroerende zaken werden in appartementsrechten gesplitst, waartoe belanghebbende gebruik maakte van de diensten van een makelaar en een notaris. Belanghebbende financierde de door hem gekochte appartementen met vreemd vermogen. Vast staat eveneens dat belanghebbende van de drie door hem gekochte complexen appartementen binnen drie jaar 70% tot 87% van de appartementen verkocht. Voor het beheer en de verkoop van de appartementen maakte belanghebbende eveneens gebruik van de diensten van een makelaar.
+
+5.3 Uit het vorenstaande, mede gelet op het gestelde in de brief van 1 oktober 2001 van belanghebbendes gemachtigde, dat de appartementen verkocht zullen worden als de mogelijkheid zich voordoet, leidt het hof af dat belanghebbendes bezigheden met betrekking tot de appartementen normaal vermogensbeheer te boven gaan. De door belanghebbende aan derden uitbestede werkzaamheden dienen daarbij aan belanghebbende te worden toegerekend. Daarbij dient mede in ogenschouw te worden genomen de herhaling van de activiteiten (L, M, N) binnen een relatief korte tijdspanne.
+
+5.4 Uit het gestelde in de hiervoor vermelde brief van 1 oktober 2001 van belanghebbendes gemachtigde leidt het hof voorts af dat belanghebbende met de onderhavige activiteiten voordeel beoogde en verwachtte. Het voordeel viel, objectief beschouwd, ook te verwachten, daar met de activiteiten van belanghebbende op de onroerend-goedmarkt (mede ten behoeve van H) opgedane kennis, en de aan belanghebbende toe te rekenen kennis van door hem ingeschakelde derden, te voorzien viel dat de vrij van huur komende appartementen met winst zouden kunnen worden verkocht.
+
+5.5 Aan het vorenstaande doet niet af dat belanghebbende, naar zijn stelling, geen actief huurbeëindigingsbeleid heeft gevoerd.
+
+5.6 De door belanghebbende met de verkoop van een appartement te N in het onderhavige jaar behaalde voordelen zijn door de inspecteur derhalve terecht tot belanghebbendes belastbaar inkomen gerekend. Van een afspraak met de belastingdienst dat de onderhavige voordelen onbelast zouden blijven, gelijk belanghebbende stelt, is niet gebleken. De namens de inspecteur op 6 oktober 1999 aan belanghebbendes gemachtigde gezonden brief wijst met betrekking tot na 1997 te behalen voordelen daarentegen nadrukkelijk op de mogelijkheid van een standpuntwijziging van de fiscus bij een toename van de omvang van belanghebbendes activiteiten op de onroerend-goedmarkt.
+
+5.7 De inspecteur is bij de berekening van het voordeel uitgegaan van de gemiddelde kostprijs van de 6 appartementen te N. Belanghebbende stelt –subsidiair- dat de kostprijs van het onderhavige appartement op een hoger bedrag dient te worden gesteld, doch voert daartoe niet meer dan enige algemeenheden aan, zodat zulks niet aannemelijk is geworden. Het uitgangspunt van de inspecteur komt het hof niet onredelijk voor, nu daarmee het totaal van de met de 6 appartementen te behalen voordeel niet wordt gewijzigd.
+
+5.8 Belanghebbendes meer subsidiaire stelling dat van het voordeel slechts het deel dat normaal vermogensbeheer te boven gaat te belasten valt vindt geen grond in het recht.
+
+5.9 Gelet op het vorenstaande is bij de bestreden uitspraak de navorderingsaanslag niet naar een te hoog belastbaar inkomen vastgesteld, zodat het beroep ongegrond is.
+
+5.10 Het hof acht geen termen aanwezig voor een veroordeling in de proceskosten als bedoeld in artikel 8:75 van de Algemene wet bestuursrecht.
+
+6. De beslissing.
+
+Het hof verklaart het beroep ongegrond.
+
+Gedaan op 13 januari 2006 door mr. F.J.W. Drion, raadsheer en voorzitter, mr. G.M. van der Meer, raadsheer, en mr. G.W.B. van Westen, raadsheer-plaatsvervanger, en op die dag in het openbaar uitgesproken door voornoemde voorzitter in tegenwoordigheid van de griffier, mr. K. de Jong-Braaksma en ondertekend door de voorzitter en de griffier.
+
+Op        18 januari 2006            afschrift
+
+aangetekend verzonden aan beide partijen.
