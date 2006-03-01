@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2006:AV6380"
-published_in: ["Rechtspraak.nl", "Belastingadvies 2006/10.14", "V-N 2006/45.1.8", "KWEP 2006/14", "FutD 2006-0565"]
+published_in: ["Rechtspraak.nl", "Belastingadvies 2006/10.14", "V-N 2006/45.1.8", "KWEP 2006/14", "FutD 2006-0565", "Viditax (FutD) 2006032307"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2008:AZ6924, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2008:AZ6924"]]
 cites_law: ["netherlands/national/acts/successiewet-1956/art-024.md"]
 ---
