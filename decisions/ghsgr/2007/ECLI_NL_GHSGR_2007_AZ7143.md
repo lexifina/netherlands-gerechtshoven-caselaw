@@ -1,0 +1,526 @@
+---
+ecli: "ECLI:NL:GHSGR:2007:AZ7143"
+court: "Gerechtshof 's-Gravenhage"
+court_code: "GHSGR"
+docket: "2200613105"
+decided: "2007-01-29"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2007:AZ7143"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2008:BC7418, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2008:BC7418"]]
+---
+
+# ECLI:NL:GHSGR:2007:AZ7143 Gerechtshof 's-Gravenhage , 29-01-2007 / 2200613105
+
+## Inhoudsindicatie
+
+De verdachte was in de periode van eind 1983 tot en met eind 1990 in Kabul, in Afghanistan, ten tijde van het door de Sovjets gesteunde communistische bewind, het hoofd van de militaire inlichtingendienst, de KhAD-e-Nezami, en onderminister van het ministerie van staatsveiligheid (WAD). In de uitoefening van deze functie(s) heeft de verdachte zich, zoals bewezenverklaard kan worden, ten opzichte van een drietal slachtoffers, schuldig gemaakt aan zeer ernstige misdrijven feiten: het medeplegen van foltering en de schending van de wetten en gebruiken van de oorlog. Artikel 1 (oud) van de Uitvoeringswet folteringverdrag en de artikelen 8 (oud) en 9 (oud) van de Wet oorlogsmisdrijven.
+
+## Uitspraak
+
+Rolnummer:		22-006131-05
+
+Parketnummer(s):	09-751004-04 en 09-750006-05
+
+Datum uitspraak:	29 januari 2007
+
+TEGENSPRAAK
+
+Gerechtshof te 's-Gravenhage
+
+meervoudige kamer voor strafzaken
+
+Arrest
+
+gewezen op het hoger beroep tegen het vonnis van de rechtbank te 's-Gravenhage van 14 oktober 2005 in de strafzaak tegen de verdachte:
+
+[verdachte],
+
+geboren te [geboorteplaats] (Afghanistan) op [geboortedag] 1948,
+
+thans gedetineerd in de Penitentiaire Inrichting Midden Holland – Huis van Bewaring De Geniepoort te Alphen aan de Rijn.
+
+1.	Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzittingen in eerste aanleg en het onderzoek op de terechtzittingen in hoger beroep van dit hof van
+
+3 en 17 mei 2006, 18 september en 2 oktober 2006,
+
+4, 11 en 13 december 2006 en 15 januari 2007.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de verdachte naar voren is gebracht.
+
+2.	Tenlastelegging
+
+Aan de verdachte is tenlastegelegd hetgeen vermeld staat in de inleidende dagvaardingen, zoals op de terechtzitting in eerste aanleg op vordering van de officier van justitie gewijzigd.
+
+Van de dagvaardingen en van de vordering wijziging tenlastelegging zijn kopieën in dit arrest gevoegd.
+
+Het hof heeft de feiten die in deze dagvaardingen zijn opgenomen van een doorlopende nummering voorzien.
+
+Het zal die nummering in dit arrest aanhouden.
+
+3.	Procesgang en omvang van het hoger beroep
+
+Aan de verdachte, die als Afghaanse hoge militair in Kabul destijds de leiding had over de militaire inlichtingendienst Khad-e-Nezami, zijn in eerste aanleg in een tweetal dagvaardingen - kort samengevat - de navolgende feiten tenlastegelegd:
+
+1. het medeplegen in Kabul van schending van de wetten en gebruiken van de oorlog in de periode van 1 januari 1982 tot en met 31 december 1988 door jegens een zevental slachtoffers (deels door het ernstige gevolg, deels anderszins gekwalificeerd) geweld te plegen;
+
+2. het medeplegen in Kabul in de periode van 1 november 1989 tot en met 31 december 1990 van foltering van een tweetal slachtoffers;
+
+3. het toelaten dat ondergeschikten in de periode van 1 oktober 1985 tot en met 31 december 1988 in Kabul de wetten en gebruiken van de oorlog schenden door tegen twee slachtoffers (gekwalificeerd) geweld te plegen.
+
+De verdachte is in eerste aanleg vrijgesproken van het hem onder 1. ten-lastegelegde, alsook van het toelaten dat tegen één van de twee in feit 3. genoemde slachtoffers geweld werd gepleegd. Hij is voor het onder 2. tenlastegelegde feit, alsook voor het onder 3. tenlastegelegde feit, gepleegd ten aanzien van het andere slachtoffer, veroordeeld tot een gevangenisstraf voor de duur van twaalf jaren, met aftrek van voorarrest. Alleen de verdachte is van het vonnis van de rechtbank in hoger beroep gegaan. De beslissing van de rechtbank ten aanzien van het onder 3. tenlastegelegde doet de vraag rijzen naar de omvang van dit hoger beroep, gelet op het in 407, tweede lid, Wetboek van Strafvordering (Sv) bepaalde. Dienaangaande is het hof, met de advocaat-generaal en de verdediging, tot de conclusie gekomen dat het onder 3. tenlastegelegde als een impliciet-cumulatieve tenlastelegging moet worden aangemerkt en dat derhalve in hoger beroep ook het verwijt ten aanzien van één van de in dat feit genoemde slachtoffers, waarvan de verdachte werd vrijgesproken, thans niet meer aan de orde is.
+
+4.	Beoordeling van het vonnis waarvan beroep
+
+Het hof komt in belangrijke mate tot dezelfde beslissingen als de rechtbank, zij het op deels andere gronden. In verband hiermee zal het hof het vonnis waarvan beroep vernietigen.
+
+5. Bespreking van de internationaal (straf)rechtelijke
+
+verweren
+
+5.1.  	De verdediging heeft een aantal verweren gevoerd die (deels) als gemeenschappelijk kenmerk hebben:
+
+de volkenrechtelijke aspecten van de vervolging van de verdachte en het 'bereik' van de artikelen 3 en 8 van de Wet Oorlogsstrafrecht (WOS). Deze verweren, die alle uitgebreid in de pleitnota zijn beargumenteerd, vat het hof -zeer kort (en in andere volgorde weergegeven)- als volgt samen.
+
+a. de Nederlandse strafwet ontbeert in de onderhavige zaak (universele) rechtsmacht indien het in de tenlastegelegde periode zou gaan om een niet-internationaal gewapend conflict, waarop 'slechts' het gemeenschappelijke artikel 3 van de Geneefse verdragen van toepassing is. Deze verdragen (of andere volkenrechtelijke voorschriften) voorzien niet in universele strafrechtsmacht ten aanzien van schendingen van die artikelen; vestiging van zodanige rechtsmacht behoeft een volkenrechtelijke machtiging die ook niet in het ongeschreven volkenrecht kan worden gevonden, zoals ook het Joegoslavië Tribunaal (ICTY) in zijn Tadic-beslissing van 2 oktober 1995 stelt. In de visie van de verdediging ging het in Afghanistan destijds, althans voor zover voor de tenlastegelegde gedragingen van belang, om een niet-internationaal gewapend conflict. Daarom dient het openbaar ministerie, dat zijn vervolgingsbevoegdheid in strijd met het volkenrecht uitoefent, in die vervolging niet-ontvankelijk te worden verklaard;
+
+b. de WOS heeft (althans had in de jaren tachtig) géén betrekking op schending van de normen die in het gemeenschappelijke artikel 3 zijn neergelegd. Daarom strekt de opheffing van de verjaring die bij wet van
+
+8 april 1971 (Stb. 210) in artikel 10 van de WOS werd neergelegd zich (uitgaande van een niet-internationaal gewapend conflict) niet uit tot het verwijt dat de verdachte (in feit 3) ten aanzien van het gestelde slachtoffer [slachtoffer 1] wordt gemaakt. De internationale rechtsovertuiging die tot deze wetswijziging aanleiding gaf, heeft slechts betrekking op de zeer ernstige oorlogsmisdrijven, de 'grave breaches' in de Geneefse verdragen. Het aan de verdachte onder 3. verweten feit is derhalve verjaard. Ook daarom dient het openbaar ministerie in deze strafvervolging niet-ontvankelijk te worden verklaard;
+
+c. dit gestelde slachtoffer kan bovendien niet worden aangemerkt als 'beschermde persoon' in de zin van de Geneefse verdragen. Zulks dient ertoe te leiden dat de verdachte voor dit feit van alle rechtsvervolging wordt ontslagen;
+
+d. gelet op het onder b) gestelde kan de strafbaarheid van de verdachte voor de tenlastegelegde marteling, uitgaande van een niet-internationaal gewapend conflict, niet op het gemeenschappelijke artikel 3, noch op artikel 8 van de WOS worden gebaseerd. De wetgever heeft in deze wet slechts aan de 'grave-breaches'-verplichting onder de Geneefse verdragen willen voldoen. De strafbaarheid van handelen dient beoordeeld te worden naar het recht van de plaats delict; toepassing van de Nederlandse wet op handelen in Afghanistan is in strijd met het legaliteitsbeginsel. Ook dit dient ertoe te leiden dat de verdachte voor dit feit van alle rechtsvervolging wordt ontslagen;
+
+e. ten onrechte zijn in feit 3 de aard van het conflict en de beschermde status van het gestelde slachtoffer niet opgenomen en (feitelijk) onderbouwd. De gebruikte wijze van tenlasteleggen zou in de praktijk van het ICTY niet worden geaccepteerd, zij dient tot nietigverklaring van de dagvaarding te leiden.
+
+5.2. 	Het hof zal, voordat het de specifieke verweren bespreekt, zijn inzichten verwoorden met betrekking tot de algemene aspecten van de vervolging van de verdachte en het toepasselijke recht.
+
+5.2.1	De verdachte worden gedragingen verweten die hij in de jaren tachtig en 1990 in Kabul in Afghanistan zou hebben verricht als hoge Afghaanse militair die met de leiding van de militaire inlichtingendienst was belast. Zijn handelen heeft -kort aangeduid- betrekking op deelneming aan, dan wel (toelaten van) martelen (,dan wel folteren ) van een aantal Afghaanse onderdanen die in de macht van deze dienst waren. Tegen hem is een vervolging ingesteld nadat hij als asielzoeker zijn toevlucht in Nederland had gezocht en onder de aandacht van de Nederlandse justitie was gekomen.
+
+Hierop gelet kan worden vastgesteld dat de grondslag voor de straf-vervolging in de onderhavige zaak niét ligt in een territorialiteits-, nationaliteits- of beschermingsbeginsel, maar in het (secundaire) universaliteitsbeginsel. Ook het hof onderkent dat die rechtsmacht, ook in zijn secundaire vorm, door de Nederlandse wetgever met aanzienlijke terughoudendheid wordt toegepast en vragen van volkenrechtelijke legitimatie doet rijzen, omdat zij de soevereiniteit van de territoriale staat beïnvloedt.
+
+5.2.2 	Het verwijt dat aan de verdachte wordt gemaakt valt in de visie van het openbaar ministerie onder het bereik van de Geneefse verdragen van 12 augustus 1949. Deze verdragen en de daarin vervatten normen hebben primair betrekking op de oorlog als internationaal gewapend conflict; sommige van die normen worden (bijvoorbeeld in artikel 147 van het Vierde verdrag ) als 'ernstige inbreuken', 'grave breaches' aangemerkt. De verdragen formule-ren in het gemeenschappelijke artikel 3 echter ook (minimum)normen ten aanzien van de (menswaardige) bejegening van "personen, die niet rechtstreeks aan de vijandelijkheden deelnemen" in geval van een niet-internationaal gewapend conflict. Het hof stelt vast dat deze normen door het Internationaal Gerechtshof (ICJ) in zijn beslissing van 27 juni 1986 inzake Nicaragua vs USA  (§ 218, 219; met verwijzing naar een eerdere beslissing uit 1949) worden omschreven als "minimum yardstick; they ... reflect elementary considerations of humanity". En: "the minimum rules applicable to international and non-international conflicts are identical. ... The relevant principles are to be looked for in the provisions of Article 3 of each of the four Conventions." In de onderhavige zaak gaat het om (deelneming aan, dan wel toelaten van) martelen, dat zowel in artikel 3, aanhef en sub 1 onder a, als in artikel 147 (Vierde verdrag) met zoveel woorden wordt genoemd.
+
+Een en ander leidt ertoe dat de verweten gedragingen aldus als grove schending van de materiële normen van het internationale humanitaire recht in internationaal én niet-internationaal gewapend conflict moeten worden aangemerkt (zij het dat in het laatste geval verdragstechnisch niet van 'ernstige inbreuken' kan worden gesproken). In zoverre is er - ook in de visie van de verdediging - geen verschil al naar gelang de aard van het conflict.
+
+5.2.3 	Met betrekking tot de verplichtingen van de verdragspartijen om de materiële normen van het internationaal humanitair recht te handhaven maken de verdragen wél onderscheid.
+
+Artikel 146 van het Vierde verdrag luidt als volgt:
+
+[1.] De Hoge Verdragsluitende Partijen verbinden zich alle benodigde wettelijke regelingen tot stand te brengen, nodig om doeltreffende strafbepalingen vast te stellen voor personen die één der ernstige inbreuken op dit Verdrag, omschreven in het volgend artikel, hebben gepleegd, dan wel bevel tot het plegen daarvan hebben gegeven.
+
+[2.] Iedere Hoge Verdragsluitende Partij is verplicht personen die ervan verdacht worden één van deze ernstige inbreuken te hebben gepleegd, dan wel bevel tot het plegen daarvan te hebben gegeven, op te sporen en moet hen, ongeacht hun nationaliteit, voor haar eigen gerechten brengen. Zij kan hen ook, indien zij daaraan de voorkeur geeft, en overeenkomstig de bepalingen van haar eigen wetgeving, ter berechting overleveren aan een andere bij de vervolging belang hebbende Hoge Verdragsluitende Partij, mits deze Verdragsluitende Partij een met voldoende bewijzen gestaafde telastlegging welke een vervolging rechtvaardigt, tegen de betrokken personen inbrengt.
+
+[3.] Iedere Hoge Verdragsluitende Partij zal maatregelen nemen, nodig om de met de bepalingen van dit Verdrag strijdige handelingen welke niet vallen onder de in het volgend artikel omschreven ernstige inbreuken, tegen te gaan.
+
+[4.] ...
+
+Het hof verstaat deze bepaling aldus dat de eerste twee leden van dit artikel de verplichting tot strafbaarstelling, evenals tot opsporing en berechting ongeacht de nationaliteit opleggen in geval van 'ernstige inbreuken', maar dat ten aanzien van andere schendingen (zoals in geval van artikel 3) 'slechts' de verplichting bestaat deze tegen te gaan, zonder dat de wijze waarop dat moet gebeuren, wordt voorgeschreven. Op zichzelf laat de verdragstekst de mogelijkheid open dat ook in laatst-bedoeld geval het strafrecht tot handhaving wordt ingezet. De vraag of een staat daartoe gerechtigd is lijkt op zichzelf zonder meer bevestigend te beantwoorden, waar het eigen territoir, eigen onderdanen als daders of slachtoffers betreft. Maar in de onderhavige zaak gaat het om secundair uitgeoefende universele rechtsmacht.
+
+De verdediging heeft aangevoerd en met vele bronnen onderbouwd dat de Nederlandse strafwet - volkenrechtelijk bezien - níet zo ver vermag te reiken. Daar staat tweeërlei tegenover. Enerzijds kan worden vastgesteld dat de Nederlandse wetgever in 1987 in de parlementaire geschiedenis van de Uitvoeringswet folteringverdrag (UFV) de toepasselijkheid van het (overigens door de Hoge Raad enigszins restrictiever uitgelegde) universaliteitsbeginsel mede baseerde op "de ondraaglijkheid van de gedachte dat folteraars, ..., zich vrijelijk naar andere landen kunnen begeven en daar zelfs ongestraft oog in oog kunnen komen te staan met hun naar het buitenland gevluchte slachtoffers" . Die situatie doet zich in de onderhavige zaak voor en zou niet zonder meer kunnen worden 'opgelost' door de verdachte naar zijn land van herkomst (en plaats delict) over te dragen aangezien dat mogelijkerwijs op gespannen voet zou kunnen komen te staan met in het EVRM gewaarborgde absolute rechten. Anderzijds omdat de wetgever - in ieder geval naar de letter - in artikel 3, aanhef en onder 1º van de WOS die rechtsmacht voor de in de artikelen 8 en 9 van die wet omschreven (oorlogs)misdrijven ongeclausuleerd heeft neergelegd. Dit artikel(gedeelte) luidt:
+
+Onverminderd het de dien aanzien in het Wetboek van Strafrecht en het Wetboek van Militair Strafrecht bepaalde is de Nederlandse strafwet toepasselijk:
+
+1o. op ieder, die zich buiten het rijk in Europa schuldig maakt aan een misdrijf omschreven in de artikelen 8 en 9;
+
+....
+
+5.3. 	Met betrekking tot de aard van het conflict is het hof, met de rechtbank, de verdediging en (meer impliciet) het openbaar ministerie, van oordeel dat de strijd in Afghanistan in de jaren tachtig van de vorige eeuw primair een niet-internationaal gewapend conflict betrof en wel tussen het regiem in Kabul en de 'Mujahedin' die daartegen - ook gewapend - in opstand kwamen. Weliswaar werd dit regiem mede door Russische adviseurs en legeronderdelen (die ook aan gevechten deelnamen) ondersteund, maar doet naar 's hofs oordeel aan het primair niet-internationale karakter van de strijd geen afbreuk. Een internationaal gewapend conflict wordt immers allereerst daardoor gekenmerkt dat het conflict zich tussen soevereine staten voordoet; het hof verwijst naar artikel 2 van het Vierde Geneefse verdrag. Daarvan was geen sprake zoals ook blijkt uit de tot het bewijs gebezigde verklaringen en de rapporten van de getuige-deskundige Giustozzi.
+
+5.4. 	Tegen deze achtergrond overweegt het hof met betrekking tot de specifieke verweren het navolgende.
+
+5.4.1 	Hetgeen hiervoor ten aanzien van artikel 3 WOS naar voren werd gebracht betreft de vraag of deze wetsbepaling in overeenstemming is met het volkenrecht.
+
+Aan de beantwoording van die vraag dient echter de vraag vooraf te gaan of de Nederlandse rechter, gelet op de
+
+bevoegdheidsverdeling tussen wetgevende macht en overige staatsorganen, zoals neergelegd in artikel 94 van de Grondwet (GW), wel bevoegd is zich over die vraag uit te spreken. Artikel 94 GW luidt:
+
+Binnen het Koninkrijk geldende wettelijke voorschriften vinden geen toepassing, indien deze toepassing niet verenigbaar is met een ieder verbindende bepalingen van verdragen en van besluiten van volkenrechtelijke organisaties.
+
+Deze bepaling doet de vraag rijzen óf de rechter wel bevoegd is in het onderhavige geval artikel 3 WOS buiten toepassing te laten. Daarnaast rijst de vraag of er in de (parlementaire) geschiedenis van de totstandkoming van artikel 3 WOS zelf aanknopingspunten zijn voor een - ten opzichte van zijn duidelijke bewoordingen - restrictieve uitleg van dat wetsartikel, met als conclusie dat dit artikel in het onderhavige geval niet voorziet in secundaire universele rechtsmacht, zoals door de verdediging wordt betoogd.
+
+5.4.2 	Naar breed lijkt te zijn aanvaard, staat
+
+artikel 94 GW de rechter niet toe wetten te toetsen aan ongeschreven volkenrecht. Deze door de Hoge Raad in zijn Nyugat II arrest van 6 maart 1959 NJ 1962.2 neergelegde rechtsopvatting heeft (mede) ten grondslag gelegen aan de Grondwetsherziening van 1983 en komt ook (a contrario) in de tekst van dit grondwetsartikel tot uitdrukking. In de visie van het hof kan aan de bepalingen van de Geneefse verdragen géén, althans geen voldoende expliciet argument worden ontleend dat duidelijk maakt dat artikel 3 WOS in strijd met daar geschreven volkenrecht is. De verdediging heeft weliswaar gewezen op een algemene volkenrechtelijke regel dat universele rechtsmacht slechts mag worden uitgeoefend voor zover het volkenrecht daartoe machtigt en betoogd dat een dergelijke machtiging ten aanzien van schendingen van het gemeenschappelijke artikel 3 (bij niet-internationaal gewapende conflicten) níet in de Geneefse verdragen kan worden gevonden; de raadsvrouw heeft desgevraagd echter beaamd dat een dergelijke volkenrechtelijke regel níet in enige geschreven verdrags-bepaling te vinden is.
+
+Bij die stand van zaken acht het hof zich niet bevoegd artikel 3 WOS aan - kennelijk ongeschreven - volkenrecht te toetsen. Ook het openbaar ministerie is in zijn vervolgingsbeslissing gebonden aan artikel 94 GW; reeds daarom kan de klacht dat het openbaar ministerie zijn vervolgingsbevoegdheid in strijd met het volkenrecht uitoefent, geen hout snijden.
+
+De verdediging heeft bij dupliek nog aangevoerd dat ingevolge artikel 8 Wetboek van Strafrecht (Sr) de toepasselijkheid van de regeling van de rechtsmacht in de artikelen 2 tot en met 7 "wordt beperkt door de uitzonderingen in het volkenrecht erkend" en dat artikel 8 ingevolge artikel 91 Sr óók voor de WOS geldt. Nog daargelaten de vraag op welke volken-rechte-lijke uitzonderingen dit artikel ziet (in de visie van het hof: de immuniteit) en nog daargelaten welke betekenis in dit verband aan de aanhef van artikel 3 WOS moet worden toegekend, is het hof van oordeel dat artikel 8 Sr bij de uitleg van artikel 3 WOS de Grondwet niet opzij mag zetten.
+
+5.4.3 	Het hof wijst er tegen de achtergrond van het hiervoor geconsta-teerde verbod op toetsing ten overvloede op dat blijkens de Memorie van toelichting (zie noot 3, p. 4) van de UFV de wetgever in 1987 kennelijk al van oordeel was dat "foltering in geval van intern of internationaal gewapend conflict begaan een schending van de wetten van de oorlog op(levert), ... strafbaar gesteld in artikel 8 van de Wet oorlogsstrafrecht". De regeling van de strafbaarheid (en van de rechtsmacht) van foltering in de WOS betrof in zijn visie dus óók de schending van het gemeenschappelijke artikel 3. Deze regeling lijkt betrekkelijk vergaand; zo stelt de (toenmalige) AG Van Dorst in zijn conclusie (§ 10) voorafgaand aan de beschikking van de Hoge Raad van 11 november 1997 NJ 1998.463 (Knesevic II) dat ons land een uitzonderlijke positie inneemt door niet alleen de ‘grave breaches’, maar ook de minder ernstige schendingen strafbaar te stellen, met universele rechtsmacht. Steun voor het vestigen van secundaire universele rechtsmacht (dus geen berechting bij verstek) valt echter te vinden in de ontwikkeling van het verdragsrecht na de Tweede Wereldoorlog, zoals deze wordt weergegeven in afzonderlijke standpunten van rechters bij de beslissing van het ICJ van 14 februari 2002 in de zaak Yerodia (Congo vs België). Het ICJ zelf kwam, in verband met de ultra petita-regel, niet toe aan de beantwoording van de vraag naar de volkenrechtelijke legitimiteit van de door België uitgeoefende (onbeperkt) universele rechtsmacht 'in absentia'.
+
+5.4.4 	Het hof stelt bovendien met betrekking tot de geschiedenis van de totstandkoming van de Wet oorlogsstrafrecht vast dat, zoals de Hoge Raad in zijn Knesevic II-beschikking analyseerde, de wetgever destijds ten volle aan de verdragsverplichting van de Geneefse verdragen wilde voldoen. Daarbij is - dat kan de verdediging worden toegegeven - vooral gedacht aan de verplichting om de 'ernstige inbreuken' strafbaar te stellen, hetgeen tegen de achtergrond van het toen nog zeer recente mondiale conflict ook niet kan verbazen. Uit de mondelinge behandeling van het wetsvoorstel (pp. 2247 en 2251) blijkt echter dat (toen ook al) de mogelijkheid werd open gehouden dat misdrijven gepleegd in een niet-internationaal gewapend conflict (het ging om de staatsgreep in Bolivia) hier te lande zouden worden aangepakt. Wat hiervan zij: het hof leidt uit de navolgende rechtsoverwegingen in de laatstgenoemde beschikking van de Hoge Raad af dat het ervoor gehouden moet worden dat ook in geval van schendingen van het gemeenschappelijke artikel 3 rechtsmacht bestaat:
+
+6.1. Het Hof is in de bestreden beschikking klaarblijkelijk ervan uitgegaan dat de in de
+
+[…] bedoelde vordering omschreven en nader ge-preciseerde feiten, indien bewezen, handelen in strijd met het gemeenschappelijke art. 3 van de Rode Kruis Verdragen van Genève van 1949 en uit dien hoofde het in art. 8 WOS omschreven misdrijf opleveren. Dat oordeel wordt in cassatie niet bestreden, zodat daarvan bij de beoordeling van het middel eveneens moet worden uitgegaan.
+
+6.2. Het middel strekt kennelijk ten betoge dat het Hof ten onrechte heeft geoordeeld dat met betrekking tot de in de vordering tot het instellen van een gerechtelijk vooronderzoek gestelde feiten aan de Nederlandse rechter rechtsmacht toekomt.
+
+6.3. Gelet op hetgeen hiervoor onder 5.3 is overwogen moet art. 1 WOS aldus worden opgevat dat op misdrijven als omschreven in de artikelen 8 en 9 de desbetreffende bepalingen van die wet, waaronder art. 3 aanhef en onder 1° en de artikelen 10, 10a en 11, steeds van toepassing zijn, zonder de in het eerste, het tweede onderscheidenlijk het derde lid van dat art. 1 gestelde beperkingen.
+
+6.4. Het Hof heeft mitsdien terecht geoordeeld dat met betrekking tot de in de vordering tot het instellen van een gerechtelijk vooronderzoek gestelde feiten aan de Nederlandse rechter rechtsmacht toekomt.
+
+Het hof onderkent dat de in de beschikking bedoelde vordering betrekking had op feiten die in 1992 in het voormalig Joegoslavië zouden zijn begaan, maar ziet in de overwegingen van de Hoge Raad geen enkel aanknopingspunt voor de (veronder)stelling dat deze rechtsmachtoverwegingen niet óók ten aanzien van feiten van 10 à 15 jaar daarvoor, waarvan in de onderhavige zaak sprake is, zouden gelden.
+
+Het vorenstaande leidt ertoe dat het onder a) weergegeven verweer met betrekking tot het ontbreken van rechtsmacht dient te worden verworpen. Het hof onderstreept nogmaals dat het - mede gelet op het adagium 'aut dedere aut punire' - in de onderhavige zaak om de uitoefening van secundaire universele rechtsmacht gaat. En het belang van de aanwezigheid van de verdachte op het grondgebied van de vervolgende staat wordt ook in de Memorie van toelichting bij de Wet internationale misdrijven  onderstreept.
+
+5.4.5 	Ook de stelling onder b) dat de WOS (destijds) geen betrekking had op schendingen van het gemeen-schappelijke artikel 3 van de Geneefse verdragen en dat de opheffing van de verjaring voor dergelijke delicten niet geldt, moet op dezelfde gronden worden verworpen.
+
+5.4.6 	Een zelfde lot dient het onder d) bedoelde verweer te treffen. Indien er geen gronden zijn om het werkingsbereik van de Wet oorlogsstrafrecht te beperken, geldt dat niet alleen voor de rechtsmacht, maar ook voor de individuele strafbaarstelling in artikel 8 WOS van oorlogsmisdrijven, ook in geval van niet-internationaal gewapend conflict. Gelet op het feit dat de verweten gedragingen als grove schending van de materiële normen van het internationale humanitaire recht moeten worden aangemerkt (zie hierboven § 5.2.2) en strafrechtsmacht zinloos zou zijn indien zij niet door individuele strafbaarstelling tot gelding zou kunnen komen, ziet het hof geen enkele grond om de in artikel 8 WOS neergelegde delictsomschrijving en sanctienorm niet ook op de verdachte - voor door hem in een niet-internationaal gewapend conflict in Afghanistan begane misdrijven - van toepassing te achten. Het hof sluit zich aan bij de procureur-generaal bij de Hoge Raad en de advocaat-generaal Keijzer in de vordering tot cassatie in het belang der wet die leidde tot het arrest van de Hoge Raad van 18 september 2001 (AB1471, inzake Bouterse). Deze concludeert (§ 26) onder meer:
+
+"Bij de Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (1975) [Aangenomen door de Algemene Vergadering van de Verenigde Naties bij Resolutie 3452 (XXX), 9 december 1975] heeft de Algemene Vergadering van de Verenigde Naties niet alleen uitgesproken dat foltering in strijd is met de menselijke waardigheid en met de rechten van de mens, maar ook dat volgens het recht van iedere staat foltering strafbaar dient te zijn, en dat gevallen van foltering strafrechtelijk dienen te worden vervolgd."
+
+Dat de verdachte aan het einde van de jaren tachtig geen rekening hoefde te houden met wat de Nederlandse Wet oorlogsstrafrecht over handelen stelt dat in het internationale recht niet strafbaar is gesteld en dat de toepassing van de WOS in zijn geval strijd met het legaliteitsbeginsel oplevert, is een verweer dat de verdachte in het licht van het voorgaande niet toekomt.
+
+5.4.7 	Met betrekking tot de stelling van de verdediging onder e) dat de dagvaarding van feit 3 nietig verklaard moet worden omdat in de tenlastelegging de aard van het conflict en de beschermde status van het gestelde slachtoffer niet opgenomen en (feitelijk) onderbouwd zijn, overweegt het hof het navolgende.
+
+De gestelde eis kan níet aan de delictsomschrijving van artikel 8 jo 9 WOS worden ontleend, aangezien deze 'slechts' de "schending van de wetten en gebruiken van de oorlog" strafbaar stelt. Wat die wetten en gebruiken van de oorlog inhouden blijkt (onder meer) uit de Geneefse verdragen. Zoals hierboven onder 5.2.2 aangegeven gaat het in de onderhavige zaak om een verwijt dat een materiële norm betreft die geldt onafhankelijk van de aard van het conflict. De gegispte tenlastelegging wijst - in zijn verwijzing naar de desbetreffende verdrags-bepalingen - beide typen conflict aan. Hoewel niet op voorhand uit te sluiten valt dat een expliciet alternatieve tenlastelegging nog grotere duidelijkheid zou verschaffen, vermag het hof niet in te zien dat de tenlastelegging op dit punt tekort schiet. Op geen enkele wijze is aannemelijk geworden dat de verdachte door de wijze van tenlasteleggen is belemmerd in (de voorbereiding van) zijn verdediging.
+
+Met betrekking tot de beschermde personen is hun omschrijving in het gemeenschappelijke artikel 3 in de tenlastelegging opgenomen in de passage over personen die niet rechtstreeks aan de vijandelijkheden deelnamen (te weten burgers of personeel van strijdkrachten dat de wapens had neergelegd of zij die buiten gevecht waren gesteld); bovendien worden de in die artikelen expliciet genoemde verboden gedragingen feitelijk omschreven, waarbij ook de voor de strafrechtelijke kwalificatie overeenkomstig artikel 8 WOS relevante omstandigheden zijn vermeld.
+
+In geval van een internationaal gewapend conflict spreekt artikel 147 van het Vierde Geneefse verdrag slechts over feiten "gepleegd tegen door het verdrag beschermde personen". In dat verdrag worden de beschermde personen in artikel 4 omschreven: "personen die , ..., in geval van een conflict of bezetting, zich in de macht bevinden van een Partij bij het conflict of van een bezettende Mogendheid, van welke zij geen onderdanen zijn".
+
+Het hof constateert - met de verdediging - dat deze omschrijving in de tenlastelegging ontbreekt. Aangezien het hof het conflict als niet-internationaal heeft aangemerkt, kan onderzoek naar de mogelijke consequenties die het ontbreken van deze aanduiding zou moeten hebben, achterwege blijven. Ook hiervoor geldt dat op geen enkele wijze aannemelijk is geworden dat de verdachte door deze wijze van tenlasteleggen is belemmerd in (de voorbereiding van) zijn verdediging.
+
+5.4.8	Het hof is voorts van oordeel dat, anders dan  door de verdediging hierboven onder c) is gesteld, het slachtoffer [slachtoffer 1] als “beschermde persoon” in de zin van de Geneefse verdragen moet worden aangemerkt, hetgeen genoegzaam blijkt uit de bewijsmiddelen. Daarbij zij met name verwezen naar de aan te hechten bewijsmiddelen 11 tot en met 16.
+
+6. 	Bespreking van de overige verweren
+
+6.1 	Door de verdediging is aangevoerd dat het openbaar ministerie niet-ontvankelijk in zijn vervolging dient te worden verklaard, dan wel dat bewijsmateriaal op grond van onrechtmatige verkrijging dient te worden uitgesloten. De verdediging heeft daartoe de navolgende argumenten aangevoerd die hieronder zakelijk zijn weergegeven:
+
+a. door het gebruik van door de verdachte in zijn procedure bij de IND afgelegde verklaringen in de onderhavige strafzaak heeft het openbaar ministerie gehandeld in strijd met het in artikel 6 EVRM besloten liggende nemo tenetur-beginsel, kort omschreven inhoudende dat niemand verplicht behoort te worden aan zijn eigen veroordeling mee te werken;
+
+b. de IND heeft in strijd met de privacy van de verdachte, te weten in strijd met de aan de verdachte toegezegde vertrouwelijkheid van het door hem verklaarde, diens IND-dossier aan de politie verstrekt. Aldus is artikel 8 EVRM geschonden;
+
+c. het beginsel van equality of arms, als vervat in artikel 6 EVRM is geschonden doordat de verdediging onvoldoende tijd en faciliteiten heeft gehad om de verdediging voor te bereiden.
+
+Het hof verwerpt deze verweren en overweegt daartoe als volgt.
+
+6.2.1 	De verdediging heeft met betrekking tot het onder a) bedoelde verweer gesteld dat de door de verdachte in het kader van de beoordeling van zijn asielaanvraag afgelegde verklaringen bij de IND zouden moeten worden aangemerkt als ‘onder dwang’ te zijn afgelegd en dientengevolge niet in de strafvervolging tegen de verdachte gebruikt mochten worden. Ter onderbouwing van die stelling heeft de verdediging zich beroepen op rechtspraak van het Europese Hof voor de bescherming van de rechten van de mens (EHRM) en wel in het bijzonder op de beslissing van 17 december 1996, NJ 1997, 699, inzake Saunders vs UK.
+
+Met betrekking tot het aldus aangevoerde is het volgende vast komen te staan.
+
+6.2.2	De verdachte heeft op 24 september 1992 aanvragen ingediend voor toelating als vluchteling en voor verlening van een vergunning tot verblijf. De verdachte is op 5 oktober 1992 en 8 maart 1993 in de gelegenheid gesteld die aanvragen toe te lichten en is hiertoe door een medewerker van de IND -niet zijnde een opsporingsdienst in strafrechtelijke zin- gehoord. Voor aanvang is blijkens het daarvan opgemaakte verslag aan de verdachte het belang van het gehoor uiteengezet en is hem verzocht naar waarheid te verklaren. Op basis van de verklaringen van de verdachte en na onderzoek verricht door medewerkers van het Ministerie van Buitenlandse Zaken en de IND zijn de aanvragen van de verdachte vervolgens bij beschikking van 1 februari 1994 afgewezen. Blijkens die beschikking is de reden voor de afwijzing daar in gelegen dat er ernstige redenen waren om te veronderstellen dat de verdachte zich schuldig had gemaakt aan oorlogsmisdrijven, dan wel misdrijven tegen de menselijkheid, zoals omschreven in artikel 1 F van het Vluchtelingenverdrag.
+
+Bij brief van 8 november 1997 heeft de toenmalige staatssecretaris van justitie aan de Tweede Kamer medegedeeld dat, gelet op de in die brief nader aangeduide internationale verdragsrechtelijke en morele verplichting van Nederland, het openbaar ministerie in kennis zal worden gesteld van alle beschikkingen die (mede) op grond van artikel 1 F Vluchtelingenverdrag waren afgewezen. De 1 F-beschikking met betrekking tot de verdachte is op 4 september 2000 door de IND aan het openbaar ministerie verzonden met daarbij het verzoek om te bezien of de verdachte strafrechtelijk diende te worden vervolgd. Op 2 december 2003 is, nadat uit een ander strafrechtelijk onderzoek nadere belastende omstandigheden met betrekking tot de verdachte naar voren waren gekomen, een start-procesverbaal opgemaakt met het oog op strafrechtelijke vervolging van de verdachte. De verdachte is een klein jaar later, op 27 november 2004, aangehouden en vervolgens enige malen door de politie als verdachte gehoord.
+
+6.2.3	Bij de verhoren van de verdachte is door opsporingsambtenaren gebruik gemaakt van, in de zin van herinnerd aan, geconfronteerd met en voortgebouwd op, de inhoud van de verklaringen die de verdachte bij de IND heeft afgelegd. Noch ter terechtzitting in eerste aanleg, noch ter terechtzitting in hoger beroep is de verdachte in het bijzonder geconfronteerd met zijn tegenover de IND afgelegde verklaringen. In eerste aanleg is hem ter terechtzitting slechts de korte inhoud van die verklaringen voorgehouden. Zowel ter terechtzitting in eerste aanleg als in hoger beroep heeft de verdachte zich in hoofdzaak beroepen op zijn zwijgrecht.
+
+6.2.4	Tegen de achtergrond van het voorgaande dient naar aanleiding van de genoemde stelling van de verdediging, de vraag beantwoord te worden of bij de IND-procedure zoals door de verdachte ondergaan sprake is van medewerking van de verdachte ‘onder dwang’ als bedoeld in het Saunders-arrest van het EHRM. En vervolgens of -als daar sprake van zou zijn- de verkregen informatie in de strafprocedure gebruikt mag worden. In de casus waarop dit arrest betrekking had, was de betrokkene op straffe van vervolging terzake van een met ‘contempt of court’ vergelijkbaar strafbaar feit, dat bij veroordeling tot gevangenisstraf van maximaal twee jaar zou kunnen leiden, verplicht de in het kader van een –niet strafrechtelijk- financieel-economisch controle onderzoek de hem gestelde vragen te beantwoorden.
+
+Vooropgesteld dient te worden dat, evenals in de Saunders-casus, met betrekking tot de IND-procedure die de verdachte doorliep geen sprake is van een procedure waarop artikel 6 EVRM van toepassing is, noch van een procedure die als strafvorderlijk aan te merken is. Daarom had de IND naar het oordeel van het hof niet de verplichting de verdachte te wijzen op het gevaar van een strafrechtelijke vervolging als de verdachte zich op enigerlei wijze zelf zou belasten.
+
+6.2.5	Naar het oordeel van het hof is in de door de verdachte doorlopen IND-procedure geen sprake geweest van het afleggen van verklaringen ‘onder dwang’ van een dreigende strafvervolging als waarvan in de Saunders-beslissing sprake was. Degene die zich vrijwillig aan de IND- procedure onderwerpt en daaraan medewerking verleent in het bijzonder door verklaringen af te leggen, doet dat laatste immers niet ‘onder dwang’ van een strafrechtelijke vervolging. Hieraan doet naar het oordeel van het hof niet af dat indien betrokkene ter verkrijging van toelating en een verblijfsvergunning die procedure ‘in gaat’, hij feitelijk wel tot (verdere) medewerking aan (onderdelen van) die procedure wordt verplicht, noch doet daaraan af dat de nakoming van die verplichtingen ook kan worden gesanctioneerd en dat de uiteindelijke consequentie van niet-meewerken de niet-verlening van het door betrokkene verzochte kan zijn. Evenmin doet daaraan af dat degene die toelating en vergunning tot verblijf verzoekt zich uit zichzelf al gedrongen kan voelen mee te werken om zijn doel te bereiken.
+
+6.2.6	Voorzover al anders geoordeeld zou moeten worden, is het hof in verband met de vraag of de in de onderhavige strafzaak via de IND-gehoren van de verdachte ingebrachte informatie in de strafzaak gebruikt mocht worden, van oordeel dat het gebruik van die informatie bepaald anders was dan de wijze waarop dat in de Saunders-casus het geval was. In laatstgenoemde zaak werd betrokkene tijdens het (jury-)proces gedurende drie dagen geconfronteerd met de door hem in het controle-onderzoek afgelegde verklaringen. In de zaak van deze verdachte zijn de IND-verklaringen gebruikt in het vooronderzoek, te weten door de hem verhorende verbalisanten. Wellicht ten overvloede wijst het hof er bovendien nog op dat de zelfincriminerende elementen uit de betreffende IND-verklaringen zich in essentie beperken tot mededelingen betreffende de zeer hoge positie van de verdachte destijds in de militaire inlichtingendienst van de betreffende regimes. Datgene wat zich in die dienst voordeed en aanleiding vormde voor de huidige strafvervolging was of werd –geleidelijk- duidelijk(er) uit andere bronnen.
+
+Het hof merkt bovendien nog op dat niet aannemelijk is geworden dat het openbaar ministerie dan wel de onder zijn verantwoordelijkheid opererende strafrechtfunctionarissen enige (sturende) invloed hebben uitgeoefend met betrekking tot de IND-gehoren, dan wel dat die IND-gehoren plaatsvonden (mede) met het oog op de strafvervolging van verdachte.
+
+Niet in de laatste plaats wijst het hof in dit verband op het hierboven weergegeven geruime tijdsverloop tussen de IND-gehoren en de start van het strafrechtelijk onderzoek, en de in dat verband afgelegde verklaringen door de verdachte tegenover opsporingsambtenaren.
+
+6.3.1. Met betrekking tot het onder b) bedoelde verweer is aannemelijk geworden dat aan de verdachte door
+
+IND-medewerkers is medegedeeld dat zijn tegenover de IND afgelegde verklaringen vertrouwelijk zouden worden behandeld. Het hof onderkent dat het begrip ‘vertrouwelijkheid’ niet bijzonder vastomlijnd is. Het hof acht echter bepaald niet aannemelijk geworden dat aan de verdachte nadere, op een strafrechtelijk onderzoek betrekking hebbende, toezeggingen zijn gedaan. Zulks in tegenstelling tot de door de raadsman van de medeverdachte ingeroepen gang van zaken in de ‘Koningskoppel’zaak die leidde tot het arrest van dit hof van 5 maart 2002, LJN AD9816. Aan de gedane, algemene toezegging heeft de verdachte op zichzelf het vertrouwen kunnen ontlenen dat de door hem verstrekte persoonlijke gegevens niet zonder meer aan andere instanties kenbaar gemaakt zouden worden. Nadien is zijn IND-dossier echter aan het openbaar ministerie overgedragen. Met de verdediging is het hof dan ook van oordeel dat deze overdracht van het strafdossier een inbreuk maakte op verdachte’s recht op privéleven, als bedoeld in artikel 8 EVRM. Het hof dient dientengevolge vast te stellen of (1) er een wettelijke basis was voor deze inbreuk en (2) de inbreuk proportioneel was.
+
+6.3.2	(ad 1) Door de verdediging is niet weersproken het oordeel van de rechtbank –dat het hof tot het zijne maakt- dat er ten tijde van de overdracht van het IND-dossier van de verdachte aan het openbaar ministerie een wettelijke basis was voor die overdracht.
+
+(ad 2)  Het hof deelt eveneens het oordeel van de rechtbank dat er in casu een dringende noodzaak bestond voor de inbreuk op de privacy van de verdachte en wijst eveneens in dit verband op eerdergenoemde brief van de staatssecretaris van Justitie van 8 november 1997. Daarbij is, ook naar het oordeel van het hof een juiste afweging gemaakt tussen het belang van bestraffing, dan wel over- of uitlevering van personen ten opzichte van wie er ernstige redenen waren te veronderstellen dat zij zich schuldig hadden gemaakt aan zeer ernstige (oorlogsmisdrijven) en de wijze waarop inbreuk is gemaakt op het recht op privacy. Hieraan doet naar het oordeel van het hof, in het bijzonder gelet op voormelde brief van de staatssecretaris van Justitie, niet af dat niet is komen vast te staan dat die afweging ook uitdrukkelijk in het specifieke geval van de verdachte is gemaakt. Het hof wijst ook in dit verband nog op eerder genoemde vooraanstaande positie van de verdachte in de betreffende inlichtingendienst.
+
+6.3.3	De verdediging heeft er op gewezen dat in het kader van het onderhavige strafrechtelijke onderzoek ook onderzoek heeft plaatsgevonden naar en in IND-dossiers van anderen dan de verdachte, zonder dat daarvoor door betrokkenen toestemming was gegeven. Voorzover daarbij al op een niet gerechtvaardigde wijze inbreuk is gemaakt op de privacy van die anderen, komt evenwel naar het oordeel van het hof aan de verdachte geen beroep daarop toe, nu dat niet de privacy van de verdachte betreft. Anders dan door de verdediging gesteld, valt een rechtsregel die toepassing in casu van de zogenaamde Schutznorm verbiedt niet uit enige beslissing van het EHRM af te leiden, noch is het hof overigens van een zodanige rechtsregel gebleken.
+
+6.4.	Anders dan door de verdediging onder c) gesteld  is het hof van oordeel dat de verdediging in de onderhavige strafzaak voldoende tijd en mogelijkheden heeft gehad de verdediging voor te bereiden.
+
+Het hof stelt in dit verband voorop dat het proces tegen deze verdachte naar de regels van het Nederlandse Wetboek van Strafvordering en overige relevante Nederlandse regelgeving dient te worden gevoerd. Daaraan kan niet afdoen dat er behoudens de aanwezigheid van de verdachte, een medeverdachte en enige getuigen hier te lande vrijwel geen feitelijke aanknopingspunten voor waarheidsvinding in Nederland voorhanden zijn. Ook verder in dit arrest wordt overigens ingegaan op de complicaties die met die constatering samenhangen. De omstandigheid dat in het buitenland en met name in Afghanistan nader onderzoek verricht diende te worden, brengt nog niet mee dat aan de verdediging in een zaak als de onderhavige extra faciliteiten –zoals wellicht mogelijk in andere landen en bij berechting door internationale gerechten- buiten en/of in afwijking van de Nederlandse regelgeving dienden te worden verleend. Naar het oordeel van het hof heeft de verdediging in de nu ruim twee jaar durende zaak voldoende mogelijkheden gehad onderzoekswensen naar voren te brengen en – afhankelijk van toetsing door rechtbank en hof aan de hand van wettelijke criteria - kunnen realiseren. Ter terechtzitting van de rechtbank zijn enkele getuigen gehoord, door de rechter-commissaris zijn zowel in eerste aanleg als in hoger beroep vele getuigen, in een enkel geval zelfs in beide instanties, gehoord, in het bijzonder ook –bij een viertal rogatoire commissies- in Afghanistan. De verdediging heeft op een enkele uitzondering na daarbij de nodige inbreng gehad. Niettemin heeft de verdediging ook in hoger beroep gesteld dat er onvoldoende tijd en gelegenheid was in Afghanistan verhoren voor te bereiden en mogelijk ontlastend verklarende personen als getuigen te horen en te presenteren. Het hof onderkent weliswaar dat de omstandigheden waaronder personen in Afghanistan gehoord werden niet optimaal waren, maar volgt de verdediging in zoverre niet dat naar zijn oordeel niet gezegd kan worden dat de verdediging de door de rechter-commissaris afgenomen verhoren in onvoldoende mate heeft kunnen voorbereiden. Voorts is naar het oordeel van het hof de verdediging, aan de hand van de aan de verdachte (thans) in het bijzonder verweten gedragingen en de in dat verband ook door de verdachte zelf aan te duiden personen voldoende in staat geweest, mede met behulp van aan de verdediging in eerste aanleg toegewezen extra middelen, relevante en mogelijk ontlastend verklarende getuigen te presenteren.
+
+6.5.	Gezien het hiervoor overwogene is het hof van oordeel dat door opsporingsambtenaren en/of het openbaar ministerie geen inbreuk is gemaakt op enig beginsel van een behoorlijke procesorde waardoor doelbewust of met grove schending van de belangen van de verdachte aan diens recht op een eerlijke behandeling van zijn zaak is tekort gedaan; evenmin is sprake geweest van onrechtmatige bewijsgaring. Ook overigens is in de onderhavige zaak tegen de verdachte naar het oordeel van het hof sprake geweest van een ‘fair trial’.
+
+7.	Overweging met betrekking tot het verzoek van de verdediging betreffende de getuige [slachtoffer 1].
+
+De verdediging heeft bij dupliek verzocht de getuige [slachtoffer 1] nogmaals te horen, bij voorkeur op de zitting. Zij heeft daartoe aangevoerd –zakelijk weergegeven- dat tijdens diens laatste verhoor bij rogatoire commissie in Kabul op
+
+9 januari 2007 niet voldoende gelegenheid heeft bestaan tot het stellen van nadere vragen op punten waaromtrent de verdediging nadere opheldering van de getuige verlangt, diens door de verdediging bij dupliek overgelegde verklaring in een andere strafzaak (tegen “F”) daaronder begrepen.
+
+Het hof overweegt daarover het volgende.
+
+De getuige is door de rechter-commissaris gehoord op achtereenvolgens 30 mei 2006, 2 juli 2006, 5 juli 2006 en
+
+9 januari 2007. Deze verhoren zijn alle door de raadsman/raadsvrouw van de verdachte bijgewoond. Tijdens al die verhoren heeft de verdediging de gelegenheid gekregen de getuige te bevragen.
+
+Na afsluiting van het verhoor op 5 juli 2006 heeft de raadsvrouw van de verdachte zich het recht voorbehouden omtrent een enkel punt (waarmee de raadsvrouw kennelijk heeft bedoeld: het toedienen van stroomstoten bij de ondervraging) op een later tijdstip aanvullende vragen aan de getuige te stellen. Het hof heeft het daarom opportuun geacht dat de getuige nogmaals bij rogatoire commissie werd gehoord, opdat de nog resterende vragen van de verdediging aan de getuige zouden kunnen worden gesteld.
+
+Dat verhoor vond plaats op 9 januari 2007 en is door omstandigheden (onder andere de sterk verlate aankomst van de getuige) van kortere duur geweest dan gepland. Nadat de raadsman van de verdachte de getuige een (aanmerkelijk) aantal vragen had gesteld, waarvan er overigens geen enkele betrekking had op het door de raadsvrouw bedoelde punt, heeft de rechter-commissaris het verhoor afgebroken, gezien de emotionele toestand waarin de getuige op dat moment was komen te verkeren, naar zijn zeggen omdat hij zich bedreigd voelde.
+
+Het hof is, in het licht van bovenstaande feiten en omstandigheden, van oordeel dat het niet noodzakelijk is de getuige [slachtoffer 1] andermaal te (doen) horen. Het hof heeft daarbij meegewogen de omstandigheid dat de door de raadsman overgelegde verklaring van de getuige in “de strafzaak F.” niet op wezenlijke punten in tegenspraak is met zijn verklaringen in de onderhavige zaak en naar het oordeel van het hof derhalve geen nadere opheldering nodig is.
+
+Het hof wijst het verzoek af.
+
+8.	Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 2 primair en 3 tenlastegelegde heeft begaan, met dien verstande dat:
+
+Feit 2 primair:
+
+Hij op tijdstippen in de periode van 1 november 1989 tot en met 31 december 1990 in of nabij de gevangenis Sedarat in Kabul, in Afghanistan,
+
+tezamen en in vereniging met anderen,
+
+als ambtenaar, te weten als ambtenaar bij de (militaire) inlichtingendienst, (de Khad-e-Nezami)(meer in het bijzonder als hoofd/directeur van voornoemde Khad-e-Nezami), in de uitoefening van zijn functie,
+
+meermalen, (telkens)(opzettelijk)(zwaar) mishandelend iemand die van zijn vrijheid was beroofd, te weten [slachtoffer 2] en [slachtoffer 3], met het oogmerk om
+
+een bekentenis te verkrijgen en/of
+
+hem vrees aan te jagen,
+
+terwijl deze gedragingen van dien aard waren dat zij het beoogde doel konden bevorderen, hierin bestaande dat
+
+verdachte in het kader van zijn werkzaamheden als ambtenaar bij de Khad-e-Nezami (meer in het bijzonder als hoofd/directeur van voornoemde dienst)
+
+tezamen en in vereniging met mededaders,
+
+toen en aldaar, telkens met voormelde oogmerken,
+
+de van zijn vrijheid beroofde [slachtoffer 2],  die als militair in gevangenschap verbleef in de gevangenis van Sedarat, (telkens) opzettelijk heeft mishandeld
+
+- door op tijdstippen in de periode van
+
+1 maart 1999 tot en met 30 juni 1990 te Afghanistan, gedurende veertien dagen, althans enige dagen achtereen [slachtoffer 2] ten dele ontkleed gedurende enkele uren, althans gedurende enige tijd buiten in een vat met (koud) water te zetten, terwijl het buiten koud was en
+
+voornoemde [slachtoffer 2] dagen achtereen wakker te houden en/of
+
+voornoemde [slachtoffer 2] gedurende deze dagen te verbieden te gaan zitten en/of te gaan liggen en/of tegen een muur te leunen om voornoemde [slachtoffer 2] het slapen te beletten
+
+terwijl voornoemde [slachtoffer 2] daarvan (hevige) pijn heeft ondervonden en/of
+
+- door in de periode van 1 maart 1990 tot en met 30 juni 1990 te Afhanistan opzettelijk een toestand van hevige angst bij voornoemde [slachtoffer 2] teweeg te brengen door het (doen) uiten van bedreigingen door het gebruik van bewoordingen als: “Vergeet de humaniteit, jij be[naam], jij wilde onze revolutie tenietdoen” en “Zeg dat jij contacten onderhoudt met [naam] en dat [naam] een aanhanger is van [naam], anders zal ik je weer in het water zetten” en “Laat hem wakker blijven zodat hij bekent. Als hij niet gestraft wordt dan gaat hij niet bekennen” en
+
+de van zijn vrijheid beroofde [slachtoffer 3], die als militair in gevangenschap verbleef in de gevangenis van Sedarat, te Kabul, (telkens) opzettelijk heeft mishandeld
+
+- door in de periode van 1 november 1989 tot en met 31 december 1990 te Afghanistan voornoemde [slachtoffer 2] in het gezicht, te stompen en
+
+door eenmaal voornoemde [slachtoffer 3] gedurende enige uren blootsvoets in de sneeuw te laten staan en
+
+door meermalen, (telkens) voornoemde [slachtoffer 3] dagen achtereen wakker te houden en
+
+door meermalen electriciteitsdraden te bevestigen aan het lichaam van voornoemde [slachtoffer 3] en (vervolgens) voornoemde electriciteitsdraden stroom toe te dienen aan het lichaam van voornoemde [slachtoffer 3],
+
+terwijl voornoemde [slachtoffer 3] daarvan (hevige) pijn heeft ondervonden.
+
+Feit 3:
+
+Leden van de militaire inlichtingendienst, de Khad-e-Nezami in Afghanistan, (allen) werkzaam voor en ondergeschikt aan de hierna te noemen verdachte [verdachte],
+
+op tijdstip(pen) in de periode van 1 oktober 1985 tot en met 31 december 1988 te Kabul, in Afghanistan, tezamen en in vereniging
+
+(telkens) de wetten en gebruiken van de oorlog hebben geschonden,
+
+terwijl
+
+dat feit zwaar lichamelijk letsel van een ander tengevolge heeft gehad of
+
+terwijl die feiten (telkens) geweldpleging met verenigde krachten tegen een persoon inhielden
+
+hierin bestaande dat voornoemde leden van de militaire inlichtingendienst toen en aldaar in strijd met
+
+het bepaalde in het “gemeenschappelijk” artikel 3 van de Verdragen van Genève van 12 augustus 1949,
+
+als leden van de (militaire) inlichtingendienst (Khad-e-Nezami) van Afghanistan, behorende tot één van de strijdende partijen in een (niet-internationaal) gewapend conflict op het grondgebied van Afghanistan,
+
+(meermalen) lichamelijke geweldpleging, en wrede (onmenselijke) behandeling en marteling hebben gepleegd ten aanzien van een persoon die (toen en aldaar) niet rechtstreeks aan de vijandelijkheden deelnam (te weten een burger,
+
+te weten [slachtoffer 1], welke lichamelijke geweldpleging, en wrede (onmenselijke) behandeling en marteling onder meer hierin bestonden dat genoemd(e) leden, tezamen en in vereniging
+
+- op tijdstippen in of omstreeks de periode van 1 december 1985 tot en met 1 februari 1986 in (of nabij) het gebouw van de Khad-e-Nezami in Kabul,
+
+- meermalen, althans eenmaal, [slachtoffer 1] tegen het scheenbeen hebben geschopt en tegen het lichaam hebben geschopt en geslagen en
+
+- eenmaal voornoemde [slachtoffer 1] dagen achtereen wakker hebben gehouden en voornoemde [slachtoffer 1] gedurende deze dag(en) gedwongen hebben om buiten te blijven staan terwijl het buiten koud was en
+
+- vinger(s) van voornoemde [slachtoffer 1] met kracht tussen een deur en het bij die deur behorende kozijn hebben gebracht en gehouden, en (vervolgens) met kracht voornoemde deur hebben dichtgegooid terwijl vinger(s) van voornoemde [slachtoffer 1] nog tussen voornoemde deur en voornoemd kozijn zat(en) en zonder verdoving een gedeelte van een vinger van voornoemde [slachtoffer 1] hebben afgeknipt,
+
+tengevolge waarvan voornoemde [slachtoffer 1] pijn en (zwaar) lichamelijk letsel heeft ondervonden
+
+ten aanzien van welke (vorenomschreven) lichamelijke geweldspleging(en), waarvan één zwaar lichamelijk letsel tengevolge hebbende, hij, verdachte [verdachte] op tijdstippen in of omstreeks de periode 1 oktober 1985 tot en met 31 december 1988 in Afghanistan,
+
+opzettelijk heeft toegelaten dat aan hem, verdachte  onderschikten(n) deze hebben begaan,
+
+te weten dat hij, verdachte geen en/of onvoldoende maatregelen heeft genomen om deze lichamelijke geweldpleging(en) en zwaar lichamelijk letsel, te voorkomen en de ondergeschikte(n)/verantwoordelijke(n) te bestraffen.
+
+Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+Voorzover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+9.	Bewijsvoering
+
+Het hof grondt zijn overtuiging dat de verdachte het bewezenverklaarde heeft begaan op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat en die reden geven tot de bewezenverklaring.
+
+In die gevallen waarin de wet aanvulling van het arrest vereist met de bewijsmiddelen dan wel, voor zover artikel 359, derde lid, tweede volzin, van het Wetboek van Strafvordering wordt toegepast, met een opgave daarvan, zal zulks plaatsvinden in een aanvulling die als bijlage aan dit arrest zal worden gehecht.
+
+10.	Nadere bewijsoverwegingen
+
+10.1. Algemeen
+
+a)	Het hof stelt voorop dat de onderhavige strafzaak wordt gekenmerkt door een aantal bijzondere feiten en omstandigheden die nadere overweging verdienen. Ten eerste behelst de tenlastelegging feiten die zich lange tijd geleden hebben afgespeeld, hetgeen een zware wissel trekt op het onderzoek (met name het opsporen van de niet talrijke nog beschikbare getuigen) en vervolgens op het geheugen van dezen. De feiten  vonden bovendien plaats in een niet-westers land dat cultureel, technologisch, economisch en sociologisch weinig overeenkomsten oplevert met de Nederlandse situatie en dat bovendien intern verscheurd was, evenals het thans nog is, door ingrijpende politieke en (daarmee gepaard gaande) gewapende conflicten. Met name deze omstandigheden hebben het onderzoek in deze zaak op velerlei wijze in ernstige mate bemoeilijkt. De onveilige situatie waarin Afghanistan ook thans nog verkeert leverde in een aantal gevallen een belemmering op voor het aldaar, in aanwezigheid van de raadslieden, horen van getuigen en het verrichten van nader onderzoek. Bovendien bleken door de gebrekkige Afghaanse infra-structuur geschreven bronnen slechts in zeer beperkte mate beschikbaar te zijn. Al deze feiten en omstandigheden in aanmerking genomen zal het hof bij de beoordeling van de betrouwbaarheid van de in deze zaak (wel) ter beschikking staande bewijsmiddelen een hoge mate van behoedzaamheid betrachten.
+
+b)	Uit de voorhanden zijnde bewijsmiddelen kan het navolgende worden afgeleid.
+
+De verdachte stond ten tijde van de hem tenlastegelegde feiten aan het hoofd van de militiaire KhAD (KhAD-e-Nezami). Deze organisatie maakte zich toentertijd op aanmerkelijke schaal schuldig aan schending van de mensenrechten, zoals het martelen van gevangenen. De militaire KhAD werd door de verdachte strak geleid; ook overigens was hij in het politieke en militaire bestel van die dagen een machtig en invloedrijk man (zie ook hieronder pnt. 10.2).
+
+Deze feiten en omstandigheden zijn voor de beoordeling van de aan de verdachte tenlastegelegde feiten van groot gewicht. Ter terechtzitting in hoger beroep heeft de verdachte, met een beroep op zijn zwijgrecht, echter geweigerd van zijn kant nadere opheldering te verschaffen omtrent de rol die hij in zijn organisatie en daarbuiten vervulde, de gang van zaken aldaar, alsook de specifieke feiten die hem zijn tenlastegelegd, hetgeen betekent dat de verdachte de hem geboden mogelijkheid van zijn kant een ander licht te werpen op bovenomschreven feiten en omstandigheden onbenut heeft gelaten.
+
+Het hof acht deze omstandigheid van betekenis bij de beoordeling van de hem ter beschikking staande bewijsmiddelen.
+
+10.2	Stemherkenning door de getuige [slachtoffer 2]
+
+Ten aanzien van de getuige [slachtoffer 2] heeft de verdediging aangevoerd grote twijfels te hebben bij diens verklaring waar deze betreft de herkenning door hem, getuige, van de stem van de verdachte ten tijde van diens verhoren door de civiele KhAD. Die worden ingegeven door, zakelijk weergegeven, de navolgende omstandigheden. Het is een in de psychologie bekend verschijnsel dat men meent de stem van iemand te hebben gehoord, omdat men diens stem verwacht te horen, hetgeen betekent dat het gehoor iemand, in combinatie met het geheugen, "aardig voor de gek" kan houden. Voorts is het bijzonder onwaarschijnlijk dat de verdachte de bevoegdheid had op het territoir van de civiele KhAD opdracht te geven tot marteling. De verdediging verwijst in dit verband naar een aantal getuigenverklaringen, waaruit kan worden afgeleid dat de verdachte daartoe de bevoegdheid miste en zelfs het recht niet had daar zonder toestemming te komen, en naar de Italiaanse getuige-deskundige Giustozzi waar deze verklaart dat de verdachte "geen gezag [had] om aan het Directoraat Onderzoek van de civiele KhAD opdrachten te geven". Voorts heeft de getuige zich onzeker betoond over het aantal malen dat hij de stem van de verdachte heeft gehoord.
+
+Het hof overweegt daarover het volgende.
+
+De door de verdediging aangevoerde argumenten kan een zekere innerlijke tegenstrijdigheid niet worden ontzegd; immers als het de verdachte niet zou hebben vrijgestaan zich zonder meer op het territoir van de civiele KhAD te bevinden en aldaar aanwijzingen te geven omtrent de wijze van verhoren ligt het wellicht minder voor de hand dat de getuige [slachtoffer 2], die als hoge militair goed bekend zal zijn geweest met de onderliggende verhoudingen, "verwacht" verdachtes stem toch aldaar in die rol te horen. Het hof heeft in dit verband voorts gelet op met name de verklaringen van de getuigen [getuige 2] (bm 5 en 7), [getuige 3] (bm 9), [slachtoffer 1] (bm 15), [slachtoffer 2] (bm 17, 23 en 57), [getuige 4] (bm 21), [slachtoffer 2] (bm 35), de medeverdachte [medeverdachte] (bm 20 en 42) en de verdachte zelf (bm 37).
+
+Daaruit kan, in onderlinge samenhang bezien, worden afgeleid dat tussen de door de verdachte geleide militaire KhAD en de Directie Onderzoek van de zogenaamde civiele KhAD, geleid door [naam X], een vorm van samenwerking bestond die door de verdachte zelf wordt gekarakteriseerd als een "werkrelatie". Ook blijkt daaruit dat het leden van eerstgenoemde organisatie (bij gelegenheid) vrijstond in het gebouw van de civiele KhAD verhoren af te nemen. De getuige [slachtoffer 2] zat gevangen  ten tijde van de zogenaamde coup van Tanai; in die periode zijn vele militairen opgepakt en vastgezet. Dit trok een extra wissel op de bij beide organisaties beschikbare verhoorscapaciteit en maakte wederzijdse samenwerking eens te meer noodzakelijk. Het bovenstaande vindt bevestiging in het rapport van de deskundige Antonio Giustozzi van 29 oktober 2006 (bm 56, pnt 18), waarin deze vermeldt dat de militaire KhAD de civiele KhAD inschakelde voor "nader, meer gedetailleerd onderzoek en ondervraging" en dat de civiele KhAD (daartoe) ruimere faciliteiten had en een grotere gevangenis.
+
+De verdachte kwam bovendien, zo blijkt uit een aantal verklaringen, regelmatig  in het gebouw van de civiele KhAD, veelal aangeduid als Sedarat. Door zijn positie als hoofd van de militaire KhAD en tevens onderminister van Staatsveiligheid was de verdachte een machtig man en had hij veel invloed.
+
+Met name deze feiten en omstandigheden ondersteunen in belangrijke mate de verklaringen van de getuige [slachtoffer 2] voorzover deze inhouden dat hij de verdachte in de Sedarat aanwijzingen heeft horen geven welke hebben geleid tot de gewraakte folteringen. De verklaring van de getuige-deskundige Giustozzi waar de verdediging zich op beroept doet daaraan geen afbreuk, nu die verklaring inhoudt dat de verdachte de bevoegdheid miste ("geen gezag had") het directoraat Onderzoek van de civiele KhAD opdrachten te geven, en uit de bovengenoemde getuigenverklaringen kan worden afgeleid dat verdachtes actieve rol bij de gewelddadige verhoren van [slachtoffer 2]  niet zijn grondslag vond in door hem aan de civiele KhAD gegeven opdrachten, maar plaatsvond in het kader van de bestaande onderlinge samenwerking tussen beide organisaties. Het hof acht de verklaring van [slachtoffer 2] daarom voldoende geloofwaardig om tot het bewijs te worden gebezigd, waarbij het hof heeft laten meewegen de omstandigheid dat [slachtoffer 2] ook heeft verklaard de stem van de verdachte heel goed te kunnen herkennen en dat hij tevoren negen jaar met hem heeft samengewerkt in dezelfde divisie van het Afghaanse leger.
+
+De omstandigheid dat de getuige, zoals de raadslieden hebben gesteld, ten aanzien van het aantal malen dat hij verdachtes stem heeft gehoord ongelijke verklaringen heeft afgelegd doet naar het oordeel van het hof aan de geloofwaardigheid van die verklaringen geen afbreuk nu hij, mede gelet op de dramatische gebeurtenissen waar hij in zijn verklaringen op doelt en waarover hij wel degelijk in essentie eenduidig heeft verklaard, de door de raadslieden bedoelde discrepanties zeer wel te herleiden zijn tot geheugenonvastheid, teweeggebracht door het aanzienlijke tijdsverloop, zonder dat die verklaringen op hun wezenlijke onderdelen zonder meer als ongeloofwaardig of onbetrouwbaar kunnen worden aangemerkt.
+
+Het hof verwerpt het verweer.
+
+10.3	Folteringen [slachtoffer 3]
+
+De verdediging heeft betoogd dat op grond van de stukken niet kan worden vastgesteld of gevangenen bij de civiele KhAD de aanmerkelijke kans liepen op foltering en, als deze aanmerkelijke kans er al was, niet bewezen kan worden dat de verdachte daarvan destijds wetenschap had. Zij heeft daartoe, zakelijk weergegeven, onder andere het navolgende aangevoerd. Aan de stemherkenningen door de getuige [slachtoffer 2] mag, zoals eerder betoogd, geen waarde worden gehecht. Uit het afgeluisterd telefoongesprek waarin wordt gesproken over het feit dat het directoraat verhoor arrestanten "met fanatisme" zou behandelen kan verdachtes wetenschap niet worden afgeleid omdat deze bewoordingen niet aan de mond van de verdachte zijn ontsprongen maar aan die van minister [naam minister] en omdat [naam minister] die woorden pas bij een latere gelegenheid heeft gebezigd.
+
+Het hof overweegt daarover het volgende.
+
+Waar het betreft de geloofwaardigheid van de stemherkenning door de getuige [slachtoffer 2] zij verwezen naar hetgeen het hof hierboven [onder 10.2] heeft overwogen. Uit de hierna te noemen bewijsmiddelen kan voorts het navolgende worden afgeleid. De getuige [getuige 5], een hooggeplaatste militair bij de Afghaanse luchtafweer, wordt door de actieve bemoeienis van de verdachte, die daartoe opdracht had gekregen van de minister van Staatsveiligheid [naam minister], in november 1989 op het vliegveld van Kabul gearresteerd en aldaar, met medewerking van de verdachte, overgedragen aan de autoriteiten van de civiele KhAD en geplaatst in de Sedarat gevangenis. Uit een aantal getuigenverklaringen ([getuige 2], bm 7, [getuige 3], bm 9, [getuige 6], bm 27 en [getuige 7], bm 39) kan worden afgeleid dat (veelvuldig) gefolterd werd in de Sedarat gevangenis en dat dat binnen gezaghebbende kringen, waartoe de verdachte zonder twijfel behoorde, van algemene bekendheid was. Zo verklaart de hooggeplaatste militair, tevens staatssecretaris politieke en juridische zaken op het ministerie van binnenlandse zaken, [getuige 6]: "Iedereen bij de KhAD was ervan op de hoogte dat er gemarteld werd. Alle KhAD-chefs waren hiervan op de hoogte en hebben ook persoonlijk opdracht gegeven folteringen uit te voeren". De verdachte zelf (bm 37) legt een verklaring af van nagenoeg dezelfde strekking: "[naam medewerker] was een streng persoon. Hij gebruikte methoden om mensen wakker te houden. Wat ik hoorde was dat hij de arrestanten 's nachts hoorde en ze moesten gaan staan of zitten. Hetgene dat met [slachtoffer 3] is gebeurd kan gebeurd zijn". Uit hetgeen hierboven onder 10.2 is overwogen blijkt dat de verdachte in bedoelde periode zelf een regelmatige bezoeker van de Sedarat was en bij gelegenheid zelf een actieve bijdrage leverde aan het gewelddadige karakter van de daar plaats vindende verhoren. Gelet op deze feiten en omstandigheden is het hof van oordeel dat de verdachte door [slachtoffer 3] over te dragen aan de civiele KhAD, wetend dat hij zou worden gevangengezet in de Sedarat om aldaar te worden verhoord, willens en wetens de aanmerkelijke kans heeft aanvaard dat [slachtoffer 3] in de Sedarat zou worden blootgesteld aan de tenlastegelegde folteringen.
+
+Het hof verwerpt het verweer.
+
+10.4	Betrouwbaarheid getuige [slachtoffer 1]
+
+De raadslieden hebben betoogd dat de verklaringen van de getuige [slachtoffer 1] niet tot het bewijs mogen worden gebezigd, aangezien de getuige betreffende het al dan niet toegediend krijgen van stroomstoten wisselende verklaringen heeft afgelegd, de sterke indruk bestaat dat sprake is van beïnvloeding van deze getuige door de getuige [getuige 1] en [slachtoffer 1] derhalve als getuige ongeloofwaardig is geworden.
+
+Het hof stelt in dat kader allereerst vast dat de verklaringen van de genoemde getuige soms minder concrete informatie dan wenselijk oplevert of op een enkel punt zelfs innerlijke discrepanties, maar het hof is van oordeel dat het hier, mede gelet op de dramatische gebeurtenissen waar de getuige in zijn verklaring op doelt en waarover hij wel degelijk in essentie eenduidig  verklaart, de door de raadslieden bedoelde discrepanties zeer wel te herleiden zijn tot geheugenonvastheid  teweeggebracht door het aanmerkelijke tijdsverloop en (heftige) emoties teweeggebracht door de herinnering aan voor de getuige hoogst dramatische gebeurtenissen, zonder dat die verklaringen op hun wezenlijke onderdelen zonder meer als ongeloofwaardig of onbetrouwbaar dienen te worden aangemerkt. De enkele omstandigheid dat de verklaringen van de getuige [slachtoffer 1], zoals de raadslieden stellen, "bijzonder veel lijken" op die van de getuige [getuige 1] maken voorts het niet zonder meer aannemelijk dat sprake is geweest van beïnvloeding door de getuige [getuige 1] van de getuige [slachtoffer 1].
+
+Het hof verwerpt het verweer.
+
+10.5	Toepasselijkheid artikel 9 WOS
+
+De raadslieden hebben, zakelijk weergegeven, betoogd dat, nu niet is vastgesteld welke taken en bevoegdheden de verdachte binnen de militaire KhAD had en het aannemelijk is dat de Russische adviseurs zo niet uitsluitend dan toch in ieder geval naast de verdachte de baas waren binnen de militaire KhAD, de verdachte niet als leidinggevende kan worden aangemerkt die gehouden was in te grijpen in de vermeende marteling van [slachtoffer 1] en dat niet is komen vast te staan dat de verdachte vooraf op de hoogte was van die marteling, zodat geen sprake is van opzet. Tenslotte acht de verdediging niet bewezen dat de verdachte de vermeende marteling daadwerkelijk heeft toegelaten. De raadslieden hebben daartoe onder andere aangevoerd dat niet is komen vast te staan dat de gewraakte marteling is uitgevoerd door een ondergeschikte van de verdachte die onder zijn daadwerkelijke controle stond, temeer nu alles erop wijst dat de Russische adviseurs in Afghanistan toentertijd er een gescheiden bevelsstructuur op na hielden.
+
+Het hof overweegt daartoe het volgende.
+
+Uit het dossier komt naar voren dat de Sovjet-adviseurs in de jaren tachtig, en derhalve ook in de periode dat [slachtoffer 1] door de militaire KhAD werd gevangengehouden, grote invloed uitoefenden op de Afghaanse overheidsorganen, waaronder de militaire KhAD (KhAD-e-Nezami). Bovendien bevat het dossier gegevens (de verklaring van [slachtoffer 1] bij de rechter-commissaris d.d. 4 juli 2007 (punt 11) daaronder begrepen) waaruit kan worden afgeleid dat "Russische" adviseurs bij gelegenheid bij de verhoren van de gevangenen van de militaire KhAD aanwezig waren, ook bij de martelingen waarmee die verhoren gepaard gingen.
+
+De rapportages van de deskundige Giustozzi, evenals de door deze op 15 september 2005 afgelegde verklaring bij de rechter-commissaris, staan uitvoerig stil bij de rol van de Sovjet-adviseurs. Voorzover hier van belang kunnen deze als volgt worden samengevat.
+
+De (primaire) reden dat de adviseurs (strikt) toezicht op de militaire KhAD hielden was te voorkomen dat de Parchami fractie van de pro-Sovjet partij HDK de militaire KhAD zou misbruiken in haar hardnekkige strijd met de Khalqi fractie. De Khad werd gedomineerd door Parchami, de krijgsmacht in zijn algemeenheid door de Khalqi. De deskundige acht het (rapport 29/10/2006) waarschijnlijk dat de adviseurs het werk van de KhAD officieren controleerden, zelfs in het geval van verhoren. Hij plaatst daarbij de navolgende in dit verband relevante kanttekening: "Gezien het wijdverbreide gebruik van martelpraktijken en executies vóór de Sovjet-bezetting en ook onder de verzetsgroeperingen lijkt het erop dat de Sovjet-adviseurs de Afghanen niet hoefden aan te sporen om zulke technieken over te nemen." Er bestaat voorts, aldus de adviseur, weinig twijfel dat de adviseurs afwisten van de martelpraktijken binnen de militaire KhAD die desondanks plaatsvonden: "zij waren daar persoonlijk aanwezig en hadden toegang tot alle faciliteiten. Er was op zijn minst stilzwijgende toestemming". In het geval van de KhAD verschilde de rol van de Sovjets per locatie en per afdeling. Bij een zwak geleide afdeling was hun invloed groter en bij een krachtig geleide afdeling was hun rol hoofdzakelijk beperkt tot die van adviseur.
+
+In de periode 1985/1986 ( [slachtoffer 1] werd op 10 december 1985 gearresteerd) was het Sovjet-streven de betrokkenheid te verminderen en de Afghanen aldus te dwingen zelf een grotere rol te spelen bij de handhaving van het gezag.
+
+Gelijk voorts uit de bewijsmiddelen blijkt en hierboven reeds onder 10.2 is overwogen was de verdachte destijds hoofd van de militaire KhAD en onderminister van Staatsveiligheid en als zodanig een machtig man met veel invloed.
+
+De hierboven omschreven feiten en omstandigheden in aanmerking genomen is het hof van oordeel dat weliswaar is komen vast te staan dat de Sovjet-adviseurs in hun hoedanigheid van adviseur in de betrokken periode (intensief) bij de werkzaamheden van de militaire KhAD waren betrokken, maar dat niet is gebleken dat hun bemoeiingen en de wijze waarop die organisatorisch inpassing vonden op enigerlei wijze de bestaande, officiële hiërarchische verhouding binnen die organisatie en het gezag dat de verdachte daarin, zoals uit de bewijsmiddelen blijkt: op onmiskenbare wijze, uitoefende, aantastten. Derhalve is op geen enkele wijze de stelling van de verdediging aannemelijk geworden dat binnen de door de verdachte geleide organisatie (de militaire KhAD) de Sovjet-adviseurs naast de verdachte het hoogste gezag over die organisatie hebben uitgeoefend (of, zoals de verdediging het uitdrukt: "de baas waren"), dan wel dat binnen die organisatie door toedoen van de Sovjet-adviseurs sprake was van een gescheiden bevelsstructuur, zodanig dat de verdachte niet als leidinggevende van die organisatie kon worden aangemerkt die gehouden was in te grijpen in de martelingen van [slachtoffer 1].
+
+Het hof heeft in zijn overwegingen dienaangaande mede betrokken de omstandigheid dat de verklaringen van de verdachte, voorzover hij over zijn rol als leider van de militaire KhAD en de omstandigheden waarin hij die rol vervulde enige opheldering heeft willen verschaffen, geen enkel aanknopingspunt bieden voor de door de verdediging gestelde gescheiden bevelsstructuur en dat daarvoor ook overigens in het dossier geen concrete aanknopingspunten te vinden zijn.
+
+Het hof verwerpt het verweer.
+
+11.	Strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+Ten aanzien van het onder 2 primair bewezenverklaarde: Medeplegen van foltering, meermalen gepleegd.
+
+Ten aanzien van het onder 3 bewezenverklaarde: Opzettelijk toelaten, dat een aan hem ondergeschikte zich schuldig maakt aan schending van de wetten en gebruiken van de oorlog, terwijl het feit inhoudt geweldpleging met verenigde krachten tegen een of meer personen en het feit zwaar lichamelijk letsel van een ander tengevolge heeft.
+
+Met betrekking tot het door de verdediging omtrent de WOS gestelde (die als lex specialis in plaats van de UFV zou moeten worden toegepast) overweegt het hof het navolgende.
+
+In de visie van de wetgever (Memorie van toelichting bij de UFV, zie noot 3) zal foltering in oorlogstijd na de inwer-king-treding van die wet niet meer op grond van artikel 8 WOS (als handelen in strijd met de wetten van de oorlog) strafbaar zijn, maar gelet op art. 2.2 van het Folteringsverdrag van 10 december 1984 (dat in tijd van oorlog het verbod onverkort handhaaft) als specialis op grond van de UFV strafbaar zijn (maar wel via de WOS berecht worden). Nog daargelaten dat van een specialiteit in logische zin geen sprake is, blijkt uit de wetsgeschiedenis dat van een systematische, teleologische specialiteit sprake is. Het verweer wordt derhalve verworpen.
+
+12.	Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+13.	Strafmotivering
+
+De advocaat-generaal heeft geconcludeerd tot vernietiging van het vonnis waarvan beroep en tot veroordeling van de verdachte terzake van het onder 2 primair en 3 tenlastegelegde tot een gevangenisstraf voor de duur van 12 jaren, met aftrek van voorarrest.
+
+Het hof heeft de op te leggen straf bepaald op grond van de ernst van de feiten en de omstandigheden waaronder deze zijn begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.
+
+Daarbij heeft het hof in het bijzonder het volgende in aanmerking genomen.
+
+De verdachte was in de periode van eind 1983 tot en met eind 1990 in Kabul, in Afghanistan, ten tijde van het door de Sovjets gesteunde communistische bewind, het hoofd van de militaire inlichtingendienst, de KhAD-e-Nezami, en onderminister van het ministerie van staatsveiligheid (WAD) en was aldus een zeer machtig en invloedrijk persoon. In de uitoefening van deze functie(s) heeft de verdachte zich, zoals bewezenverklaard kan worden, ten opzichte van een drietal slachtoffers, schuldig gemaakt aan zeer ernstige misdrijven: het medeplegen van foltering en de schending van de wetten en gebruiken van de oorlog.
+
+Uit het dossier is gebleken dat één van zijn slachtoffers dagen achtereen ten dele ontkleed gedurende enige tijd buiten –terwijl het (buiten) koud was- in een vat met (koud) water is gezet. Tevens is dit slachtoffer bedreigd.
+
+Een ander slachtoffer is in het gezicht gestompt en heeft gedurende enige uren blootsvoets in de sneeuw moeten staan. Tevens zijn meermalen elektriciteitsdraden aan zijn lichaam bevestigd en is hem vervolgens door deze elektriciteitsdraden stroom toegediend.
+
+Het derde slachtoffer is geschopt en geslagen en heeft dagen buiten moeten staan terwijl het koud was. Van deze getuige zijn daarnaast vingers tussen een deur en het bij die deur behorende kozijn gebracht, waarna de deur is dichtgegooid. Vervolgens is één van die vingers zonder verdoving afgeknipt.
+
+Al deze slachtoffers zijn voorts dagen achtereen wakker gehouden. Dit alles geschiedde met het kennelijke doel de slachtoffers, politieke tegenstanders van het heersende regime, tot een “bekentenis” te brengen.
+
+Uit het dossier is bovendien aannemelijk geworden dat deze feiten onderdeel vormden van een vast patroon van handelen binnen de (militaire) inlichtingendienst, die door de verdachte werd geleid.
+
+Zoals uit het dossier is gebleken hebben de bovenomschreven handelingen dramatische en traumatische (psychische) gevolgen gehad voor de slachtoffers die, naar het zich laat aanzien, blijvend van aard zijn.
+
+De bewezenverklaarde feiten worden, naast genocide en  misdrijven tegen de menselijkheid, gezien als 'de ernstigste misdrijven die de gehele internationale gemeenschap met zorg vervullen' (memorie van toelichting bij de Wet internationale misdrijven, kamerstukken II, 2001-2002, 28 337, nr. 3, blz. 1).
+
+Zowel het oorlogsmisdrijf marteling als ook foltering wekt op ruime schaal, wereldwijd, verontwaardiging en verontrusting; ook schokken deze misdrijven de internationale rechtsorde. Zij raken bovendien de Nederlandse rechtsorde omdat de verdachte door zijn vlucht naar Nederland deel is gaan uitmaken van de Nederlandse samenleving. Van die samenleving maken thans ook veel personen deel uit die daar geconfronteerd zijn met de gruwelen van het gewapend conflict en de gewelddadigheden begaan door de organisatie waarvan de verdachte aan het hoofd stond.
+
+De handelwijze van de verdachte, welke een flagrante ontkenning betekent van de universele eerbied die behoort te bestaan voor de rechten van de mens en de fundamentele vrijheden, geeft blijk van een in de hoogste mate laakbaar gebrek aan respect voor de waardigheid van een medemens. Gezien verdachtes vooraanstaande positie valt zulks de verdachte in bijzondere mate aan te rekenen.
+
+Het hof rekent het de verdachte voorts aan dat hij er bij de behandeling in hoger beroep op geen enkele wijze blijk van heeft gegeven het verwerpelijke van zijn handelen in te zien.
+
+Naar het oordeel van het hof rechtvaardigen de ernst van de bewezenverklaarde feiten op zichzelf het opleggen van een onvoorwaardelijke gevangenisstraf van langere duur dan door de rechtbank in eerste aanleg is opgelegd. Daarbij staan het hof in het bijzonder genoegdoening voor de slachtoffers en hun omgeving, de markering van het belang van de in het geding zijnde humanitaire normen en  de generale preventie voor ogen.
+
+Het hof heeft echter ook gewicht toegekend aan de gevorderde leeftijd van de verdachte, de omstandigheid dat de kans op herhaling verwaarloosbaar is geworden en de feiten geruime tijd geleden zijn begaan, zodat zal worden volstaan met een gevangenisstraf van navermelde
+
+–aanzienlijke- duur.
+
+14.	Beslag
+
+De advocaat-generaal heeft geconcludeerd tot teruggave van de inbeslaggenomen voorwerpen aan de verdachte.
+
+Ten aanzien van de inbeslaggenomen en nog niet teruggegeven voorwerpen zoals deze vermeld zijn op de in kopie aan dit arrest gehechte lijst van inbeslaggenomen voorwerpen zal het hof de teruggave gelasten aan de verdachte.
+
+15.	Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 47 en 57 van het Wetboek van Strafrecht, artikel 1 (oud) van de Uitvoeringswet folteringverdrag en de artikelen 8 (oud) en 9 (oud) van de Wet oorlogsmisdrijven.
+
+16.	BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep - voorzover aan het oordeel van het hof onderworpen - en doet opnieuw recht.
+
+Verklaart bewezen dat de verdachte het onder 2 primair en 3 tenlastegelegde, zoals hierboven omschreven, heeft begaan.
+
+Verklaart niet bewezen hetgeen terzake meer of anders is tenlastegelegd en spreekt de verdachte daarvan vrij.
+
+Bepaalt dat het bewezenverklaarde de hierboven vermelde strafbare feiten oplevert.
+
+Verklaart de verdachte strafbaar terzake van het bewezenverklaarde.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van TWAALF JAREN.
+
+Bepaalt dat de tijd, die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voorzover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Gelast de teruggave aan de verdachte van de ingeslaggenomen en nog niet teruggegeven voorwerpen zoals deze vermeld zijn op de in kopie aan dit arrest gehechte lijst van inbeslaggenomen voorwerpen.
+
+Dit arrest is gewezen door mrs. Oosterhof,
+
+Aler en Heemskerk,
+
+in bijzijn van de griffier mr. Jans.
+
+Het is uitgesproken op de openbare terechtzitting van het hof van 29 januari 2007.
