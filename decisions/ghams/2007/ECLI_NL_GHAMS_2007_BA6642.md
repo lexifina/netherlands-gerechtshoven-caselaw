@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2007:BA6642"
-published_in: ["Rechtspraak.nl", "NJFS 2007, 190", "AA20070798 met annotatie van M.J. Borgers"]
+published_in: ["Rechtspraak.nl", "NJFS 2007, 190", "AA20070798 met annotatie van Borgers M.J."]
 ---
 
 # ECLI:NL:GHAMS:2007:BA6642 Gerechtshof Amsterdam , 16-05-2007 / beschikking
