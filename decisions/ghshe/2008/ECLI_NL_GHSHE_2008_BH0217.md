@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2008:BH0217"
-published_in: ["Rechtspraak.nl", "V-N 2009/15.12 met annotatie van Redactie", "FutD 2009-0219"]
+published_in: ["Rechtspraak.nl", "V-N 2009/15.12 met annotatie van Redactie", "NTFR 2009/149", "FutD 2009-0219", "Viditax (FutD) 2009012004"]
 ---
 
 # ECLI:NL:GHSHE:2008:BH0217 Gerechtshof 's-Hertogenbosch , 03-10-2008 / 06/00432
