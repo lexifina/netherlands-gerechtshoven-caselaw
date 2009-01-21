@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2009:BH1399"
-published_in: ["Rechtspraak.nl", "PJ 2009, 98", "V-N 2009/18.1.3", "FutD 2009-0249"]
+published_in: ["Rechtspraak.nl", "PJ 2009, 98", "V-N 2009/18.1.3", "NTFR 2009/306", "FutD 2009-0249", "Viditax (FutD) 2010050714", "Viditax (FutD) 2009013007"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2010:BM3326, Bekrachtiging/bevestiging"]]
 ---
 
