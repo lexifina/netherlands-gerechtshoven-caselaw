@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2009:BH4737"
-published_in: ["Rechtspraak.nl", "RAR 2009, 73", "AR-Updates.nl 2009-0296"]
+published_in: ["Rechtspraak.nl", "RAR 2009, 73", "AR-Updates.nl 2009-0296", "VAAN-AR-Updates.nl 2009-0296"]
 ---
 
 # ECLI:NL:GHARN:2009:BH4737 Gerechtshof Arnhem , 17-02-2009 / 200.004.010
