@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2009:BK0506"
-published_in: ["Rechtspraak.nl", "RAR 2010, 27", "AR-Updates.nl 2009-0918"]
+published_in: ["Rechtspraak.nl", "RAR 2010, 27", "AR-Updates.nl 2009-0918", "VAAN-AR-Updates.nl 2009-0918"]
 ---
 
 # ECLI:NL:GHSGR:2009:BK0506 Gerechtshof 's-Gravenhage , 30-06-2009 / 200.022.786-01
