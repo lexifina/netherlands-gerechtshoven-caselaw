@@ -1,0 +1,191 @@
+---
+ecli: "ECLI:NL:GHLEE:2009:BJ9278"
+court: "Gerechtshof Leeuwarden"
+court_code: "GHLEE"
+docket: "24-001569-08"
+decided: "2009-10-02"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2009:BJ9278"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHLEE:2009:BJ9278 Gerechtshof Leeuwarden , 02-10-2009 / 24-001569-08
+
+## Inhoudsindicatie
+
+Achterdeurproblematiek. Verdachte, bedrijfsleider van een coffeeshop, wordt ter zake van het medeplegen van aanwezig hebben van te grote hoeveelheden softdrugs in een bewaarplaats buiten de coffeeshop veroordeeld tot een werkstraf van 120 uren, subsidiair 60 dagen vervangende hechtenis, waarvan 60 uren, subsidiair 30 dagen vervangende hechtenis voorwaardelijk, met een proeftijd van 2 jaren.
+
+Verweren ten aanzien van de niet-ontvankelijkheid van het openbaar ministerie worden verworpen. Beroep op overmacht wordt verworpen.
+
+## Uitspraak
+
+Parketnummer: 24-001569-08
+
+Parketnummer eerste aanleg: 18-651039-08
+
+Arrest van 2 oktober 2009 van het gerechtshof te Leeuwarden, meervoudige strafkamer, op het hoger beroep tegen het vonnis van de politierechter in de rechtbank Groningen van 5 juni 2008 in de strafzaak tegen:
+
+[verdachte],
+
+geboren op [1979] te [geboorteplaats],
+
+wonende te [woonplaats], [adres],
+
+verschenen in persoon, bijgestaan door zijn raadsman mr. O.G. Schuur, advocaat te Groningen.
+
+Het vonnis waarvan beroep
+
+De politierechter in de rechtbank Groningen heeft de verdachte bij het vonnis wegens misdrijven veroordeeld tot een straf, zoals in dat vonnis omschreven.
+
+Gebruik van het rechtsmiddel
+
+De verdachte is op de voorgeschreven wijze en tijdig in hoger beroep gekomen.
+
+Het onderzoek ter terechtzitting in hoger beroep
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting in hoger beroep, alsmede het onderzoek op de terechtzitting in eerste aanleg.
+
+De vordering van de advocaat-generaal
+
+De advocaat-generaal heeft gevorderd dat het hof het verdachte ten laste gelegde bewezen zal verklaren en hem ter zake zal veroordelen tot een werkstraf voor de duur van 240 uren, subsidiair 120 dagen vervangende hechtenis, waarvan 120 uren, subsidiair 60 dagen vervangende hechtenis, met een proeftijd van 2 jaren.
+
+De beslissing op het hoger beroep
+
+Het hof zal het vonnis vernietigen en opnieuw recht doen.
+
+Tenlastelegging
+
+Aan de verdachte is ten laste gelegd, dat:
+
+1.
+
+hij op of omstreeks 12 januari 2008 te [plaats], in ieder geval in de gemeente [gemeente], tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk heeft bereid en/of bewerkt en/of verwerkt, in elk geval opzettelijk aanwezig heeft gehad (in een pand gelegen aan of nabij de [straat 1] een hoeveelheid van (in totaal) ongeveer 7.088 gram hennep, in elk geval een hoeveelheid van meer dan 30 gram van een materiaal bevattende hennep, en/of een hoeveelheid van (in totaal) ongeveer 3.061 gram hashish, in elk geval een hoeveelheid van meer dan 30 gram van een gebruikelijk vast mengsel van hennephars en plantaardige elementen van hennep (hashish), zijnde hennep en/of hashish (een) middel(len) als bedoeld in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet;
+
+2.
+
+hij op of omstreeks 12 januari 2008, te [plaats], in ieder geval in de gemeente [gemeente], tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk heeft bereid en/of bewerkt en/of verwerkt, in elk geval opzettelijk aanwezig heeft gehad (in een pand gelegen aan of nabij de [straat 2]) een hoeveelheid van (in totaal) ongeveer 15.390 gram hennep, in elk geval een hoeveelheid van meer dan 30 gram van een materiaal bevattende hennep, te weten (ongeveer) 13.265 gram henneptoppen en/of (ongeveer) 1.458 gram wietmix en/of (ongeveer) 667 gram wiet, verwerkt in (ongeveer) 3337 joints, en/of een hoeveelheid van (in totaal) ongeveer 3.712 gram hashish, in elk geval een hoeveelheid van meer dan 30 gram, van een gebruikelijk vast mengsel van hennephars en plantaardige elementen van hennep (hashish), zijnde hennep en/of hashish (een) middel(len) als bedoeld in de bij de Opiumwet behorende lijst II, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet.
+
+De ontvankelijkheid van het openbaar ministerie
+
+Door en namens verdachte is op twee gronden bepleit dat het openbaar ministerie niet-ontvankelijk dient te worden verklaard in de strafvervolging van verdachte.
+
+Allereerst is - kort gezegd - betoogd dat er op onjuiste wijze is gehandeld bij het binnentreden door de politie. Ter onderbouwing van het betoog is het volgende aangevoerd.
+
+De meldkamer had een melding ontvangen, inhoudende dat het inbraakalarm bij het pand aan de [adres] was afgegaan. Verbalisanten gingen ter plaatse en aldaar troffen ze verdachte, sleutelhouder van het pand, aan. De verbalisanten zijn op grond van artikel 2 van de Politiewet het pand binnengegaan. Verdachte heeft, in tegenstelling tot hetgeen verbalisanten hebben geverbaliseerd, aangegeven dat hij verbalisanten geen toestemming heeft gegeven het pand binnen te gaan. De verbalisanten zijn zonder voorafgaande toestemming rechtstreeks de kelder ingegaan en ze troffen de softdrugs aan.
+
+Toen was gebleken dat het alarm niet was afgegaan en alles in orde was, hadden de verbalisanten, omdat er op dat moment geen sprake was van verdenking van een strafbaar feit, het pand moeten verlaten. Het feit dat na het vinden van de softdrugs geen onderzoeksactiviteiten zijn verricht ten aanzien van het alarm bevestigt de conclusie dat artikel 2 van de Politiewet is misbruikt, aldus de raadsman.
+
+Voorts heeft de raadsman betoogd dat het vertrouwensbeginsel is geschonden omdat het openbaar ministerie jarenlang op de hoogte is geweest van de te grote handelsvoorraad, maar daartegen niet heeft opgetreden.
+
+Het hof overweegt omtrent de verweren als volgt.
+
+Binnentreding
+
+De verbalisanten die de woning zijn binnengetreden zijn ter zitting van het hof hierover ondervraagd. Zij hebben ter zitting verklaard dat zij toestemming van verdachte hebben gekregen om het pand binnen te mogen gaan. Het hof ziet, gelet op de verslaglegging in het proces-verbaal en het verhandelde ter zitting, geen aanleiding te twijfelen aan de juistheid van de verklaringen van de verbalisanten. De binnentreding wordt niet onrechtmatig geacht.
+
+Voorts is de stelling van de raadsman, inhoudende dat de politie ervan op de hoogte moet zijn geweest dat er grote voorraden sofdrugs in de panden aanwezig waren en dat de politie bij het binnentreden misbruik heeft gemaakt van haar bevoegdheid, niet aannemelijk geworden. Het verweer wordt reeds hierom verworpen.
+
+Schending van het vertrouwensbeginsel
+
+In het kader van het Nederlandse coffeeshopbeleid wordt de verkoop van softdrugs in coffeeshops onder strikte voorwaarden gedoogd. De achtergrond daarvan is dat de overheid het bezit voor eigen gebruik van cannabis, vanwege de gezondheidsrisico's, wil ontmoedigen en wil voorkomen dat gebruikers bij de aanschaf van cannabis in aanraking komen met een criminele omgeving.
+
+Bij de beoordeling van de vraag of tegen een coffeeshop - een bij de wet verboden situatie - strafrechtelijk opgetreden dient te worden, gelden de zogenaamde AHOJG criteria.
+
+Indien aan die criteria wordt voldaan zal, blijkens de Aanwijzing, in beginsel tegen coffeeshops die op grond van het lokale driehoeksoverleg worden gedoogd, niet strafrechtelijk worden opgetreden.
+
+Volgens de Aanwijzing kan in de driehoek de maximale handelsvoorraad van gedoogde coffeeshops worden vastgesteld. Tegen een handelsvoorraad onder het maximum wordt in beginsel niet opgetreden. De voorraad zal in elk geval de 500 gram niet te boven gaan. Bij overtreding van een der criteria door een gedoogde coffeeshop blijft overigens het voorhanden hebben en verkopen van handelsvoorraden voor risico van de coffeeshop-exploitant en de coffeeshop-eigenaar, waarbij sprake zal zijn van door de Opiumwet gekwalificeerd bedrijfsmatig handelen.
+
+Houdt een coffeeshopexploitant of -eigenaar zich niet aan de genoemde voorwaarden of criteria dan wordt niet langer gedoogd, maar kan (ook) strafrechtelijk worden opgetreden. In de panden aan de [straat 1] en de [straat 2] zijn hoeveelheden hennep en hashish gevonden die de in een coffeeshop gedoogde handelsvoorraad zeer ver overtroffen.
+
+Het enkele feit dat ter zake de groter dan toegestane handelsvoorraad, welke volgens verdachte uit de aan de lokale autoriteiten verstrekte balans/resultaatrekening zou kunnen blijken, aanvankelijk ogenschijnlijk niet handhavend werd opgetreden, brengt niet mee dat er sprake was van het door de driehoek instemmen met het door verdachte en medeverdachte gehanteerde voorraadbeheer.
+
+Niet is gebleken dat er door of vanwege de officier van justitie aan verdachte noch zijn medeverdachte mededelingen zijn gedaan waaraan de verdachte het gerechtvaardigde vertrouwen kon ontlenen dat hij ter zake van het buiten de coffeeshop(s) hebben van een handelsvoorraad, laat staan een voorraad groter dan de in de coffeeshop gedoogde hoeveelheid, niet zou worden vervolgd.
+
+Evenmin is gebleken van schending van andere beginselen van een behoorlijke procesorde.
+
+Het verweer wordt verworpen.
+
+Bewijsuitsluiting
+
+De raadsman heeft, zoals reeds opgenomen onder het kopje 'ontvankelijkheid van het openbaar ministerie', bepleit dat verbalisanten op onrechtmatige wijze het pand aan de [adres] zijn binnengetreden. De raadsman heeft primair aangevoerd dat als gevolg daarvan het openbaar ministerie niet-ontvankelijk dient te worden verklaard in de vervolging van verdachte. Subsidiair is aangevoerd dat, conform het bepaalde in artikel 359a van het Wetboek van Strafvordering, het proces-verbaal van het bewijs moet worden uitgesloten.
+
+Nu het hof onder het kopje 'ontvankelijkheid van het openbaar ministerie' heeft geoordeeld dat het binnentreden door de verbalisanten niet op onrechtmatige wijze is geschied, zal het verweer aangaande de bewijsuitsluiting geen doel treffen. Het verweer wordt verworpen.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat:
+
+1.
+
+hij op 12 januari 2008 te [plaats], in de gemeente [gemeente], tezamen en in vereniging met een ander, opzettelijk aanwezig heeft gehad (in een pand gelegen aan de [straat 1] een hoeveelheid van (in totaal) ongeveer 7.088 gram hennep en een hoeveelheid van (in totaal) ongeveer 3.061 gram hashish, zijnde hennep en hashish middelen als bedoeld in de bij de Opiumwet behorende lijst II;
+
+2.
+
+hij op 12 januari 2008, te [plaats], in ieder geval in de gemeente [gemeente], tezamen en in vereniging met een ander, opzettelijk aanwezig heeft gehad (in een pand gelegen aan de [straat 2]) een hoeveelheid van (in totaal) ongeveer 15.390 gram hennep, te weten ongeveer 13.265 gram henneptoppen en ongeveer 1.458 gram wietmix en ongeveer 667 gram wiet verwerkt in 3337 joints, en een hoeveelheid van ongeveer 3.712 gram hashish, zijnde hennep en hashish middelen als bedoeld in de bij de Opiumwet behorende lijst II.
+
+Het hof acht niet bewezen hetgeen aan verdachte als voormeld onder 1 en 2 meer of anders is ten laste gelegd dan hierboven als bewezen is aangenomen.
+
+Kwalificatie
+
+Het bewezen verklaarde levert op de misdrijven:
+
+onder 1:  medeplegen van opzettelijk handelen in strijd met het in artikel 3, onder C, van de Opiumwet gegeven verbod;
+
+onder 2:  medeplegen van opzettelijk handelen in strijd met het in artikel 3, onder C, van de Opiumwet gegeven verbod.
+
+Strafbaarheid
+
+De raadsman heeft aangevoerd dat verdachte moet worden ontslagen van alle rechtsvervolging omdat verdachte handelde op grond van overmacht (het hof begrijpt: in de zin van noodtoestand). Ter onderbouwing daarvan is aangevoerd dat verdachte, als werknemer van de coffeeshop, in een conflict van belangen is geraakt. Enerzijds bestaat er het belang van het behoud van zijn arbeidsovereenkomst en anderzijds bestaat er het belang van de achterdeurproblematiek, inhoudende dat het niet werkbaar is om een kleinere handelsvoorraad dan toegestaan aanwezig te hebben.
+
+Het hof verwerpt het gevoerde verweer.
+
+Het hof is van oordeel dat er in casu geen sprake was van een botsing van rechtsbelangen, waaruit verdachte zich diende te redden door het plegen van strafbare feiten.
+
+Het coffeeshopbeleid is een veelbesproken en niet onomstreden beleid. Om die reden is de verkoop van softdrugs in verregaande mate gereguleerd en wordt deze slechts onder strikte voorwaarden gedoogd. Verdachte kende deze voorwaarden en moest deze voorwaarden ook hebben gekend toen hij bij de coffeeshop in dienst trad. Niettemin heeft hij een veel te grote voorraad aanwezig gehad. Verdachte was naar het oordeel van het hof op geen enkele wijze gehouden om een (veel) grotere handelsvoorraad dan toegestaan aan te houden.
+
+Het hof acht verdachte strafbaar, nu ook overigens geen strafuitsluitingsgronden aanwezig worden geacht.
+
+Strafmotivering
+
+Het hof heeft bij het bepalen van de op te leggen straf gelet op de aard en de ernst van de feiten, de omstandigheden waaronder de feiten zijn gepleegd en de persoon van verdachte. Het hof heeft in het bijzonder gelet op het navolgende.
+
+Verdachte is bedrijfsleider van een coffeeshop in [plaats]. Om in de bevoorrading van de coffeeshop waarin hij werkzaam was te voorzien heeft verdachte tezamen met de exploitant van coffeeshops grote hoeveelheden hennep en hashish aanwezig gehad, verdeeld over twee locaties. De hoeveelheden die verdachte en medeverdachte aanwezig hadden lagen aanzienlijk hoger dan de hoeveelheid waarvan het bezit wordt gedoogd.
+
+Dergelijk handelen werkt een vorm van oneerlijke concurrentie in de hand ten opzichte van hen die zich wél aan de regels houden. Bovendien trekt de aanwezigheid van een grote hoeveelheid softdrugs criminaliteit en overlast aan.
+
+Ter terechtzitting van het hof is aannemelijk geworden dat verdachte en medeverdachte, in samenspraak met de driehoek, op verantwoorde wijze proberen de coffeeshop te exploiteren. Voorts is aannemelijk geworden dat het niet de bedoeling van verdachte en medeverdachte is geweest om aan de doelen die met de gestelde normen worden nagestreefd voorbij te gaan. Verdachte en medeverdachte zijn echter onverminderd gehouden de toepasselijke wettelijke bepalingen na te leven, zolang niet door de wetgever in regelgeving of beleid meer ruimte wordt geboden.
+
+Gelet op het bovenstaande ziet het hof geen aanleiding toepassing te geven aan artikel 9a van het Wetboek van Strafrecht.
+
+Uit het Uittreksel uit de Justitiële Documentatie van 17 juni 2009 is gebleken dat verdachte niet eerder ter zake van soortgelijke delicten is veroordeeld.
+
+Bij de bepaling van de strafmaat heeft het hof er rekening mee gehouden dat verdachte ten opzichte van de medeverdachte in een gezagsverhouding staat.
+
+Gezien het bovenstaande ziet het hof aanleiding om een werkstraf van na te noemen duur op te leggen. Om verdachte in de toekomst van (soortgelijk) strafbaar handelen te weerhouden zal een deel van de werkstraf in voorwaardelijke vorm worden opgelegd.
+
+Toepassing van wetsartikelen
+
+Het hof heeft gelet op de artikelen 3 en 11 van de Opiumwet en de artikelen 14a, 14b, 14c, 22c, 22d en 57 van het Wetboek van Strafrecht, zoals deze artikelen golden ten tijde van het bewezenverklaarde.
+
+De uitspraak
+
+HET HOF,
+
+RECHT DOENDE OP HET HOGER BEROEP:
+
+vernietigt het vonnis, waarvan beroep, en opnieuw recht doende:
+
+verklaart het verdachte onder 1 en 2 ten laste gelegde bewezen en kwalificeert dit als hiervoor vermeld en verklaart deze feiten en verdachte strafbaar;
+
+verklaart niet bewezen hetgeen aan verdachte als voormeld onder 1 en 2 meer of anders is ten laste gelegd dan hierboven als bewezen is aangenomen en spreekt verdachte daarvan vrij;
+
+veroordeelt verdachte [verdachte] tot taakstraf, bestaande uit een werkstraf, voor de duur van honderdtwintig uren, met bevel voor het geval dat de veroordeelde de werkstraf niet naar behoren verricht, dat vervangende hechtenis voor de duur van zestig dagen zal worden toegepast;
+
+beveelt dat de werkstraf niet zal worden ten uitvoer gelegd, tenzij de rechter later anders mocht gelasten op grond, dat de veroordeelde zich voor het einde van een proeftijd van twee jaren aan een strafbaar feit heeft schuldig gemaakt;
+
+beveelt dat de tijd door de veroordeelde vóór de tenuitvoerlegging van deze uitspraak in verzekering doorgebracht, bij de uitvoering van de voormelde werkstraf geheel in mindering wordt gebracht, berekend naar de maatstaf van twee uren werkstraf per dag.
+
+Dit arrest is aldus gewezen door mr. W. Foppen, voorzitter, mr. J. Hielkema en mr. G.M. Meijer-Campfens, in tegenwoordigheid van mr. I.N. Koers als griffier, zijnde de griffier voornoemd buiten staat dit arrest mede te ondertekenen.
