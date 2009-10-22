@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2009:BK4632"
-published_in: ["Rechtspraak.nl", "Belastingblad 2010/171 met annotatie van M. Koenis", "FutD 2009-2625"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2010/171 met annotatie van M. Koenis", "FutD 2009-2625", "Viditax (FutD) 2009120208"]
 cites_law: ["netherlands/national/acts/gemeentewet/art-220.md"]
 ---
 
