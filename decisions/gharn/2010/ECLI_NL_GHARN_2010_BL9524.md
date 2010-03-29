@@ -27,9 +27,9 @@ Het hof heeft niet bewezen geacht dat er sprake was van (deelname aan) een crimi
 
 Sector strafrecht
 
-Parketnummer:	21-004116-07
+Parketnummer: 21-004116-07
 
-Uitspraak d.d.:	29 maart 2010
+Uitspraak d.d.: 29 maart 2010
 
 TEGENSPRAAK
 
@@ -65,51 +65,51 @@ Aan verdachte is aldus tenlastegelegd dat:
 
 hij op een of meer tijdstippen in of omstreeks de periode van de maand januari 2003 tot 25 februari 2003 te Leeuwarden en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of
 
-'s-Gravenhage en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, de minderjarige aangever 1 (geboren op 18 maart 1985), (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel ten aanzien van die minderjarige (telkens) enige handeling(en) heeft ondernomen waarvan verdachte wist, althans redelijkerwijs moest vermoeden, dat die minderjarige zich daardoor tot het verrichten van die handeling(en) beschikbaar stelde, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
+'s-Gravenhage en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, de minderjarige aangever 1 (geboren op [geboortedatum 1] 1985), (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel ten aanzien van die minderjarige (telkens) enige handeling(en) heeft ondernomen waarvan verdachte wist, althans redelijkerwijs moest vermoeden, dat die minderjarige zich daardoor tot het verrichten van die handeling(en) beschikbaar stelde, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
 
--	voornoemde aangever 1 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
+- voornoemde aangever 1 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
 
--	die aangever 1 (daartoe) een aanmeld-/inschrijfformulier laten invullen en/of
+- die aangever 1 (daartoe) een aanmeld-/inschrijfformulier laten invullen en/of
 
--	die aangever 1 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de 	behandeling van) (een) (potentiële) klant(en) en/of
+- die aangever 1 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de behandeling van) (een) (potentiële) klant(en) en/of
 
--	van die aangever 1 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende 	foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
+- van die aangever 1 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
 
--	die aangever 1 middels chatten (een) (eigen) klant(en) laten werven en/of
+- die aangever 1 middels chatten (een) (eigen) klant(en) laten werven en/of
 
--	die aangever 1 bij hem/hen, verdachte en/of (een of meer van) verdachtes mededader(s), laten inwonen en/of (elders) ondergebracht en/of
+- die aangever 1 bij hem/hen, verdachte en/of (een of meer van) verdachtes mededader(s), laten inwonen en/of (elders) ondergebracht en/of
 
--	die aangever 1 gedreigd diens familie in te lichten en/of voornoemde foto('s) te 	verspreiden indien hij, aangever 1, geen gay-escortwerk (meer) zou verrichten en/of
+- die aangever 1 gedreigd diens familie in te lichten en/of voornoemde foto('s) te verspreiden indien hij, aangever 1, geen gay-escortwerk (meer) zou verrichten en/of
 
--	die aangever 1 (een) condoom(s) en/of glijmiddel verschaft en/of
+- die aangever 1 (een) condoom(s) en/of glijmiddel verschaft en/of
 
--	die aangever 1 vervoerd naar en/of (verder) in contact gebracht met (een) klant(en) en/of laten werken voor/in een privé-huis en/of
+- die aangever 1 vervoerd naar en/of (verder) in contact gebracht met (een) klant(en) en/of laten werken voor/in een privé-huis en/of
 
--	door die aangever 1 met/in het gay-escortwerk verdiend geld geheel of gedeeltelijk aan/voor hen/hem, verdachte en/of (een of meer van) verdachtes mededader(s), doen afstaan en/of van die aangever 1 in ontvangst genomen;
+- door die aangever 1 met/in het gay-escortwerk verdiend geld geheel of gedeeltelijk aan/voor hen/hem, verdachte en/of (een of meer van) verdachtes mededader(s), doen afstaan en/of van die aangever 1 in ontvangst genomen;
 
 2.
 
-hij op een of meer tijdstippen in of omstreeks de periode van de maand juli 2005 tot en met de maand december 2005, te Renkum en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, aangever 2 (geboren op 17 april 1989) (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel (telkens) ten aanzien van die aangever 2 enige handeling(en) heeft ondernomen waarvan verdachte wist of redelijkerwijs moest vermoeden dat die aangever 2 zich daardoor beschikbaar stelde tot het verrichten van die handeling(en), terwijl die aangever 2 de leeftijd van achttien jaren nog niet had bereikt, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
+hij op een of meer tijdstippen in of omstreeks de periode van de maand juli 2005 tot en met de maand december 2005, te Renkum en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, aangever 2 (geboren op [geboortedatum 2] 1989) (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel (telkens) ten aanzien van die aangever 2 enige handeling(en) heeft ondernomen waarvan verdachte wist of redelijkerwijs moest vermoeden dat die aangever 2 zich daardoor beschikbaar stelde tot het verrichten van die handeling(en), terwijl die aangever 2 de leeftijd van achttien jaren nog niet had bereikt, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
 
--	voornoemde aangever 2 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
+- voornoemde aangever 2 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
 
--	die aangever 2 (daartoe) een aanmeld-/inschrijfformulier laten invullen (met  (onder meer) diens lichaamskenmerken en/of seksuele voorkeuren en/of mogelijkheden en/of (te voeren) werknaam) en/of
+- die aangever 2 (daartoe) een aanmeld-/inschrijfformulier laten invullen (met (onder meer) diens lichaamskenmerken en/of seksuele voorkeuren en/of mogelijkheden en/of (te voeren) werknaam) en/of
 
--	van die aangever 2 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende 	foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
+- van die aangever 2 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
 
--	die aangever 2 betrokken en/of getest in een rollenspel van klant-escortjongen 	en/of
+- die aangever 2 betrokken en/of getest in een rollenspel van klant-escortjongen en/of
 
--	die aangever 2 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de 	behandeling van) (een) (potentiële) klant(en) en/of
+- die aangever 2 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de behandeling van) (een) (potentiële) klant(en) en/of
 
--	die aangever 2 (de) huisregels overgelegd/voorgehouden en/of laten ondertekenen/accepteren en/of
+- die aangever 2 (de) huisregels overgelegd/voorgehouden en/of laten ondertekenen/accepteren en/of
 
--	die aangever 2 (een) condoom(s) en/of glijmiddel verschaft en/of
+- die aangever 2 (een) condoom(s) en/of glijmiddel verschaft en/of
 
--	die aangever 2 vervoerd naar en/of in contact gebracht met (een) klant(en) en/of
+- die aangever 2 vervoerd naar en/of in contact gebracht met (een) klant(en) en/of
 
 (vervolgens) die aangever 2 na diens werkzaamheden opgewacht en/of
 
--	door die aangever 2 met/in het gay-escortwerk verdiend geld geheel of
+- door die aangever 2 met/in het gay-escortwerk verdiend geld geheel of
 
 gedeeltelijk aan/voor hen/hem, verdachte en/of (een of meer van) verdachtes
 
@@ -117,65 +117,65 @@ mededader(s), doen afstaan en/of van die aangever 2 in ontvangst genomen;
 
 3.
 
-hij op een of meer tijdstippen in of omstreeks de periode van 09 september 2005 tot en met de maand juni 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) ontucht heeft gepleegd met zijn minderjarige bediende en/of ondergeschikte, te weten  aangever 2 (geboren op 17 april 1989), bestaande die ontucht (telkens) hierin dat verdachte en/of verdachtes mededader voornoemde aangever 2 hebben/heeft afgetrokken en/of zich door die aangever 2 hebben/heeft laten aftrekken en/of hun/zijn penis(sen) hebben/heeft geduwd/gebracht in de mond van die aangever 2, althans die aangever 2 hun/zijn penis(sen) in de mond heeft laten nemen, en/of de penis van die aangever 2 in hun/zijn mond(en) hebben/heeft genomen;
+hij op een of meer tijdstippen in of omstreeks de periode van 09 september 2005 tot en met de maand juni 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) ontucht heeft gepleegd met zijn minderjarige bediende en/of ondergeschikte, te weten aangever 2 (geboren op [geboortedatum 2] 1989), bestaande die ontucht (telkens) hierin dat verdachte en/of verdachtes mededader voornoemde aangever 2 hebben/heeft afgetrokken en/of zich door die aangever 2 hebben/heeft laten aftrekken en/of hun/zijn penis(sen) hebben/heeft geduwd/gebracht in de mond van die aangever 2, althans die aangever 2 hun/zijn penis(sen) in de mond heeft laten nemen, en/of de penis van die aangever 2 in hun/zijn mond(en) hebben/heeft genomen;
 
 althans, indien het vorenstaande onder 3 niet tot een veroordeling leidt:
 
 hij op een of meer tijdstippen in of omstreeks de periode van 09 september 2005 tot en met de maand juni 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht en/of misleiding, te weten door misbruik van
 
--	zijn/hun - door/met het geven van veel aandacht - gecreëerde band met de hierna te noemen (nog niet voor anderen 'uit de kast gekomen' en/of met zijn (homo)seksuele gevoelens 'experimenterende') aangever 2 en/of
+- zijn/hun - door/met het geven van veel aandacht - gecreëerde band met de hierna te noemen (nog niet voor anderen 'uit de kast gekomen' en/of met zijn (homo)seksuele gevoelens 'experimenterende') aangever 2 en/of
 
--	de (werk)afhankelijke positie waarin d(i)e hierna te noemen aangever 2 ten opzichte van verdachte en/of verdachtes mededader verkeerde en/of
+- de (werk)afhankelijke positie waarin d(i)e hierna te noemen aangever 2 ten opzichte van verdachte en/of verdachtes mededader verkeerde en/of
 
--	zijn/hun leeftijdsoverwicht op d(i)e hierna te noemen aangever 2, een persoon, te weten  Aangever 2 (geboren op 17 april 1989), waarvan verdachte en/of verdachtes mededader wist(en) of redelijkerwijs moest(en) vermoeden dat deze de leeftijd van achttien jaren nog niet had bereikt,
+- zijn/hun leeftijdsoverwicht op d(i)e hierna te noemen aangever 2, een persoon, te weten Aangever 2 (geboren op [geboortedatum 2] 1989), waarvan verdachte en/of verdachtes mededader wist(en) of redelijkerwijs moest(en) vermoeden dat deze de leeftijd van achttien jaren nog niet had bereikt,
 
 opzettelijk heeft bewogen (een) ontuchtige handeling(en) te plegen en/of (een) zodanige handeling(en) van verdachte en/of verdachtes mededader te dulden, bestaande die ontuchtige handeling(en) (telkens) hierin dat verdachte en/of verdachtes mededader voornoemde aangever 2 hebben/heeft afgetrokken en/of zich door die aangever 2 hebben/heeft laten aftrekken en/of hun/zijn penis(sen) hebben/heeft geduwd/gebracht in de mond van die Aangever 2, althans die aangever 2 hun/zijn penis(sen) in de mond heeft laten nemen, en/of de penis van die aangever 2 in hun/zijn mond(en) hebben/heeft genomen;
 
 4.
 
-hij op een of meer tijdstippen in of omstreeks de periode van 01 oktober 2002 tot en met 07 juli 2006 te Arnhem en/of Huissen, gemeente(s) Bemmel en/of Lingewaard, en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van  (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft verspreid en/of vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) in algemene zin (telkens) uit (een) geheel of gedeeltelijk ontklede minderjarige jongen(s) die
+hij op een of meer tijdstippen in of omstreeks de periode van 01 oktober 2002 tot en met 07 juli 2006 te Arnhem en/of Huissen, gemeente(s) Bemmel en/of Lingewaard, en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft verspreid en/of vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) in algemene zin (telkens) uit (een) geheel of gedeeltelijk ontklede minderjarige jongen(s) die
 
--	zichzelf en/of elkaar aftrekt/aftrekken en/of
+- zichzelf en/of elkaar aftrekt/aftrekken en/of
 
--	een penis betast(en) en/of vastpakt/vastpakken en/of in de mond neemt/nemen en/of
+- een penis betast(en) en/of vastpakt/vastpakken en/of in de mond neemt/nemen en/of
 
--	anaal wordt/worden gepenetreerd en/of
+- anaal wordt/worden gepenetreerd en/of
 
--	op een dusdanige wijze poseert/poseren dat zijn/hun penis(sen) nadrukkelijk in 	beeld wordt/worden gebracht, welke wijze van poseren kennelijk bedoeld is om seksuele prikkeling op te wekken, van welke afgebeelde seksuele gedraging(en) een selectie - zakelijk weergegeven - als volgt is omschreven (z(aak)d(ossier) 076, pag. 	6732 t/m 6734, 6843/6844 en 6859/6860):
+- op een dusdanige wijze poseert/poseren dat zijn/hun penis(sen) nadrukkelijk in beeld wordt/worden gebracht, welke wijze van poseren kennelijk bedoeld is om seksuele prikkeling op te wekken, van welke afgebeelde seksuele gedraging(en) een selectie - zakelijk weergegeven - als volgt is omschreven (z(aak)d(ossier) 076, pag. 6732 t/m 6734, 6843/6844 en 6859/6860):
 
--	(Pfadfinderschlacht.1.mpg) Zes jongens tussen 13 en 15 jaar plegen 		verschillende seksuele handelingen bij elkaar en met zichzelf. Deze handelingen bestaan onder andere uit aftrekken, pijpen en anaal 	geslachtsverkeer;
+- ( [bestandsnaam 1] .mpg) Zes jongens tussen 13 en 15 jaar plegen verschillende seksuele handelingen bij elkaar en met zichzelf. Deze handelingen bestaan onder andere uit aftrekken, pijpen en anaal geslachtsverkeer;
 
--	(Der Giftzwerge.mpg) Vier jongens tussen 14 en 15 jaar plegen diverse seksuele handelingen bij zichzelf,
+- ( [bestandsnaam 2] .mpg) Vier jongens tussen 14 en 15 jaar plegen diverse seksuele handelingen bij zichzelf,
 
--	(Blumenbengel Part 2.mpg) Vier jongens van 14 en 15 jaar plegen diverse seksuele handelingen met elkaar en bij zichzelf. De seksuele handelingen bestaan uit pijpen en aftrekken;
+- ( [bestandsnaam 3] .mpg) Vier jongens van 14 en 15 jaar plegen diverse seksuele handelingen met elkaar en bij zichzelf. De seksuele handelingen bestaan uit pijpen en aftrekken;
 
--	(naakt0027) Een naakte jongen staat in een kamer en heeft zijn penis in erectie. 	De foto is van onderuit genomen en gericht op de penis van de jongen. Geschatte leeftijd van de jongen tussen 11 en 13 jaar;
+- ( [bestandsnaam 4] ) Een naakte jongen staat in een kamer en heeft zijn penis in erectie. De foto is van onderuit genomen en gericht op de penis van de jongen. Geschatte leeftijd van de jongen tussen 11 en 13 jaar;
 
--	(neuken019) Een naakte jongen staat met de handen tegen een muur terwijl een andere naakte jongen achter hem staat en zijn penis in de anus van de voorste jongen heeft. Geschatte leeftijd van beide jongens tussen 12 en 15 jaar;
+- ( [bestandsnaam 5] ) Een naakte jongen staat met de handen tegen een muur terwijl een andere naakte jongen achter hem staat en zijn penis in de anus van de voorste jongen heeft. Geschatte leeftijd van beide jongens tussen 12 en 15 jaar;
 
--	(Orgie014) Drie jongens liggen in een kring naakt op een bed. Een van de jongens heeft zijn penis in erectie met zijn hand vast. De andere twee jongens kijken toe. Geschatte leeftijd van de jongens tussen 12 en 14 jaar; (pijpen0014) 	Twee jongens liggen naakt op bed. Een van de twee jongens ligt ruggelings op 	bed. De ander ligt half voorovergebogen en pijpt de jongen die ruggelings op bed ligt. Geschatte leeftijd van de jongens tussen 13 en 15 jaar;
+- ( [bestandsnaam 6] ) Drie jongens liggen in een kring naakt op een bed. Een van de jongens heeft zijn penis in erectie met zijn hand vast. De andere twee jongens kijken toe. Geschatte leeftijd van de jongens tussen 12 en 14 jaar; ( [bestandsnaam 7] ) Twee jongens liggen naakt op bed. Een van de twee jongens ligt ruggelings op bed. De ander ligt half voorovergebogen en pijpt de jongen die ruggelings op bed ligt. Geschatte leeftijd van de jongens tussen 13 en 15 jaar;
 
--	(Sasha01-033) Een naakte jongen ligt op een kleed. Met zijn linkerhand houdt 	hij zijn penis vast. Met zijn rechterhand houdt hij een vibrator vast. Deze vibrator zit in de anus van de jongen. Geschatte leeftijd van deze jongen tussen 	de 12 en 14 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie Sasha;
+- ( [bestandsnaam 8] ) Een naakte jongen ligt op een kleed. Met zijn linkerhand houdt hij zijn penis vast. Met zijn rechterhand houdt hij een vibrator vast. Deze vibrator zit in de anus van de jongen. Geschatte leeftijd van deze jongen tussen de 12 en 14 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie Sasha;
 
--	(vinnyl59) Een naakte jongen zit op een lichtblauw dekbedovertrek. Met zijn linkerhand houdt hij zijn penis vast en kijkt in de camera. Geschatte leeftijd van deze jongen tussen de 14 en 16 jaar. Deze afbeelding maakt deel uit van de 	'bekende' serie Vinny;
+- ( [bestandsnaam 15] ) Een naakte jongen zit op een lichtblauw dekbedovertrek. Met zijn linkerhand houdt hij zijn penis vast en kijkt in de camera. Geschatte leeftijd van deze jongen tussen de 14 en 16 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie [naam serie] ;
 
--	(112-1L002 band nr 203; Young Boys in a home video) Twee jongens 16 à 18 jaar die op een beige (nep)leren bank zitten en naar een pornofilm zitten te kijken. Ze betasten elkaar en trekken zich vervolgens af. Aan het eind verlaten 	beiden naakt de woonkamer;
+- (112-1 L002 band nr 203; [naam video] ) Twee jongens 16 à 18 jaar die op een beige (nep)leren bank zitten en naar een pornofilm zitten te kijken. Ze betasten elkaar en trekken zich vervolgens af. Aan het eind verlaten beiden naakt de woonkamer;
 
--	(111-IL001 band nr 202; Young Boys in a home video) De film begint met een jongen 14 à 16 jaar die zit te gamen voor de TV. Later zichzelf aftrekt. Daarna 	iemand opbelt. Een tweede jongen 16 à 18 jaar verschijnt even later. Diverse seksuele handelingen verrichten ze bij zichzelf en bij elkaar (anaal, oraal en aftrekken). De jongens praten (nep)Duits tegen elkaar;
+- (111- IL001 band nr 202; [naam video] ) De film begint met een jongen 14 à 16 jaar die zit te gamen voor de TV. Later zichzelf aftrekt. Daarna iemand opbelt. Een tweede jongen 16 à 18 jaar verschijnt even later. Diverse seksuele handelingen verrichten ze bij zichzelf en bij elkaar (anaal, oraal en aftrekken). De jongens praten (nep)Duits tegen elkaar;
 
--	(114-IL001 band nr 206; Knaben im brautzimmer) Een jongen loopt op een oud (VOC) schip, ontmoet later een jongen in de trein. Betasten elkaar. Komen 	terecht op hotelkamer (Hotel-restaurant Schiphol A4) en plegen diverse 	seksuele handelingen. Ook is er een jongen af en toe in beeld die zichzelf aftrekt. Later komt er nog een jongen bij. In een bad zijn drie van deze jongens te zien die diverse seksuele handelingen plegen. Leeftijd jongens tussen 14 en 17 jaar;
+- (114- IL001 band nr 206; [bestandsnaam 16] Een jongen loopt op een oud (VOC) schip, ontmoet later een jongen in de trein. Betasten elkaar. Komen terecht op hotelkamer (Hotel-restaurant Schiphol A4) en plegen diverse seksuele handelingen. Ook is er een jongen af en toe in beeld die zichzelf aftrekt. Later komt er nog een jongen bij. In een bad zijn drie van deze jongens te zien die diverse seksuele handelingen plegen. Leeftijd jongens tussen 14 en 17 jaar;
 
--	(113-IL001 band nr 204; Young Boys A Home Video Vol 7) Twee jongens liggen naakt op bed en gaan later onder de douche. Ze plegen diverse seksuele handelingen met zichzelf en bij elkaar. Leeftijd van de jongens tussen 16 en 18 jaar;
+- (113- IL001 band nr 204; [naam video] Vol 7) Twee jongens liggen naakt op bed en gaan later onder de douche. Ze plegen diverse seksuele handelingen met zichzelf en bij elkaar. Leeftijd van de jongens tussen 16 en 18 jaar;
 
--	(115-IL001 band nr 358; De boy en de bengel) Twee jongens zitten op een zwarte (nep)leren bank. Ze plegen diverse seksuele handelingen bij elkaar en met zichzelf. Leeftijd tussen 15 en 17 jaar, en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een dvd/cd-rom (IBN nummer 043-1M009) en/of twee, althans een of meer, harde schijf/schijven (IBN nummer(s) 039-1M005 en/of 042-IM008) en/of (een of meer harde schijf/schijven van/in) twee, althans een of meer, computers (IBN nummer(s) 080-IA031 en/of 082-IA033) en/of een aantal (5) videobanden (IBN nummer 012-IL001);
+- (115- IL001 band nr 358; [bestandsnaam 17] ) Twee jongens zitten op een zwarte (nep)leren bank. Ze plegen diverse seksuele handelingen bij elkaar en met zichzelf. Leeftijd tussen 15 en 17 jaar, en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een dvd/cd-rom (IBN nummer [nummer 1] ) en/of twee, althans een of meer, harde schijf/schijven (IBN nummer(s) [nummer 2] en/of [nummer 3] ) en/of (een of meer harde schijf/schijven van/in) twee, althans een of meer, computers (IBN nummer(s) [nummer 4] en/of [nummer 5] ) en/of een aantal (5) videobanden (IBN nummer [nummer 6] );
 
 5.
 
-hij in of omstreeks de periode van 02 januari 2001 tot en met 07 juli 2006 te Arnhem en/of Velp, gemeente Rheden, en/of Huissen, gemeente(s) Bemmel en/of Lingewaard, en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk heeft deelgenomen aan een organisatie, bestaande uit (onder meer) verdachte en/of medeverdachten, welke organisatie tot oogmerk had het plegen van misdrijven tegen de zeden, te weten: -het (mede) ronselen van minderjarige jongens voor (het) gay-escortwerk en/of het in 	contact brengen van minderjarige jongens met klanten van/in de gay-escort en/of het dwingen/bewegen van minderjarige en/of meerderjarige jongens tot het tegen betaling verrichten van seksuele handelingen met klanten van/in de gay-escort en/of 	het trekken van voordeel uit voornoemde seksuele handelingen (artikel 250a/273a Wetboek van Strafrecht) en/of
+hij in of omstreeks de periode van 02 januari 2001 tot en met 07 juli 2006 te Arnhem en/of Velp, gemeente Rheden, en/of Huissen, gemeente(s) Bemmel en/of Lingewaard, en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk heeft deelgenomen aan een organisatie, bestaande uit (onder meer) verdachte en/of medeverdachten, welke organisatie tot oogmerk had het plegen van misdrijven tegen de zeden, te weten: -het (mede) ronselen van minderjarige jongens voor (het) gay-escortwerk en/of het in contact brengen van minderjarige jongens met klanten van/in de gay-escort en/of het dwingen/bewegen van minderjarige en/of meerderjarige jongens tot het tegen betaling verrichten van seksuele handelingen met klanten van/in de gay-escort en/of het trekken van voordeel uit voornoemde seksuele handelingen (artikel 250a/273a Wetboek van Strafrecht) en/of
 
--	het vervaardigen en/of in bezit hebben van (voor (een) (potentiële) klant(en)) seksueel prikkelende afbeeldingen (foto's) van geheel of gedeeltelijk naakte (kennelijk) minderjarige jongens (artikel 240b Wetboek van Strafrecht) en/of
+- het vervaardigen en/of in bezit hebben van (voor (een) (potentiële) klant(en)) seksueel prikkelende afbeeldingen (foto's) van geheel of gedeeltelijk naakte (kennelijk) minderjarige jongens (artikel 240b Wetboek van Strafrecht) en/of
 
--	het (mede) (onder dwang en/of door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht) seksueel binnendringen van en/of plegen van ontucht(ige handelingen) met minderjarige en/of meerderjarige jongens (artikel(en) 242, 245, 246, 247, 248a en/of 249 Wetboek van Strafrecht),
+- het (mede) (onder dwang en/of door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht) seksueel binnendringen van en/of plegen van ontucht(ige handelingen) met minderjarige en/of meerderjarige jongens (artikel(en) 242, 245, 246, 247, 248a en/of 249 Wetboek van Strafrecht),
 
 van welke organisatie verdachte (feitelijk) oprichter en/of (feitelijk) bestuurder was;
 
@@ -195,43 +195,43 @@ hij op een of meer tijdstippen in of omstreeks de periode van de maand juli 2001
 
 hij op een of meer tijdstippen in of omstreeks de periode van 19 november 2001 tot en met de maand december 2002 te Velp, gemeente Rheden, en/of Huissen, gemeente Bemmel, tezamen en in vereniging met een ander, althans alleen, (telkens) door misbruik van uit feitelijke verhoudingen voortvloeiend overwicht en/of misleiding, te weten door misbruik van
 
--	zijn/hun door/met het geven van veel aandacht - gecreëerde band met de hierna te noemen (nog niet voor anderen 'uit de kast gekomen' en/of met zijn (homo)seksuele gevoelens 'experimenterende') aangever 3en/of
+- zijn/hun door/met het geven van veel aandacht - gecreëerde band met de hierna te noemen (nog niet voor anderen 'uit de kast gekomen' en/of met zijn (homo)seksuele gevoelens 'experimenterende') aangever 3en/of
 
--	zijn/hun leeftijdsoverwicht op d(i)e hierna te noemen aangever 3, een minderjarige, te weten aangever 3(geboren op 19 november 1985), wiens minderjarigheid verdachte en/of verdachtes mededader kende(n) of redelijkerwijs moest(en) vermoeden,
+- zijn/hun leeftijdsoverwicht op d(i)e hierna te noemen aangever 3, een minderjarige, te weten aangever 3(geboren op 19 november 1985), wiens minderjarigheid verdachte en/of verdachtes mededader kende(n) of redelijkerwijs moest(en) vermoeden,
 
 opzettelijk heeft bewogen (een) ontuchtige handeling(en) (met verdachte en/of verdachtes mededader) te plegen en/of (een) zodanige handeling(en) van verdachte en/of verdachtes mededader te dulden, bestaande die ontuchtige handeling(en) (telkens) hierin dat verdachte en/of verdachtes mededader hun/zijn penis(sen) hebben/heeft geduwd in de mond van voornoemde aangever 3, althans die aangever 3 hun/zijn penis(sen) in de mond heeft laten nemen, en/of de penis van die aangever 3 in hun/zijn mond(en) hebben/heeft genomen en/of (met) die Aangever 3 hebben/heeft ge(tong)zoend en/of zich door die aangever 3 hebben/heeft laten aftrekken en/of die aangever 3 hebben/heeft afgetrokken en/of zijn, verdachtes, penis en/of een (soort) wortel, althans enig voorwerp, heeft geduwd/gebracht tegen/in de anus van die aangever 3;
 
 8.
 
-hij op een of meer tijdstippen in of omstreeks de periode van het jaar 2004 tot en met 07 juli 2006, te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel ontklede minderjarige aangever 4  (geboren op 11 augustus 1988) die
+hij op een of meer tijdstippen in of omstreeks de periode van het jaar 2004 tot en met 07 juli 2006, te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel ontklede minderjarige aangever 4 (geboren op 11 augustus 1988) die
 
--	zijn (stijve) penis betast en/of vastpakt en/of toont en/of
+- zijn (stijve) penis betast en/of vastpakt en/of toont en/of
 
--	bij/aan zijn (stijve) penis wordt betast en/of vastgepakt door (verdachtes mededader) en/of (zelf) de (stijve) penis van die medeverdachte betast en/of vastpakt en/of
+- bij/aan zijn (stijve) penis wordt betast en/of vastgepakt door (verdachtes mededader) en/of (zelf) de (stijve) penis van die medeverdachte betast en/of vastpakt en/of
 
--	zichzelf aftrekt en/of door medeverdachte wordt afgetrokken,
+- zichzelf aftrekt en/of door medeverdachte wordt afgetrokken,
 
-en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een flash-/memorycard (IBN nummer 040-1M006);
+en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een flash-/memorycard (IBN nummer [nummer 6] ;
 
 9.
 
-hij op een of meer tijdstippen in of omstreeks de periode van 08 december 2005 tot en met de maand juni 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) ontucht heeft gepleegd met de aan zijn zorg en/of waakzaamheid toevertrouwde minderjarige aangever 4 (geboren op 06 januari 1990), bestaande die ontucht (telkens) hierin dat verdachte en/of verdachtes mededader de penis van voornoemde aangever 4  hebben/heeft betast en/of vastgepakt en/of in de mond hebben/heeft genomen;
+hij op een of meer tijdstippen in of omstreeks de periode van 08 december 2005 tot en met de maand juni 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) ontucht heeft gepleegd met de aan zijn zorg en/of waakzaamheid toevertrouwde minderjarige aangever 4 (geboren op [geboortedatum 3] 1990), bestaande die ontucht (telkens) hierin dat verdachte en/of verdachtes mededader de penis van voornoemde aangever 4 hebben/heeft betast en/of vastgepakt en/of in de mond hebben/heeft genomen;
 
 althans, indien het vorenstaande onder 4 niet tot een veroordeling leidt:
 
-hij op een of meer tijdstippen in of omstreeks de periode van 08 december 2005 tot 06 januari 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, met aangever 4 (geboren op 06 januari 1990), die toen de leeftijd van zestien jaren nog niet had bereikt, (telkens) buiten echt (een) ontuchtige handeling(en) heeft gepleegd, bestaande die ontuchtige handeling(en) (telkens) hierin dat verdachte en/of verdachtes mededader de penis van voornoemde aangever 4 hebben/heeft betast en/of vastgepakt;
+hij op een of meer tijdstippen in of omstreeks de periode van 08 december 2005 tot 06 januari 2006 te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, met aangever 4 (geboren op [geboortedatum 3] 1990), die toen de leeftijd van zestien jaren nog niet had bereikt, (telkens) buiten echt (een) ontuchtige handeling(en) heeft gepleegd, bestaande die ontuchtige handeling(en) (telkens) hierin dat verdachte en/of verdachtes mededader de penis van voornoemde aangever 4 hebben/heeft betast en/of vastgepakt;
 
 10
 
-hij op een of meer tijdstippen in of omstreeks de periode van 22 april 2006 tot en met 07 juli 2006, althans op of omstreeks 22 april 2006, te Huissen, gemeente Lingewaard, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel of gedeeltelijk ontklede minderjarige aangever 5  (geboren op 08 december 1989) en/of Aangever 6 (geboren op 31 december 1989) die
+hij op een of meer tijdstippen in of omstreeks de periode van 22 april 2006 tot en met 07 juli 2006, althans op of omstreeks 22 april 2006, te Huissen, gemeente Lingewaard, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel of gedeeltelijk ontklede minderjarige aangever 5 (geboren op [geboortedatum 4] 1989) en/of Aangever 6 (geboren op [geboortedatum 5] 1989) die
 
--	hun/zijn (stijve) penis(sen) betast(en) en/of vastpakken/vastpakt en/of tonen/toont
+- hun/zijn (stijve) penis(sen) betast(en) en/of vastpakken/vastpakt en/of tonen/toont
 
 en/of
 
--	anaal geslachtsverkeer hebben/heeft,
+- anaal geslachtsverkeer hebben/heeft,
 
-en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in (een flashcard van/in) een digitale fotocamera (IBN nummer 067-IA017);
+en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in (een flashcard van/in) een digitale fotocamera (IBN nummer [nummer 7] );
 
 Indien in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze verbeterd. De verdachte is daardoor niet geschaad in de verdediging.
 
@@ -263,7 +263,7 @@ Nu generlei beletsel is gebleken dat aan de ontvankelijkheid van het openbaar mi
 
 Het vonnis waarvan beroep
 
-Het hof zal het vonnis waarvan vernietigen omdat het tot andere bewijsbeslissingen en een nader straftoemeting  komt en daarom opnieuw rechtdoen.
+Het hof zal het vonnis waarvan vernietigen omdat het tot andere bewijsbeslissingen en een nader straftoemeting komt en daarom opnieuw rechtdoen.
 
 Algemene overwegingen
 
@@ -299,9 +299,9 @@ Met betrekking tot de vrijspraak van het onder 4 tenlastegelegde feit merkt het 
 
 Gelet op de inhoud van de door de getuige 2 ter zitting van het hof van 15 oktober 2009 afgelegde verklaring, komt het hof ten aanzien van de op de onder verdachte en medeverdachte in beslag genomen harde schijven zich bevindende afbeeldingen van mogelijk kinderpornografische aard tot het oordeel, dat er geen sprake is geweest van het in bezit hebben van die afbeeldingen. Aannemelijk is geworden dat deze schijven back-ups betreffen van de server waarvan Best Boys gebruik maakte en waarop derden, in dit geval meer in het bijzonder een persoon genaamd A., uit eigener beweging en buiten medeweten van verdachte of medeverdachte afbeeldingen plaatsten. Uit niets is gebleken dat verdachte en of medeverdachte ervan op de hoogte waren dat deze bestanden zich op de server en dus ook op de back-ups daarvan bevonden.
 
-Ten aanzien van het in de tenlastelegging genoemde bestand “Vinny 159” overweegt het hof dat niet onomstotelijk vast is komen te staan dat dit bestand is gedownload door verdachte en of medeverdachte, nu uit de stukken kan worden afgeleid dat meerdere personen van de computer waarop het bestand is gevonden gebruik maakten.
+Ten aanzien van het in de tenlastelegging genoemde bestand “ [naam serie] ” overweegt het hof dat niet onomstotelijk vast is komen te staan dat dit bestand is gedownload door verdachte en of medeverdachte, nu uit de stukken kan worden afgeleid dat meerdere personen van de computer waarop het bestand is gevonden gebruik maakten.
 
-Voor wat betreft de in de tenlastelegging genoemde band nr. 203 “Young Boys in a home video” is het hof op grond van haar eigen waarneming van de beelden van oordeel dat niet is komen vast te staan de op de opname voorkomende personen de leeftijd van 18 jaar nog niet hadden bereikt.
+Voor wat betreft de in de tenlastelegging genoemde band nr. 203 “ [naam video] ” is het hof op grond van haar eigen waarneming van de beelden van oordeel dat niet is komen vast te staan de op de opname voorkomende personen de leeftijd van 18 jaar nog niet hadden bereikt.
 
 Met betrekking tot de vrijspraak van het onder 5 tenlastegelegde merkt het hof het volgende op:
 
@@ -327,7 +327,7 @@ Voor wat betreft het politieverhoor merkt het hof op dat de vraagstelling van de
 
 Met betrekking tot de vrijspraak van het onder 9 primair en subsidiair tenlastegelegde feit geldt het navolgende:
 
-Aangever 4  heeft in zijn aangifte en verklaringen genoemd dat verdachte hem op de bank in de huiskamer zou hebben gepijpt. Anders dan de verklaring van aangever 4 is er in het dossier geen bewijs aangetroffen dat zijn verklaring op dit punt ondersteunt. Aangever 4 heeft verder verklaard dat medeverdachte hem in bad/onder de douche meermalen heeft gepijpt of geprobeerd heeft te pijpen, maar ook daarvoor is geen steunbewijs in het dossier aanwezig. De getuige B. heeft bij de politie verklaard dat hij gezien heeft dat verdachte in bad de penis van aangever 4 vast had, maar daarover heeft aangever 4 op zijn beurt echter niets verklaard. Hij verklaart immers alleen over medeverdachte die hem in bad/onder de douche seksueel onheus benaderd zou hebben. Van medeplegen van - kort gezegd - ontucht door verdachte en medeverdachte ten opzichte van aangever 4 is niet gebleken, terwijl voor het afzonderlijk plegen van ontucht van verdachte met aangever 4 evenmin voldoende wettig bewijs voorhanden is.
+Aangever 4 heeft in zijn aangifte en verklaringen genoemd dat verdachte hem op de bank in de huiskamer zou hebben gepijpt. Anders dan de verklaring van aangever 4 is er in het dossier geen bewijs aangetroffen dat zijn verklaring op dit punt ondersteunt. Aangever 4 heeft verder verklaard dat medeverdachte hem in bad/onder de douche meermalen heeft gepijpt of geprobeerd heeft te pijpen, maar ook daarvoor is geen steunbewijs in het dossier aanwezig. De getuige B. heeft bij de politie verklaard dat hij gezien heeft dat verdachte in bad de penis van aangever 4 vast had, maar daarover heeft aangever 4 op zijn beurt echter niets verklaard. Hij verklaart immers alleen over medeverdachte die hem in bad/onder de douche seksueel onheus benaderd zou hebben. Van medeplegen van - kort gezegd - ontucht door verdachte en medeverdachte ten opzichte van aangever 4 is niet gebleken, terwijl voor het afzonderlijk plegen van ontucht van verdachte met aangever 4 evenmin voldoende wettig bewijs voorhanden is.
 
 Door de advocaat-generaal is betoogd dat dit ten aanzien van de feiten 6, 7 en 9 de door de getuige B. ter terechtzitting van het hof op 15 oktober 2009 afgelegde verklaring als steunbewijs gebruikt zou kunnen worden. Het hof deelt deze opvatting niet. De verklaring van getuige B. betreft geen feiten die in deze procedure aan verdachte zijn tenlastegelegd. Hij vertelt over gebeurtenissen die niet eerder (zo gedetailleerd) door hem zijn benoemd. Op geen enkele wijze is deze verklaring onderwerp van nader onderzoek geweest. Het voert te ver om zo’n verklaring als – doorslaggevend – steunbewijs te gebruiken voor aan verdachte tenlastegelegde feiten. Dat de getuige ter zitting geen ongeloofwaardige of onbetrouwbare indruk heeft gemaakt doet daar niet aan af.
 
@@ -355,7 +355,7 @@ Anders dan de raadsvrouwe heeft betoogd acht het hof zich zeer wel in staat om o
 
 Ten aanzien van het onder 8 en 10 tenlastegelegde
 
-Voor wat betreft deze feiten geldt dat verdachte deze feiten (voor wat betreft feit 10 deels) heeft bekend, terwijl er daarnaast zich verklaringen bij de stukken bevinden van aangever 4  die de rol van verdachte ten aanzien van het hem gemaakte verwijt bevestigen.
+Voor wat betreft deze feiten geldt dat verdachte deze feiten (voor wat betreft feit 10 deels) heeft bekend, terwijl er daarnaast zich verklaringen bij de stukken bevinden van aangever 4 die de rol van verdachte ten aanzien van het hem gemaakte verwijt bevestigen.
 
 Bewezenverklaring
 
@@ -363,51 +363,51 @@ Door wettige bewijsmiddelen, waarbij de inhoud van elk bewijsmiddel -ook in onde
 
 1.
 
-hij op een of meer tijdstippen in of omstreeks de periode van de maand januari 2003 tot 25 februari 2003 te Leeuwarden en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of 's-Gravenhage en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, de minderjarige Aangever 1 (geboren op 18 maart 1985), (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel ten aanzien van die minderjarige (telkens) enige handeling(en) heeft ondernomen waarvan verdachte wist, althans redelijkerwijs moest vermoeden, dat die minderjarige zich daardoor tot het verrichten van die handeling(en) beschikbaar stelde, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
+hij op een of meer tijdstippen in of omstreeks de periode van de maand januari 2003 tot 25 februari 2003 te Leeuwarden en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of 's-Gravenhage en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, de minderjarige Aangever 1 (geboren op [geboortedatum 1] 1985), (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel ten aanzien van die minderjarige (telkens) enige handeling(en) heeft ondernomen waarvan verdachte wist, althans redelijkerwijs moest vermoeden, dat die minderjarige zich daardoor tot het verrichten van die handeling(en) beschikbaar stelde, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
 
--	voornoemde Aangever 1 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
+- voornoemde Aangever 1 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
 
--	die aangever 1 (daartoe) een aanmeld-/inschrijfformulier laten invullen en/of
+- die aangever 1 (daartoe) een aanmeld-/inschrijfformulier laten invullen en/of
 
--	die aangever 1 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de 	behandeling van) (een) (potentiële) klant(en) en/of
+- die aangever 1 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de behandeling van) (een) (potentiële) klant(en) en/of
 
--	van die Aangever 1 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
+- van die Aangever 1 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
 
--	die aangever 1 middels chatten (een) (eigen) klant(en) laten werven en/of
+- die aangever 1 middels chatten (een) (eigen) klant(en) laten werven en/of
 
--	die aangever 1 bij hem/hen, verdachte en/of (een of meer van) verdachtes mededader(s), laten inwonen en/of (elders) ondergebracht en/of
+- die aangever 1 bij hem/hen, verdachte en/of (een of meer van) verdachtes mededader(s), laten inwonen en/of (elders) ondergebracht en/of
 
--	die aangever 1 gedreigd diens familie in te lichten en/of voornoemde foto('s) te verspreiden indien hij, Aangever 1, geen gay-escortwerk (meer) zou verrichten en/of
+- die aangever 1 gedreigd diens familie in te lichten en/of voornoemde foto('s) te verspreiden indien hij, Aangever 1, geen gay-escortwerk (meer) zou verrichten en/of
 
--	die aangever 1 (een) condoom(s) en/of glijmiddel verschaft en/of
+- die aangever 1 (een) condoom(s) en/of glijmiddel verschaft en/of
 
--	die aangever 1 vervoerd naar en/of (verder) in contact gebracht met (een) klant(en) en/of laten werken voor/in een privé-huis ('Huize Renate') en/of
+- die aangever 1 vervoerd naar en/of (verder) in contact gebracht met (een) klant(en) en/of laten werken voor/in een privé-huis ('Huize Renate') en/of
 
--	door die Aangever 1 met/in het gay-escortwerk verdiend geld geheel of gedeeltelijk aan/voor hen/hem, verdachte en/of (een of meer van) verdachtes mededader(s), doen afstaan en/of van die aangever 1 in ontvangst genomen;
+- door die Aangever 1 met/in het gay-escortwerk verdiend geld geheel of gedeeltelijk aan/voor hen/hem, verdachte en/of (een of meer van) verdachtes mededader(s), doen afstaan en/of van die aangever 1 in ontvangst genomen;
 
 2.
 
-hij op een of meer tijdstippen in of omstreeks de periode van de maand juli 2005 tot en met de maand december 2005, te Renkum en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, aangever 2 (geboren op 17 april 1989) (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel (telkens) ten aanzien van die Aangever 2 enige handeling(en) heeft ondernomen waarvan verdachte wist of redelijkerwijs moest vermoeden dat die aangever 2 zich daardoor beschikbaar stelde tot het verrichten van die handeling(en), terwijl die aangever 2 de leeftijd van achttien jaren nog niet had bereikt, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
+hij op een of meer tijdstippen in of omstreeks de periode van de maand juli 2005 tot en met de maand december 2005, te Renkum en/of Huissen, gemeente Lingewaard, en/of Arnhem en/of Ypenburg, gemeente 's-Gravenhage, en/of (elders) in Nederland tezamen en in vereniging met een ander of anderen, althans alleen, aangever 2 (geboren op [geboortedatum 2] 1989) (telkens) ertoe heeft gebracht zich beschikbaar te stellen tot het verrichten van (een) seksuele handeling(en) met en/of voor (een) derde(n) tegen betaling, dan wel (telkens) ten aanzien van die Aangever 2 enige handeling(en) heeft ondernomen waarvan verdachte wist of redelijkerwijs moest vermoeden dat die aangever 2 zich daardoor beschikbaar stelde tot het verrichten van die handeling(en), terwijl die aangever 2 de leeftijd van achttien jaren nog niet had bereikt, hebbende verdachte en/of (een of meer van) verdachtes mededader(s) (telkens)
 
--	voornoemde Aangever 2 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
+- voornoemde Aangever 2 middels internet/chatten geronseld voor (het) gay-escortwerk en/of
 
--	die Aangever 2 (daartoe) een aanmeld-/inschrijfformulier laten invullen (met (onder meer) diens lichaamskenmerken en/of seksuele voorkeuren en/of mogelijkheden en/of (te voeren) werknaam) en/of
+- die Aangever 2 (daartoe) een aanmeld-/inschrijfformulier laten invullen (met (onder meer) diens lichaamskenmerken en/of seksuele voorkeuren en/of mogelijkheden en/of (te voeren) werknaam) en/of
 
--	van die aangever 2 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende 	foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
+- van die aangever 2 (een) (voor (de) (potentiële) klant(en)) seksueel prikkelende foto('s) van diens geheel of gedeeltelijk naakte lichaam gemaakt en/of
 
--	die aangever 2 betrokken en/of getest in een rollenspel van klant-escortjongen en/of
+- die aangever 2 betrokken en/of getest in een rollenspel van klant-escortjongen en/of
 
--	die aangever 2 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de 	behandeling van) (een) (potentiële) klant(en) en/of
+- die aangever 2 geïnformeerd over (verdiensten in) (het) gay-escortwerk en/of (de behandeling van) (een) (potentiële) klant(en) en/of
 
--	die aangever 2 (de) huisregels overgelegd/voorgehouden en/of laten ondertekenen/accepteren en/of
+- die aangever 2 (de) huisregels overgelegd/voorgehouden en/of laten ondertekenen/accepteren en/of
 
--	die aangever 2 (een) condoom(s) en/of glijmiddel verschaft en/of
+- die aangever 2 (een) condoom(s) en/of glijmiddel verschaft en/of
 
--	die aangever 2 vervoerd naar en/of in contact gebracht met (een) klant(en) en/of
+- die aangever 2 vervoerd naar en/of in contact gebracht met (een) klant(en) en/of
 
 (vervolgens) die Aangever 2 na diens werkzaamheden opgewacht en/of
 
--	door die aangever 2 met/in het gay-escortwerk verdiend geld geheel of
+- door die aangever 2 met/in het gay-escortwerk verdiend geld geheel of
 
 gedeeltelijk aan/voor hen/hem, verdachte (het hof leest: heeft) en/of (een of meer van) verdachtes
 
@@ -417,67 +417,67 @@ mededader(s), doen afstaan en/of van die Aangever 2 in ontvangst genomen;
 
 hij op een of meer tijdstippen in of omstreeks de periode van 01 oktober 2002 tot en met 07 juli 2006 te Arnhem en/of Huissen, gemeente(s) Bemmel en/of Lingewaard, en/of (elders) in Nederland, tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft verspreid en/of vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) in algemene zin (telkens) uit (een) geheel of gedeeltelijk ontklede minderjarige jongen(s) die
 
--	zichzelf en/of elkaar aftrekt/aftrekken en/of
+- zichzelf en/of elkaar aftrekt/aftrekken en/of
 
--	een penis betast(en) en/of vastpakt/vastpakken en/of in de mond neemt/nemen en/of
+- een penis betast(en) en/of vastpakt/vastpakken en/of in de mond neemt/nemen en/of
 
--	anaal wordt/worden gepenetreerd en/of
+- anaal wordt/worden gepenetreerd en/of
 
--	op een dusdanige wijze poseert/poseren dat zijn/hun penis(sen) nadrukkelijk in 	beeld wordt/worden gebracht, welke wijze van poseren kennelijk bedoeld is om seksuele prikkeling op te wekken,
+- op een dusdanige wijze poseert/poseren dat zijn/hun penis(sen) nadrukkelijk in beeld wordt/worden gebracht, welke wijze van poseren kennelijk bedoeld is om seksuele prikkeling op te wekken,
 
 van welke afgebeelde seksuele gedraging(en) een selectie - zakelijk weergegeven - als volgt is omschreven (z(aak)d(ossier) 076, pag. 10060 t/m 10062, 10171/10172 en 10187/10188):
 
--	(Pfadfinderschlacht.1.mpg) Vier Zes jongens tussen 13 en 15 kennelijk jonger dan 18 jaar plegen verschillende seksuele handelingen bij elkaar en met zichzelf. Deze handelingen bestaan onder andere uit aftrekken en pijpen en anaal geslachtsverkeer;
+- ( [bestandsnaam 1] .mpg) Vier Zes jongens tussen 13 en 15 kennelijk jonger dan 18 jaar plegen verschillende seksuele handelingen bij elkaar en met zichzelf. Deze handelingen bestaan onder andere uit aftrekken en pijpen en anaal geslachtsverkeer;
 
--	(Der Giftzwerge.mpg) Vier een jongens kennelijk jonger dan 18 tussen 14 en 15 jaar pleegt plegen diverse een seksuele handelingen bij zichzelf,
+- ( [bestandsnaam 2] .mpg) Vier een jongens kennelijk jonger dan 18 tussen 14 en 15 jaar pleegt plegen diverse een seksuele handelingen bij zichzelf,
 
--	(Blumenbengel Part 2.mpg) Vier Twee jongens kennelijk jonger dan 18 van 14 en 15 jaar plegen diverse seksuele handelingen met elkaar en bij zichzelf. De seksuele handelingen bestaan uit pijpen en aftrekken;
+- ( [bestandsnaam 3] .mpg) Vier Twee jongens kennelijk jonger dan 18 van 14 en 15 jaar plegen diverse seksuele handelingen met elkaar en bij zichzelf. De seksuele handelingen bestaan uit pijpen en aftrekken;
 
--	(naakt0027) Een naakte jongen staat in een kamer en heeft zijn penis in erectie. 	De foto is van onderuit genomen en gericht op de penis van de jongen. Geschatte leeftijd van de jongen tussen 11 en 13 jaar;
+- ( [bestandsnaam 4] ) Een naakte jongen staat in een kamer en heeft zijn penis in erectie. De foto is van onderuit genomen en gericht op de penis van de jongen. Geschatte leeftijd van de jongen tussen 11 en 13 jaar;
 
--	(neuken019) Een naakte jongen staat met de handen tegen een muur terwijl een andere naakte jongen achter hem staat en zijn penis in de anus van de voorste jongen heeft. Geschatte leeftijd van beide jongens tussen 12 en 15 jaar;
+- ( [bestandsnaam 5] ) Een naakte jongen staat met de handen tegen een muur terwijl een andere naakte jongen achter hem staat en zijn penis in de anus van de voorste jongen heeft. Geschatte leeftijd van beide jongens tussen 12 en 15 jaar;
 
--	(Orgie014) Drie jongens liggen in een kring naakt op een bed. Een van de jongens heeft zijn penis in erectie met zijn hand vast. De andere twee jongens kijken toe. Geschatte leeftijd van de jongens tussen 12 en 14 jaar; (pijpen0014) 	Twee jongens liggen naakt op bed. Een van de twee jongens ligt ruggelings op 	bed. De ander ligt half voorovergebogen en pijpt de jongen die ruggelings op bed ligt. Geschatte leeftijd van de jongens tussen 13 en 15 jaar;
+- ( [bestandsnaam 6] ) Drie jongens liggen in een kring naakt op een bed. Een van de jongens heeft zijn penis in erectie met zijn hand vast. De andere twee jongens kijken toe. Geschatte leeftijd van de jongens tussen 12 en 14 jaar; ( [bestandsnaam 7] ) Twee jongens liggen naakt op bed. Een van de twee jongens ligt ruggelings op bed. De ander ligt half voorovergebogen en pijpt de jongen die ruggelings op bed ligt. Geschatte leeftijd van de jongens tussen 13 en 15 jaar;
 
--	(Sasha01-033) Een naakte jongen ligt op een kleed. Met zijn linkerhand houdt 	hij zijn penis vast. Met zijn rechterhand houdt hij een vibrator vast. Deze vibrator zit in de anus van de jongen. Geschatte leeftijd van deze jongen tussen 	de 12 en 14 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie Sasha;
+- ( [bestandsnaam 8] ) Een naakte jongen ligt op een kleed. Met zijn linkerhand houdt hij zijn penis vast. Met zijn rechterhand houdt hij een vibrator vast. Deze vibrator zit in de anus van de jongen. Geschatte leeftijd van deze jongen tussen de 12 en 14 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie Sasha;
 
--	(vinnyl59) Een naakte jongen zit op een lichtblauw dekbedovertrek. Met zijn linkerhand houdt hij zijn penis vast en kijkt in de camera. Geschatte leeftijd van deze jongen tussen de 14 en 16 jaar. Deze afbeelding maakt deel uit van de 	'bekende' serie Vinny;
+- ( [bestandsnaam 15] ) Een naakte jongen zit op een lichtblauw dekbedovertrek. Met zijn linkerhand houdt hij zijn penis vast en kijkt in de camera. Geschatte leeftijd van deze jongen tussen de 14 en 16 jaar. Deze afbeelding maakt deel uit van de 'bekende' serie [naam 1] ;
 
--	(112-1L002 band nr 203; Young Boys in a home video) Twee jongens 16 à 18 jaar die op een beige (nep)leren bank zitten en naar een pornofilm zitten te kijken. Ze betasten elkaar en trekken zich vervolgens af. Aan het eind verlaten 	beiden naakt de woonkamer;
+- (112-1 L002 band nr 203; [naam video] ) Twee jongens 16 à 18 jaar die op een beige (nep)leren bank zitten en naar een pornofilm zitten te kijken. Ze betasten elkaar en trekken zich vervolgens af. Aan het eind verlaten beiden naakt de woonkamer;
 
--	(111-IL001 band nr 202; Young Boys in a home video) De film begint met een jongen kennelijk jonger dan 18 14 à 16 jaar die zit te gamen voor de TV. Later zichzelf aftrekt. Daarna iemand opbelt. Een tweede jongen kennelijk jonger dan 18 16 à 18 jaar verschijnt even later. Diverse seksuele handelingen verrichten ze bij zichzelf en bij elkaar (anaal, oraal en aftrekken). De jongens praten (nep)Duits tegen elkaar;
+- (111- IL001 band nr 202; [naam video] ) De film begint met een jongen kennelijk jonger dan 18 14 à 16 jaar die zit te gamen voor de TV. Later zichzelf aftrekt. Daarna iemand opbelt. Een tweede jongen kennelijk jonger dan 18 16 à 18 jaar verschijnt even later. Diverse seksuele handelingen verrichten ze bij zichzelf en bij elkaar (anaal, oraal en aftrekken). De jongens praten (nep)Duits tegen elkaar;
 
--	(114-IL001 band nr 206; Knaben im brautzimmer) Een jongen loopt op een oud (VOC) schip, ontmoet later een jongen in de trein. Betasten elkaar. Komen terecht op hotelkamer (Hotel-restaurant Schiphol A4) en plegen diverse 	seksuele handelingen. Ook is er een jongen af en toe in beeld die zichzelf aftrekt. Later komt er nog een jongen bij. In een bad zijn drie van deze jongens te zien die diverse seksuele handelingen plegen. Leeftijd jongens kennelijk jonger dan 18 tussen 14 en 17 jaar;
+- (114- IL001 band nr 206; [bestandsnaam 16] Een jongen loopt op een oud (VOC) schip, ontmoet later een jongen in de trein. Betasten elkaar. Komen terecht op hotelkamer (Hotel-restaurant Schiphol A4) en plegen diverse seksuele handelingen. Ook is er een jongen af en toe in beeld die zichzelf aftrekt. Later komt er nog een jongen bij. In een bad zijn drie van deze jongens te zien die diverse seksuele handelingen plegen. Leeftijd jongens kennelijk jonger dan 18 tussen 14 en 17 jaar;
 
--	(113-IL001 band nr 204; Young Boys A Home Video Vol 7) Twee jongens liggen naakt op bed en gaan later onder de douche. Ze plegen diverse seksuele handelingen met zichzelf en bij elkaar. Leeftijd van de jongens kennelijk jonger 	dan 18 tussen 16 en 18 jaar;
+- (113- IL001 band nr 204; [naam video] Vol 7) Twee jongens liggen naakt op bed en gaan later onder de douche. Ze plegen diverse seksuele handelingen met zichzelf en bij elkaar. Leeftijd van de jongens kennelijk jonger dan 18 tussen 16 en 18 jaar;
 
--	(115-IL001 band nr 358; De boy en de bengel) Twee jongens zitten op een zwarte (nep)leren bank. Ze plegen diverse seksuele handelingen bij elkaar en 	met zichzelf. Leeftijd kennelijk jonger dan 18 tussen 15 en 17 jaar,
+- ( [bestandsnaam 14] Twee jongens zitten op een zwarte (nep)leren bank. Ze plegen diverse seksuele handelingen bij elkaar en met zichzelf. Leeftijd kennelijk jonger dan 18 tussen 15 en 17 jaar,
 
-en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een dvd/cd-rom (IBN nummer 043-1M009) en/of twee, althans een of meer, harde schijf/schijven (IBN nummer(s) 039-1M005 en/of 042-IM008) en/of (een of meer harde schijf/schijven van/in) twee, althans een of meer, computers (IBN nummer(s) 080-IA031 en/of 082-IA033) en/of een aantal (5) videobanden (IBN nummer 012-IL001);
+en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een dvd/cd-rom (IBN nummer [nummer 1] ) en/of twee, althans een of meer, harde schijf/schijven (IBN nummer(s) [nummer 2] en/of [nummer 3] ) en/of (een of meer harde schijf/schijven van/in) twee, althans een of meer, computers (IBN nummer(s) [nummer 4] en/of [nummer 5] ) en/of een aantal (5) videobanden (IBN nummer [nummer 6] );
 
 8.
 
-hij op een of meer tijdstippen in of omstreeks de periode van het jaar 2004 tot en met 07 juli 2006, te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel ontklede minderjarige Aangever 4  (geboren op 11 augustus 1988) die
+hij op een of meer tijdstippen in of omstreeks de periode van het jaar 2004 tot en met 07 juli 2006, te Huissen, gemeente Lingewaard, tezamen en in vereniging met een ander, althans alleen, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel ontklede minderjarige Aangever 4 (geboren op 11 augustus 1988) die
 
--	zijn (stijve) penis betast en/of vastpakt en/of toont en/of
+- zijn (stijve) penis betast en/of vastpakt en/of toont en/of
 
--	bij/aan zijn (stijve) penis wordt betast en/of vastgepakt door verdachtes mededader en/of (zelf) de (stijve) penis van die medeverdachte betast en/of vastpakt en/of
+- bij/aan zijn (stijve) penis wordt betast en/of vastgepakt door verdachtes mededader en/of (zelf) de (stijve) penis van die medeverdachte betast en/of vastpakt en/of
 
--	zichzelf aftrekt en/of door die medeverdachte wordt afgetrokken,
+- zichzelf aftrekt en/of door die medeverdachte wordt afgetrokken,
 
-en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een flash-/memorycard (IBN nummer 040-1M006);
+en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in een flash-/memorycard (IBN nummer [nummer 6] ;
 
 10
 
-hij op een of meer tijdstippen in of omstreeks de periode van 22 april 2006 tot en met 07 juli 2006, althans op of omstreeks 22 april 2006, te Huissen, gemeente Lingewaard, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel of gedeeltelijk ontklede minderjarige Aangever 5  (geboren op 08 december 1989) en/of aangever 6 (geboren op 31 december 1989) die
+hij op een of meer tijdstippen in of omstreeks de periode van 22 april 2006 tot en met 07 juli 2006, althans op of omstreeks 22 april 2006, te Huissen, gemeente Lingewaard, (telkens) (een) afbeelding(en) - en/of (een) gegevensdrager(s), bevattende (een) afbeelding(en) - van (een) seksuele gedraging(en) waarbij (een) perso(o)n(en) is/zijn betrokken en/of schijnbaar is/zijn betrokken die kennelijk de leeftijd van achttien jaar nog niet heeft/hebben bereikt, heeft vervaardigd en/of in bezit heeft gehad, bestaande die afgebeelde seksuele gedraging(en) (telkens) uit de geheel of gedeeltelijk ontklede minderjarige Aangever 5 (geboren op [geboortedatum 4] 1989) en/of aangever 6 (geboren op [geboortedatum 5] 1989) die
 
--	hun/zijn (stijve) penis(sen) betast(en) en/of vastpakken/vastpakt en/of tonen/toont
+- hun/zijn (stijve) penis(sen) betast(en) en/of vastpakken/vastpakt en/of tonen/toont
 
 en/of
 
--	anaal geslachtsverkeer hebben/heeft,
+- anaal geslachtsverkeer hebben/heeft,
 
-en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in (een flashcard van/in) een digitale fotocamera (IBN nummer 067-IA017);
+en zijnde voornoemde seksuele gedraging(en) afgebeeld en/of vastgelegd op/in (een flashcard van/in) een digitale fotocamera (IBN nummer [nummer 7] );
 
 Het hof acht niet bewezen hetgeen verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard, zodat deze daarvan behoort te worden vrijgesproken.
 
@@ -527,7 +527,7 @@ Het hof heeft bij de straftoemeting in het bijzonder het volgende in aanmerking 
 
 Verdachte heeft zich onder meer schuldig gemaakt aan het ertoe brengen van een ander om zich beschikbaar te stellen tot het verrichten van seksuele handelingen met een derde tegen betaling (feit 1) en mensenhandel (feit 2). Dat deze wat handelingen betreft gelijke feiten een verschillende juridische benaming hebben gekregen wordt veroorzaakt door de verschillen in de geldende wettelijke bepalingen in 2003 en 2006.
 
-Verdachte heeft in het eerste geval een zeventienjarige jonge man ertoe gebracht  zich te prostitueren. Het tweede slachtoffer betrof eveneens een zeventienjarige minderjarige jongen die door hem in de prostitutie is gebracht en een korte tijd als prostituee werkzaam is geweest. Verdachte heeft hierbij uit financieel gewin gehandeld, terwijl verdachte bij het eerste gesprek met deze minderjarige jongen bij wijze van rollenspel ook meteen seksuele handelingen door die jongen bij zich heeft laten verrichten, daarbij misbruik makend van de kwetsbare positie van deze jongen.
+Verdachte heeft in het eerste geval een zeventienjarige jonge man ertoe gebracht zich te prostitueren. Het tweede slachtoffer betrof eveneens een zeventienjarige minderjarige jongen die door hem in de prostitutie is gebracht en een korte tijd als prostituee werkzaam is geweest. Verdachte heeft hierbij uit financieel gewin gehandeld, terwijl verdachte bij het eerste gesprek met deze minderjarige jongen bij wijze van rollenspel ook meteen seksuele handelingen door die jongen bij zich heeft laten verrichten, daarbij misbruik makend van de kwetsbare positie van deze jongen.
 
 Wel merkt het hof hierbij op dat beide jongens zelf contact zochten met (het bedrijf van) verdachte en zich aanmeldden voor het verrichten van prostitutie-werkzaamheden.
 
@@ -597,7 +597,7 @@ De vordering van de benadeelde partij aangever 4 :
 
 Verklaart de benadeelde partij, aangever 4 , in haar vordering niet ontvankelijk en bepaalt dat zij haar vordering slechts bij de burgerlijke rechter kan aanbrengen.
 
-Veroordeelt aangever 4  in de kosten verbonden aan diens vordering doch begroot deze kosten aan de zijde van verdachte voorzover tot op heden gemaakt op nihil.
+Veroordeelt aangever 4 in de kosten verbonden aan diens vordering doch begroot deze kosten aan de zijde van verdachte voorzover tot op heden gemaakt op nihil.
 
 Aldus gewezen door
 
