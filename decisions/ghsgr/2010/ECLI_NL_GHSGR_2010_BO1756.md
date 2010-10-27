@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2010:BO1756"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBSGR:2008:BD7186, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BU6250, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2012:BU6250"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBSGR:2008:BD7186, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BU6250, Bekrachtiging/bevestiging"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2012:BU6250"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1116"]]
 ---
 
 # ECLI:NL:GHSGR:2010:BO1756 Gerechtshof 's-Gravenhage , 27-10-2010 / 22-003905-08
