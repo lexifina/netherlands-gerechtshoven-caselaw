@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2011:BP2291"
-published_in: ["Rechtspraak.nl", "FutD 2011-0239"]
+published_in: ["Rechtspraak.nl", "FutD 2011-0239", "Viditax (FutD) 2011012805", "Viditax (FutD) 2012033007"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BW0112"]]
 ---
 
 # ECLI:NL:GHARN:2011:BP2291 Gerechtshof Arnhem , 18-01-2011 / 10-00098
