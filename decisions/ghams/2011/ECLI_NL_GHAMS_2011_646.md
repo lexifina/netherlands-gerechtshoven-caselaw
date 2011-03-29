@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2011:646"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0100", "PJ 2020/88"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0100", "PJ 2020/88", "PR-Updates.nl 2020-0100"]
 ---
 
 # ECLI:NL:GHAMS:2011:646 Gerechtshof Amsterdam , 29-03-2011 / 200.064.029-01
