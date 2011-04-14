@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2011:BR1610"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1912", "V-N 2011/42.10 met annotatie van Redactie", "FutD 2011-1746"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1912", "V-N 2011/42.10 met annotatie van Redactie", "FutD 2011-1746", "Viditax (FutD) 2011072003"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-003.md", "netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-090.md"]
 ---
 
