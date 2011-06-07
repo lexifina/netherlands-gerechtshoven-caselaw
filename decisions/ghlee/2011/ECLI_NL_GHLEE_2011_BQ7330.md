@@ -1,0 +1,143 @@
+---
+ecli: "ECLI:NL:GHLEE:2011:BQ7330"
+court: "Gerechtshof Leeuwarden"
+court_code: "GHLEE"
+docket: "24-002653-10"
+decided: "2011-06-07"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2011:BQ7330"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHLEE:2011:BQ7330 Gerechtshof Leeuwarden , 07-06-2011 / 24-002653-10
+
+## Inhoudsindicatie
+
+Het hof veroordeelt verdachte wegens het bezit van 1,2 gram cocaïne tot een geldboete van €300,-, subsidiair 6 dagen hechtenis en beslist op de in beslag genomen hoeveelheid geld.
+
+## Uitspraak
+
+Gerechtshof Leeuwarden
+
+Sector strafrecht
+
+Parketnummer:	24-002653-10
+
+Uitspraak d.d.:	7 juni 2011
+
+TEGENSPRAAK
+
+Arrest van de meervoudige kamer voor strafzaken
+
+gewezen op het hoger beroep, ingesteld tegen het vonnis van de politierechter in de rechtbank Leeuwarden van 27 oktober 2010 in de strafzaak tegen
+
+[verdachte],
+
+geboren te [geboorteplaats] op [1987],
+
+zonder vaste woon- of verblijfplaats hier ten lande,
+
+thans uit anderen hoofde verblijvende in [verblijfplaats].
+
+Het hoger beroep
+
+De verdachte heeft tegen het hiervoor genoemde vonnis hoger beroep ingesteld.
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting van het hof van 24 mei 2011.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal, strekkende tot veroordeling van de verdachte tot een geldboete van € 300,-, subsidiair 6 dagen hechtenis en verbeurdverklaring van de onder verdachte in beslag genomen hoeveelheid geld, ten bedrage van € 1344,30.
+
+Deze vordering is na voorlezing aan het hof overgelegd. Het hof heeft voorts kennis genomen van hetgeen door verdachte en zijn raadsman, mr S.V. Hendriksen, naar voren is gebracht.
+
+Het vonnis waarvan beroep
+
+Het hof zal het vonnis waarvan beroep vernietigen en opnieuw rechtdoen.
+
+De tenlastelegging
+
+Aan verdachte is tenlastegelegd dat:
+
+hij op of omstreeks 6 augustus 2010 te [plaats], in de gemeente [gemeente] opzettelijk aanwezig heeft gehad ongeveer 1,3 gram, in elk geval een hoeveelheid van een materiaal bevattende cocaïne, zijnde cocaïne een middel vermeld op de bij de Opiumwet behorende lijst I;
+
+Indien in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze verbeterd. De verdachte is daardoor niet geschaad in de verdediging.
+
+Bewezenverklaring
+
+Door wettige bewijsmiddelen, waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt, heeft het hof de overtuiging gekregen en acht het hof wettig bewezen, dat verdachte het tenlastegelegde heeft begaan, met dien verstande dat:
+
+hij op 6 augustus 2010 te [plaats] opzettelijk aanwezig heeft gehad ongeveer 1,2 gram van een materiaal bevattende cocaïne, zijnde cocaïne een middel vermeld op de bij de Opiumwet behorende lijst I;
+
+Het hof acht niet bewezen hetgeen verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard, zodat deze daarvan behoort te worden vrijgesproken.
+
+Strafbaarheid van het bewezenverklaarde
+
+het bewezenverklaarde levert op:
+
+opzettelijk handelen in strijd met het in artikel 2 onder C van de Opiumwet gegeven verbod.
+
+Strafbaarheid van de verdachte
+
+Verdachte is strafbaar aangezien geen omstandigheid is gebleken of aannemelijk geworden die verdachte niet strafbaar zou doen zijn.
+
+Oplegging van straf en/of maatregel
+
+De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de persoon van verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.
+
+Verdachte heeft zich op 6 augustus 2010 te [plaats] schuldig gemaakt aan opzettelijke overtreding van de Opiumwet door 1,2 gram cocaïne in zijn bezit te hebben. De strafwaardigheid van overtredingen van de Opiumwet is in zijn algemeenheid gelegen in de ernstige bedreiging die het gebruik van drugs voor de volksgezondheid vormt en de met dit gebruik gepaard gaande criminaliteit.
+
+Het hof heeft gelet op het de verdachte betreffend Uittreksel Justitiële Documentatie van
+
+11 april 2011, waaruit ten nadele van verdachte blijkt dat hij eerder wegens een Opiumwetdelict is veroordeeld. Voorts is ter terechtzitting gebleken dat verdachte thans, en sinds 10 maanden, in vreemdelingenbewaring verblijft.
+
+Gelet op het voorgaande, in onderling verband en samenhang bezien, is het hof van oordeel dat een geldboete van € 300-, subsidiair 6 dagen hechtenis, een passende en noodzakelijke bestraffing is.
+
+Teruggave
+
+Het hof zal de teruggave gelasten aan de verdachte van de in beslag genomen hoeveelheid geld - omschreven als 52 biljetten van 10 euro (520 euro), 41 biljetten van 20 euro (820 euro) en 4,30 euro aan muntgeld - nu het belang van de strafvordering zich daartegen niet verzet.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 23, 24 en 24c van het Wetboek van Strafrecht en de artikelen 2 en 10 van de Opiumwet.
+
+Deze voorschriften zijn toegepast, zoals zij golden ten tijde van het bewezenverklaarde.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het ten laste gelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het bewezen verklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een geldboete van EUR 300,00 (driehonderd euro), bij gebreke van betaling en verhaal te vervangen door 6 (zes) dagen hechtenis.
+
+In beslag genomen voorwerpen
+
+Gelast de teruggave aan verdachte van de in beslag genomen, nog niet teruggegeven voorwerpen, te weten:
+
+- 52 biljetten van 10 euro (520 euro);
+
+- 41 biljetten van 20 euro (820 euro);
+
+- 4,30 euro aan muntgeld.
+
+Aldus gewezen door
+
+mr. P.W.J. Sekeris, voorzitter,
+
+mr. O. Anjewierden en mr. J.A.A.M. van Veen, raadsheren,
+
+in tegenwoordigheid van S. van Krugten, griffier,
+
+en op 7 juni 2011 ter openbare terechtzitting uitgesproken.
+
+Mr. P.W.J. Sekeris is buiten staat dit arrest mede te ondertekenen.
