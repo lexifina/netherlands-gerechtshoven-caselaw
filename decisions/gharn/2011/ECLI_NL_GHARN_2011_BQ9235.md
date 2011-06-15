@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2011:BQ9235"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1746", "PJ 2011/119", "V-N 2011/42.17.12", "FutD 2011-1513", "NTFR 2011/1711 met annotatie van mr. J.P.A. Buitenhek"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1746", "PJ 2011/119", "V-N 2011/42.17.12", "NTFR 2011/1711 met annotatie van mr. J.P.A. Buitenhek", "FutD 2011-1513", "Viditax (FutD) 2011062704"]
 ---
 
 # ECLI:NL:GHARN:2011:BQ9235 Gerechtshof Arnhem , 15-06-2011 / 10-00451
