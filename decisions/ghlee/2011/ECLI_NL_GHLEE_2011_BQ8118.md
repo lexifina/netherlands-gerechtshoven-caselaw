@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2011:BQ8118"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1657", "V-N 2011/51.1.1", "FutD 2011-1461", "NTFR 2011/1908 met annotatie van dr. A. Rozendal"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/1657", "V-N 2011/51.1.1", "NTFR 2011/1908 met annotatie van dr. A. Rozendal", "FutD 2011-1461", "Viditax (FutD) 2011061607"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLEE:2010:BN0876, Bekrachtiging/bevestiging"]]
 ---
 
