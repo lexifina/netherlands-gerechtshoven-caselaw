@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:GHAMS:2011:BQ8187"
 court: "Gerechtshof Amsterdam"
 court_code: "GHAMS"
-docket: "parketnummer"
+docket: "bekend bij gerechtshof"
 decided: "2011-06-16"
 published: "2013-04-05"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2011:BQ8
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:GHAMS:2011:BQ8187 Gerechtshof Amsterdam , 16-06-2011 / parketnummer
+# ECLI:NL:GHAMS:2011:BQ8187 Gerechtshof Amsterdam , 16-06-2011 / bekend bij gerechtshof
 
 ## Inhoudsindicatie
 
