@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2011:BR0320"
-published_in: ["Rechtspraak.nl", "Prg. 2011/215", "RAR 2011/138", "RI 2011/91", "JONDR 2011/209", "FutD 2011-1913", "JIN 2011/643", "JOR 2011/312 met annotatie van mr. E. Loesberg", "JAR 2011/208 met annotatie van mr. J. van der Pijl", "AR-Updates.nl 2011-0556", "NTFR 2011/1757 met annotatie van mr. J. de Haan"]
+published_in: ["Rechtspraak.nl", "Prg. 2011/215", "RAR 2011/138", "RI 2011/91", "JONDR 2011/209", "JIN 2011/643", "JOR 2011/312 met annotatie van mr. E. Loesberg", "JAR 2011/208 met annotatie van mr. J. van der Pijl", "AR-Updates.nl 2011-0556", "NTFR 2011/1757 met annotatie van mr. J. de Haan", "VAAN-AR-Updates.nl 2011-0556", "FutD 2011-1913", "Viditax (FutD) 2011080802"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGRO:2010:BL8523, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BW7009, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2012:BW7009"]]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-248.md", "netherlands/national/acts/bw-boek-7/art-611.md", "netherlands/national/acts/faillissementswet/art-040.md"]
 ---
