@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2011:BT8224"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2539", "V-N 2011/53.22.2", "FutD 2011-2559"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2539", "V-N 2011/53.22.2", "FutD 2011-2559", "Viditax (FutD) 2012061506", "Viditax (FutD) 2011101701"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BW8283, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
