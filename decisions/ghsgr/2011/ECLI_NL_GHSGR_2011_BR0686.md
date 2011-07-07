@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2011:BR0686"
-published_in: ["Rechtspraak.nl", "NJFS 2011/205", "AA20110884 met annotatie van E. van Sliedregt", "NBSTRAF 2013/127 met annotatie van mr. R. de Bree", "NBSTRAF 2013/140 met annotatie van prof. jhr. mr. M. Wladimiroff"]
+published_in: ["Rechtspraak.nl", "NJFS 2011/205", "AA20110884 met annotatie van Sliedregt van E. Elies", "NbSr 2013/140 met annotatie van prof. jhr. mr. M. Wladimiroff", "NbSr 2013/127 met annotatie van mr. R. de Bree"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBSGR:2009:BI2444, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBSGR:2009:BK0520, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2013:1420, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/grondwet/art-094.md", "netherlands/national/acts/wetboek-van-strafrecht/art-004.md", "netherlands/national/acts/wetboek-van-strafrecht/art-005.md", "netherlands/national/acts/wetboek-van-strafrecht/art-381.md", "netherlands/national/acts/wetboek-van-strafvordering/art-359a.md", "netherlands/national/acts/wetboek-van-strafvordering/art-423.md"]
 ---
