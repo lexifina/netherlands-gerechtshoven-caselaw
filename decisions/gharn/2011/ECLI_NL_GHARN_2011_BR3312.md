@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2011:BR3312"
-published_in: ["Rechtspraak.nl", "RAR 2011/136", "JAR 2013/198", "JIN 2011/593", "JAR 2011/257", "AR-Updates.nl 2011-0613"]
+published_in: ["Rechtspraak.nl", "RAR 2011/136", "JAR 2013/198", "JIN 2011/593", "JAR 2011/257", "AR-Updates.nl 2011-0613", "VAAN-AR-Updates.nl 2011-0613"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2013:BZ7389, Bekrachtiging/bevestiging"]]
 ---
 
