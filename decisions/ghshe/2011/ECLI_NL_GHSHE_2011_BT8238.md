@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2011:BT8238"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2536", "FutD 2011-2575"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2536", "FutD 2011-2575", "Viditax (FutD) 2011101820", "Viditax (FutD) 2012071306"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2012:BX0914, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
