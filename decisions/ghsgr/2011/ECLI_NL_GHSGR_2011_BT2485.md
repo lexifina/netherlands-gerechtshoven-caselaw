@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2011:BT2485"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2372", "V-N 2011/63.2.2", "FutD 2011-2351"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/2372", "V-N 2011/63.2.2", "FutD 2011-2351", "Viditax (FutD) 2011092602", "Viditax (FutD) 2012102607"]
 ---
 
 # ECLI:NL:GHSGR:2011:BT2485 Gerechtshof 's-Gravenhage , 27-07-2011 / BK-10/00183, BK-10/00184, BK-10/00185 en BK-10/00186
