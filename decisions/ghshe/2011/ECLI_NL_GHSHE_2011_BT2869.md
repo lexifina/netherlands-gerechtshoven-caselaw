@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2011:BT2869"
-published_in: ["Rechtspraak.nl", "RAR 2011/163", "AR-Updates.nl 2011-0807"]
+published_in: ["Rechtspraak.nl", "RAR 2011/163", "AR-Updates.nl 2011-0807", "VAAN-AR-Updates.nl 2011-0807"]
 ---
 
 # ECLI:NL:GHSHE:2011:BT2869 Gerechtshof 's-Hertogenbosch , 27-09-2011 / HD 200.072.829
