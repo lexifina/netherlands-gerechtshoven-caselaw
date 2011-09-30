@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2011:BV0869"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/136", "Belastingadvies 2012/5.5", "FutD 2012-0203"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/136", "Belastingadvies 2012/5.5", "FutD 2012-0203", "Viditax (FutD) 2012011606", "Viditax (FutD) 2012061817"]
 ---
 
 # ECLI:NL:GHSGR:2011:BV0869 Gerechtshof 's-Gravenhage , 30-09-2011 / 11/00322
