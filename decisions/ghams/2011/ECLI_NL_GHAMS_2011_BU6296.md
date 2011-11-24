@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2011:BU6296"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/3025", "V-N 2012/18.6 met annotatie van Redactie", "FutD 2011-2982", "NTFR 2012/203 met annotatie van mr. J.P.A. Buitenhek"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2011/3025", "V-N 2012/18.6 met annotatie van Redactie", "NTFR 2012/203 met annotatie van mr. J.P.A. Buitenhek", "FutD 2011-2982", "Viditax (FutD) 2011113005"]
 cites_law: ["netherlands/national/acts/awr/art-027e.md", "netherlands/national/acts/awr/art-047.md"]
 ---
 
