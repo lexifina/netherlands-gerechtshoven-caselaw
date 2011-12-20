@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2011:BV0376"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/100", "Belastingadvies 2012/5.6", "V-N 2012/17.13 met annotatie van Redactie", "FutD 2012-0135", "NTFR 2012/478 met annotatie van Mr. P.T. van Arnhem"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/100", "Belastingadvies 2012/5.6", "V-N 2012/17.13 met annotatie van Redactie", "NTFR 2012/478 met annotatie van Mr. P.T. van Arnhem", "FutD 2012-0135", "Viditax (FutD) 2012010904"]
 ---
 
 # ECLI:NL:GHARN:2011:BV0376 Gerechtshof Arnhem , 20-12-2011 / 11-00757
