@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2012:BV0456"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/106", "V-N 2012/18.2 met annotatie van Redactie", "FutD 2012-0127", "NTFR 2012/429 met annotatie van mr. M.E. Kastelein, mr. J. Kastelein"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/106", "V-N 2012/18.2 met annotatie van Redactie", "NTFR 2012/429 met annotatie van mr. J. Kastelein, mr. M.E. Kastelein", "FutD 2012-0127", "Viditax (FutD) 2012011109"]
 cites_law: ["netherlands/national/acts/awr/art-016.md", "netherlands/national/acts/awr/art-047.md", "netherlands/national/acts/awr/art-067e.md", "netherlands/national/acts/awr/art-067n.md"]
 ---
 
