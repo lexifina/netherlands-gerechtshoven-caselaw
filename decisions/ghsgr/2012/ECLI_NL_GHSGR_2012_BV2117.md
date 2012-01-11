@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2012:BV2117"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/307", "Belastingadvies 2012/6.6", "FutD 2012-0247", "NTFR 2014/2138 met annotatie van mr. M.E. Kastelein"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/307", "Belastingadvies 2012/6.6", "FutD 2012-0247", "Viditax (FutD) 2013021501", "Viditax (FutD) 2012013002"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2013:BZ1294, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
