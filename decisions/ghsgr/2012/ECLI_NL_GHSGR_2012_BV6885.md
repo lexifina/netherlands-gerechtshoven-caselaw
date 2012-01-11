@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2012:BV6885"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/570", "FutD 2012-0587", "NTFR 2012/2035 met annotatie van mr. J. Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/570", "NTFR 2012/2035 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2012-0587", "Viditax (FutD) 2012022803"]
 ---
 
 # ECLI:NL:GHSGR:2012:BV6885 Gerechtshof 's-Gravenhage , 11-01-2012 / BK-10-00200
