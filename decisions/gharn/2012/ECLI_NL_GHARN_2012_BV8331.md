@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARN:2012:BV8331"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/715", "V-N 2012/29.11 met annotatie van Redactie", "FutD 2012-0707", "NTFR 2012/1012 met annotatie van mr. J. Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/715", "V-N 2012/29.11 met annotatie van Redactie", "NTFR 2012/1012 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2012-0707", "Viditax (FutD) 2012030927"]
 ---
 
 # ECLI:NL:GHARN:2012:BV8331 Gerechtshof Arnhem , 28-02-2012 / 11-00571
