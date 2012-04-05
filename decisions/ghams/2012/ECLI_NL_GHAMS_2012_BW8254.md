@@ -28,9 +28,12 @@ TEGENSPRAAK
 
 Verkort arrest van het gerechtshof Amsterdam gewezen op het hoger beroep, ingesteld tegen het vonnis van de kantonrechter in de rechtbank Amsterdam van 13 december 2011 in de strafzaak onder parketnummer 13-737511-11 tegen
 
-(NAAM),
+[verdachte]
+,
 
-(adres).
+geboren te [plaats] op [geboortedatum 1] 1966,
+
+adres: [adres] .
 
 Onderzoek van de zaak
 
@@ -42,13 +45,9 @@ Tenlastelegging
 
 Aan de verdachte is ten laste gelegd dat
 
-1:
+1:zij in of omstreeks de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, in elk geval in Nederland, als degene die het gezag uitoefende over de jongere [kind 1] geboren op [geboortedatum 2] 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht;
 
-zij in of omstreeks de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, in elk geval in Nederland, als degene die het gezag uitoefende over de jongere (KIND 1) geboren op 18 juli 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht;
-
-2:
-
-zij in of omstreeks de periode van 06 september 2010 tot en met 18 februari 2011 te Amsterdam, in elk geval in Nederland, als degene die het gezag uitoefende over de jongere (KIND 2) geboren op 18 juli 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht.
+2:zij in of omstreeks de periode van 06 september 2010 tot en met 18 februari 2011 te Amsterdam, in elk geval in Nederland, als degene die het gezag uitoefende over de jongere [kind 2] geboren op [geboortedatum 2] 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht.
 
 Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zal het hof deze verbeterd lezen. De verdachte wordt daardoor niet in de verdediging geschaad.
 
@@ -60,13 +59,9 @@ Bewezenverklaring
 
 Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 1 en 2 ten laste gelegde heeft begaan, met dien verstande dat:
 
-1:
+1:zij in de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, als degene die het gezag uitoefende over de jongere [kind 1] geboren op [geboortedatum 2] 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht;
 
-zij in de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, als degene die het gezag uitoefende over de jongere (KIND 1) geboren op 18 juli 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht;
-
-2:
-
-zij in de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, als degene die het gezag uitoefende over de jongere (KIND 2) geboren op 18 juli 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht.
+2:zij in de periode van 6 september 2010 tot en met 18 februari 2011 te Amsterdam, als degene die het gezag uitoefende over de jongere [kind 2] geboren op [geboortedatum 2] 1995, althans terwijl zij zich met de feitelijke verzorging van die jongere had belast, niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Leerplichtwet 1969, te zorgen dat voornoemde jongere, die als leerling van een school, te weten het Calandlyceum was ingeschreven, die school na inschrijving geregeld bezocht.
 
 Hetgeen meer of anders is ten laste gelegd, is niet bewezen. De verdachte moet hiervan worden vrijgesproken.
 
@@ -84,7 +79,7 @@ als persoon bedoeld in artikel 2, eerste lid, van de Leerplichtwet 1969, de in a
 
 Ontslag van alle rechtsvervolging
 
-De verdachte heeft ter terechtzitting in hoger beroep betoogd dat zij een beroep doet op artikel 6 lid 3, sub c van het Europees Verdrag voor de rechten van de Mens (hierna: EVRM) in geval zij zich niet mag laten bijstaan door haar vertegenwoordiger de heer Koenen. Voorts heeft zij aangevoerd dat zij niet strafbaar is ter zake het ten laste gelegde feit en daarom ontslagen dient te worden van alle rechtsvervolging.
+De verdachte heeft ter terechtzitting in hoger beroep betoogd dat zij een beroep doet op artikel 6 lid 3, sub c van het Europees Verdrag voor de rechten van de Mens (hierna: EVRM) in geval zij zich niet mag laten bijstaan door haar vertegenwoordiger de heer [vertegenwoordiger] . Voorts heeft zij aangevoerd dat zij niet strafbaar is ter zake het ten laste gelegde feit en daarom ontslagen dient te worden van alle rechtsvervolging.
 
 Het hof overweegt met betrekking tot het beroep op artikel 6 lid 3, sub c van het EVRM als volgt.
 
@@ -94,7 +89,7 @@ Voor de terechtzittingen in hoger beroep geldt het volgende:
 
 Als de verdachte, zoals in deze zaak het geval is, is verschenen, is ze bevoegd zich te doen bijstaan door een of meer toegevoegde of gekozen raadslieden (artikel 28 WvSr). Voorts is bepaald in artikel 37 WvSr dat als raadslieden slechts in Nederland ingeschreven advocaten toegelaten worden.
 
-Vast staat dat de heer Koenen geen advocaat is en, gelet op het bovenstaande, niet bevoegd om de verdachte in hoger beroep te vertegenwoordigen of bij te staan.
+Vast staat dat de heer [vertegenwoordiger] geen advocaat is en, gelet op het bovenstaande, niet bevoegd om de verdachte in hoger beroep te vertegenwoordigen of bij te staan.
 
 Ter terechtzitting in hoger beroep heeft het hof tot twee keer toe aan de verdachte gevraagd of zij zich wil laten bijstaan door een advocaat. De verdachte heeft daarop verklaard dat zij wil dat de zaak afgedaan wordt en geen schorsing van het onderzoek wenst ten einde zich te kunnen laten bijstaan door een advocaat. Het hof heeft geen reden te veronderstellen dat de verdachte dit niet oprecht meende of de gevolgen van deze beslissing niet kon overzien.
 
@@ -106,7 +101,9 @@ De bepalingen van de Lpw 1969 hielden ten tijde van het ten laste gelegde en voo
 
 Artikel 2
 
-1. Degene die het gezag over een jongere uitoefent, en degene die zich met de feitelijke verzorging van een jongere heeft belast, zijn verplicht overeenkomstig de bepalingen van deze wet te zorgen, dat de jongere als leerling van een school staat ingeschreven en deze school na inschrijving geregeld bezoekt. (…)”
+1.
+
+Degene die het gezag over een jongere uitoefent, en degene die zich met de feitelijke verzorging van een jongere heeft belast, zijn verplicht overeenkomstig de bepalingen van deze wet te zorgen, dat de jongere als leerling van een school staat ingeschreven en deze school na inschrijving geregeld bezoekt. (…)”
 
 Artikel 5
 
@@ -120,21 +117,29 @@ b. zij tegen de richting van het onderwijs op alle binnen redelijke afstand van 
 
 Artikel 6
 
-1. De in artikel 2, eerste lid, bedoelde personen kunnen zich slechts beroepen op vrijstelling, indien zij aan burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, hebben kennis gegeven, voor welke jongere en op welke grond zij daarop aanspraak menen te mogen maken.
+1.
 
-2. Deze kennisgeving moet worden ingediend:
+De in artikel 2, eerste lid, bedoelde personen kunnen zich slechts beroepen op vrijstelling, indien zij aan burgemeester en wethouders van de gemeente waar de jongere als ingezetene in de basisadministratie persoonsgegevens is ingeschreven, hebben kennis gegeven, voor welke jongere en op welke grond zij daarop aanspraak menen te mogen maken.
 
-a. ten minste een maand voordat de jongere leerplichtig wordt, indien zij betrekking heeft op de aanvang van de leerplicht, en
+2.
 
-b. zolang nadien aanspraak op vrijstelling wordt gemaakt, elk jaar opnieuw voor 1 juli.
+Deze kennisgeving moet worden ingediend:
+
+. ten minste een maand voordat de jongere leerplichtig wordt, indien zij betrekking heeft op de aanvang van de leerplicht, en
+
+. zolang nadien aanspraak op vrijstelling wordt gemaakt, elk jaar opnieuw voor 1 juli.
 
 (…)”
 
 Artikel 8
 
-1. Een beroep op vrijstelling op grond van artikel 5 onder b kan slechts worden gedaan, indien de kennisgeving de verklaring bevat, dat tegen de richting van het onderwijs op alle binnen redelijke afstand van de woning - of, bij het ontbreken van een vaste verblijfplaats, op alle binnen Nederland - gelegen scholen onderscheidenlijk instellingen waarop de jongere geplaatst zou kunnen worden, overwegende bedenkingen bestaan.
+1.
 
-2. Deze verklaring is niet geldig, indien de jongere in het jaar, voorafgaande aan de dagtekening van de kennisgeving, geplaatst is geweest op een school onderscheidenlijk een instelling van de richting waartegen bedenkingen worden geuit.
+Een beroep op vrijstelling op grond van artikel 5 onder b kan slechts worden gedaan, indien de kennisgeving de verklaring bevat, dat tegen de richting van het onderwijs op alle binnen redelijke afstand van de woning - of, bij het ontbreken van een vaste verblijfplaats, op alle binnen Nederland - gelegen scholen onderscheidenlijk instellingen waarop de jongere geplaatst zou kunnen worden, overwegende bedenkingen bestaan.
+
+2.
+
+Deze verklaring is niet geldig, indien de jongere in het jaar, voorafgaande aan de dagtekening van de kennisgeving, geplaatst is geweest op een school onderscheidenlijk een instelling van de richting waartegen bedenkingen worden geuit.
 
 Uit de bewoordingen van artikel 5 Lpw 1969 volgt dat de vrijstelling van de inschrijvingsverplichting van rechtswege bestaat, zonder daartoe strekkende beslissing van Burgemeester en Wethouders, indien voldaan is aan de daaraan gestelde voorwaarden.
 
@@ -158,7 +163,7 @@ Tegen voormeld vonnis is door de verdachte hoger beroep ingesteld.
 
 De advocaat-generaal heeft gevorderd dat de verdachte zal worden veroordeeld tot dezelfde straf als door de rechter in eerste aanleg opgelegd.
 
-Ten aanzien van de verdachte is bewezen verklaard dat zij gedurende een periode van bijna zes maanden niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Lpw 1969 te zorgen dat haar dochters, met als roepnamen (KIND 1 en KIND 2), die als leerlingen van het Calandlyceum waren ingeschreven, die school geregeld bezochten.
+Ten aanzien van de verdachte is bewezen verklaard dat zij gedurende een periode van bijna zes maanden niet heeft voldaan aan de verplichting om overeenkomstig de bepalingen van de Lpw 1969 te zorgen dat haar dochters, met als roepnamen [kind 1] en [kind 2] , die als leerlingen van het Calandlyceum waren ingeschreven, die school geregeld bezochten.
 
 De Lpw 1969 verplicht de ouder om ervoor te zorgen dat de jongere als leerling op een school of instelling staat ingeschreven en dat de jongere die school of instelling na inschrijving regelmatig bezoekt. Op deze manier wordt getracht schoolverzuim en voortijdig schoolverlaten te voorkomen.
 
@@ -183,3 +188,7 @@ Bepaalt dat geen straf of maatregel wordt opgelegd.
 Dit arrest is gewezen door de zevende meervoudige strafkamer van het gerechtshof Amsterdam, waarin zitting hadden mr. M.J.G.B. Heutink, mr. J.A.M. de Wit en mr. R.H.J. de Vries,, in tegenwoordigheid van mr. M.S. de Boer, griffier, en is uitgesproken op de openbare terechtzitting van dit gerechtshof van 5 april 2012.
 
 Mr de Wit is buiten staat dit arrest mede te ondertekenen.
+
+[...]
+
+.
