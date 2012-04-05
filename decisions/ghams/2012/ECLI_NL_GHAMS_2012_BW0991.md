@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2012:BW0991"
-published_in: ["Rechtspraak.nl", "RF 2012/45", "RN 2012/65", "ARO 2012/54", "RO 2012/37", "JONDR 2012/665", "Ondernemingsrecht 2012/71 met annotatie van S.M. Bartman", "AA20120744 met annotatie van M.J.G.C. Raaijmakers", "JIN 2012/118 met annotatie van P. Haas", "JOR 2013/41 met annotatie van prof. mr. C.D.J. Bulten", "OR-Updates.nl 2012-0052"]
+published_in: ["Rechtspraak.nl", "RF 2012/45", "RN 2012/65", "ARO 2012/54", "RO 2012/37", "JONDR 2012/665", "Ondernemingsrecht 2012/71 met annotatie van S.M. Bartman", "AA20120744 met annotatie van Raaijmakers M.J.G.C. Theo", "JIN 2012/118 met annotatie van P. Haas", "JOR 2013/41 met annotatie van prof. mr. C.D.J. Bulten", "OR-Updates.nl 2012-0052"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2013:1586, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-355.md", "netherlands/national/acts/bw-boek-2/art-356.md"]
 ---
