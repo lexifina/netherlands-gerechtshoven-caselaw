@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHLEE:2012:BW2219"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1032", "V-N 2012/27.7 met annotatie van Redactie", "FutD 2012-1081", "NTFR 2012/1296 met annotatie van mr. dr. J.J.A.M. Korving"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1032", "V-N 2012/27.7 met annotatie van Redactie", "NTFR 2012/1296 met annotatie van mr. dr. J.J.A.M. Korving", "FutD 2012-1081", "Viditax (FutD) 2012041601", "Viditax (FutD) 2013042612", "Viditax (FutD) 2013102504"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2013:970, Bekrachtiging/bevestiging"]]
 ---
 
