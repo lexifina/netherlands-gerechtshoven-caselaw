@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2012:BW5442"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1268", "V-N 2012/41.2.3", "FutD 2012-1350"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1268", "V-N 2012/41.2.3", "FutD 2012-1350", "Viditax (FutD) 2012051009", "Viditax (FutD) 2013071507"]
 ---
 
 # ECLI:NL:GHSHE:2012:BW5442 Gerechtshof 's-Hertogenbosch , 03-05-2012 / 11-00570
