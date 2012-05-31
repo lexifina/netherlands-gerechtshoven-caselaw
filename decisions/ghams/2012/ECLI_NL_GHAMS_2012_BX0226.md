@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2012:BX0226"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1675", "V-N 2012/42.1.3", "Belastingadvies 2012/19.5", "FutD 2012-1793 met annotatie van Fiscaal up to Date", "NTFR 2012/2034 met annotatie van Prof. dr. J.P. Boer"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1675", "V-N 2012/42.1.3", "Belastingadvies 2012/19.5", "NTFR 2012/2034 met annotatie van Prof. dr. J.P. Boer", "FutD 2012-1793", "Viditax (FutD) 2012070502", "Viditax (FutD) 2013031505"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBHAA:2009:BK8106, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2013:BZ4218, Bekrachtiging/bevestiging"]]
 ---
 
