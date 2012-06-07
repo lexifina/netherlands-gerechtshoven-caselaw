@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2012:BX0238"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1674", "V-N 2012/45.21.12", "FutD 2012-1811"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2012/1674", "V-N 2012/45.21.12", "FutD 2012-1811", "Viditax (FutD) 2012070503"]
 ---
 
 # ECLI:NL:GHAMS:2012:BX0238 Gerechtshof Amsterdam , 07-06-2012 / 10-00040
