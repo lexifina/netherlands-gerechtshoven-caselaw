@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2012:BY7905"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/42", "VNT 2013/10t.2.2", "V-N 2013/10.2.2", "FutD 2013-0148"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/42", "VNT 2013/10t.2.2", "V-N 2013/10.2.2", "FutD 2013-0148", "Viditax (FutD) 2014011002", "Viditax (FutD) 2013010807", "Viditax (FutD) 2013051717"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2014:1, Bekrachtiging/bevestiging"]]
 ---
 
