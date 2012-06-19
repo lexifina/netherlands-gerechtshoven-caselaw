@@ -1,0 +1,244 @@
+---
+ecli: "ECLI:NL:GHSHE:2012:BW8677"
+court: "Gerechtshof 's-Hertogenbosch"
+court_code: "GHSHE"
+docket: "20-000341-09 (OWV)"
+decided: "2012-06-19"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2012:BW8677"
+published_in: ["Rechtspraak.nl", "NBSTRAF 2012/305"]
+cites_law: ["netherlands/national/acts/algemene-douanewet/art-10-014.md", "netherlands/national/acts/awr/art-002.md", "netherlands/national/acts/wetboek-van-strafrecht/art-036e.md", "netherlands/national/acts/wetboek-van-strafrecht/art-225.md"]
+---
+
+# ECLI:NL:GHSHE:2012:BW8677 Gerechtshof 's-Hertogenbosch , 19-06-2012 / 20-000341-09 (OWV)
+
+## Inhoudsindicatie
+
+Hof verklaart gelet op artikel 74 AWR en de Aanwijzing ontneming het openbaar ministerie alsnog niet-ontvankelijk in de vordering tot ontneming van wederrechtelijk verkregen voordeel, omdat de ontnemingsvordering strekt tot ontneming van wederrechtelijk verkregen voordeel louter behaald door bij de belastingwet strafbaar gestelde feiten. De omstandigheid dat veroordeelde is veroordeeld ter zake van deelname aan een criminele organisatie kan hieraan niet afdoen.
+
+## Uitspraak
+
+Sector strafrecht
+
+Parketnummer	: 20-000341-09 (OWV)
+
+Uitspraak	: 19 juni 2012
+
+TEGENSPRAAK
+
+Arrest van de meervoudige kamer voor strafzaken van het gerechtshof
+
+'s-Hertogenbosch
+
+gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank 's-Hertogenbosch van 28 januari 2009 op de vordering ex artikel 36e, eerste lid, van het
+
+Wetboek van Strafrecht, in de zaak met parketnummer 01-889069-05 tegen:
+
+[veroordeelde],
+
+geboren te [geboorteplaats] op [1965],
+
+wonende te [woonplaats] ([land]), [adres],
+
+waarbij aan de veroordeelde de verplichting werd opgelegd tot betaling aan de Staat van een bedrag van EUR 205.784,43, ter ontneming van het wederrechtelijk verkregen voordeel dat hij door middel van de strafbare feiten heeft verkregen.
+
+Hoger beroep
+
+De veroordeelde heeft tegen voormeld vonnis hoger beroep ingesteld.
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting in hoger beroep alsmede het onderzoek op de terechtzitting in eerste aanleg. Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de veroordeelde naar voren is gebracht.
+
+De vordering van de advocaat-generaal houdt in dat het hof het beroepen vonnis zal vernietigen en, opnieuw rechtdoende, de hoogte van het door veroordeelde wederrechtelijk verkregen voordeel zal vaststellen op het bedrag van EUR 243.898,43 en aan de veroordeelde de verplichting tot betaling aan de Staat van het geschatte voordeel zal opleggen tot datzelfde bedrag.
+
+De verdediging heeft bepleit:
+
+-	primair dat het openbaar ministerie niet-ontvankelijk zal worden verklaard in zijn ontnemingsvordering;
+
+-	subsidiair dat het door veroordeelde wederrechtelijk verkregen voordeel zal worden vastgesteld op EUR 51.446,11.
+
+Vonnis waarvan beroep
+
+Het vonnis zal worden vernietigd omdat het hof zich daarmee niet kan verenigen.
+
+Ontvankelijkheid van het openbaar ministerie in zijn ontnemingsvordering
+
+A. Standpunten
+
+A.1
+
+De verdediging heeft zich op het standpunt gesteld dat het openbaar ministerie
+
+niet-ontvankelijk moet worden verklaard in zijn ontnemingsvordering, gelet op het bepaalde in artikel 74 van de Algemene wet inzake rijksbelastingen. Daartoe is aangevoerd – zakelijk weergegeven – dat de veroordeelde wordt vervolgd wegens bij de belastingwet c.q. de Douanewet strafbaar gestelde feiten.
+
+In de visie van de verdediging snijdt de overweging van de rechtbank geen hout, aangezien de Belastingdienst/Douane wel degelijk mogelijkheden heeft om niet-Carnethouders, zoals veroordeelde, voor de douaneschuld aan te spreken, hetgeen in de onderhavige zaak ook is gebeurd.
+
+A.2
+
+De advocaat-generaal heeft zich op het standpunt gesteld dat artikel 74 van de
+
+Algemene wet inzake rijksbelastingen niet van toepassing is, aangezien het bij veroordeelde gevorderde wederrechtelijk verkregen voordeel niet uitsluitend uit bij de belastingwet strafbaar gestelde feiten is verkregen. De hoogte van de ontnemingsvordering wordt in onderhavige procedure immers gebaseerd op de deelname van veroordeelde aan de criminele organisatie in de periode van 1 oktober 2004 tot en met 11 maart 2005, als bewezen verklaard onder 3. Of veroordeelde als niet zijnde Carnethouder kan worden aangesproken door de belastingdienst/Douane voor de douaneschuld doet daar niet aan af.
+
+Het hof overweegt dienaangaande als volgt.
+
+B. Het oordeel van de rechtbank
+
+De rechtbank heeft het verweer van de verdediging strekkende tot niet-ontvankelijkheid van het openbaar ministerie in de ontnemingsvordering verworpen en daartoe overwogen:
+
+“Aan artikel 74 AWR ligt de gedachte ten grondslag dat de fiscale wetgeving waaronder de Douanewet haar eigen instrumentarium heeft om schulden in te vorderen. Om tweesporigheid te voorkomen dient de toepasselijkheid van de strafrechtelijke maatregel dan ook te worden uitgesloten in die gevallen waarin de staat over een dergelijk instrumentarium beschikt.
+
+[veroordeelde] en de zijnen hebben artikel 48 van de Douanewet overtreden. Immers hebben zij goederen fictief buiten de EG afgezet waardoor er ten onrechte geen douanerechten zijn afgedragen. Door hun handelwijze hebben zij naar het oordeel van de rechtbank niet voldaan aan de verplichtingen die in dit kader op grond van het bepaalde in artikel 204 eerste lid onder B van de EEG Verordening nr. 2913/92 worden gesteld, waardoor er ingevolge dit artikel een douaneschuld ontstaat die conform het derde lid van het onderhavige artikel kan worden ingevorderd bij diegene die de verplichtingen moet nakomen, welke ten aanzien van aan rechten bij invoer onderworpen goederen voortvloeien uit het gebruik van de douaneregeling waaronder deze goederen zijn geplaatst, in dit geval de houders van de desbetreffende Carnet TIR’s.
+
+Op grond van het vorenstaande stelt de rechtbank vast dat de Staat voor wat betreft
+
+[veroordeelde] voornoemd die zelf geen Carnethouder was – uit hoofde van de bovenvermelde EEG Verordening – geen invorderingsmogelijkheid heeft ten aanzien van de ten opzichte van de Staat ontstane douaneschuld, hetgeen naar het oordeel van de rechtbank het bepaalde in artikel 36e van het Wetboek van Strafrecht doet herleven.”
+
+C. Wettelijk kader
+
+C.1
+
+Op 25 oktober 2007 is in de onderhavige zaak de ontnemingsvordering bij de rechtbank aanhangig gemaakt. Artikel 74 van de Algemene wet inzake rijksbelastingen luidde op
+
+25 oktober 2007 als volgt:
+
+“Ter zake van bij de belastingwet strafbaar gestelde feiten vindt artikel 36e van het
+
+Wetboek van Strafrecht geen toepassing.”
+
+Artikel 2, eerste lid, aanhef en onder a., van de Algemene wet inzake rijksbelastingen luidt als volgt:
+
+“1. Deze wet verstaat onder:
+
+a. belastingwet: zowel deze wet als andere wettelijke bepalingen betreffende de heffing van de onder artikel 1 vallende belastingen;”
+
+Artikel 1 van de Algemene wet inzake rijksbelastingen luidde op
+
+25 oktober 2007 – voor zover hier van belang – als volgt:
+
+“1. (…)
+
+2. Onder rijksbelastingen worden verstaan belastingen welke van rijkswege door de rijksbelastingdienst worden geheven. Voor de toepassing van deze wet worden onder rijksbelastingen tevens verstaan rechten bij invoer en rechten bij uitvoer als bedoeld in artikel 1, tweede lid, onderscheidenlijk derde lid, van de Douanewet.
+
+(…)”
+
+C.2
+
+Artikel 1 van de Douanewet luidde op 25 oktober 2007 – voor zover hier van belang – als volgt:
+
+“1. De bepalingen van deze wet zijn van toepassing op de rechten bij invoer en de rechten bij uitvoer ten einde de goede werking van het ter zake geldende recht van de Europese Gemeenschappen te waarborgen.
+
+2. In deze wet en de daarop berustende bepalingen wordt verstaan onder rechten bij invoer:
+
+a. douanerechten in de zin van het vierde lid en heffingen van gelijke werking die bij de invoer van goederen van toepassing zijn;
+
+b. landbouwheffingen en andere belastingen bij invoer die zijn vastgesteld in het kader van het gemeenschappelijk landbouwbeleid of in dat van de specifieke regelingen die op bepaalde door verwerking van landbouwprodukten verkregen goederen van toepassing zijn.
+
+3. In deze wet en de daarop berustende bepalingen wordt verstaan onder rechten bij uitvoer:
+
+a. douanerechten en heffingen van gelijke werking die bij de uitvoer van goederen van toepassing zijn;
+
+b. landbouwheffingen en andere belastingen bij uitvoer die zijn vastgesteld in het kader van het gemeenschappelijk landbouwbeleid of in dat van de specifieke regelingen die op bepaalde door verwerking van landbouwprodukten verkregen goederen van toepassing zijn.
+
+(…)”
+
+Ten overvloede overweegt het hof dat artikel 10:14 van de Algemene douanewet thans een bepaling bevat overeenkomstig artikel 74 van de Algemene wet inzake rijksbelastingen.
+
+C.3
+
+De Aanwijzing ontneming  hield op 25 oktober 2007 – voor zover hier van belang – het volgende in:
+
+“3.4.Fiscale delicten
+
+Bij vervolging op basis van feiten, strafbaar gesteld op grond van de Algemene wet inzake rijksbelastingen (AWR), de Douanewet en de Wet op de accijns, geldt het volgende:
+
+het wederrechtelijk verkregen voordeel dat louter is ontstaan uit het plegen van in bovengenoemde fiscale wetgeving strafbaar gestelde gedragingen, wordt niet volgens artikel 36e Sr ontnomen ( artikel 74 AWR). Dit geldt zowel als vervolging plaatsvindt op basis van de fiscale strafbepalingen, als wanneer het desbetreffende feitencomplex wordt vervolgd volgens het commune strafrecht (bijvoorbeeld artikel 225 Sr).”
+
+Ten overvloede overweegt het hof dat de Aanwijzing Ontneming  zoals die thans geldt, een nagenoeg gelijkluidende paragraaf 3.4 bevat.
+
+C.4
+
+Het Besluit samenloop belastingheffing en strafrechtelijke ontneming  houdt – voor zover hier van belang – het volgende in:
+
+“2.1. Plukze-wetgeving niet van toepassing op fiscale delicten
+
+De belasting- en douanewetgeving heeft in de vorm van navordering en naheffing een eigen instrumentarium om tot een juiste belastingheffing te komen. In verband daarmee is in artikel 74 van de Algemene wet inzake rijksbelastingen (AWR) geregeld dat ontneming van wederrechtelijk verkregen voordeel niet kan worden toegepast ter zake van feiten die bij de belastingwet of de douanewet strafbaar zijn gesteld ook al zou vervolging (mede) kunnen plaatsvinden op basis van het commune strafrecht, bijvoorbeeld wegens het commune delict valsheid in geschrifte (art. 225 Sr). Dit laatste kan zich bijvoorbeeld voordoen in het geval van het gebruik van valse facturen bij BTW-teruggaven of het doen van een onjuiste aangifte.”
+
+D. Bewezenverklaring
+
+Het hof heeft in zijn arrest in de hoofdzaak (met parketnummer 20-000340-09) van
+
+20 maart 2012 ten aanzien van veroordeelde bewezen verklaard dat:
+
+1.
+
+hij op 24 november 2004 te Rotterdam tezamen en in vereniging met anderen middels een ingevuld en ondertekend Carnet TIR, voorzien van het nummer XK42506614, bij een douanekantoor van vertrek opzettelijk onjuiste aangifte heeft gedaan van een extern douanevervoer, te weten van het vervoer van een hoeveelheid kippenvlees dat in de EG zou aanvangen, te weten in Nederland, en dat buiten de EG zou eindigen, te weten Bulgarije, wetende dat dit vervoer in werkelijkheid zou eindigen binnen de EG, te weten in Nederland, en aldus een ingevolge wettelijke bepalingen, te weten de Douanewet en het
+
+Communautair douanewetboek (verordening EEG nr. 2913/92), vereiste aangifte opzettelijk onjuist heeft gedaan, welk feit ertoe strekte dat te weinig rechten bij invoer zou worden geheven;
+
+2.
+
+hij op 11 maart 2005 te Rotterdam tezamen en in vereniging met anderen middels een ingevuld en ondertekend Carnet TIR, voorzien van het nummer XC44620757, bij een douanekantoor van vertrek opzettelijk onjuiste aangifte heeft gedaan van een extern douanevervoer, te weten van het vervoer van een hoeveelheid kippenvlees dat in de EG zou aanvangen, te weten in Nederland, en dat buiten de EG zou eindigen, te weten Bulgarije, wetende dat dit vervoer in werkelijkheid zou eindigen binnen de EG, te weten in Nederland, en aldus een ingevolge wettelijke bepalingen, te weten de Douanewet en het
+
+Communautair douanewetboek (verordening EEG nr. 2913/92), vereiste aangifte opzettelijk onjuist heeft gedaan, welk feit ertoe strekte dat te weinig rechten bij invoer zou worden geheven;
+
+3.
+
+hij in de periode van 1 oktober 2004 tot en met 11 maart 2005 in Nederland heeft deelgenomen aan een organisatie, welke organisatie bestond uit een samenwerkingsverband van hem, verdachte, en natuurlijke personen, te weten [medeverdachte 1] en [medeverdachte 2] en een of meer anderen, welke organisatie tot oogmerk had het plegen van misdrijven, namelijk overtreding van de artikelen 48 van de Douanewet en 225 van het
+
+Wetboek van Strafrecht.
+
+Het hof merkt ten aanzien van het onder 3. bewezen verklaarde nog op dat het in zijn arrest heeft overwogen:
+
+“Het hof trekt uit de gebezigde bewijsmiddelen het gevolg dat verdachte in de periode van
+
+1 oktober 2004 tot en met 11 maart 2005 structureel en duurzaam heeft samengewerkt met anderen, waaronder [medeverdachte 1] en [medeverdachte 2]. Dit samenwerkingsverband had blijkens de gebezigde bewijsmiddelen tot oogmerk het middels carnets TIR doen van onjuiste aangiftes van transporten van kippenvlees, teneinde de invoerrechten te ontduiken, en het valselijk (doen of laten) opmaken van carnets TIR.”
+
+E. Ontnemingsrapporten
+
+E.1
+
+Het ontnemingsrapport van de Afdeling Financiële Recherche van 21 september 2007 bevat een korte beschrijving van de strafbare feiten, welke beschrijving – kort weergegeven – inhoudt dat door twee ondernemingen van veroordeelde kippenvlees werd ingekocht op TIR-carnet met bestemming Bulgarije, terwijl dit kippenvlees in werkelijkheid binnen de Europese Unie werd afgezet. Het berekende wederrechtelijk verkregen voordeel bestond uit de verschuldigde (aanvullende) invoerrechten en omzetbelasting met betrekking tot
+
+14 TIR-carnets minus de vergoeding voor het (laten) vervalsen van douanestempels. Het berekende totale wederrechtelijk verkregen voordeel, te weten: een bedrag van
+
+EUR 588.576,25, werd toegerekend aan de veroordeelde.
+
+De op 25 oktober 2007 aanhangig gemaakte ontnemingsvordering strekte tot vaststelling van de hoogte van het door veroordeelde wederrechtelijk verkregen voordeel op laatstgenoemd bedrag en oplegging aan veroordeelde van de verplichting tot betaling aan de Staat tot dit bedrag.
+
+E.2
+
+Het aanvullend ontnemingsrapport van de Afdeling Financiële Recherche van
+
+29 februari 2008 bevat een korte beschrijving van de strafbare feiten overeenkomstig die in het ontnemingsrapport van 21 september 2007. Het berekende wederrechtelijk verkregen voordeel bestond uit de verschuldigde (aanvullende) invoerrechten minus het (negatieve) verschil tussen de gemiddelde verkoopprijs en de gemiddelde kostprijs en minus de vergoeding voor het (laten) vervalsen van douanestempels. Het aldus berekende totale wederrechtelijk verkregen voordeel, te weten: een bedrag van EUR 302.898,43, werd toegerekend aan de veroordeelde.
+
+F.1
+
+Gelet op het vorenstaande is het hof van oordeel dat de ontnemingsvordering strekt tot ontneming van wederrechtelijk verkregen voordeel louter behaald door bij de belastingwet strafbaar gestelde feiten. Derhalve zal het hof, gelet op het bepaalde in artikel 74 van de Algemene wet inzake rijksbelastingen, het openbaar ministerie alsnog niet-ontvankelijk verklaren in de vordering tot ontneming van wederrechtelijk verkregen voordeel.
+
+F.2
+
+De omstandigheid dat veroordeelde is veroordeeld ter zake van deelname aan een criminele organisatie kan aan het voorgaande niet afdoen. Immers, de criminele organisatie had uitsluitend tot oogmerk het opzettelijk doen van onjuiste aangiftes met behulp van
+
+TIR-carnets teneinde de invoerrechten te ontduiken, strafbaar gesteld in artikel 48 van de Douanewet, terwijl het valselijk opmaken van de TIR-carnets, strafbaar gesteld in artikel 225 van het Wetboek van Strafrecht, enkel diende om dat opzettelijk doen van onjuiste aangiftes mogelijk te maken. Het door deelname aan de criminele organisatie verkregen voordeel is bijgevolg door bij de belastingwet strafbaar gestelde feiten verkregen voordeel.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart het openbaar ministerie alsnog niet-ontvankelijk in de vordering tot ontneming van wederrechtelijk verkregen voordeel.
+
+Aldus gewezen door
+
+mr. H. Harmsen, voorzitter,
+
+mr. K. van der Meijde en mr. V.M. van Daalen-Mannaerts, raadsheren,
+
+in tegenwoordigheid van mr. M.F.S. ter Heide, griffier,
+
+en op 19 juni 2012 ter openbare terechtzitting uitgesproken.
