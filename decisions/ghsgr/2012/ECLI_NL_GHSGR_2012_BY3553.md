@@ -1,0 +1,446 @@
+---
+ecli: "ECLI:NL:GHSGR:2012:BY3553"
+court: "Gerechtshof 's-Gravenhage"
+court_code: "GHSGR"
+docket: "22-000888-10"
+decided: "2012-11-20"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSGR:2012:BY3553"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2010:BL1680, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+---
+
+# ECLI:NL:GHSGR:2012:BY3553 Gerechtshof 's-Gravenhage , 20-11-2012 / 22-000888-10
+
+## Inhoudsindicatie
+
+Strandrellen; Hoek van Holland
+
+## Uitspraak
+
+Rolnummer:		22-000888-10
+
+Parketnummer:		10-611202-09
+
+Datum uitspraak:	20 november 2012
+
+TEGENSPRAAK
+
+Gerechtshof te 's-Gravenhage
+
+meervoudige kamer voor strafzaken
+
+Arrest
+
+gewezen op het hoger beroep tegen het vonnis van de rechtbank Rotterdam van 2 februari 2010 in de strafzaak tegen de verdachte:
+
+{naam}
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting in eerste aanleg en het onderzoek op de terechtzittingen in hoger beroep van dit hof van
+
+6 december 2011, 30 oktober 2012 en 6 november 2012.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de verdachte naar voren is gebracht.
+
+Procesgang
+
+In eerste aanleg is de verdachte ter zake van het van het onder 1 en 2 ten laste gelegde veroordeeld tot jeugddetentie voor de duur van 6 maanden met aftrek van voorarrest, waarvan 2 maanden voorwaardelijk met een proeftijd van 2 jaren.
+
+Voorts is beslist omtrent de vorderingen van de benadeelde partijen en omtrent de schadevergoedings-maatregelen als nader in het vonnis omschreven.
+
+De verdachte en de officier van justitie hebben tegen het vonnis hoger beroep ingesteld.
+
+Tenlastelegging
+
+Aan de verdachte is - na wijziging van de tenlastelegging ter terechtzitting in eerste aanleg - ten laste gelegd dat:
+
+1.
+
+hij in of omstreeks de periode van 22 augustus 2009 tot en met 23 augustus 2009 te Hoek van Holland, gemeente Rotterdam, op of aan de openbare weg, op/nabij het strand van Hoek van Holland, in elk geval op of aan een openbare weg, openlijk in vereniging geweld heeft gepleegd tegen één of meer politieambtena(a)r(en) en/of {namen}, welk geweld bestond uit het:
+
+- hoorbaar voor die politieambtena(a)r(en) en/of
+
+schreeuwend aftellen en/of (vervolgens)
+
+- gooien en/of werpen van één of meer glas/glazen en/of
+
+beker(s) bier en/of (met zand gevulde) fles(sen) en/of
+
+lampje(s)/lichtje(s) en/of (een) ste(e)n(en) en/of
+
+(een) hek(ken) en/of (strand)bed(den)/stoel(en) en/of
+
+(een) fiets(en) en/of (andere) (zware) voorwerp(en)
+
+tegen en/of naar en/of in de richting van die
+
+politieambtena(a)r(en) en/of
+
+- schoppen en/of gooien van (los) zand naar en/of in de
+
+richting van die politieambtena(a)r(en) en/of
+
+- zich opdringen aan/tegen en/of (vervolgens)
+
+achtervolgen/achternalopen van die politie-
+
+ambtena(a)r(en) en/of(vervolgens) die
+
+politieambtena(a)r(en) te dwingen achteruit naar en/of
+
+in de richting van (gesloten) (een) (drang)hek(ken) te
+
+lopen en/of (vervolgens)
+
+- omver trappen/schoppen en/of duwen van die/dat
+
+(drang)hek(ken) (waarachter die politieambtena(a)r(en)
+
+schuilden) en/of (vervolgens) die politie-
+
+ambtena(a)r(en) te dwingen (verder) achteruit de duinen
+
+in te lopen en/of
+
+- (daarbij) (dreigend) (luid) scanderen en/of roepen van
+
+de woorden: “Rotterdam Hooligans” en/of “(Kanker)Joden”
+
+en/of “Kutwouten’ en/of “Ik maak je af’ en/of
+
+“Kankerlijers”, althans woorden van gelijke aard en/of
+
+strekking;
+
+2.
+
+hij in of omstreeks de periode van 22 augustus tot en met 23 augustus 2009 te Hoek van Holland, gemeente Rotterdam,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, één of meer politieambtena(a)r(en) en/of
+
+{namen} heeft bedreigd met enig misdrijf tegen het leven gericht, althans met zware
+
+mishandeling, immers heeft/hebben verdachte en/of(een of meer van) zijn mededader(s) opzettelijk dreigend
+
+- hoorbaar voor die politieambtena(a)r(en) en/of
+
+schreeuwend afgeteld en/of (vervolgens)
+
+- één of meer glas/glazen en/of beker(s) bier en/of (met
+
+zand gevulde) fles(sen) en/of lampje(s)/lichtje(s)
+
+en/of (een) ste(e)n(en) en/of (een) hek(ken) en/of
+
+(strand)bed(den)/stoel(en) en/of (een) fiets(en) en/of
+
+(andere) (zware) voorwerp(en) gegooid tegen en/of naar
+
+en/of in de richting van die politieambtena(a)r(en)
+
+en/of
+
+- geschopt en/of gegooid van (los) zand naar en/of in de
+
+richting van die politieambtena(a)r(en) en/of
+
+- zich opgedrongen aan/tegen en/of (vervolgens)
+
+achtervolgd/achternagelopen van die politie-
+
+ambtena(a)r(en) en/of (vervolgens) die politie-
+
+ambtena(a)r(en) gedwongen achteruit naar en/of in de
+
+richting van (gesloten) (een) (drang) hek(ken) te lopen
+
+en/of (vervolgens)
+
+- die/dat (drang)hek(ken) omver getrapt/geschopt en/of
+
+geduwd (waarachter die politieambtena(a)r(en)
+
+schuilden) en/of (vervolgens) die politie-
+
+ambtena(a)r(en) gedwongen (verder) achteruit de duinen
+
+in te lopen en/of (daarbij) tezamen en in vereniging
+
+met een ander of anderen, althans alleen, deze dreigend
+
+de woorden toegevoegd: “Rotterdam Hooligans” en/of
+
+“(Kanker)Joden’ en/of “Kutwouten” en/of “Ik maak je af”
+
+en/of “Kankerlijers, althans woorden van gelijke
+
+dreigende aard of strekking.
+
+Ontvankelijkheid van het openbaar ministerie in de vervolging
+
+Ter terechtzitting in hoger beroep van 30 oktober 2012 heeft de raadsman van verdachte de niet-ontvankelijkheid van het openbaar ministerie in zijn vervolging bepleit, aangezien het tijdsverloop gelegen tussen de datum van het instellen van hoger beroep op 10 februari 2010 en de inhoudelijke behandeling van de zaak op 30 oktober 2012 (bijna 33 maanden gelegen), zodanig groot is, dat niet meer gezegd kan worden dat de behandeling van de zaak heeft plaatsgevonden binnen een redelijke termijn in de zin van artikel 6, eerste lid, van het Europees verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden. Subsidiair dient de termijnoverschrijding te worden meegewogen bij een eventuele strafmaatbepaling.
+
+Het hof verwerpt dit verweer, aangezien naar vaste jurisprudentie een overschrijding van de redelijke termijn niet leidt tot de niet-ontvankelijkverklaring van het openbaar ministerie, ook niet in uitzonderlijke gevallen (HR 17 juni 2008, NJ 2008, 358, LJN BD2578).
+
+Het hof acht het openbaar ministerie dan ook ontvankelijk in de vervolging.
+
+Het vonnis waarvan beroep
+
+Het vonnis waarvan beroep kan niet in stand blijven omdat het hof zich daarmee niet verenigt.
+
+Salduz
+
+Ter terechtzitting in hoger beroep van 30 oktober 2012 heeft de raadsman bepleit dat de Salduz jurisprudentie niet is nageleefd, een en ander zoals nader toegelicht in de door hem overgelegde pleitaantekeningen.
+
+Het hof overweegt als volgt.
+
+Vast staat dat de verdachte voor het eerste verhoor bij de politie op 7 oktober 2009 is bezocht door een raadsman. Tijdens dat bezoek heeft de verdachte met de raadsman kunnen bespreken wat zijn rechten zijn en wat de consequenties zijn van het niet effectueren van die rechten. De raadsman heeft niet aangegeven bij de verhoren aanwezig te willen zijn en de verdachte heeft hier ook niet om gevraagd.
+
+Noch uit de jurisprudentie van de Hoge Raad noch uit de jurisprudentie van het EHRM valt op te maken dat een meerderjarige verdachte bij zijn verhoor bij de politie recht heeft op de aanwezigheid van een raadsman. Dit is naar het oordeel van het hof niet anders wanneer hij ten tijde van het plegen van het feit minderjarig was.
+
+Gelet op het bovenstaande is het hof van oordeel dat er geen sprake is van een vormverzuim en dat de verklaringen van de verdachte afgelegd tegenover de politie op 7 en 8 oktober 2009 bruikbaar zijn voor het bewijs.
+
+Het verweer wordt verworpen.
+
+Vrijspraak
+
+Met betrekking tot het onder 2 tenlastegelegde overweegt het hof als volgt.
+
+Blijkens de vaste jurisprudentie van de Hoge Raad is voor een veroordeling ter zake van bedreiging met enig misdrijf tegen het leven gericht dan wel met zware mishandeling vereist dat de bedreiging van dien aard is en onder zodanige omstandigheden is geschied, dat bij de bedreigde in redelijkheid de vrees kon ontstaan dat hij het leven zou kunnen verliezen dan wel zwaar lichamelijk letsel zou kunnen bekomen.
+
+Het hof is van oordeel dat uit het dossier blijkt dat tegen de in de tenlastelegging genoemde politieagenten minst genomen handelingen zijn verricht waardoor bij hen in redelijkheid de vrees kon ontstaan dat zij zwaar lichamelijk letsel zouden bekomen.
+
+Met betrekking tot de verdachte is het hof echter van oordeel dat noch in het dossier noch naar aanleiding van het verhandelde ter terechtzitting in eerste aanleg en in hoger beroep wettig bewijs voorhanden is, dat het de verdachte is geweest die handelingen heeft verricht met opzet (ook niet in voorwaardelijke zin) gericht op het bedreigen van politieagenten met enig misdrijf tegen het leven gericht of met zware mishandeling zoals bedoeld in artikel 285 Wetboek van Strafrecht. Het hof is voorts van oordeel dat op grond van het dossier en het verhandelde ter terechtzitting niet geoordeeld kan worden dat tussen de verdachte en (een) mededader(s) die zich wel met opzet aan de tenlastegelegde bedreiging
+
+heeft/hebben schuldig gemaakt een zodanige nauwe en bewuste samenwerking heeft bestaan, dat het medeplegen door de verdachte van het tenlastegelegde kan worden bewezenverklaard.  Verdachte wordt dan ook vrijgesproken van het onder 2 tenlastegelegde.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 1 ten laste gelegde heeft begaan, met dien verstande dat:
+
+1.
+
+hij in of omstreeks de periode van 22 augustus 2009 tot en met 23 augustus 2009 te Hoek van Holland, gemeente Rotterdam, op of aan de openbare weg, op/nabij het strand van Hoek van Holland, in elk geval op of aan een openbare weg, openlijk in vereniging geweld heeft gepleegd tegen één of meer politieambtena(a)r(en) en/of {namen}, welk geweld bestond uit het:
+
+- hoorbaar voor die politieambtena(a)r(en) en/of
+
+schreeuwend aftellen en/of (vervolgens)
+
+- gooien en/of werpen van één of meer glas/glazen en/of
+
+beker(s) bier en/of (met zand gevulde) fles(sen) en/of
+
+lampje(s)/lichtje(s) en/of (een) ste(e)n(en) en/of
+
+(een) hek(ken) en/of (strand)bed(den)/stoel(en) en/of
+
+(een) fiets(en) en/of (andere) (zware) voorwerp(en)
+
+tegen en/of naar en/of in de richting van die
+
+politieambtena(a)r(en) en/of
+
+- schoppen en/of gooien van (los) zand naar en/of in de
+
+richting van die politieambtena(a)r(en) en/of
+
+- zich opdringen aan/tegen en/of (vervolgens)
+
+achtervolgen/achternalopen van die
+
+politieambtena(a)r(en) en/of (vervolgens) die
+
+politieambtena(a)r(en) te dwingen achteruit naar en/of
+
+in de richting van (gesloten) (een) (drang)hek(ken) te
+
+lopen en/of (vervolgens)
+
+- omver trappen/schoppen en/of duwen van die/dat
+
+(drang)hek(ken) (waarachter die politieambtena(a)r(en)
+
+schuilden) en/of (vervolgens) die
+
+politieambtena(a)r(en) te dwingen (verder) achteruit de
+
+duinen in te lopen en/of
+
+- (daarbij) (dreigend) (luid) scanderen en/of roepen van
+
+de woorden: “Rotterdam Hooligans” en/of “(Kanker)Joden”
+
+en/of “Kutwouten’ en/of “Ik maak je af’ en/of
+
+“Kankerlijers”, althans woorden van gelijke aard en/of
+
+strekking.
+
+Hetgeen meer of anders is ten laste gelegd, is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+Bewijsvoering
+
+Het hof grondt zijn overtuiging dat de verdachte het bewezen verklaarde heeft begaan op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat en die reden geven tot de bewezenverklaring.
+
+In die gevallen waarin de wet aanvulling van het arrest vereist met de bewijsmiddelen dan wel, voor zover artikel 359, derde lid, tweede volzin, van het Wetboek van Strafvordering wordt toegepast, met een opgave daarvan, zal zulks plaatsvinden in een aanvulling die als bijlage aan dit arrest zal worden gehecht.
+
+Door de raadsman gevoerd verweer
+
+Ter terechtzitting in hoger beroep van 30 oktober 2012 heeft de raadsman het verweer gevoerd dat het openbaar ministerie heeft gehandeld in strijd met de Aanwijzing Opsporingsberichtgeving, vastgesteld door het college van procureurs-generaal (6 maart 2009). Volgens de verdediging zou bewijsuitsluiting dienen te volgen, dan wel zou dit mankement verdisconteerd dienen te worden in de strafmaat, een en ander zoals nader toegelicht in de door hem overgelegde pleitaantekeningen.
+
+Het hof overweegt hieromtrent als volgt.
+
+De inzet van opsporingsberichtgeving zoals hier aan de orde, levert onmiskenbaar een inbreuk op de persoonlijke levenssfeer van de verdachte op. Bij het inzetten van een dergelijk middel dient het openbaar ministerie dan ook een zorgvuldige afweging te maken van het belang van de strafrechtelijke handhaving enerzijds en de persoonlijke levenssfeer anderzijds. In die afweging is van betekenis dat de gebeurtenissen op het strandfeest in Hoek van Holland in de volle openbaarheid hebben plaatsgevonden en de rechtsorde ernstig hebben geschokt. Er is beroering door ontstaan in de maatschappij. Verder is in de afweging van belang dat zich geen getuigen hadden gemeld en andere manieren om de zaak op te lossen het openbaar ministerie niet ten dienste stonden. Ten slotte speelt in de afweging de aard van de verdenking een rol.
+
+Het hof is van oordeel dat het openbaar ministerie in de belangenafweging tot de uitkomst heeft kunnen komen waartoe het openbaar ministerie is gekomen. Naar aanleiding van het onderzoek ter terechtzitting in hoger beroep komt het hof tot de conclusie dat ook door het openbaar ministerie voldaan is aan alle formele eisen die de Aanwijzing opsporingsberichtgeving stelt.
+
+De officier van justitie heeft ter terechtzitting in eerste aanleg medegedeeld dat door de hoofdofficier van justitie voor de inzet van opsporingsberichtgeving toestemming is verleend. Het hof heeft geen aanleiding gevonden om aan die mededeling te twijfelen.
+
+Van in strijd handelen met de Aanwijzing is dan ook naar het oordeel van het hof geen sprake en van een vormverzuim in de zin van artikel 359a van het Wetboek van Strafvordering zoals door de raadsman is bepleit, evenmin.
+
+Nadere bewijsoverweging
+
+Ter terechtzitting in hoger beroep heeft de raadsman vrijspraak van het onder 1 ten laste gelegde bepleit, een en ander zoals nader toegelicht in de door hem ter terechtzitting overgelegde pleitaantekeningen.
+
+Uit de gebezigde bewijsmiddelen is het hof het volgende gebleken.
+
+In de avond/nacht van zaterdag 22 augustus op zondag 23 augustus 2009 vond op het strand van Hoek van Holland een feest plaats, genaamd “Veronica’s Sunset Grooves”.
+
+Aan het einde van de avond heeft een groep bezoekers zich gekeerd tegen daar aanwezige politieagenten. Zij zijn de politieagenten, die in de minderheid waren, achternagegaan en daarbij is door personen uit die groep gegooid met glazen, bekers bier, met zand gevulde flessen en lampjes naar die politieagenten, zijn er in hun richting teksten als “Rotterdam Hooligans en Kanker Joden” gescandeerd en is er hoorbaar schreeuwend afgeteld.
+
+Personen in die groep hebben los zand naar de politieagenten geschopt en uiteindelijk werden de politieagenten gedwongen achteruit te lopen omdat zij werden achtervolgd door personen uit die groep. Nadat de politieambtenaren zich hadden teruggetrokken achter dranghekken, hebben personen uit die groep die dranghekken omver gehaald, waarna die politieagenten verder achteruit de duinen in zijn achtervolgd.
+
+De verdachte is met de groep achter de politieagenten aangelopen terwijl de politieagenten op linie stonden.
+
+Hij stond daarbij op enig moment voorin de groep, heeft leuzen gescandeerd en heeft zand in de richting van de politie geschopt en met lampjes gegooid. Vervolgens heeft de verdachte in de groep de politieagenten opgedreven in de richting van de nooduitgang op het moment dat zij hun wapens hadden getrokken.
+
+Verdachte heeft daarmee een significante bijdrage geleverd aan het openlijke geweld dat toen plaatsvond tegen de politieagenten.
+
+Het hof verwerpt derhalve het verweer.
+
+Strafbaarheid van het bewezen verklaarde
+
+Het onder 1 bewezen verklaarde levert op:
+
+Openlijk in vereniging geweld plegen tegen personen.
+
+Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+Vordering van de advocaat-generaal
+
+De advocaat-generaal heeft gevorderd dat het vonnis waarvan beroep zal worden vernietigd en dat de verdachte ter zake van het onder 1 en 2 ten laste gelegde zal worden veroordeeld tot jeugddetentie voor de duur van 12 maanden met aftrek van voorarrest, waarvan 3 maanden voorwaardelijk met een proeftijd van 2 jaren.
+
+Strafmotivering
+
+Het hof heeft de op te leggen straf bepaald op grond van de ernst van het feit en de omstandigheden waaronder dit is begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.
+
+Daarbij heeft het hof in het bijzonder het volgende in aanmerking genomen.
+
+De verdachte heeft zich in de avond/nacht van 22 augustus op 23 augustus 2009 op het strandfeest "Veronica's Sunset Grooves" te Hoek van Holland schuldig gemaakt aan het plegen van openlijk geweld tegen politieagenten door leuzen te scanderen,zand te schoppen en lampjes te gooien naar de politie, de agenten achterna te lopen en ze zo te dwingen achteruit te gaan. Hij maakte deel uit van een groep die naast het scanderen van leuzen en het opdrijven van de agenten, de agenten bekogelde met verschillende voorwerpen. De agenten hebben daarbij voor hun leven gevreesd.
+
+Openlijke geweldpleging is een ernstig strafbaar feit die niet alleen gevoelens van onveiligheid en angst in het leven roepen bij de slachtoffers, maar ook bij degenen die er getuige van zijn. Voor velen is wat een feest had moeten zijn, geëindigd in een angstige ervaring. De verdachte heeft door zijn handelwijze hieraan bijgedragen.
+
+Bij het bepalen van de op te leggen straf heeft het hof acht geslagen op de overschrijding van de inzendingstermijn van acht maanden, maar ziet gelet op de voortvarendheid van de behandeling van de zaak in hoger beroep, geen aanleiding dit in de op te leggen straf te verdisconteren.
+
+Het hof is - alles overwegende - van oordeel, gelet op de ernst en de omstandigheden waaronder het feit is gepleegd en de gevolgen daarvan voor de slachtoffers, en gelet op de persoonlijke omstandigheden van de verdachte zoals die ter terechtzitting in hoger beroep naar voren zijn gekomen, dat een deels onvoorwaardelijke jeugddetentie van na te melden duur een passende en geboden reactie vormt.
+
+Vorderingen tot schadevergoeding
+
+In het onderhavige strafproces hebben de navolgende benadeelde partijen zich gevoegd en een vordering ingediend tot vergoeding van geleden immateriële schade als gevolg van het ten laste gelegde tot een bedrag van
+
+€ 200,--.
+
+Benadeelde partijen:
+
+1 t/m 37
+
+In eerste aanleg zijn de benadeelde partijen {namen}  niet-ontvankelijk verklaard in hun vorderingen en zijn de vorderingen van de overige benadeelde partijen telkens toegewezen tot een bedrag van € 200,--.
+
+In hoger beroep heeft mr. B.S. van der Klauw als gemachtigde van de benadeelde partijen de vorderingen gehandhaafd, een en ander zoals nader is toegelicht in de door haar overgelegde pleitaantekeningen.
+
+De advocaat-generaal heeft geconcludeerd tot toewijzing van de vorderingen van de benadeelde partijen, met oplegging van de schadevergoedingsmaatregel, een en ander zoals nader is toegelicht in de door hem overgelegde requisitoiraantekeningen.
+
+De vorderingen van de benadeelde partijen zijn door en namens de verdachte betwist.
+
+De raadsman heeft ter terechtzitting in hoger beroep het (voorwaardelijke) verzoek gedaan om alle benadeelde partijen als getuigen te horen, voor het geval het hof van oordeel zou zijn dat de behandeling van de vorderingen geen onevenredige belasting zou opleveren voor het strafgeding.
+
+Het hof beslist als volgt:
+
+Blijkens de in hoger beroep aan de orde zijnde vorderingen, zijn de benadeelde partijen allen slachtoffer geweest in de aan de verdachte ten laste gelegde feiten. Voorts zijn naar het oordeel van het hof deze vorderingen door mr. Van der Klauw ter terechtzitting in hoger beroep van 30 oktober 2012 voldoende toegelicht en door de verdediging onvoldoende gemotiveerd betwist.
+
+Gelet op het voorgaande wijst het hof het verzoek af.
+
+Naar het oordeel van het hof is niet komen vast te staan dat bij de benadeelde partijen {namen} de gestelde schade een rechtstreeks gevolg is van het onder 1 bewezen verklaarde.
+
+Zij dienen derhalve niet-ontvankelijk te worden verklaard in hun vordering tot schadevergoeding.
+
+Nu door of namens de verdachte niet is gesteld dat deze met het oog op de verdediging tegen de vordering tot schadevergoeding van de benadeelde partij kosten hebben gemaakt, kan een kostenveroordeling achterwege blijven.
+
+Ten aanzien van de overige vorderingen van de benadeelde partijen is het hof van oordeel dat aannemelijk is geworden dat er immateriële schade is geleden en dat deze schade het rechtstreeks gevolg is van het onder 1 bewezen verklaarde. De vorderingen ter zake van geleden immateriële schade lenen zich - naar maatstaven van billijkheid - voor toewijzing tot het gevorderde bedrag van € 200,--.
+
+De toewijzing van bovengenoemde vorderingen brengt mee dat de verdachte dient te worden veroordeeld in de kosten die de benadeelde partijen tot aan deze uitspraak in verband met hun vorderingen hebben gemaakt, welke kosten het hof vooralsnog begroot op nihil, en in de kosten die de benadeelde partijen ten behoeve van de tenuitvoerlegging van deze uitspraak nog moeten maken.
+
+Betaling aan de Staat ten behoeve van de slachtoffers
+
+Nu vaststaat dat de verdachte aansprakelijk is voor de schade die door het bewezen verklaarde is toegebracht, zal het hof aan de verdachte telkens de verplichting opleggen tot betaling aan de Staat van een bedrag
+
+€ 200,-- ten behoeve van de slachtoffers.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 36f, 63, 77a, 77g, 77h, 77i, 77y, 77z en 141 van het Wetboek van Strafrecht, zoals zij golden ten tijde van het bewezen verklaarde.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het onder 2 ten laste gelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 1 ten laste gelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het onder 1 bewezen verklaarde strafbaar en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een jeugddetentie voor de duur van 240 (tweehonderdveertig) dagen.
+
+Bepaalt dat een gedeelte van de jeugddetentie groot 122 (honderdtweeëntwintig) dagen, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat de verdachte zich voor het einde van een proeftijd van 2 (twee) jaren aan een strafbaar feit heeft schuldig gemaakt.
+
+Beveelt dat de tijd die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in enige in artikel 27, eerste lid, van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Vordering van de benadeelde partijen.
+
+Wijst toe de vordering tot schadevergoeding van de navolgende benadeelde partijen:
+
+1 t/m 30
+
+ter zake van het onder 1 bewezen verklaarde telkens tot het bedrag van € 200,00 (tweehonderd euro) ter zake van immateriële schade en veroordeelt de verdachte die, evenals zijn mededaders, hoofdelijk voor het gehele bedrag aansprakelijk is, met dien verstande dat indien en voor zover de een aan zijn betalingsverplichting heeft voldaan, de een of meer anderen daarvan in zoverre zullen zijn bevrijd, om dit bedrag tegen een behoorlijk bewijs van kwijting te betalen aan de benadeelde partijen.
+
+Verwijst de verdachte in de door de benadeelde partijen gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van voornoemde slachtoffers een bedrag te betalen van € 200,00 (tweehonderd euro) als vergoeding voor immateriële schade, bij gebreke van betaling en verhaal te vervangen door 4 (vier) dagen vervangende jeugddetentie, telkens met dien verstande dat de toepassing van de vervangende hechtenis die betalingsverplichtingen niet opheft.
+
+Bepaalt dat de verplichting tot betaling van schadevergoeding aan de Staat ten behoeve van de slachtoffers voor de verdachte komt te vervallen indien en voor zover mededaders hebben voldaan aan de verplichting tot betaling aan de Staat ten behoeve van de slachtoffers.
+
+Bepaalt dat, indien de verdachte heeft voldaan aan zijn verplichting tot betaling aan de Staat daarmee zijn verplichting tot betaling aan de benadeelde partijen in zoverre komt te vervallen en andersom dat, indien de verdachte heeft voldaan aan zijn verplichting tot betaling aan de benadeelde partijen daarmee zijn verplichting tot betaling aan de Staat in zoverre komt te vervallen.
+
+Bepaalt dat indien en voor zover de mededaders van de verdachte voormeld bedrag hebben betaald, verdachte in zoverre is bevrijd van voornoemde verplichtingen tot betaling aan de benadeelde partijen of aan de Staat.
+
+Verklaart de benadeelde partijen {namen} niet-ontvankelijk in hun vordering tot schadevergoeding.
+
+Dit arrest is gewezen door mr. I.E. de Vries,
+
+mr. G. Knobbout en mr. M.J.J. van den Honert, in bijzijn van de griffier R. Luijken.
+
+Het is uitgesproken op de openbare terechtzitting van het hof van 20 november 2012.
