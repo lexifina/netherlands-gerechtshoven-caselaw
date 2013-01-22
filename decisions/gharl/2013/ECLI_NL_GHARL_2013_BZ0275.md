@@ -1,0 +1,235 @@
+---
+ecli: "ECLI:NL:GHARL:2013:BZ0275"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "12-00319"
+decided: "2013-01-22"
+published: "2013-04-05"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2013:BZ0275"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/304", "V-N 2013/19.29.17", "FutD 2013-0430"]
+---
+
+# ECLI:NL:GHARL:2013:BZ0275 Gerechtshof Arnhem-Leeuwarden , 22-01-2013 / 12-00319
+
+## Inhoudsindicatie
+
+Wet WOZ.
+
+Waarde winkel in goede justitie bepaald.
+
+## Uitspraak
+
+GERECHTSHOF ARNHEM		 - LEEUWARDEN
+
+Afdeling belastingrecht
+
+Zittingsplaats Arnhem
+
+nummer 12/00319
+
+uitspraakdatum:  22 januari 2013
+
+Uitspraak van de derde meervoudige belastingkamer
+
+op het hoger beroep van
+
+X BV te Z (hierna: belanghebbende),
+
+tegen de uitspraak van de rechtbank Arnhem van 6 maart 2012, nummer AWB 11/90, in het geding tussen belanghebbende en
+
+de heffingsambtenaar van de gemeente Ede (hierna: de heffingsambtenaar)
+
+1.	Ontstaan en loop van het geding
+
+1.1.	De heffingsambtenaar heeft bij beschikking de waarde van de onroerende zaak a-straat 1 te Q (hierna: de onroerende zaak), voor het kalenderjaar 2010 - naar de waardepeildatum 1 januari 2009 - vastgesteld op € 447.000.
+
+1.2.	De heffingsambtenaar heeft bij uitspraak op bezwaar van 3 december 2010 het bezwaar ongegrond verklaard.
+
+1.3.	Belanghebbende is tegen voornoemde uitspraak op bezwaar in beroep gekomen bij de rechtbank Arnhem (hierna: de Rechtbank). De Rechtbank heeft het beroep bij uitspraak van 6 maart 2012 ongegrond verklaard.
+
+1.4.	Belanghebbende heeft bij brief van 6 april 2012, ingekomen bij het Hof op 7 april 2012, tegen de uitspraak van de Rechtbank hoger beroep ingesteld. De heffingsambtenaar heeft een verweerschrift ingediend.
+
+1.5.	Het onderzoek ter zitting heeft plaatsgevonden op 5 december 2012 te Arnhem. De zaken met de nummers 12/00212 en 12/00319 zijn met toestemming van partijen ter zitting gelijktijdig behandeld. Namens belanghebbende is verschenen haar gemachtigde. Tevens is de heffingsambtenaar verschenen.
+
+1.6. 	Belanghebbende heeft ter zitting een pleitnota voorgedragen en exemplaren daarvan overgelegd aan het Hof en aan de wederpartij. De inhoud van deze pleitnota moet als hier ingelast worden aangemerkt. Van het verhandelde ter zitting is een proces-verbaal opgemaakt dat aan deze uitspraak is gehecht.
+
+2.	Feiten
+
+2.1.	De onroerende zaak bestaat uit een winkelruimte van 254 m².
+
+2.2. 	Met betrekking tot de onroerende zaak bestond een huurovereenkomst tussen belanghebbende en de broer van A. Deze huurder heeft een alarm aangebracht, alsmede nieuwe wanden en een nieuw plafond inclusief verlichting. In verband met een dreigend faillissement van de huurder is de huurovereenkomst per 8 augustus 2008 overgenomen door de onderneming van A, handelend onder de naam B. De overeengekomen huurprijs bedraagt € 34.000. Hierna is door A een zwaarder alarm aangebracht.
+
+3.	Geschil
+
+3.1.	In geschil is de waarde van de onroerende zaak op de waardepeildatum 1 januari 2009.
+
+3.2.	Partijen zijn het erover eens dat de waarde moet worden bepaald volgens de huurwaardekapitalisatiemethode waarbij de kapitalisatiefactor 10,3 is. Partijen verschillen uitsluitend van mening over de huurwaarde.
+
+3.3.	Belanghebbende betoogt dat de huurwaarde gelijk is aan de huurprijs van € 34.000 en komt derhalve tot een waarde van (€ 34.000 x 10,3 =) € 350.200, afgerond € 350.000.
+
+3.4.	Ter staving van de door hem verdedigde waarde van € 447.000 wijst de heffingsambtenaar op het taxatierapport van C van 27 mei 2011 waarin de huurwaarde is getaxeerd op € 43.434. De heffingsambtenaar concludeert tot bevestiging van de uitspraak van de Rechtbank.
+
+4.	Beoordeling van het geschil
+
+4.1. 	Op grond van artikel 17 van de Wet waardering onroerende zaken wordt de waarde bepaald op de waarde die aan de onroerende zaak dient te worden toegekend indien de volle en onbezwaarde eigendom daarvan zou kunnen worden overgedragen en de verkrijger de zaak in de staat waarin die zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen. Daarbij heeft als waarde te gelden de waarde in het economische verkeer, ofwel de prijs, die bij aanbieding ten verkoop op de voor de onroerende zaak meest geschikte wijze na de beste voorbereiding door de meest biedende gegadigde voor de onroerende zaak zou zijn betaald.
+
+4.2.	Het Hof stelt voorop dat op de heffingsambtenaar de bewijslast rust om feiten en omstandigheden aannemelijk te maken die meebrengen dat de door hem verdedigde waarde niet te hoog is. Deze bewijslastverdeling brengt mee dat indien er twijfel bestaat, dit ten nadele werkt van de heffingsambtenaar.
+
+4.3.  	Als uitgangspunt heeft verder te gelden dat de huurwaarde van een onroerende zaak overeenkomt met de dan geldende huurprijs die tussen niet-gelieerde partijen is overeengekomen. Dit is anders indien de partij die zich daarop beroept feiten of omstandigheden stelt en aannemelijk maakt waaruit volgt dat de huurprijs niet die waarde weergeeft (vgl. HR 29 november 2000, nr. 35.797, LJN AA8610, BNB 2001/52).
+
+4.4. 	Ter onderbouwing van de door hem verdedigde waarde verwijst de heffingsambtenaar naar het in 3.4 vermelde taxatierapport van C. In het taxatierapport worden de volgende vergelijkingsobjecten vermeld:
+
+Object
+
+Winkel oppervl.	Huur-waarde  per m²	Huurwaarde winkel	Magazijn
+
+oppervl.	Huur-
+
+waarde  per m²	Huurwaarde
+
+Magazijn	Totale huurwaarde	Feitelijke huurprijs
+
+a-straat 1	254  m²
+
+€ 171
+
+€ 43.434
+
+€ 43.434	€ 34.000
+
+b-straat 1	114  m²	€ 281	€ 32.034	42  m²
+
+€ 132
+
+€ 5.544
+
+€ 37.578	€ 35.000
+
+(per juli-10)
+
+b-straat 2	226  m²	€ 225	€ 50.850	45 m²
+
+€ 135
+
+€ 6.075
+
+€ 56.925	€ 759.000
+
+(koop jan-08)
+
+b-straat 3	74  m²	€ 276	€ 20.424	10 m²
+
+€ 167
+
+€ 1.670
+
+€ 22.094	€ 24.000
+
+(per sep-08)
+
+4.5. 	Ter onderbouwing van haar stelling dat de feitelijke huurprijs van € 34.000 een zakelijke prijs is en derhalve maatgevend is voor de huurwaarde, verwijst belanghebbende naar de volgende vergelijkingsobjecten:
+
+Object
+
+Winkel oppervl.	Huur-waarde  per m²	Huurwaarde winkel	Magazijn
+
+oppervl.	Huur-
+
+waarde  per m²	Huurwaarde
+
+Magazijn	Totale huurwaarde	Feitelijke huurprijs
+
+a-straat 1	254  m²
+
+€ 134
+
+€ 34.036
+
+€ 34.036	€ 34.000
+
+b-straat 4	215  m²
+
+€ 199
+
+€ 42.821
+
+€ 42.821	€ 42.821
+
+(per jan-09)
+
+a-straat 5-6	320  m²	€ 102	€ 32.551
+
+€ 32.551	(per aug-07)
+
+b-straat 2	271  m²	€ 179	€ 48.376
+
+€ 48.376	(per feb-07)
+
+4.6.	Met voornoemd taxatierapport heeft de heffingsambtenaar niet aannemelijk gemaakt dat een huurwaarde van € 43.434 niet te hoog is. Het Hof heeft daarbij het volgende in aanmerking genomen. De heffingsambtenaar heeft zijn standpunt dat de huurprijs van € 34.000, gelet op de vergelijkingsobjecten, niet marktconform is, naar het oordeel van het Hof onvoldoende onderbouwd. Hij heeft voor dat standpunt slechts aangevoerd dat belanghebbende met een te lage huur genoegen heeft genomen omdat, wanneer belanghebbende dat niet zou doen en het huurcontract om die reden zou worden beëindigd,  leegstand zou dreigen. Aan een dergelijke overweging kan echter naar het oordeel van het Hof – hetgeen belanghebbende gemotiveerd heeft gesteld – een zakelijk motief ten grondslag liggen. Uit hetgeen de heffingsambtenaar heeft aangevoerd, kan derhalve niet worden afgeleid dat de feitelijke huurprijs niet marktconform is.
+
+4.7. 	Gelet op het vorenstaande is de heffingsambtenaar niet geslaagd in het van hem verlangde bewijs dat de door hem verdedigde (huur)waarde van € 43.434 niet te hoog is. Dit betekent echter niet dat de door belanghebbende bepleite (huur)waarde dan zonder meer als juist kan worden aanvaard (vgl. HR 14 oktober 2005, nr. 40.299, LJN AU4300, BNB 2005/378).
+
+4.8. 	Belanghebbende bepleit een huurwaarde van € 34.000. Nu belanghebbende met deze huurwaarde geen rekening heeft gehouden met de aanleg van het zwaardere alarm – welke aanleg heeft plaatsgevonden nadat de huurprijs van € 34.000 was overeengekomen – is ook belanghebbende niet erin geslaagd de door haar voorgestane (huur)waarde aannemelijk te maken.
+
+4.9.  	Nu geen van beide partijen erin is geslaagd de door hen voorgestane waarde aannemelijk te maken, stelt het Hof, gelet op hetgeen door partijen over en weer is aangevoerd, de waarde in goede justitie vast op € 380.000.
+
+Slotsom
+
+Het hoger beroep van belanghebbende is gegrond.
+
+5. 	Proceskosten
+
+Het Hof stelt de kosten van door derden beroepsmatig verleende rechtsbijstand die belanghebbende in verband met de behandeling van het bezwaar, het beroep en het hoger beroep heeft moeten maken overeenkomstig het Besluit proceskosten bestuursrecht vast op € 327 voor de kosten in bezwaar, € 874 voor de kosten in beroep en € 944 voor de kosten in hoger beroep, ofwel in totaal op € 2.145.
+
+6. 	Beslissing
+
+Het Hof:
+
+– vernietigt de uitspraak van de Rechtbank;
+
+– vernietigt de uitspraak op bezwaar;
+
+– vermindert de vastgestelde waarde tot € 380.000;
+
+– veroordeelt de heffingsambtenaar in de proceskosten van belanghebbende tot een bedrag van € 2.145; en
+
+– gelast dat de gemeente Ede aan belanghebbende de betaalde griffierechten vergoedt, te weten € 298 in verband met het beroep bij de Rechtbank.
+
+Deze uitspraak is gedaan te Arnhem door mr. B.F.A. van Huijgevoort, voorzitter, mr. R.F.C. Spek en mr. A.J.H. van Suilen, in tegenwoordigheid van mr. J.H. Riethorst als griffier.
+
+De beslissing is in het openbaar uitgesproken op  22 januari 2013.
+
+De griffier,			De voorzitter,
+
+(J.H. Riethorst)		(B.F.A. van Huijgevoort)
+
+Afschriften zijn aangetekend per post verzonden op
+
+Tegen deze uitspraak kunnen beide partijen binnen zes weken na de verzenddatum beroep in cassatie instellen bij
+
+de Hoge Raad der Nederlanden (belastingkamer),
+
+Postbus 20303,
+
+2500 EH  Den Haag.
+
+Daarbij moet het volgende in acht worden genomen:
+
+1 - bij het beroepschrift wordt een afschrift van deze uitspraak overgelegd;
+
+2 - het beroepschrift moet ondertekend zijn en ten minste het volgende vermelden:
+
+a. de naam en het adres van de indiener;
+
+b. de dagtekening;
+
+c. een omschrijving van de uitspraak waartegen het beroep in cassatie is gericht;
+
+d. de gronden van het beroep in cassatie.
+
+Voor het instellen van beroep in cassatie is griffierecht verschuldigd. Na het instellen van beroep in cassatie ontvangt de indiener een nota griffierecht van de griffier van de Hoge Raad.
+
+In het cassatieberoepschrift kan de Hoge Raad verzocht worden om de wederpartij te veroordelen in de proceskosten.
