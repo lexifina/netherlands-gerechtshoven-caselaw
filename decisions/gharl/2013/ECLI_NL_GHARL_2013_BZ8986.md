@@ -1,0 +1,175 @@
+---
+ecli: "ECLI:NL:GHARL:2013:BZ8986"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "21-000529-12"
+decided: "2013-02-04"
+published: "2013-06-22"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2013:BZ8986"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHARL:2013:BZ8986 Gerechtshof Arnhem-Leeuwarden , 04-02-2013 / 21-000529-12
+
+## Inhoudsindicatie
+
+Megazaak Doomer.
+
+Vrijspraak van witwassen, nu niet buiten redelijke twijfel kan worden uitgesloten dat de in de tenlastelegging genoemde bedragen een legale herkomst hebben en een criminele herkomst geenszins als enige aanvaardbare verklaring van de waargenomen feiten en omstandigheden kan gelden.
+
+## Uitspraak
+
+Afdeling strafrecht
+
+Parketnummer:	21-000529-12
+
+Uitspraak d.d.:	4 februari 2013
+
+TEGENSPRAAK
+
+Promis
+
+Arrest van de meervoudige kamer voor strafzaken
+
+gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Arnhem van 22 december 2011 in de strafzaak tegen
+
+[verdachte],
+
+geboren te [geboorteplaats] [1959],
+
+zonder bekende woon- of verblijfplaats hier te lande.
+
+Het hoger beroep
+
+De verdachte en de officier van justitie hebben tegen het hiervoor genoemde vonnis hoger beroep ingesteld.
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzittingen van het hof van 4 juli 2012, 23 november 2012, 26 november 2012, 14 december 2012, 15 januari 2013 en 21 januari 2013 en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzitting in eerste aanleg.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal. Deze vordering is na voorlezing aan het hof overgelegd (zie voor de inhoud van de vordering bijlage I).
+
+Het hof heeft voorts kennis genomen van hetgeen door verdachte en zijn raadsman,           mr T.A.H.M. van de Laar, naar voren is gebracht.
+
+Het vonnis waarvan beroep
+
+Het hof zal het vonnis waarvan beroep vernietigen omdat het tot een andere bewijsbeslissing komt en daarom opnieuw rechtdoen.
+
+De tenlastelegging
+
+Aan verdachte is tenlastegelegd dat:
+
+primair
+
+[bedrijf] op één of meer tijdstippen in of omstreeks de periode van 19 mei 2006 tot en met 31 september 2006 te [plaats 1], althans in Nederland en/of België en/of Luxemburg, tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) (een) voorwerp(en), te weten een of meerdere geldbedrag(en) van in totaal (tenminste) USD 1.257.564,07, althans enig(e) geldbedrag(en), heeft verkregen van [medeverdachte 1] en/of [medeverdachte 2] en/of (een) ander(en)
+
+en/of
+
+heeft overgedragen aan [medeverdachte 3] en/of [medeverdachte 4] (ten gunste van [bedrijf]), op of omstreeks 19 mei 2006 en/of  op of omstreeks  24 augustus 2006 (factuurdatum) en/of op of omstreeks 14 september 2006, drie, althans (een) geldbedrag(en) van respectievelijk (ongeveer) USD 625.000 en/of USD 62.564,07 en/of USD 570.000
+
+en/of
+
+heeft [bedrijf], de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing verborgen en/of verhuld, althans heeft [bedrijf] verborgen en/of verhuld wie de rechthebbende(n) was/waren van genoemd(e) geldbedrag(en) en/of genoemd(e) geldbedrag(en) voorhanden heeft gehad terwijl [bedrijf] wist(en), althans redelijkerwijs had(den) moeten vermoeden, dat voornoemd(e) geldbedrag(en) - onmiddellijk of middellijk - afkomstig was/waren uit de opbrengst van enig misdrijf
+
+en/of
+
+heeft [bedrijf] voornoemde geldbedrag(en) verworven en/of voorhanden gehad en/of overgedragen en/of omgezet, terwijl [bedrijf] ten tijde van het verwerven en/of het voorhanden krijgen en/of overdragen en/of omzetten van bovengenoemd(e) geldbedrag(en), althans van enig(e) geldbedrag(en), wist(en), althans redelijkerwijs had(den) moeten vermoeden, dat bovengenoemd(e) geldbedrag(en) - onmiddellijk of middellijk - afkomstig was/waren uit de opbrengst van enig misdrijf;
+
+tot het plegen van welk(e) bovenomschreven strafbaar feit hij, verdachte, tezamen en in vereniging met een of meer ander(en), althans alleen, opdracht heeft/hebben gegeven en/of aan welke bovenomschreven verboden gedraging(en) hij, verdachte en/of zijn mededader(s), feitelijke leiding heeft/hebben gegeven;
+
+subsidiair
+
+hij op één of meer tijdstippen in of omstreeks de periode van 19 mei 2006 tot en met 31 september 2006 te [plaats 1], althans in Nederland en/of België  en/of Luxemburg, tezamen en in vereniging met een ander of anderen, althans alleen, (telkens) (een) voorwerp(en), te weten een of meerdere geldbedrag(en) van in totaal (tenminste) USD 1.257.564,07, althans enig(e) geldbedrag(en), heeft verkregen van [medeverdachte 1] en/of [medeverdachte 2] en/of (een) ander(en) en/of heeft overgedragen, door tussenkomst van [bedrijf], aan [medeverdachte 3] en/of [medeverdachte 4] (ten gunste van [bedrijf]), op of omstreeks 19 mei 2006 en/of op of omstreeks 24 augustus 2006 (factuurdatum) en/of op of omstreeks 14 september 2006, drie, althans (een) geldbedrag(en) van respectievelijk (ongeveer) USD 625.000 en/of USD 62.564,07 en/of USD 570.000
+
+en/of
+
+heeft/hebben hij, verdachte en/of zijn mededader(s), de werkelijke aard en/of de herkomst en/of de vindplaats en/of de vervreemding en/of de verplaatsing verborgen en/of verhuld, althans heeft/hebben hij verdachte en/of zijn mededader(s) verborgen en/of verhuld wie de rechthebbende(n) was/waren van genoemd(e) geldbedrag(en) en/of genoemd(e) geldbedrag(en) voorhanden heeft/hebben gehad terwijl hij, verdachte en/of zijn mededader(s) wist(en), althans redelijkerwijs had(den) moeten vermoeden, dat voornoemd(e) geldbedrag(en) - onmiddellijk of middellijk - afkomstig was/waren uit de opbrengst van enig misdrijf;
+
+en/of
+
+heeft/hebben hij, verdachte en/of zijn mededader(s), voornoemde geldbedrag(en) verworven en/of voorhanden gehad en/of overgedragen en/of omgezet, terwijl hij, verdachte, en/of zijn mededader(s) ten tijde van het verwerven en/of het voorhanden krijgen en/of overdragen en/of omzetten van bovengenoemd(e)  geldbedrag(en), althans van enig(e) geldbedrag(en), wist(en), althans redelijkerwijs had(den) moeten vermoeden, dat bovengenoemd(e) geldbedrag(en) - onmiddellijk of middellijk - afkomstig was/waren uit de opbrengst van enig misdrijf;
+
+Indien in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze verbeterd. De verdachte is daardoor niet geschaad in de verdediging.
+
+Vrijspraak
+
+USD 62.564,07
+
+Met de raadsman en het Openbaar Ministerie is het hof van oordeel dat niet buiten redelijke twijfel is komen vast te staan dat [bedrijf] het in de tenlastelegging vermelde bedrag van USD 62.564,07 aan [bedrijf] heeft gestort. Het hof zal verdachte ter zake van het tezamen en in vereniging (leidinggeven aan het) witwassen door [bedrijf] van dit bedrag vrijspreken.
+
+USD 625.000,- en 570.000,-
+
+Standpunten van Openbaar Ministerie en verdediging
+
+Ten aanzien van de door [bedrijf] op 19 mei 2006 en op 12 september 2006 naar de rekening van [bedrijf] overgeboekte bedragen van USD 625.000,- respectievelijk USD 570.000,- heeft het Openbaar Ministerie zich – zakelijk weergegeven – in hoger beroep wederom op het standpunt gesteld dat verdachte tezamen met anderen leiding heeft gegeven aan het door [bedrijf] opzettelijk witwassen van deze – van [medeverdachte 1] afkomstige – bedragen.
+
+Door de verdediging is in hoger beroep betoogd dat de hiervoor bedoelde bedragen niet van [medeverdachte 1] afkomstig waren. Verdachte en zijn zakenpartner [medeverdachte 6] zouden deze bedragen ieder voor 50 procent vanuit hun eigen vermogen hebben geïnvesteerd in de racecarrière van [betrokkene 1]. Primair is in dit verband – zakelijk weergegeven – aangevoerd dat de feiten en omstandigheden in het onderhavige geval niet het vermoeden van witwassen rechtvaardigen. Indien wel sprake zou zijn van een vermoeden in hiervoor bedoelde zin heeft de verdediging zich subsidiair op het standpunt gesteld dat zij een duidelijke en verifieerbare verklaring heeft gegeven inzake de herkomst van deze bedragen – te weten de door verdachte en zijn medeverdachte [medeverdachte 6] in het recente verleden met vastgoedactiviteiten behaalde winsten –, en dat in de onderhavige zaak een criminele herkomst van de tenlastegelegde bedragen niet als enige aanvaardbare verklaring inzake de herkomst daarvan kan gelden. Hieruit vloeit – kort gezegd – voort dat verdachte dient te worden vrijgesproken van het hem tenlastegelegde.
+
+Oordeel hof
+
+Als vaststaand dient te worden aangenomen dat [medeverdachte 1] op 16 maart 2006 met [bedrijf] een overeenkomst heeft gesloten waarin hij zich als agent van zijn zoon verplichtte een bedrag van USD 1.650.000,- te fourneren. Op welke wijze hij voor deze financiering zorg dient te dragen, uit eigen middelen dan wel door sponsoring of investeringen door derden, laat deze overeenkomst in het midden. [medeverdachte 1] heeft de raceactiviteiten van zijn zoon in 2005 en 2006 – in ieder geval – gedeeltelijk gefinancierd. Hij heeft diverse betalingen aan [bedrijf] door anderen – onder wie [medeverdachte 7] – laten uitvoeren, hetzij cash, hetzij door overboeking of door middel van money transfers. De betaling van USD 625.000,- voor zover van verdachte afkomstig, is blijkens de gedingstukken deels afkomstig van de rekening van [bedrijf] (een aan verdachte toebehorende onderneming)  en deels van de privérekening van verdachte. Door het bedrijf van medeverdachte [medeverdachte 6] [bedrijf] is op 11 mei 2006 een bedrag van      € 250.000,- gestort op de privérekening van verdachte. Ook het door [bedrijf] aan [bedrijf] overgemaakte bedrag van USD 570.000,- is afkomstig van de privérekening van verdachte en – zoals niet is betwist – vindt zijn herkomst deels in een storting op 5 september 2006 afkomstig van het bedrijf [bedrijf], toebehorende aan medeverdachte [medeverdachte 6].
+
+In zijn beoordeling stelt het hof voorop dat er geen sprake is van een concrete overboeking of storting op de rekeningen van verdachte en medeverdachte [medeverdachte 6] welke getraceerd kan worden naar (drugsactiviteiten van) [medeverdachte 1].
+
+Voor de beoordeling is vervolgens van belang dat nu op grond van de beschikbare bewijsmiddelen geen rechtstreeks verband valt te leggen met een bepaald misdrijf, niettemin bewezen worden geacht dat de bedragen die hier aan de orde zijn “uit enig misdrijf afkomstig zijn” indien het op grond van de vastgestelde feiten en omstandigheden niet anders kan zijn dan dat deze gelden uit enig misdrijf afkomstig zijn. Het is aan het Openbaar Ministerie bewijs bij te brengen waaruit zodanige feiten en omstandigheden kunnen worden afgeleid (HR 13 juli 2010, LJN BM0787).
+
+Het hof overweegt dienaangaande als volgt.
+
+Verklaringen [medeverdachte 3] en [medeverdachte 4]
+
+Door de leidinggevenden van de renstal [bedrijf] [medeverdachte 4] en [medeverdachte 3] zijn op 6 maart 2007 respectievelijk 9 december 2008 verklaringen afgelegd, die zijn neergelegd in een tweetal onderzoeksrapportages van de DEA. Volgens deze verslagen zouden [medeverdachte 4] en [medeverdachte 3]  hebben verklaard – zakelijk weergegeven – dat [medeverdachte 1] het volledige bedrag van USD 1.650.000,- uit eigen zak heeft betaald. Volgens de verdediging kunnen deze rapportages niet, zoals de rechtbank heeft gedaan, worden aangemerkt als een schriftelijk bescheid “inhoudende de verklaring van [medeverdachte 4] en [medeverdachte 3]”, nu deze verklaringen niet zijn ondertekend en niet blijkt dat deze zijn voorgehouden. Voorts blijkt daarin niet van redenen van wetenschap.
+
+[medeverdachte 3]  is op 24 mei 2011 door de rechter-commissaris gehoord. De rechtbank heeft overwogen dat [medeverdachte 3]  andermaal heeft verklaard dat het geld van [medeverdachte 1] kwam. Met de verdediging is het hof van oordeel dat uit de verklaring van 24 mei 2011 niet valt af te leiden dat [medeverdachte 3] wist dat het geld van [medeverdachte 1] afkomstig was. Tijdens het verhoor ten overstaan van de rechter-commissaris van 7 november 2012 heeft [medeverdachte 3] – zakelijk weergegeven – verklaard dat [medeverdachte 1] een contract als agent van zijn zoon getekend had en dat moest hij nakomen. Het geld kon, aldus [medeverdachte 3], uit eigen zak, door een sponsor of door een ander arrangement betaald worden. Hij wist niet waar het geld vandaan kwam.
+
+[medeverdachte 4] heeft ten overstaan van de rechter-commissaris op 9 november 2012 verklaard niet bij de afspraken met [medeverdachte 1] betrokken te zijn geweest en dus ook niet te weten door wie het bedrag van USD 1.650.000,- betaald is. Mede gelet op de nadere toelichtingen in de verklaringen hecht het hof geloof aan de verklaringen van [medeverdachte 4] en [medeverdachte 1], zoals deze bij de rechter-commissaris zijn afgelegd, en niet aan de (weergave van) de verklaringen in de verslagen.
+
+Het hof is daarom van oordeel dat de hiervoor genoemde rapportages van de DEA niet bij het bewijs kunnen worden betrokken voor de stelling dat [medeverdachte 1] de betalingen uit eigen zak had verricht. Aan de hiervoor genoemde verklaringen van [medeverdachte 3] en [medeverdachte 4] afgelegd ten overstaan van de rechter-commissaris valt evenmin concrete steun voor deze stelling te ontlenen.
+
+De tapgesprekken d.d. 15 en 19 februari 2007 ([medeverdachte 7]) en de OVC gesprekken ([medeverdachte 1] en [medeverdachte 2])
+
+In het gesprek van 15 februari 2007 deelt [medeverdachte 7] mee dat de “incrowd” ook wel weet dat pa ([medeverdachte 1]) betaalt en voorts dat [medeverdachte 3] en [medeverdachte 4] van de hoed en de rand wisten. In het gesprek van 19 februari 2007 merkt [medeverdachte 7] op “dat [medeverdachte 3] en [medeverdachte 4] natuurlijk nergens van wisten, want anders werkten ze mee aan het witwassen van zwart geld, want dat geld komt natuurlijk van [medeverdachte 1]”. Nu uit deze telefoongesprekken – ook in onderlinge samenhang bezien – niet kan worden opgemaakt waarop [medeverdachte 7] deze mededelingen baseert en deze mededelingen voorts een algemeen karakter hebben, is het hof met de verdediging van oordeel dat deze tapgesprekken niet voor het bewijs kunnen worden gebezigd voor de stelling dat de door verdachte aan [bedrijf] overgemaakte gelden van [medeverdachte 1] afkomstig zijn. Eenzelfde oordeel past waar het gaat om de OVC-gesprekken tussen [medeverdachte 1] en [medeverdachte 2] van onder meer 22 juli 2007 en 21 december 2007. In deze gesprekken stelt [medeverdachte 2] meerdere malen aan de orde – zakelijk weergegeven – dat [medeverdachte 1] naast geld in de handel, veel geld in de racerij van zijn zoon heeft gestoken. Ook de inhoud van deze gesprekken verwijst niet naar specifieke door verdachte overgemaakte geldbedragen.
+
+Faxbericht van 16 mei 2006
+
+Onder de stukken die in de administratie van [bedrijf] (een aan verdachte toebehorende onderneming) zijn aangetroffen bevindt zich een fax met bankgegevens van [bedrijf], welke fax als geadresseerde (het faxnummer van) [medeverdachte 1] vermeldt. Deze fax heeft als bijlage een door [bedrijf] aan [bedrijf] gerichte factuur van 5 maart 2006 waarop vermeld is een bedrag van USD 625.000,-. Naar het oordeel van het hof past bij de verantwoordelijkheid van een agent, zoals omschreven in de hierboven genoemde “agreement” en zoals geduid door [medeverdachte 3] in zijn verklaringen ten overstaan van de rechter-commissaris, dat [medeverdachte 1] werd geïnformeerd over de bankgegevens van [bedrijf] alsmede over de facturering aan [bedrijf]. Aan het aantreffen van de fax in de administratie van [medeverdachte 1] is naar het oordeel van het hof daarom geen bewijs te ontlenen.
+
+Aantekening “[naam]”, het notitieboekje van [medeverdachte 1] en enige andere bescheiden
+
+Tijdens de doorzoeking van het kantoor van [medeverdachte 1] op 31 oktober 2006 zijn aantekeningen aangetroffen waarin wordt verwezen naar de betaling van USD 625.000,-. Ook in een notitieboekje van [medeverdachte 1] wordt aan dit bedrag gerefereerd door de opmerking: “[medeverdachte 6] heeft 625$ gedaan-22-5”. Ook deze gegevens weerspreken, gelet op hetgeen hiervoor is overwogen, het standpunt van verdachte niet. Dat geldt ook voor het bij [medeverdachte 1] aangetroffen adressenboekje met verdachtes naam en de bij [medeverdachte 1] aangetroffen enveloppe met de naam van verdachte.
+
+De afspraken met [medeverdachte 6]
+
+Verdachte heeft – onder meer – tijdens de verhoren op 21 juli 2009 bij de politie verklaard dat hij tijdens een etentje met [medeverdachte 6] besloten heeft [betrokkene 1], die op het punt stond in de Verenigde Staten als autocoureur door te breken, samen met [medeverdachte 6] te sponsoren. Het had te maken met zijn passie voor de autosport. Hij zag dit ook als een investering die hij terug zou verdienen als [betrokkene 1] succesvol zou worden. [medeverdachte 6] had de contacten met [medeverdachte 1] en zou de sponsoring regelen. Verdachte heeft ter terechtzitting van het hof op 23 november 2012 benadrukt dat hij gelet op de jarenlang bestaande zakelijke relatie met [medeverdachte 6], die gebaseerd is op vertrouwen, geen reden zag de inhoud van de afspraken op schrift te stellen. Mede gelet op de inhoud van de nadere toelichting van verdachte en het ontbreken van gegevens die op het tegendeel wijzen ziet het hof onvoldoende reden om hieraan te twijfelen. Anders dan de rechtbank en het Openbaar Ministerie ziet het hof in deze gang van zaken geen aanwijzing voor de stelling dat de afspraken niet bestaan hebben. In het verlengde hiervan ziet het hof in de omstandigheid dat de afspraken niet op alle punten waren geconcretiseerd onvoldoende grond om aan het bestaan van de afspraken te twijfelen.
+
+Verantwoording in de administratie en de vordering [bedrijf]
+
+Door het Openbaar Ministerie is in hoger beroep andermaal betoogd dat de verantwoording van de hiervoor bedoelde betalingen alsmede de op de overschrijvingen vermelde bijschriften dienden te verhullen dat meerbedoelde door [bedrijf] aan [bedrijf] gedane betalingen feitelijk afkomstig waren van [medeverdachte 1]. Hierbij is gewezen op de bijschriften “rekening courant” , “lening” , alsmede op de omstandigheid dat bij de overboekingen nergens wordt gemeld dat het gaat om de racerij van [betrokkene 1]. Tegen de achtergrond van het vorenstaande en mede gelet op de door de verdediging hiervoor gegeven met diverse stukken onderbouwde verklaring dat deze bijschriften bij overboekingen door aan elkaar gelieerde ondernemingen niet ongebruikelijk zijn alsmede het ontbreken van gegevens die op het tegendeel wijzen, acht het hof niet aannemelijk dat de bijschriften een verhullend karakter moeten hebben gehad. Het hof kan daarmee het Openbaar Ministerie in zijn stelling niet volgen.
+
+Ten aanzien van de vordering van [bedrijf] op [bedrijf] overweegt het hof nog het volgende. Zoals hiervoor reeds vermeld is het bedrag van de USD 625.000,- deels van de privérekening van verdachte afkomstig onder de vermelding van een schuld met [bedrijf]. Het Openbaar Ministerie heeft het bestaan van deze schuld in twijfel getrokken. In hoger beroep heeft de verdediging een aantal stukken overgelegd waarvan de inhoud een onderbouwing vormt van de stelling dat [bedrijf] een vordering had op [bedrijf] ter hoogte van € 300.000, - ter zake van een aan [bedrijf] verstrekte lening, voor de inlossing waarvan verdachte hoofdelijk aansprakelijk was. Deze schuld is zowel in de boekhouding van [bedrijf] als in de boekhouding van [bedrijf] over 2004 en 2005 opgenomen. De overboeking door verdachte in mei 2006 van € 325.448,23 vanaf zijn privérekening naar de rekening van [bedrijf] strekte ertoe die vordering te voldoen. Anders dan de rechtbank en het Openbaar Ministerie ziet het hof mede gelet op de door de verdediging gegeven toelichting onvoldoende grond de verantwoording van de gang van zaken rondom de lening en (de betaling van) die vordering als verhullend aan te merken, te meer waar, zoals uit hetgeen hiervoor is overwogen voortvloeit, concrete aanwijzingen voor de stelling van het Openbaar Ministerie dat de door [bedrijf] overgeboekte gelden van [medeverdachte 1] afkomstig zijn door het Openbaar Ministerie niet zijn aangedragen, noch anderszins aannemelijk zijn geworden.
+
+Slotsom
+
+Nu aldus niet buiten redelijke twijfel kan worden uitgesloten dat de door [bedrijf] overgeboekte bedragen van USD 625.000,- respectievelijk USD 570.000,- een legale herkomst hebben en een criminele herkomst geenszins als enige aanvaardbare verklaring van de waargenomen feiten en omstandigheden kan gelden, is naar het oordeel van het hof niet wettig en overtuigend bewezen hetgeen aan de verdachte in zoverre is ten laste gelegd zodat de verdachte ook daarvan behoort te worden vrijgesproken.
+
+Het hof spreekt verdachte aldus vrij van het primair en subsidiair tenlastegelegde. Gelet op het vorenstaande komt het hof niet toe aan de beoordeling van het voorwaardelijke verzoek van de verdediging om als getuigen te horen [getuige 1] en [getuige 2].
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het primair en subsidiair ten laste gelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Aldus gewezen door
+
+mr J.A.W. Lensing, voorzitter,
+
+mr P. van Kesteren en mr P.H.A.J. Cremers, raadsheren,
+
+in tegenwoordigheid van mr L. Gereke, griffier,
+
+en op 4 februari 2013 ter openbare terechtzitting uitgesproken.
