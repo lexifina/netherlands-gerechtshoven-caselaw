@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2013:BZ6125"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/818", "FutD 2013-0944", "NTFR 2013/1123 met annotatie van Mr. A.J.M. Arends"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/818", "NTFR 2013/1123 met annotatie van Mr. A.J.M. Arends", "FutD 2013-0944", "Viditax (FutD) 2013040313"]
 ---
 
 # ECLI:NL:GHSHE:2013:BZ6125 Gerechtshof 's-Hertogenbosch , 27-03-2013 / 12/00143
