@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2013:1688"
-published_in: ["Rechtspraak.nl", "V-N 2013/49.18.39", "FutD 2013-2010 met annotatie van Fiscaal up to Date", "NTFR 2014/2480 met annotatie van Mr. A.J.M. Arends", "NTFR 2014/1477 met annotatie van mr. J.  Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N 2013/49.18.39", "FutD 2013-2010", "Viditax (FutD) 2013080601", "Viditax (FutD) 2014100301", "Viditax (FutD) 2014050202"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2014:2873, Bekrachtiging/bevestiging"]]
 ---
 
