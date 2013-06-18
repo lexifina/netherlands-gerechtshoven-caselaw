@@ -37,7 +37,7 @@ in de zaak van
 [appellant 1]
 ,
 
-wonende te [woonplaats],
+wonende te [woonplaats] ,
 
 appellante,
 
@@ -88,11 +88,11 @@ Als enerzijds gesteld en anderszins erkend, althans niet voldoende (gemotiveerd)
 
 2.2
 
-In de periode van juli tot december 2010 heeft [appellant] een woning, staande en gelegen aan de [adres 3], van stichting Lefier (hierna te noemen: Lefier) gehuurd, welke woning zij vanwege de (na een brand ontdekte) exploitatie van een hennepplantage in deze woning heeft moeten ontruimen en verlaten.
+In de periode van juli tot december 2010 heeft [appellant] een woning, staande en gelegen aan de [adres 3] , van stichting Lefier (hierna te noemen: Lefier) gehuurd, welke woning zij vanwege de (na een brand ontdekte) exploitatie van een hennepplantage in deze woning heeft moeten ontruimen en verlaten.
 
 2.3
 
-Inge Ferwerda, sociaal wijkbeheerder van Lefier, is na deze brand samen met [appellant] in de woning aan de [adres 3] geweest om de schade te bekijken en om [appellant] de gelegenheid te geven belangrijke spullen uit deze woning weg te halen. Blijkens de brief van Inge Ferwerda (namens Lefier) van 4 mei 2011 aan de rechtsvoorgangster van Steelande (productie 4 bij conclusie van antwoord), heeft Inge Ferwerda onderweg naar de woning het volgende met [appellant] besproken:
+[naam], sociaal wijkbeheerder van Lefier, is na deze brand samen met [appellant] in de woning aan de [adres 3] geweest om de schade te bekijken en om [appellant] de gelegenheid te geven belangrijke spullen uit deze woning weg te halen. Blijkens de brief van [naam] (namens Lefier) van 4 mei 2011 aan de rechtsvoorgangster van Steelande (productie 4 bij conclusie van antwoord), heeft [naam] onderweg naar de woning het volgende met [appellant] besproken:
 
 “Onderweg naar de woning hebben wij gesproken over de gevolgen die de hennepplantage voor haar heeft. Daarbij is onder andere aan bod gekomen dat zij de komende jaren geen woning meer aangeboden zou krijgen door Lefier, en dat het ook bij andere corporaties moeilijk zou zijn om aan een woning te komen. Dit in verband met de benodigde verhuurderverklaring. Omdat mevrouw [appellant] zich niet als een goed huurder heeft gedragen, kan Lefier haar geen goede verhuurdersverklaring verstrekken.”
 
@@ -102,7 +102,7 @@ Sinds december 2010 is [appellant] (ten minste) wekelijks op het kantoor van Ste
 
 2.5
 
-Bij brief van 1 februari 2011 heeft Steelande aan [appellant] de woning, staande en gelegen aan de [adres 1] te [plaats 1], aangeboden.
+Bij brief van 1 februari 2011 heeft Steelande aan [appellant] de woning, staande en gelegen aan de [adres 1] te [plaats 1] , aangeboden.
 
 2.6
 
@@ -113,7 +113,7 @@ Het geschil en de beslissing van de rechtbank
 
 3.1
 
-[appellant] heeft gevorderd Steelande te veroordelen om binnen een maand na betekening van het te wijzen vonnis aan [appellant] een woning aan te bieden in de gemeente Hoogezand-Sappemeer op een vergelijkbare locatie als de [adres 1] te [plaats 1] en tegen een vergelijkbare huurprijs van € 291,46 per maand, op straffe van verbeurte van een dwangsom, een en ander met veroordeling van Steelande in de proceskosten.
+[appellant] heeft gevorderd Steelande te veroordelen om binnen een maand na betekening van het te wijzen vonnis aan [appellant] een woning aan te bieden in de gemeente Hoogezand-Sappemeer op een vergelijkbare locatie als de [adres 1] te [plaats 1] en tegen een vergelijkbare huurprijs van € 291,46 per maand, op straffe van verbeurte van een dwangsom, een en ander met veroordeling van Steelande in de proceskosten.
 
 3.2
 
@@ -142,6 +142,6 @@ Beslissing
 
 bekrachtigt het tussen partijen gewezen vonnis van de kantonrechter van 24 mei 2012, waarvan beroep;
 
-veroordeelt [appellant] in de proceskosten, aan de zijde van Steelande begroot op € 894,- voor geliquideerd salaris van de advocaat en € 291,- voor verschotten.
+veroordeelt [appellant] in de proceskosten, aan de zijde van Steelande begroot op € 894,- voor geliquideerd salaris van de advocaat en € 291,- voor verschotten.
 
 Aldus gewezen door mrs. J.M. Rowel-van der Linde, voorzitter, L. Groefsema en R.E. Weening en uitgesproken door de rolraadsheer ter openbare terechtzitting van dit hof van dinsdag 18 juni 2013 in bijzijn van de griffier.
