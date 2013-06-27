@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Herziening"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2013:2622"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1898", "V-N 2013/53.21.2", "FutD 2013-2248"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/1898", "V-N 2013/53.21.2", "FutD 2013-2248", "Viditax (FutD) 2013090312"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2014:389"]]
 ---
 
