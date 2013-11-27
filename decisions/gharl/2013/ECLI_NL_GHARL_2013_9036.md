@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2013:9036"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/2748", "FutD 2013-2977"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2013/2748", "FutD 2013-2977", "Viditax (FutD) 2013120203", "Viditax (FutD) 2014091915"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2014:2716"]]
 ---
 
