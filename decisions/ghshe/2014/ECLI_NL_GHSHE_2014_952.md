@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2014:952"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/707", "V-N 2014/31.1.2", "FutD 2014-0880", "NTFR 2014/1471 met annotatie van drs. R.P. Bitter", "NTFR 2015/436"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/707", "V-N 2014/31.1.2", "NTFR 2014/1471 met annotatie van drs. R.P. Bitter", "FutD 2014-0880", "Viditax (FutD) 2014041009"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2015:73"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-090.md"]
 ---
