@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2014:1874"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2014-0050"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2014-0050", "VEAN-ERF-Updates.nl 2014-0050"]
 ---
 
 # ECLI:NL:GHDHA:2014:1874 Gerechtshof Den Haag , 29-04-2014 / 200.123.926/01
