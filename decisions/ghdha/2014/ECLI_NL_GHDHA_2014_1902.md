@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2014:1902"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1692", "FutD 2014-1953", "NTFR 2015/395 met annotatie van Mr. M.H.W.N. Lammers", "NTFR 2015/1187"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/1692", "NTFR 2015/395 met annotatie van Mr. M.H.W.N. Lammers", "FutD 2014-1953", "Viditax (FutD) 2014082008"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2013:BZ5896, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2015:811"]]
 ---
 
