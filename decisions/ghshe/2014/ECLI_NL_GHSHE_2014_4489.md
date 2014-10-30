@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2014:4489"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/2654", "V-N 2015/8.2.1", "FutD 2014-3007", "NTFR 2015/589 met annotatie van mr. dr. N. Djebali", "PFR-Updates.nl 2014-0394"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2014/2654", "V-N 2015/8.2.1", "PFR-Updates.nl 2014-0394", "NTFR 2015/589 met annotatie van mr. dr. N. Djebali", "FutD 2014-3007", "Viditax (FutD) 2014121922"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2015:2998"]]
 cites_law: ["netherlands/national/acts/awr/art-016.md"]
 ---
