@@ -34,9 +34,9 @@ Zaaknummer: 200.151.808/01
 
 Zaaknummer eerste aanleg: 116348/ ES RK 09-1456
 
-[APPELLANT],
+[APPELLANT] ,
 
-wonende te [woonplaats],
+wonende te [woonplaats] ,
 
 appellant,
 
@@ -44,9 +44,9 @@ advocaat: mr. B. Breederveld te Alkmaar,
 
 tegen
 
-[GEÏNTIMEERDE],
+[GEÏNTIMEERDE] ,
 
-wonende te [woonplaats],
+wonende te [woonplaats] ,
 
 geïntimeerde,
 
@@ -88,7 +88,7 @@ Artikel 5
 
 2.2.
 
-In de staat van aanbrengsten behorende bij de akte van huwelijksvoorwaarden staat als aanbrengst van de man onder meer vermeld: aandelen [X]. Volgens de openingsbalans van [X] B.V. per 1 januari 1977 behoorden tot de activa van die vennootschap de aandelen in [Y] en de aandelen in Zwembad [Z].
+In de staat van aanbrengsten behorende bij de akte van huwelijksvoorwaarden staat als aanbrengst van de man onder meer vermeld: aandelen [X] . Volgens de openingsbalans van [X] B.V. per 1 januari 1977 behoorden tot de activa van die vennootschap de aandelen in [Y] en de aandelen in Zwembad [Z] .
 
 2.3.
 
@@ -125,7 +125,7 @@ Gelet op de gemotiveerde betwisting door de vrouw van het merendeel van zijn ste
 
 De rechtbank heeft geoordeeld dat de opgepotte winsten van [X] B.V., die op 20 augustus 2002 is geliquideerd, op grond van artikel 1:141 lid 4 BW onder het verrekenbeding vallen, dat de gehele liquidatiewinst is toe te rekenen aan opgepotte winsten die hadden kunnen worden uitgekeerd en dat de gehele liquidatiewinst onder het te verrekenen vermogen valt, evenals vermogensbestanddelen die zijn gefinancierd uit de liquidatieopbrengst. Vervolgens heeft de rechtbank beslist dat de effectenportefeuille, de beleggersrekening, en de kampeerwagen en de Mercedes moeten worden verrekend. Hierop zien de grieven II en III.
 
-3.5.De man stelt zich in grief II op het standpunt dat de effectenportefeuille, de beleggersrekening, de kampeerwagen en de Mercedes niet tot het te verrekenen vermogen behoren. Ter onderbouwing van zijn standpunt voert hij het volgende aan. De aandelen in [X] B.V. (hierna ook: de holding) zijn voorhuwelijks vermogen. Bij de aanvang van het huwelijk bestond het vermogen van de holding onder meer uit de aandelen in drogisterij [Y] en zwembad [Z] De aandelen in laatstgenoemde twee B.V.’s zijn in 1993 verkocht voor respectievelijk ƒ 1.000.000,- en ƒ 1.450.000,-. De holding  heeft in 1995 de camping in Berkhout aangekocht. Deze omvatte onroerend goed, evenals eerder – naar het hof begrijpt – zwembad [Z]. De camping is in 2000 verkocht voor ƒ 4.300.000,-. Met de liquidatie van de holding in 2002 werden de aandelen van voor het huwelijk verzilverd. De waarde van deze aandelen ten tijde van de liquidatie is terug te voeren op een autonome waardestijging van tot de holding behorend vermogen, zoals het onroerend goed van zwembad [Z] en camping Berkhout en is derhalve niet gevormd uit overgespaard inkomen. Omdat de aandelen voorhuwelijks vermogen zijn, maakt de liquidatieopbrengst geen deel uit van het te verrekenen vermogen. De liquidatieopbrengst is gebruikt ter financiering van de effectenportefeuille en de beleggersrekening. Deze maken dan ook evenmin deel uit van het te verrekenen vermogen. Dit geldt tevens voor de kampeerwagen en de Mercedes, die zijn gefinancierd uit de effectenportefeuille, althans uit de liquidatieopbrengst. De man heeft geen andere bron van inkomsten gehad dan de holding. Na liquidatie van de holding heeft hij evenmin een andere bron van inkomsten gehad en heeft hij geleefd van het vermogen dat hem door de liquidatie is toegevallen. Met deze omstandigheid, waarvan de man uitdrukkelijk bewijs aanbiedt, heeft de man afdoende het vermoeden weerlegd dat deze goederen (het hof begrijpt: de effectenportefeuille, de beleggersrekening, de kampeerwagen en de Mercedes) niet zijn verkregen met te verrekenen vermogen, aldus de man.
+3.5.De man stelt zich in grief II op het standpunt dat de effectenportefeuille, de beleggersrekening, de kampeerwagen en de Mercedes niet tot het te verrekenen vermogen behoren. Ter onderbouwing van zijn standpunt voert hij het volgende aan. De aandelen in [X] B.V. (hierna ook: de holding) zijn voorhuwelijks vermogen. Bij de aanvang van het huwelijk bestond het vermogen van de holding onder meer uit de aandelen in drogisterij [Y] en zwembad [Z] De aandelen in laatstgenoemde twee B.V.’s zijn in 1993 verkocht voor respectievelijk ƒ 1.000.000,- en ƒ 1.450.000,-. De holding  heeft in 1995 de camping in Berkhout aangekocht. Deze omvatte onroerend goed, evenals eerder – naar het hof begrijpt – zwembad [Z] . De camping is in 2000 verkocht voor ƒ 4.300.000,-. Met de liquidatie van de holding in 2002 werden de aandelen van voor het huwelijk verzilverd. De waarde van deze aandelen ten tijde van de liquidatie is terug te voeren op een autonome waardestijging van tot de holding behorend vermogen, zoals het onroerend goed van zwembad [Z] en camping Berkhout en is derhalve niet gevormd uit overgespaard inkomen. Omdat de aandelen voorhuwelijks vermogen zijn, maakt de liquidatieopbrengst geen deel uit van het te verrekenen vermogen. De liquidatieopbrengst is gebruikt ter financiering van de effectenportefeuille en de beleggersrekening. Deze maken dan ook evenmin deel uit van het te verrekenen vermogen. Dit geldt tevens voor de kampeerwagen en de Mercedes, die zijn gefinancierd uit de effectenportefeuille, althans uit de liquidatieopbrengst. De man heeft geen andere bron van inkomsten gehad dan de holding. Na liquidatie van de holding heeft hij evenmin een andere bron van inkomsten gehad en heeft hij geleefd van het vermogen dat hem door de liquidatie is toegevallen. Met deze omstandigheid, waarvan de man uitdrukkelijk bewijs aanbiedt, heeft de man afdoende het vermoeden weerlegd dat deze goederen (het hof begrijpt: de effectenportefeuille, de beleggersrekening, de kampeerwagen en de Mercedes) niet zijn verkregen met te verrekenen vermogen, aldus de man.
 
 3.6.
 
@@ -147,11 +147,11 @@ Na liquidatie van [X] B.V. heeft de man een geldbedrag, naar zijn zeggen in hoge
 
 De rechtbank heeft beslist dat de man aan de vrouw verschuldigd is een bedrag van € 202.504,50 ter zake van de internetrekening genoemd op bladzijde 5 van de brief van de man van 26 april 2010 en in punt 8 van de brief van de man van 31 maart 2011. Daartoe heeft de rechtbank in haar tussenbeschikking van 20 februari 2013 onder meer overwogen dat de man niet heeft voldaan aan de op hem ex artikel 21 Rv rustende verplichting om de voor de beslissing van belang zijnde feiten volledig en naar waarheid aan te voeren. Grief IV is gericht tegen deze beslissing en overweging.
 
-De man stelt dat hij abusievelijk in de brief van 26 april 2010 een bedrag heeft genoemd van € 409.000,-, dat hij vervolgens in zijn brief van 31 maart 2011 heeft aangegeven dat dit een vergissing betrof en in zijn akte van 30 augustus 2012 heeft toegelicht dat het saldo van de rekening, internetbonusspaarrekening nummer 1017.745.544 op de peildatum € 1.692,73 bedroeg.  Uit zijn in het geding gebrachte aangiften inkomstenbelasting blijkt weliswaar dat de man in 2002 een saldo had van € 405.009,-, maar per 1 januari 2006 was er een saldo van € 4.183,- over.
+De man stelt dat hij abusievelijk in de brief van 26 april 2010 een bedrag heeft genoemd van € 409.000,-, dat hij vervolgens in zijn brief van 31 maart 2011 heeft aangegeven dat dit een vergissing betrof en in zijn akte van 30 augustus 2012 heeft toegelicht dat het saldo van de rekening, internetbonusspaarrekening nummer [nummer] op de peildatum € 1.692,73 bedroeg.  Uit zijn in het geding gebrachte aangiften inkomstenbelasting blijkt weliswaar dat de man in 2002 een saldo had van € 405.009,-, maar per 1 januari 2006 was er een saldo van € 4.183,- over.
 
 3.10.
 
-Het hof stelt aan de hand van de door de man in hoger beroep overgelegde aangiften inkomstenbelasting het volgende vast. In de aangifte 2002 staat één Rabobank internetrekening met een saldo op 1 januari van € 0 en op 31 december van € 405.009,-. In de aangifte 2004 staat opnieuw één Rabo internetrekening, met daarbij vermeld “(544)”, met een saldo op 1 januari van € 310.694,- en op 31 december van € 80.961,-. Ook de aangifte 2006 bevat slechts één Rabobank internetrekening, met daarbij vermeld “(544)”. Het saldo bedroeg toen op 1 januari € 4.183,- en op 31 december € 1.479,-. De vrouw heeft deze gegevens vrijwel onbesproken gelaten. In het licht hiervan is er onvoldoende aanleiding om te oordelen dat er naast de internetrekening 1017.745.544, waarvan de rechtbank heeft beslist dat de man aan de vrouw € 4.922,84 moet voldoen, er op de peildatum nog een internetrekening was met een saldo van € 405.009,-. Grief IV slaagt.
+Het hof stelt aan de hand van de door de man in hoger beroep overgelegde aangiften inkomstenbelasting het volgende vast. In de aangifte 2002 staat één Rabobank internetrekening met een saldo op 1 januari van € 0 en op 31 december van € 405.009,-. In de aangifte 2004 staat opnieuw één Rabo internetrekening, met daarbij vermeld “(544)”, met een saldo op 1 januari van € 310.694,- en op 31 december van € 80.961,-. Ook de aangifte 2006 bevat slechts één Rabobank internetrekening, met daarbij vermeld “(544)”. Het saldo bedroeg toen op 1 januari € 4.183,- en op 31 december € 1.479,-. De vrouw heeft deze gegevens vrijwel onbesproken gelaten. In het licht hiervan is er onvoldoende aanleiding om te oordelen dat er naast de internetrekening [nummer], waarvan de rechtbank heeft beslist dat de man aan de vrouw € 4.922,84 moet voldoen, er op de peildatum nog een internetrekening was met een saldo van € 405.009,-. Grief IV slaagt.
 
 3.11.
 
@@ -183,13 +183,13 @@ Dit alles leidt tot de conclusie dat de man voldoende aannemelijk heeft gemaakt 
 
 In grief VI komt de man op tegen de afwijzing van zijn verzoek om nominale vergoeding van € 136.134,06. Volgens de rechtbank is die investering in de aan partijen gezamenlijk toebehorende woning, wat daar ook van zij, gefinancierd met geld dat voor verrekening in aanmerking komt.
 
-In hoger beroep heeft de man zijn verzoek verminderd tot een bedrag van € 41.088,-. Ter onderbouwing van dit bedrag stelt de man dat de woning (onder meer) is gefinancierd met de verkoopopbrengst van de aan de man in eigendom toebehorende woning aan de [adres]. De man verwijst daartoe naar de in hoger beroep in het geding gebrachte nota van afrekening. Het hof overweegt hieromtrent als volgt.
+In hoger beroep heeft de man zijn verzoek verminderd tot een bedrag van € 41.088,-. Ter onderbouwing van dit bedrag stelt de man dat de woning (onder meer) is gefinancierd met de verkoopopbrengst van de aan de man in eigendom toebehorende woning aan de [adres] . De man verwijst daartoe naar de in hoger beroep in het geding gebrachte nota van afrekening. Het hof overweegt hieromtrent als volgt.
 
 3.15.
 
 Tussen partijen is niet in geschil dat de thans nog aan hen in gezamenlijke eigendom toebehorende woning met toebehoren in Bovenkarspel eind 2000 is gekocht voor een bedrag van ƒ 800.000,- en in 2001 aan hen is overgedragen. Ook is niet in geschil dat de woning in ieder geval is gefinancierd met een hypothecaire geldlening van ƒ 500.000,-. Uit de nota van afrekening van notaris mr. P. van der Wees op naam van de man blijkt dat op 1 juni 1995 de woning aan de [adres] aan derden is overgedragen. Ook blijkt daaruit dat de verkoopopbrengst ƒ 181.092,32 bedroeg.
 
-Gelet op de lange periode tussen de verkoop van de woning in [plaats] en de aankoop van de woning in Bovenkarspel heeft de man, bij gebreke van bijvoorbeeld stukken waaruit de geldstromen blijken, zijn stelling dat de woning in Bovenkarspel (mede) is gefinancierd met de verkoopopbrengst van de woning in [plaats], tegenover de gemotiveerde betwisting door de vrouw onvoldoende onderbouwd. In het midden kan dan ook blijven of de woning in [plaats] uitsluitend aan de man toebehoorde. De grief faalt.
+Gelet op de lange periode tussen de verkoop van de woning in [plaats] en de aankoop van de woning in Bovenkarspel heeft de man, bij gebreke van bijvoorbeeld stukken waaruit de geldstromen blijken, zijn stelling dat de woning in Bovenkarspel (mede) is gefinancierd met de verkoopopbrengst van de woning in [plaats] , tegenover de gemotiveerde betwisting door de vrouw onvoldoende onderbouwd. In het midden kan dan ook blijven of de woning in [plaats] uitsluitend aan de man toebehoorde. De grief faalt.
 
 3.16.
 
@@ -207,7 +207,7 @@ Slotsom
 
 De grieven IV, tweede V en VII slagen.
 
-Het hof zal de bestreden beschikkingen vernietigen voor zover daarbij is bepaald dat de man een bedrag van € 202.504,50 verschuldigd is ter zake van de in de brieven van de man van 26 april 2010 en 31 maart 2011 genoemde internetrekening, en voor zover de man daarbij is veroordeeld ter zake van het aan de vrouw toekomende aandeel in het door de man in eigen beheer opgebouwde pensioen een bedrag van € 359.146,- door zijn pensioen B.V. te doen storten op een bankrekening van een verzekeringsmaatschappij, en de daartoe strekkende verzoeken van de vrouw alsnog afwijzen. Het hof zal de bestreden beschikkingen voor het overige bekrachtigen, ook voor zover de rechtbank heeft bepaald dat de man ter zake van de Rabobank Internetbonus Spaarrekening 1017.745.544 een bedrag van € 4.922,84 aan de vrouw verschuldigd is, nu de man tegen het in deze beslissing genoemde bedrag geen grief heeft gericht.
+Het hof zal de bestreden beschikkingen vernietigen voor zover daarbij is bepaald dat de man een bedrag van € 202.504,50 verschuldigd is ter zake van de in de brieven van de man van 26 april 2010 en 31 maart 2011 genoemde internetrekening, en voor zover de man daarbij is veroordeeld ter zake van het aan de vrouw toekomende aandeel in het door de man in eigen beheer opgebouwde pensioen een bedrag van € 359.146,- door zijn pensioen B.V. te doen storten op een bankrekening van een verzekeringsmaatschappij, en de daartoe strekkende verzoeken van de vrouw alsnog afwijzen. Het hof zal de bestreden beschikkingen voor het overige bekrachtigen, ook voor zover de rechtbank heeft bepaald dat de man ter zake van de Rabobank Internetbonus Spaarrekening [nummer] een bedrag van € 4.922,84 aan de vrouw verschuldigd is, nu de man tegen het in deze beslissing genoemde bedrag geen grief heeft gericht.
 
 Voorts zal het hof op het daartoe strekkende verzoek van de man de vrouw veroordelen tot het betalen van een gebruiksvergoeding voor de woning in Bovenkarspel.
 
@@ -230,7 +230,7 @@ wijst de daartoe strekkende verzoeken van de vrouw af;
 
 bekrachtigt de bestreden beschikkingen voor het overige;
 
-veroordeelt de vrouw tot voldoening aan de man van een gebruiksvergoeding van € 132,- per maand met ingang van 27 januari 2010 tot de dag der goederenrechtelijke voltooiing van de verdeling van de woning aan [adres 2];
+veroordeelt de vrouw tot voldoening aan de man van een gebruiksvergoeding van € 132,- per maand met ingang van 27 januari 2010 tot de dag der goederenrechtelijke voltooiing van de verdeling van de woning aan [adres 2] ;
 
 verklaart deze beschikking uitvoerbaar bij voorraad;
 
