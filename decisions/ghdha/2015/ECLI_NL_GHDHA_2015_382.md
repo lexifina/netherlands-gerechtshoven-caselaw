@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2015:382"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/495", "V-N 2015/24.4 met annotatie van Redactie", "FutD 2015-0579", "NTFR 2015/1012"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2013:14230, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/495", "V-N 2015/24.4 met annotatie van Redactie", "FutD 2015-0579", "Viditax (FutD) 2015030405"]
 ---
 
 # ECLI:NL:GHDHA:2015:382 Gerechtshof Den Haag , 28-01-2015 / BK-13_01761 en BK-13_01762
