@@ -1,0 +1,383 @@
+---
+ecli: "ECLI:NL:GHARL:2015:876"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "ks 21-002481-14"
+decided: "2015-02-05"
+published: "2015-02-10"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2015:876"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHARL:2015:876 Gerechtshof Arnhem-Leeuwarden , 05-02-2015 / ks 21-002481-14
+
+## Inhoudsindicatie
+
+Vrijspraak ter zake van medeplegen van verkrachting en veroordeling ter zake van medeplegen van ontucht (waaronder seksueel binnendringen) met een persoon onder de 16 jaar. Oplegging van gevangenisstraf van 20 maanden, waarvan 4 maanden voorwaardelijk met een proeftijd van 2 jaren.
+
+Bespreking van verschillende verweren, waaronder de ontvankelijkheid van het OM in het hoger beroep en in de vervolging (beroep op gelijkheidsbeginsel), de geldigheid van de inleidende dagvaarding (tenlastelegging), het gebruik van verklaringen van medeverdachten ter zitting in eerste aanleg, de betrouwbaarheid van aangeefster, daderschap verdachte, unus testis, nullus testis, de schending van de sociaal-ethische norm en medeplegen.
+
+## Uitspraak
+
+Afdeling strafrecht
+
+Parketnummer:	21-002481-14
+
+Uitspraak d.d.:	5 februari 2015
+
+TEGENSPRAAK
+
+Verkort arrest van de meervoudige kamer voor strafzaken
+
+gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Overijssel van 15 april 2014 met parketnummer 08-770221-13 in de strafzaak tegen
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] op [1993],
+
+wonende te [woonplaats], [adres].
+
+Het hoger beroep
+
+De officier van justitie heeft tegen het hiervoor genoemde vonnis hoger beroep ingesteld.
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzittingen van het hof van 21 januari 2015, 22 januari 2015 en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzitting in eerste aanleg.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal, strekkende tot:
+
+bewezenverklaring van het onder 1 primair en 2 ten laste gelegde;
+
+oplegging van gevangenisstraf voor de duur van 36 maanden met aftrek van voorarrest;
+
+de gevangenneming van verdachte bij uitspraak van het hof;
+
+ beslissing conform het vonnis waarvan beroep met betrekking tot de vordering van de benadeelde partij [benadeelde].
+
+Deze vordering is na voorlezing aan het hof overgelegd.
+
+Het hof heeft voorts kennis genomen van hetgeen door verdachte en zijn raadsman, mr. R.W. van Faassen, naar voren is gebracht.
+
+Ontvankelijkheid OM in hoger beroep voor vrijspraak feit 2
+
+Onder de naam Leghorn heeft het OM voor één feitencomplex in een woning te [plaats] op 5 september 2013 vervolging ingesteld tegen in totaal zeven verdachten.
+
+In de zaken [medeverdachte1], [verdachte], [medeverdachte4], [medeverdachte5] en [medeverdachte2] zijn de verdachten door de rechtbank bij vonnis van 15 april 2014 vrijgesproken van feit 2 (art. 247 Sr / ontucht met iemand jonger dan 16 jaar). Bij akte van 28 april 2014 heeft de officier van justitie onbeperkt hoger beroep ingesteld tegen dit vonnis. In de appelschriftuur van 8 mei 2014 heeft de officier van justitie in de zaken tegen verdachte, [medeverdachte1] en [medeverdachte2] vermeld dat het appel zich richt tegen de vrijspraak voor het onder feit 1 (primair) tenlastegelegde en in de zaken [medeverdachte4] en [medeverdachte5] dat het appel zich niet richt tegen de vrijspraak voor feit 2.
+
+In de zaken van de verdachten [medeverdachte6] (veroordeling voor feit 1 primair en feit 2) en [medeverdachte3] (veroordeling voor feit 1 primair en vrijspraak voor feit 2) is geen hoger beroep ingesteld door het OM.
+
+Ter zitting van het hof op 21 januari 2015 heeft de advocaat-generaal direct na de voordracht van de zaak meegedeeld dat het hoger beroep zich ook richt tegen de vrijspraak voor feit 2 voor zover het OM hoger beroep heeft ingesteld.
+
+In de zaken tegen verdachte, [medeverdachte1], [medeverdachte4] en [medeverdachte5] heeft de verdediging bij pleidooi ter zitting van 22 januari 2015 een beroep gedaan op de niet-ontvankelijkheid van het OM in het hoger beroep voor feit 2, kort gezegd omdat het OM door de uitdrukkelijke beperking van het hoger beroep in de appelschriftuur bij de verdachte het vertrouwen zou hebben gewekt dat de behandeling in hoger beroep zich niet zou uitstrekken tot feit 2 en het in strijd is met de beginselen van een goede procesorde zou zijn om daar pas ter zitting van het hof van af te wijken. Het hof zou ook op grond van art. 416 lid 3 Sv (zonder inhoudelijke behandeling) het OM niet-ontvankelijkheid kunnen verklaren, omdat er tegen de vrijspraak voor feit 2 geen grieven zijn ingediend.
+
+Het hof zal in de zaken [medeverdachte1], [verdachte], [medeverdachte4] en [medeverdachte5] beslissen op de vraag over de ontvankelijkheid van het OM in het hoger beroep voor feit 2.
+
+Vast staat dat de officier van justitie het op 28 april 2014 ingestelde hoger beroep voor de cumulatief tenlastegelegde feiten 1 en 2 niet heeft beperkt en dat het OM het appel naderhand ook niet gedeeltelijk heeft ingetrokken. Nu de advocaat-generaal namens het OM direct na de voordracht van de zaak wel bezwaren heeft geuit tegen de vrijspraak voor feit 2, ondanks dat de officier van justitie in zijn appelschriftuur uitdrukkelijk geen grieven had geuit tegen deze vrijspraak, gaat het hof uit van de appelakte en zal de behandeling van de zaak in volle omvang geschieden. Dat het OM heeft verzuimd om eerder grieven op te geven tegen de beslissing van de rechtbank voor feit 2, maakt niet dat in strijd is gehandeld met enig beginsel van goede procesorde, in het bijzonder het vertrouwensbeginsel. Het gaat immers om één feitencomplex en de advocaat-generaal heeft vóór de zitting van 21 januari 2015 niet aangegeven dat de behandeling van het hoger beroep beperkt zou moeten blijven tot feit 1. De behandeling ter zitting in hoger beroep heeft in volle omvang plaats gevonden en het beroep van de verdediging op de niet-ontvankelijkheid van het OM is ter zitting ook niet bij aanvang van de behandeling gedaan maar eerst bij pleidooi. Er is voorts niet gebleken dat de verdachte of de verdediging door de handelwijze van het OM in enig rechtens te respecteren belang is geschaad.
+
+Het vonnis waarvan beroep
+
+Het hof zal het vonnis waarvan beroep vernietigen omdat het tot een andere bewijsbeslissing komt en zal daarom opnieuw rechtdoen.
+
+De tenlastelegging
+
+Aan verdachte is - na wijziging van de tenlastelegging ter terechtzitting in eerste aanleg - ten laste gelegd dat:
+
+1
+primair:hij op of omstreeks 05 september 2013 in de gemeente [gemeente] tezamen en in vereniging met een ander of anderen, althans alleen, door geweld of (een) andere feitelijkhe(i)d(en) en/of bedreiging met geweld of (een) andere feitelijkhe(i)d(en) [benadeelde] (geboren [geboortedatum]) heeft gedwongen tot het ondergaan van (een) handeling(en) die hebben bestaan uit of mede hebben bestaan uit het seksueel binnendringen van het lichaam van die [benadeelde], namelijk het door verdachte en/of (een of meer van) zijn mededader(s):
+
+- één of meermalen duwen en/of drukken en/of brengen en/of houden van de penis in de vagina van die [benadeelde] en/of
+
+- één of meermalen duwen en/of drukken en/of brengen en/of houden van de penis in de mond van die [benadeelde] en/of
+
+- één of meermalen duwen en/of drukken en/of brengen en/of houden van één of meerdere vingers in de vagina van die [benadeelde] en/of
+
+- één of meermalen betasten en/of likken en/of kussen van en/of voelen aan een/de borst(en) en/of bil(len) van die [benadeelde]
+
+en het geweld en/of andere feitelijkhe(i)d(en) en/of de bedreiging met geweld en/of de bedreiging met andere feitelijkhe(i)d(en) hebben bestaan uit het meermalen, althans éénmaal,
+
+- meenemen van die [benadeelde] naar een (slaap)kamer, althans ruimte, in een op dat moment niet of deels bewoonde woning en/of (vervolgens) dicht doen van de deur van die (slaap)kamer om (dientengevolge) te voorkomen dat die [benadeelde] die (slaap)kamer, althans ruimte, te allen tijde vrij kon verlaten,
+
+en/of
+
+- door het creëren en/of in stand laten/houden van een bedreigende situatie voor die [benadeelde], terwijl die [benadeelde] meermalen, althans eenmaal, tegen hem en/of zijn mededader(s) heeft gezegd/aangegeven dat zij geen seks (meer) wilde hebben en/of geen seksuele handelingen (meer) wilde verrichten met hem en/of zijn mededader(s)
+
+en/of
+
+- die [benadeelde] op bed te duwen en/of te drukken en/of te gaan liggen op die [benadeelde]
+
+en/of
+
+- een hemd en/of een bh, althans (een) kledingstuk(ken) van die [benadeelde] uit te trekken
+
+en/of
+
+- van die (deels ontklede) [benadeelde] (een) foto’s te maken en/of (vervolgens) tegen die [benadeelde] te zeggen dat er anders (een) foto’s op Twitter zou(den) worden geplaatst als zij die [medeverdachte6] niet zou pijpen, althans woorden van gelijke (dreigende) aard of strekking
+
+en/of
+
+- tegen die [benadeelde] te zeggen/roepen dat zij zich uit moest kleden
+
+en/of
+
+- tegen die [benadeelde] te zeggen/roepen: “Ga mij pijpen, ik geef je er geld voor, 10, ik geef je een tientje, ik geef je er 2 tientjes voor, 5 tientjes” en/of “Show eerst wat, je tieten of je punani (fonetisch)” en/of “Uhm ja uhm, je moet mij pijpen en neuken, en dan krijg je die, dan gaat die [medeverdachte6] die foto’s verwijderen en dan krijg je je mobiel weer en dan mag je gaan” en/of ¿Ja nu wil ikje neuken, anders die mobiel” en/of “Ik heb 2 kansen voor jou. Of je gaat hem pijpen en je krijgt je mobiel en ik breng je naar het station en je mag weg.” en/of “Dit is [medeverdachte4], dit is mijn neefje. Hem moet je ook doen, voordat je weg wilt, ja dit is echt de laatste en dan krijg je je mobiel en mag je weg” en/of “Doen nou maar gewoon” en/of “Mag ik je vingeren, dan kom ik sneller klaar” en/of “Kom, we gaan een trio doen, jij likt hem en hij pakt jou van achteren”, althans woorden van gelijke (dreigende) aard of strekking
+
+en/of
+
+- uit de broekzak een kogel te pakken en deze te laten zien aan die [benadeelde] en/of (vervolgens) tegen die [benadeelde] te zeggen: “Nou en, je doet het, maar ik zweer het, ik ben de laatste, dan mag je weg, dan mag je echt weg, en dan krijg je je mobiel” en/of “Je doet het maar gewoon”, althans woorden van gelijke (dreigende) aard of strekking
+
+en/of
+
+- 	( aldus) misbruik maken van een uit feitelijke verhoudingen en/of omstandigheden voortvloeiend overwicht van verdachte en/of zijn mededader(s) ten opzichte van die [benadeelde], mede bestaande uit een getalsmatig overwicht en/of een geestelijk en/of psychisch overwicht van verdachte en/of zijn mededader(s) tegenover die [benadeelde]
+
+en/of (aldus) voor die [benadeelde] een bedreigende situatie heeft doen ontstaan;
+
+1
+subsidiair:
+
+hij op of omstreeks 05 september 2013 in de gemeente [gemeente], tezamen en in vereniging met een ander of anderen, althans alleen, met [benadeelde] (geboren [geboortedatum]), die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, een of meer ontuchtige handeling(en) heeft gepleegd, die bestond(en) uit of mede bestond(en) uit het seksueel binnendringen van het lichaam van die [benadeelde], hebbende verdachte en/of (een of meer van) zijn mededader(s) meermalen, althans éénmaal,
+
+- de penis in de mond van die [benadeelde] geduwd en/of gedrukt en/of gebracht en/of gehouden en/of
+
+- de penis in de vagina van die [benadeelde] geduwd en/of gedrukt en/of gebracht en/of gehouden en/of
+
+- één of meerdere vingers in de vagina van die [benadeelde] geduwd en/of gedrukt en/of gebracht en/of gehouden en/of
+
+- ( aan) de borst(en) en/of bil(len) van die [benadeelde] betast en/of gekust en/of bevoeld en/of gelikt;
+
+2:
+hij op of omstreeks 05 september 2013 in de gemeente [gemeente], tezamen en in vereniging met een ander of anderen, althans alleen, met [benadeelde], (geboren [geboortedatum]), die toen de leeftijd van zestien jaren nog niet had bereikt, buiten echt, een of meer ontuchtige handeling(en) heeft gepleegd, bestaande uit het meermalen, althans éénmaal, aanraken van en/of betasten van en/of kussen van en/of voelen aan en/of likken aan de borst(en) en/of bil(len) en/of vagina, althans schaamstreek, van die [benadeelde].
+
+Indien in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze verbeterd. De verdachte is daardoor niet geschaad in de verdediging.
+
+De geldigheid van de dagvaarding
+
+In de zaken van al de zeven verdachten ([medeverdachte1], [medeverdachte6], [verdachte], [medeverdachte3], [medeverdachte4], [medeverdachte5] en [medeverdachte2]) heeft de rechtbank bij vonnis van 15 april 2014 in navolging van het in de zaak [medeverdachte6] gevoerde verweer (ambtshalve) geoordeeld dat het onder feit 1 primair tenlastegelegde voor wat betreft de zinsnede bij het zesde gedachtestreepje, te weten “door het creëren en/of het in stand laten/houden van een bedreigende situatie voor die (…)” op zichzelf onvoldoende feitelijke betekenis toekomt, dat een nadere invulling ontbreekt en dat zonder feitelijke omschrijving en concretisering in de tenlastelegging van de woorden “bedreigende situatie” de dagvaarding in zoverre niet voldoet aan de in art. 261 eerste lid van het Wetboek van Strafvordering gestelde eis van opgave van het feit.
+
+Het hof is met de advocaat-generaal (requisitoir pagina 7) van oordeel dat ook het zesde gedachtestreepje in samenhang gelezen dient te worden met de rest van de tenlastelegging onder feit 1 primair, in het bijzonder het gestelde bij het vijfde en zevende tot en met dertiende gedachtestreepje. Aldus voldoet ook de zinsnede bij het zesde gedachtestreepje aan de eisen van art. 261 Sv en is er geen reden om de tenlastelegging op enig onderdeel nietig te verklaren.
+
+Ontvankelijkheid OM in vervolging voor feit 2
+
+In de zaken tegen verdachte, [medeverdachte1], [medeverdachte6], [medeverdachte4], [medeverdachte5] en [medeverdachte2] is voorts door de verdediging bij pleidooi ter zitting van 22 januari 2015 een beroep gedaan op de niet-ontvankelijkheid van het OM in de vervolging voor feit 2, kort gezegd omdat het OM daardoor in strijd heeft gehandeld met het gelijkheidsbeginsel. In deze zaak is immers gebleken dat er in een korte periode vóór dit tenlastegelegde feit ten aanzien van aangeefster soortgelijke handelingen zijn verricht, voor welke feiten het OM geen vervolging heeft ingesteld.
+
+De vervolgingsbeslissing leent zich slechts in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing. Het in het eerste en tweede lid van art. 167 Sv neergelegde opportuniteitsbeginsel houdt in, dat de officier van justitie bevoegd is op gronden aan het algemeen belang ontleend af te zien van vervolging. Beslist de officier van justitie dat hij tot vervolging overgaat, dan staat die beslissing in het algemeen niet ter beoordeling van de rechter. Slechts indien de vervolging in strijd is met wettelijke of verdragsbepalingen of met beginselen van een goede procesorde - waaronder het gelijkheidsbeginsel - kan er sprake zijn van een verval van het recht tot strafvordering en van een door de rechter om die reden uit te spreken niet-ontvankelijkheid van het openbaar ministerie.
+
+In deze zaak is aan de hiervoor genoemde verdachten één feitencomplex tenlastegelegd, verdeeld over twee cumulatief tenlastegelegde strafbare feiten, waarvan feit 2 het lichtere feit is. Voor dit feitencomplex is aangifte gedaan tegen de verdachten. Ten aanzien van eerdere handelingen heeft aangeefster verklaard dat het niet zo tegen haar wil was, dat zij ook daarvan aangifte wilde doen. Onder die omstandigheden is de beslissing van het OM, om alleen de verdachten ook voor feit 2 te vervolgen, niet in strijd met een redelijke en billijke belangenafweging en niet onverenigbaar met beginselen van een goede procesorde, in het bijzonder het gelijkheidsbeginsel of het verbod op willekeur.
+
+Het hof verwerpt de verweren in de zaken [medeverdachte1], [medeverdachte6], [verdachte], [medeverdachte4], [medeverdachte5] en [medeverdachte2] en verklaart het OM ontvankelijk in het hoger beroep en in de vervolging ten aanzien van het tenlastegelegde onder feit 2.
+
+Gebruik van verklaringen medeverdachten [medeverdachte4] en [medeverdachte5]
+
+In de zaken van [medeverdachte6], [medeverdachte3] en [medeverdachte2] heeft de verdediging gemotiveerd verzocht om van het bewijs uit te sluiten de verklaringen van de medeverdachten [medeverdachte4] en [medeverdachte5], als verdachte afgelegd ter zitting van de rechtbank op 1 april 2014. Kort gezegd is in de zaak [medeverdachte6] aangevoerd dat deze medeverdachten op verzoek van de verdediging als getuige zijn opgeroepen voor een verhoor bij de raadsheer-commissaris op 18 september 2014, maar dat zij daar een beroep op hun verschoningsrecht hebben gedaan. Er is geen afstand gedaan van het recht om deze getuigen te horen. Nadat het hof ter zitting van 21 januari 2015 had besloten om de verklaringen van [medeverdachte4] en [medeverdachte5], afgelegd als verdachte in hun eigen zaak ter zitting in eerste aanleg van 1 april 2015, op verzoek van de advocaat-generaal toe te voegen aan de dossiers van hun zes medeverdachten, heeft de verdediging in de zaken [medeverdachte6], [medeverdachte3] en [medeverdachte2] verzocht om de medeverdachten [medeverdachte4] en [medeverdachte5] als getuigen ter zitting van het hof te horen. Dat is toegestaan (in alle zaken), maar ook toen hebben deze medeverdachten een beroep gedaan op hun verschoningsrecht. De verdediging stelt derhalve niet in de gelegenheid te zijn geweest om het ondervragingsrecht te effectueren zonder enige vorm van compensatie, terwijl de bedoelde verklaringen door de betreffende verdachten uitdrukkelijk  zijn betwist en volgens het OM in belangrijke mate kunnen bijdragen aan het bewijs. De verdediging stelt zich op het standpunt dat het gebruik van de verklaringen van [medeverdachte4] en [medeverdachte5] onder de gegeven omstandigheden in strijd is met art. 6 EVRM en verzoekt het hof deze verklaringen uit te sluiten van het bewijs.
+
+Het hof verwerpt het verweer van de verdediging en zal de verklaringen van de medeverdachten [medeverdachte4] en [medeverdachte5], als verdachte afgelegd ter zitting in eerste aanleg in hun eigen zaak, niet uitsluiten van het bewijs. Vooropgesteld wordt dat het hier niet gaat om de verklaringen die (vrijwel) het enige bewijs vormen in deze zaak. Verder is de verdediging wel door het hof in de gelegenheid is gesteld om de getuigen te bevragen maar dat ondervragingsrecht kon door een beroep op het verschoningsrecht niet worden geëffectueerd. De verklaring van een verdachte mag ook in de zaak tegen zijn medeverdachten worden gebruikt, zolang hun zaken maar niet zijn gevoegd.  De rechter zal de verklaringen in een dergelijke situatie echter wel zorgvuldig en behoedzaam op voldoende geloofwaardigheid moeten toetsen en daarbij moeten betrekken in hoeverre de verklarende medeverdachte belang heeft om onjuist te verklaren en een ander ten onrechte te belasten.
+
+Het hof stelt vast dat de medeverdachten [medeverdachte4] en [medeverdachte5] hun verklaringen in vrijheid hebben kunnen afleggen nadat zij als verdachte de cautie hadden gekregen en dat zij uiteindelijk bij de politie en ter zitting van de rechtbank in grote lijnen consistent hebben verklaard. Zij hebben zich in belangrijke mate willen beperken tot hun eigen rol en hebben over de rol van hun medeverdachten maar weinig willen loslaten en in de meeste gevallen geen namen willen noemen. In deze zaak is er geen sprake geweest van verklaringen die zijn afgelegd in een verschillende procespositie (als verdachte en als getuige) met een daaraan verbonden, vaak lastig dilemma. De gebruikte verklaringen van de medeverdachten [medeverdachte4] en [medeverdachte5] zijn naar het oordeel van het hof ook voldoende geloofwaardig, omdat die onderdelen ook voldoende steun vinden in andere bewijsmiddelen, zoals de door henzelf gevoerde OVC-gesprekken. Dit gebruik levert geen strijd op met art. 6 EVRM.
+
+Verzoek tot aanhouding van de behandeling voor onderzoek deskundige
+
+In de zaak [medeverdachte6] heeft de verdediging ter zitting van het hof op 21 januari 2015 verzocht om de behandeling aan te houden voor het verrichten van onderzoek door een wetenschappelijk deskundige zoals prof. dr. P.J. van Koppen, hoogleraar Rechtspsychologie aan de Faculteiten der Rechtsgeleerdheid van de Universiteit Maastricht en de Vrije Universiteit, naar de betrouwbaarheid en de geloofwaardigheid van de door aangeefster afgelegde verklaringen met betrekking tot de gestelde dwang en onvrijwilligheid. Dit verzoek is ter zitting door het hof als niet noodzakelijk afgewezen. Het verzoek is bij pleidooi in de zaak [medeverdachte6] herhaald en de verdediging in de andere zes zaken heeft zich bij dat verzoek aangesloten.
+
+De advocaat-generaal heeft zich op het standpunt gesteld dat het hof de eerdere afwijzende beslissing dient te herhalen.
+
+Het hof acht ook thans een onderzoek naar de betrouwbaarheid en de geloofwaardigheid van de door aangeefster afgelegde verklaringen met betrekking tot de gestelde dwang en onvrijwilligheid niet noodzakelijk. De in hoger beroep aan het dossier toegevoegde gegevens over de persoon van aangeefster, haar gedragingen en haar omstandigheden, en de bij pleidooi herhaalde argumenten maken dat niet anders. De verdediging heeft in het bijzonder gedoeld op de beschikking van de familiekamer van dit hof van 12 augustus 2014, waarbij het verzoek van Bureau Jeugdzorg is toegewezen tot het verlenen van een machtiging tot het doen opnemen en doen verblijven van de minderjarige (aangeefster) in een accommodatie voor gesloten jeugdzorg met ingang van 18 april 2014 tot 4 oktober 2014. Ook in dat [medeverdachte4] acht het hof zich voldoende geïnformeerd om alle nodige beslissingen te nemen, in het bijzonder de beslissingen over de betrouwbaarheid en de geloofwaardigheid van de verklaringen van aangeefster. Daarbij is meegewogen dat in deze zaak de verklaringen van aangeefster in de bewijsconstructie een belangrijk onderdeel vormen.
+
+Het verzoek van de verdediging tot aanhouding van de behandeling wordt ook thans in al de zeven zaken als niet noodzakelijk afgewezen.
+
+Betrouwbaarheid verklaringen aangeefster
+
+De verdediging heeft vrijspraak bepleit van het onder 1 primair ten laste gelegde, het medeplegen van verkrachting. In dat [medeverdachte4] is de vraag aan de orde gesteld of de verklaring van aangeefster over wat er is gebeurd op 5 september 2013 betrouwbaar kan worden geacht. Bij de beantwoording van de vraag of sprake is van wettig en overtuigend bewijs speelt haar verklaring immers een doorslaggevende rol. Bovendien, zo is aangevoerd, zijn in de opvolgende verklaringen die ze heeft afgelegd verschillen zichtbaar.
+
+Het hof overweegt hieromtrent het volgende. Het is juist dat de opvolgende verklaringen van aangeefster op detailniveau van elkaar verschillen. Op hoofdlijnen verklaart aangeefster echter consistent. Haar verklaring maakt een authentieke indruk, bijvoorbeeld daar waar zij onderscheid maakt in wat er door haar is gezegd tegen of gedaan met de verschillende verdachten. De verweten gedragingen hebben enkele uren in beslag genomen en er zijn meerdere personen bij betrokken geweest. Dat er onder die omstandigheden in de opvolgende verklaringen van aangeefster op ondergeschikte punten verschillen naar voren komen, rechtvaardigt niet de conclusie dat de verklaring van aangeefster in zijn geheel niet (voldoende) betrouwbaar kan worden geacht.
+
+Bovendien wordt de door aangeefster geschetste gang van zaken door verschillende onderdelen van het onderzoek bevestigd. Zo is van belang is dat ze kort na het gebeuren aan haar vriendin [vriendin] in grote lijnen heeft aangegeven wat er volgens haar is gebeurd en dat de moeder van [vriendin] heeft waargenomen dat aangeefster toen overstuur was. De volgende dag op school vertelt aangeefster wederom in grote lijnen tegen getuige [getuige1] (haar kooklerares) wat haar is overkomen. Dat vanuit haar omgeving druk zou zijn uitgeoefend om aangifte te doen, maakt op zich de verklaring van aangeefster niet onbetrouwbaar, met name niet nu zij ook steeds onderscheid maakt in wie en op welke wijze door de betreffende verdachten een vorm van pressie, druk of dwang op haar hebben uitgeoefend.
+
+Daarnaast wordt de verklaring van aangeefster ondersteund door de volgende bewijsmiddelen. De op een handdoek in de betreffende kamer aangetroffen spermasporen hebben een DNA-match opgeleverd met drie van de verdachten: [medeverdachte6], [medeverdachte4] en [medeverdachte5]. De door aangeefster gegeven beschrijving van de woning en de daar aanwezige goederen komt overeen met de waarneming van verbalisant [verbalisant1] tijdens de daar uitgevoerde doorzoeking. Zo is ook een op een kogel gelijkend voorwerp in dat huis gevonden. Bovendien is de op de betreffende slaapkamer aangetroffen situatie gelijk aan die op een naaktfoto van aangeefster, die op de telefoon van [medeverdachte1] is aangetroffen.
+
+Ten slotte stelt het hof vast dat vijf van de zeven verdachten ([medeverdachte6], [medeverdachte5], [medeverdachte4], [medeverdachte1] en [medeverdachte2]) hebben erkend in de loop van de middag op 5 september 2013 in de woning en op de slaapkamer gelijk met aangeefster aanwezig te zijn geweest en dat drie van hen ([medeverdachte6], [medeverdachte4] en [medeverdachte5]) hebben erkend daar seksuele handelingen met aangeefster te hebben gepleegd.
+
+De verdediging heeft tevens aangevoerd dat, naast verschillen in de door aangeefster afgelegde verklaringen, ook haar problematiek en persoonlijkheid betrokken moeten worden in het beoordelen van de betrouwbaarheid van de door haar afgelegde verklaringen.
+
+In het bijzonder komt uit de verklaring van aangeefster zelf naar voren dat ze op dezelfde dag, kort voor de aan verdachten verweten gedragingen, en zowel voor als na 5 september 2013 meerdere seksuele contacten heeft gehad, ondanks haar jonge leeftijd van net 15 jaar. Dat daarmee haar betrouwbaarheid wordt ondermijnd is hiermee echter niet gegeven. De problematiek die ertoe heeft geleid dat een civielrechtelijke maatregel is toegepast, ligt niet op het vlak van haar betrouwbaarheid. Integendeel, zij lijkt steeds uit zichzelf aan te geven dat ze seksuele contacten heeft gehad, waar ze zich achteraf voor schaamt. Het hof ziet geen reden om in de problematiek rond de persoon van aangeefster haar betrouwbaarheid als verminderd te beoordelen.
+
+Het hof is aldus van oordeel dat de verklaring van aangeefster betrouwbaar is en voor het bewijs kan worden gebezigd. Nu de lezing van aangeefster op belangrijke onderdelen door andere bewijsmiddelen wordt bevestigd, kan de door haar geschetste gang van zaken worden gevolgd zoals hierna overwogen en bewezen verklaard. Op grond daarvan stelt het hof vast dat er tussen aangeefster en verdachte seksuele handelingen hebben plaatsgevonden, mede bestaande uit het binnendringen van het lichaam van aangeefster.
+
+Vrijspraak van het onder 1 primair tenlastegelegde
+
+Bewezenverklaring van het primair tenlastegelegde - art. 242 van het Wetboek van Strafrecht (Sr) - kan alleen dan volgen, indien sprake is geweest van het door geweld of een andere feitelijkheid (of bedreiging daarmee) dwingen tot het ondergaan van seksuele handelingen. Uit het relaas van aangeefster over de seksuele handelingen die zij heeft moeten verrichten dan wel heeft moeten ondergaan en de omstandigheden waaronder dat is gebeurd, kan niet worden afgeleid dat sprake is geweest van dwang door geweld of andere feitelijkheden als bedoeld in art. 242 Sr, ook niet wanneer haar verklaring in samenhang wordt gelezen met hetgeen de (mede)verdachten daarover hebben verklaard.
+
+Dit brengt mee dat verdachte vanwege het ontbreken van voldoende wettig en overtuigend bewijs voor verkrachting van het onder 1 primair tenlastegelegde moet worden vrijgesproken.
+
+Nadere bewijsoverwegingen
+
+Het hof is van oordeel dat het door verdachte gevoerde vrijspraakverweer ter zake van het onder 1 subsidiair tenlastegelegde wordt weersproken door de gebezigde bewijsmiddelen, zoals deze later in de eventueel op te maken aanvulling op dit arrest zullen worden opgenomen. Het hof heeft geen reden om aan de juistheid en betrouwbaarheid van de inhoud van die bewijsmiddelen te twijfelen.
+
+Het hof overweegt daarbij in het bijzonder het volgende overwogen.
+
+Daderschap verdachte
+
+[verdachte] heeft ontkend dat hij de "[naam]" is over wie aangeefster [benadeelde] heeft verklaard. Volgens aangeefster heeft een van de jongens zich met die naam aan haar voorgesteld, toen ze nog bij de parkeergarage bij het station in [gemeente] was. Die [naam] zei dat hij 20 jaar was. [benadeelde] heeft toen haar een foto van [verdachte] werd getoond in het [medeverdachte4] van de opsporing, aangegeven dat de man op die foto lijkt op de [naam], die zij bedoelde (pagina 108 van het politie proces-verbaal, de hierna volgende verwijzingen zien ook op dit proces-verbaal). De betreffende foto (pagina 112) is een foto van verdachte, zoals hij ter zitting van het hof heeft erkend.
+
+Uit het politieonderzoek is naar voren gekomen dat verdachte een vriendin had, [naam] genaamd. Hun telefoongesprekken zijn gedurende een bepaalde periode door de politie afgeluisterd. Op 2 oktober 2013 zegt verdachte onder meer tegen haar (pagina 278): "Ik was in die huis betrokken. Ik word gezocht, klaar". "Ik ben de derde persoon die wordt gezocht; [medeverdachte3], [medeverdachte4], Ik; [verdachte]. Oké? Ik word gezocht". "Dan ga je mijn kankerkop niet meer zien. Oké?". "Omdat ik medeplichtig was. Ik was toch in dat kankerhuis."
+
+In twee daaraan voorafgaande gesprekken op diezelfde dag (pagina's 275, 276) zegt verdachte tegen [naam] dat hij in dat huis was waar het incident/gebeurtenis geweest is. Ook zegt hij dat ze teveel praat over de telefoon. Verder zegt hij dat ze hem voor 2-3 jaar mag vergeten als hij wordt meegenomen.
+
+Een paar dagen eerder, op 29 september 2013, vond er een telefoongesprek plaats tussen verdachte en medeverdachte [medeverdachte3] (pagina 274). [medeverdachte3] zegt dat ze 10 dagen extra hebben gekregen. Uit de verdere gegevens van het dossier blijkt dat [medeverdachte6] en [medeverdachte1] op 24 september en [medeverdachte2] op 25 september 2013 zijn aangehouden door de politie in verband met de aangifte van [benadeelde]. Verdachte vraagt vervolgens aan [medeverdachte3]: "zou het naar ons ook leiden, denk je". [medeverdachte3] antwoordt: "kan nog, grote kans nu he".
+
+Op 22 oktober 2013 spreken [naam] en de moeder van [verdachte]  elkaar telefonisch (pagina 279 e.v.). Ze hebben het onder meer over de situatie rond [verdachte] en de verschillen (in het gedrag) tussen jongens en meisjes voordat ze gaan trouwen.
+
+Op 29 oktober 2013 worden [medeverdachte5] en [medeverdachte4] vervoerd vanuit het Huis van Bewaring naar het politiebureau en terug (p. 245 e.v.). Ze worden afgeluisterd. Hun gesprekken in het Turks zijn vertaald. Ze bespreken met elkaar dat [verdachte] hen heeft genaaid, aan de telefoon. [medeverdachte5] zegt: "Hee, [verdachte] had alles verteld aan [naam]. Ja?". [medeverdachte4]: "is mol man". [medeverdachte5]: "[naam] had met dinges gepraat, hoe heet dat? [verdachte]'s moeder. Ze zegt daarin allemaal onze namen".
+
+[medeverdachte5] zegt op een gegeven moment: "We zouden naar Turkije moeten vluchten". [medeverdachte4] antwoordt dat hij toch een week gevlucht is. "[verdachte] was naar Duitsland geweest. Ik ben naar Amsterdam gegaan"(p.253).
+
+Ook [medeverdachte1] en [medeverdachte6] zijn afgeluisterd tijdens een dergelijke reis op 31 oktober 2014 (p. 212 e.v.). [medeverdachte1]: "[verdachte], die kneus, was getapt he". "[verdachte]". "Heb je die tapgesprekken gehoord van [verdachte]?". [medeverdachte6]: "Ja man! Wat een echte sukkel, jongen!
+
+[medeverdachte1]: "Ezel, man!"
+
+Verdachte heeft aanvankelijk weinig willen verklaren. Hij beriep zich op zijn zwijgrecht. Bij de rechtbank verscheen hij niet, hij liet het over aan zijn raadsman. Ter zitting in hoger beroep heeft hij bevestigd dat de scooter waarmee [medeverdachte6] [benadeelde] heeft vervoerd naar de woning aan de [straat] van hem was. Hij voegde eraan toe dat hij even in die woning is geweest, om de sleutels van die scooter weer op te halen. Verder had hij niets met de zaak te maken.
+
+Uit het voorgaande blijkt dat verdachte wel degelijk bij de gebeurtenissen aan de [straat] te [gemeente] betrokken was. Hij zegt het immers zelf tegen zijn vriendin. Het hof hecht geen waarde aan zijn bewering dat hij er slechts was om de sleutels op te halen. Die bewering is pas in hoger beroep door hem geuit en vindt geen enkele steun in de verklaringen van anderen, ook niet in die van zijn vrienden die een bekentenis hebben afgelegd. Het lijkt er meer op dat verdachte een verklaring heeft bedacht om aan de tapgesprekken een andere betekenis te geven. Evenmin hecht het hof waarde aan de uitleg die verdachte heeft gegeven over het gezocht worden door de politie. Dat hij slechts vreesde te worden benaderd vanwege de aanhouding van zijn vrienden, past niet bij de hiervoor genoemde bewoordingen tijdens de telefoongesprekken noch met wat zijn vrienden over verdachte hebben gezegd, toen ze dachten dat ze veilig met elkaar konden praten tijdens het vervoer.
+
+Ofschoon de herkenning van aangeefster geen 100 % herkenning is, staat voldoende vast dat verdachte degene is die aangeefster [naam] heeft genoemd. Verdachte heeft ook toen hij daarnaar ter zitting van het hof nadrukkelijk is gevraagd, aangegeven dat er geen andere [naam] in de buurt was of tot zijn vrienden(groep) behoorde. Alle andere door aangeefster aangewezen betrokkenen zijn aangehouden. Ook wat het aantal betrokkenen zijn geen onduidelijkheden blijven bestaan.
+
+Unus testis nullus testis
+
+In al de zeven zaken ([medeverdachte1], [medeverdachte6], [verdachte], [medeverdachte3] [medeverdachte4], [medeverdachte5] en [medeverdachte2]) heeft de verdediging betoogd dat er sprake is van een “unus testis”-situatie, waarbij onvoldoende objectief en onafhankelijk steunbewijs voor de aangifte voorhanden zou zijn.
+
+Zoals de rechtbank in het beroepen vonnis van 15 april 2014 terecht heeft overwogen, ziet de eis van art. 342 lid 2 van het Wetboek van strafvordering (het bewijs van het feit kan niet uitsluitend worden aangenomen op de verklaring van één getuige) naar vaste jurisprudentie op de tenlastelegging als geheel en niet op onderdelen daarvan. Deze bepaling strekt tot waarborging van de deugdelijkheid van de bewijsbeslissing en verbiedt de rechter een bewezenverklaring op grond van één getuigenverklaring die onvoldoende steun vindt in ander bewijsmateriaal. De vraag of aan het bewijsminimum is voldaan kan niet in algemene zin worden beantwoord, maar vraagt een beoordeling in het concrete geval.
+
+Uit de jurisprudentie van de Hoge Raad is ten aanzien van de strekking en reikwijdte van deze unus testis-regel af te leiden dat het bijkomend bewijs zodanig steun biedt voor het tenlastegelegde, dat het verantwoord is de bewezenverklaring in belangrijke mate op de verklaring van één getuige te baseren, in dit geval de verklaring van aangeefster.
+
+Zoals de rechtbank in haar vonnis van 15 april 2015 op blad 13 tot en met 21 terecht heeft overwogen, vinden de verklaringen van aangeefster ten aanzien van het tenlastegelegde feitencomplex voldoende steun in andere bewijsmiddelen, zoals de twee op de telefoon van [medeverdachte1] aangetroffen foto’s van aangeefster op een bed, verstuurd of ontvangen via What’s app op 5 september 2013, de match van de spermasporen op de handdoek met DNA van [medeverdachte4], [medeverdachte5] en [medeverdachte6], de verklaring van de getuigen [vriendin], [getuige2] en [getuige1], het beeldmateriaal van Kruidvat en de verklaring van de medeverdachten [medeverdachte4] en [medeverdachte5] bij de politie.
+
+Aan de reeks van ondersteunend bewijs voor het tenlastegelegde, ook op belangrijke onderdelen, kunnen in ieder geval nog worden toegevoegd de verklaring van de medeverdachten [medeverdachte4] en [medeverdachte5], zoals afgelegd als verdachte ter zitting in eerste aanleg in hun eigen zaak, de tapgesprekken en OVC-gesprekken.
+
+Het hof is van oordeel dat aan het bewijsminimum is voldaan en verwerpt het verweer van de verdediging.
+
+Schending van de sociaal-ethische norm
+
+De raadsman heeft ten aanzien van het onder 1 subsidiair en 2 ten laste gelegde bepleit dat verdachte ook daarvan dient te worden vrijgesproken. Hij heeft zich beroepen op - kort gezegd - de sociaal-ethische norm, op grond waarvan het ontuchtige karakter aan een handeling kan ontvallen omdat er geen sprake is van strijdigheid met die norm.
+
+Het hof overweegt daartoe als volgt.
+
+Artikel 245 van het Wetboek van Strafrecht (Sr) strekt tot bescherming van de seksuele integriteit van personen die gelet op hun jeugdige leeftijd in het algemeen geacht moeten worden niet of onvoldoende in staat te zijn zelf die integriteit te bewaken en de draagwijdte van hun gedrag in dit opzicht te overzien. Dat artikel beschermt deze jeugdige personen ook tegen verleiding die mede van henzelf kan uitgaan.
+
+Onder omstandigheden kan aan seksuele handelingen met een persoon tussen de twaalf en zestien jaren het ontuchtig karakter ontbreken. Dat kan bijvoorbeeld het geval zijn indien die handelingen vrijwillig plaatsvinden tussen personen die slechts in geringe mate in leeftijd verschillen. Een scherpe afgrenzing van dergelijke omstandigheden valt in haar algemeenheid niet te geven. De wetgever heeft bij de totstandkoming van artikel 245 Sr als maatstaf voor ogen gestaan of de desbetreffende seksuele handeling algemeen als sociaal-ethisch is aanvaard.
+
+Een belangrijke vraag in dit verband is: waren de seksuele handelingen vrijwillig aan de zijde van aangeefster? Daartoe is van belang wat de toedracht was voorafgaand, tijdens en na die handelingen.
+
+Aangeefster [benadeelde], op [datum] 15 jaar oud geworden, had met [medeverdachte1], die ze sinds kort kende, afgesproken om ergens met hem te gaan eten. Zij ontmoetten elkaar bij de parkeergarage bij het station [gemeente]. Van daar werd zij op zijn verzoek door de haar onbekende [medeverdachte6] per scooter gebracht naar een voor haar onbekende woning. Daar was op dat moment niemand aanwezig. Even later arriveerde ook [medeverdachte1]. Aangeefster was voordat ze naar die woning ging niet meer in het bezit van haar telefoon. Daarover maakte zij zich zorgen. Ze had hem even tevoren uitgeleend en niet teruggekregen. In die woning werden er foto's van haar gemaakt. Die zouden op het internet worden geplaatst als ze niet meewerkte, werd haar verteld. Er kwamen vervolgens meer jongens de woning binnen. Waarschijnlijk is dat [medeverdachte6] een groeps-app heeft verzonden en hij bleek ook te hebben gebeld. Kennelijk was dat de reden dat de jongens naar de woning kwamen. Aangeefster moest in die woning achtereenvolgens gedurende enige uren seksuele handelingen ondergaan/verrichten met [medeverdachte6] (17 jaar), [verdachte] (20 jaar), [medeverdachte3] (17 jaar), [medeverdachte5] (19 jaar), [medeverdachte4] (18 jaar) en [medeverdachte2] (18 jaar). Geen van die jongens kende ze. Ze spraken bovendien soms onderling een taal die zij niet verstond. Met al die jongens heeft ze seksuele handelingen moeten verrichten. Aangeefster heeft een aantal malen gezegd dat ze niet wilde dan wel heeft ze "zielig gekeken". Ook heeft ze aangegeven op bepaalde momenten maar te hebben meegewerkt, omdat ze anders haar telefoon niet terugkreeg en omdat er anders misschien ergere dingen met haar zouden gebeuren.
+
+Als uiteindelijk alles achter de rug is, geeft ze aan zich misbruikt en vies te voelen. In het informatieve gesprek met de politie op 6 september 2013 verwoordt ze het aldus: "Ik ben toen buiten naar het station gelopen, naar mijn fiets. Ik had echt een kutgevoel, ik wilde niet meer leven".
+
+Voor het hof staat vast dat, ook al is geen sprake van verkrachting, van vrijwilligheid aan de zijde van aangeefster geen sprake was. Ze ging met verdachte mee omdat zij dacht gezellig ergens wat te gaan eten met [medeverdachte1], door wie ze was uitgenodigd. Dat liep heel anders, zoals hiervoor in het kort is beschreven. Soms werd er voor of tijdens de seksuele handelingen zelfs geen woord gewisseld met aangeefster. Op zijn minst had van de jongens onder de gegeven, grensoverschrijdende situatie verwacht mogen worden dat ze zich zouden vergewissen van de nadrukkelijke instemming van aangeefster. Waarom zou een 15 jarig meisje vrijwillig langdurig zulke vergaande seksuele handelingen verrichten met zes jongens die ze helemaal niet kende, met wie ze tevoren nog nooit had gesproken en met wie ze dus ook geen affectieve relatie had? De verdachten hebben het risico genomen, kennelijk gedreven door hun eigen lust, dat een zo jong meisje seksueel misbruikt werd. Dat wordt niet anders als aangeefster in een periode van seksuele ontdekking aan het begin van de middag zelf gedacht kan hebben dat de vriendschappelijke contacten met een enkele jongen wat verder zou gaan dan alleen eten of chillen.
+
+Uit de feitelijke situatie valt zonder meer op te maken dat de sociaal-ethische norm in deze zaak ruimschoots is overschreden. Deze situatie is op geen enkele wijze te vergelijken met de situatie waarop de wetgever het oog had bij wat nog wel algemeen als sociaal-ethisch aanvaardbaar kan worden geacht. Ook al is die sociaal-ethische norm met de jaren wel wat opgeschoven, dan nog valt deze situatie daar niet onder.
+
+Medeplegen
+
+Op grond van de bewijsmiddelen kan worden vastgesteld dat medeverdachte [medeverdachte6] aanwezig was in de woning vlak voor en nadat verdachte seksuele handelingen met aangeefster verrichtte. Toen verdachte de slaapkamer binnenkwam waar aangeefster zich bevond gaf hij direct aan dat aangeefster hem moest neuken. Als zij dat zou doen dan zou [medeverdachte6] de foto’s van aangeefster op zijn mobiele telefoon verwijderen. Aldus heeft er voordat verdachte de slaapkamer binnenging, overleg plaatsgevonden tussen hem en [medeverdachte6]. Vervolgens heeft verdacht seks met aangeefster en moet zij hem pijpen. Zodra verdachte de slaapkamer heeft verlaten komt [medeverdachte6] (weer) binnen.
+
+Uit deze feitelijk gang van zaken volgt dat verdachte bewust en nauw heeft samengewerkt met medeverdachte [medeverdachte6] bij het plegen van de hierna bewezen verklaarde feiten.
+
+Aldus is wettig en overtuigend bewezen dat sprake is geweest van het medeplegen.
+
+Bewezenverklaring
+
+Door wettige bewijsmiddelen, waarbij de inhoud van elk bewijsmiddel - ook in onderdelen - slechts wordt gebezigd tot het bewijs van dat ten laste gelegde feit waarop het blijkens de inhoud kennelijk betrekking heeft, en waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt, acht het hof wettig en overtuigend bewezen dat verdachte het onder 1 subsidiair en 2 ten laste gelegde heeft begaan, met dien verstande, dat:
+
+1
+subsidiair:
+
+hij op 05 september 2013 in de gemeente [gemeente], tezamen en in vereniging met een ander, met [benadeelde] (geboren [geboortedatum]), die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die mede bestonden uit het seksueel binnendringen van het lichaam van die [benadeelde], hebbende verdachte en/of zijn mededader
+
+- de penis in de mond van die [benadeelde] gebracht en
+
+- de penis in de vagina van die [benadeelde] gebracht en
+
+- de billen van die [benadeelde] betast.
+
+2:
+hij op 05 september 2013 in de gemeente [gemeente], tezamen en in vereniging met een ander met [benadeelde], (geboren [geboortedatum]), die toen de leeftijd van zestien jaren nog niet had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, bestaande uit het betasten van de billen van die [benadeelde].
+
+Het hof acht niet bewezen hetgeen verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard, zodat deze daarvan behoort te worden vrijgesproken.
+
+Strafbaarheid van het bewezen verklaarde
+
+Het onder 1 subsidiair bewezen verklaarde levert op:
+
+medeplegen van met iemand die de leeftijd van twaalf jaren maar nog niet die van zestien jaren heeft bereikt, buiten echt, ontuchtige handelingen plegen die bestaan uit of mede bestaan uit het seksueel binnendringen van het lichaam.
+
+Het onder 2 bewezen verklaarde levert op:
+
+medeplegen van met iemand beneden de leeftijd van zestien jaren buiten echt ontuchtige handelingen plegen.
+
+Op grond van artikel 55, eerste lid, van het Wetboek van Strafrecht is sprake van eendaadse samenloop.
+
+Strafbaarheid van de verdachte
+
+Verdachte is strafbaar aangezien geen omstandigheid is gebleken of aannemelijk geworden die verdachte niet strafbaar zou doen zijn.
+
+Oplegging van straf
+
+De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezen verklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de persoon van verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.
+
+Verdachte heeft zich samen met zijn medeverdachte op twintigjarige leeftijd schuldig gemaakt aan ontucht met een nét vijftienjarig meisje. Een meisje dat door zijn medeverdachte meegenomen was naar een woning en verdachte niet kende. Misbruik makend van de omstandigheden heeft hij aangeefster ertoe gebracht seksuele handelingen bij hem te verrichten en zelf te ondergaan. Hij heeft zich laten leiden door zijn seksuele lusten. Daardoor heeft hij een verregaande inbreuk op de lichamelijke en geestelijke integriteit van het slachtoffer gemaakt. Gebleken is dat het voorval op 5 september 2013 nare gevolgen heeft gehad voor het slachtoffer, een meisje dat al zeer kwetsbaar was.
+
+Bij de strafoplegging neemt het hof in aanmerking dat uit een uittreksel uit het justitieel documentatieregister d.d. 9 december 2014 blijkt dat verdachte eerder is veroordeeld ter zake van openlijke geweldpleging, maar niet voor soortgelijke delicten.
+
+Ook heeft het hof rekening gehouden met de persoonlijke omstandigheden van verdachte. Uit het over hem opgemaakte reclasseringsrapport d.d. 6 februari 2014 blijkt dat er geen problemen zijn in het leven van verdachte. De reclassering heeft gelet op de ontkennende proceshouding van verdachte geen inschatting kunnen maken van het risico op recidive en het onttrekken aan voorwaarden.
+
+Verdachte heeft over zijn huidige omstandigheden verklaard dat hij na zijn detentie in deze zaak niet is verder gegaan met de opleiding die deed, maar is gaan werken. Hij heeft nog steeds een relatie. Verdachte ziet geen aanleiding om behandeling te ondergaan.
+
+Alles afwegende, is het hof van oordeel dat na te noemen gevangenisstraf passend en geboden is. Gelet op de ernst van het delict is er geen plaats voor een andere strafmodaliteit. Het hof ziet in de persoonlijke omstandigheden aanleiding om een voorwaardelijk strafdeel op te leggen met een proeftijd van twee jaren. Het hof beseft dat deze straf als zwaarder zou kunnen aangemerkt omdat verdachte na ruim twee maanden in voorlopige hechtenis te hebben doorgebracht, nu reeds ruim een jaar op vrije voeten is. Anders dan zijn medeverdachten [medeverdachte4] en [medeverdachte5] heeft verdachte echter geen enkele verantwoordelijkheid genomen voor zijn aandeel in het geheel. Het hof ziet dan ook geen aanknopingspunt om aan verdachte een lagere straf op te leggen dan het hof doet in de zaken van [medeverdachte4] en [medeverdachte5], die een vergelijkbare rol hebben gehad in de gebeurtenissen.
+
+Anders dan de advocaat-generaal ziet het hof geen aanleiding om een hogere straf op te leggen. Daarbij neemt het hof onder meer in aanmerking dat het hof verdachte zal vrijspreken van het onder 1 primair ten laste gelegde. De advocaat-generaal is bij zijn eis uitgegaan van bewezenverklaring van het primaire.
+
+Het hof ziet geen grond om de gevangenneming van verdachte te gelasten, zoals de advocaat-generaal heeft gevorderd.
+
+Vordering van de benadeelde partij [benadeelde]
+
+De benadeelde partij heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze bedraagt € 6.115,20. De vordering is bij het vonnis waarvan beroep niet-ontvankelijk verklaard.
+
+In hoger beroep heeft de benadeelde partij de vordering niet gehandhaafd. Nu de benadeelde partij in eerste aanleg niet-ontvankelijk is verklaard in de vordering, brengt dit mee dat de vordering in hoger beroep niet meer aan de orde is.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 47, 55, 245 en 247 van het Wetboek van Strafrecht.
+
+Deze voorschriften zijn toegepast, zoals zij golden ten tijde van het bewezen verklaarde.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het onder 1 primair ten laste gelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 1 subsidiair en 2 ten laste gelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het onder 1 subsidiair en 2 bewezen verklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 20 (twintig) maanden.
+
+Bepaalt dat een gedeelte van de gevangenisstraf, groot 4 (vier) maanden, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat de verdachte zich voor het einde van een proeftijd van 2 (twee) jaren aan een strafbaar feit heeft schuldig gemaakt.
+
+Beveelt dat de tijd die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in enige in artikel 27, eerste lid, of artikel 27a van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Aldus gewezen door
+
+mr. M.H.M. Boekhorst Carrillo, voorzitter,
+
+mr. P. Koolschijn en mr. M.C. Fuhler, raadsheren,
+
+in tegenwoordigheid van mr. G.M. Fondse, griffier,
+
+en op 5 februari 2015 ter openbare terechtzitting uitgesproken.
