@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2015:4042"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2309", "FutD 2015-2618", "NTFR 2015/2932"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2309", "FutD 2015-2618", "Viditax (FutD) 2015102306", "Viditax (FutD) 2016062405"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2014:4128, Meerdere afhandelingswijzen"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2016:1274"]]
 ---
 
