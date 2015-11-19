@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2015:5122"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2591", "FutD 2015-2988", "NTFR 2016/391 met annotatie van mr. J. Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2015/2591", "NTFR 2016/391 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2015-2988", "Viditax (FutD) 2015120903", "Viditax (FutD) 2016092311"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2016:2156"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
