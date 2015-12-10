@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2015:5695"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/293", "V-N 2016/15.16 met annotatie van Redactie", "FutD 2016-0339", "NTFR 2016/1204 met annotatie van Dr. A.W. Hofman"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/293", "V-N 2016/15.16 met annotatie van Redactie", "NTFR 2016/1204 met annotatie van Dr. A.W. Hofman", "FutD 2016-0339", "Viditax (FutD) 2016020301"]
 cites_law: ["netherlands/national/acts/besluit-voorkoming-dubbele-belasting-2001/art-023.md", "netherlands/national/acts/besluit-voorkoming-dubbele-belasting-2001/art-024.md"]
 ---
 
