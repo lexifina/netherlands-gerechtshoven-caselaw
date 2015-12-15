@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2015:5246"
-published_in: ["Rechtspraak.nl", "AR 2016/1475", "AR-Updates.nl 2016-0585", "PR-Updates.nl AR-2016-0585"]
+published_in: ["Rechtspraak.nl", "AR 2016/1475", "AR-Updates.nl 2016-0585", "PR-Updates.nl AR-2016-0585", "PR-Updates.nl 2016-0585"]
 ---
 
 # ECLI:NL:GHAMS:2015:5246 Gerechtshof Amsterdam , 15-12-2015 / 200.152.337/01
