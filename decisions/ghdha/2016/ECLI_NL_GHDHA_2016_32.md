@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:32"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/96", "V-N 2016/22.10 met annotatie van Redactie", "FutD 2016-0105 met annotatie van Fiscaal up to Date", "NTFR 2016/600 met annotatie van Mr. E.I. Brouwer"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBHAA:2012:3077, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2016:2104"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/96", "V-N 2016/22.10 met annotatie van Redactie", "NTFR 2016/600 met annotatie van Mr. E.I. Brouwer", "FutD 2016-0105", "Viditax (FutD) 2016091613", "Viditax (FutD) 2016011315"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2016:2104"]]
 ---
 
 # ECLI:NL:GHDHA:2016:32 Gerechtshof Den Haag , 06-01-2016 / BK-15-00474
