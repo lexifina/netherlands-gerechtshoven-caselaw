@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:115"
-published_in: ["Rechtspraak.nl", "AR 2016/1144", "PJ 2016/72", "AR-Updates.nl 2016-0435", "PR-Updates.nl AR-2016-0435"]
+published_in: ["Rechtspraak.nl", "AR 2016/1144", "PJ 2016/72", "AR-Updates.nl 2016-0435", "PR-Updates.nl AR-2016-0435", "PR-Updates.nl 2016-0435"]
 ---
 
 # ECLI:NL:GHAMS:2016:115 Gerechtshof Amsterdam , 19-01-2016 / 200.171.086/01
