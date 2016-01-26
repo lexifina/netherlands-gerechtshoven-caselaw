@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:186"
-published_in: ["Rechtspraak.nl", "AR 2016/235", "PJ 2016/45", "AR-Updates.nl 2016-0088", "PR-Updates.nl AR-2016-0088"]
+published_in: ["Rechtspraak.nl", "AR 2016/235", "PJ 2016/45", "AR-Updates.nl 2016-0088", "PR-Updates.nl AR-2016-0088", "PR-Updates.nl 2016-0088"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2015:3423"]]
 ---
 
