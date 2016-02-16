@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:499"
-published_in: ["Rechtspraak.nl", "AR 2016/1487", "AR-Updates.nl 2016-0599", "PR-Updates.nl AR-2016-0599"]
+published_in: ["Rechtspraak.nl", "AR 2016/1487", "AR-Updates.nl 2016-0599", "PR-Updates.nl AR-2016-0599", "PR-Updates.nl 2016-0599"]
 ---
 
 # ECLI:NL:GHAMS:2016:499 Gerechtshof Amsterdam , 16-02-2016 / 200.139.659/01
