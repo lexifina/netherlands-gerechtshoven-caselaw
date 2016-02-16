@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:231"
-published_in: ["Rechtspraak.nl", "AR 2016/371", "PJ 2016/43", "JAR 2016/75 met annotatie van mr. S.H. Kuiper", "AR-Updates.nl 2016-0139", "PR-Updates.nl AR-2016-0139"]
+published_in: ["Rechtspraak.nl", "AR 2016/371", "PJ 2016/43", "JAR 2016/75 met annotatie van mr. S.H. Kuiper", "AR-Updates.nl 2016-0139", "PR-Updates.nl AR-2016-0139", "PR-Updates.nl 2016-0139"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2227, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2388, (Gedeeltelijke) vernietiging met terugwijzen"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-611.md"]
 ---
