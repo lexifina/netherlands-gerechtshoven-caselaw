@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:1476"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/500", "Belastingadvies 2016/10.4", "FutD 2016-0628 met annotatie van Fiscaal up to Date", "Viditax (FutD), 29-09-2017", "NTFR 2016/1013 met annotatie van mr. J. Zandee-Dingemanse"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/500", "Belastingadvies 2016/10.4", "NTFR 2016/1013 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2016-0628", "Viditax (FutD) 2016030416", "Viditax (FutD) 2017092901"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2517, Bekrachtiging/bevestiging"]]
 ---
 
