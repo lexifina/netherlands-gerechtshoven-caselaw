@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:1026"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/892", "V-N 2016/29.18.7", "FutD 2016-1060", "NTFR 2016/1404 met annotatie van mr. N. ten Broek"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/892", "V-N 2016/29.18.7", "NTFR 2016/1404 met annotatie van mr. N. ten Broek", "FutD 2016-1060", "Viditax (FutD) 2016042010"]
 ---
 
 # ECLI:NL:GHAMS:2016:1026 Gerechtshof Amsterdam , 03-03-2016 / 13/00617 tot en met 13/00627
