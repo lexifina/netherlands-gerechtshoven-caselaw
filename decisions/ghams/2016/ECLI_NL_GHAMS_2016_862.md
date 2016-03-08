@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:862"
-published_in: ["Rechtspraak.nl", "AR 2016/1464", "PJ 2016/102 met annotatie van W.P.M. Thijssen", "AR-Updates.nl 2016-0598", "PR-Updates.nl AR-2016-0598"]
+published_in: ["Rechtspraak.nl", "AR 2016/1464", "PJ 2016/102 met annotatie van W.P.M. Thijssen", "AR-Updates.nl 2016-0598", "PR-Updates.nl AR-2016-0598", "PR-Updates.nl 2016-0598"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2276, Bekrachtiging/bevestiging"]]
 ---
 
