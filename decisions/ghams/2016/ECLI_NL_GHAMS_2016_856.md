@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:856"
-published_in: ["Rechtspraak.nl", "AR 2016/1622", "AR-Updates.nl 2016-0633", "PR-Updates.nl AR-2016-0633"]
+published_in: ["Rechtspraak.nl", "AR 2016/1622", "AR-Updates.nl 2016-0633", "PR-Updates.nl AR-2016-0633", "PR-Updates.nl 2016-0633"]
 ---
 
 # ECLI:NL:GHAMS:2016:856 Gerechtshof Amsterdam , 08-03-2016 / 200.134.886/01
