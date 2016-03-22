@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:2285"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/732", "V-N 2016/31.11 met annotatie van Redactie", "FutD 2016-0862", "NTFR 2016/1199 met annotatie van Mr. drs. R. Steenman"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/732", "V-N 2016/31.11 met annotatie van Redactie", "NTFR 2016/1199 met annotatie van Mr. drs. R. Steenman", "FutD 2016-0862", "Viditax (FutD) 2016040404"]
 ---
 
 # ECLI:NL:GHARL:2016:2285 Gerechtshof Arnhem-Leeuwarden , 22-03-2016 / 15/00227, 15/00228 en 15/00229
