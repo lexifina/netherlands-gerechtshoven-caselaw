@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:945"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/800", "V-N 2016/29.1.2", "FutD 2016-0925", "NTFR 2016/1523 met annotatie van MR. E. ALINK"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2015:7667, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2016:2675"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/800", "V-N 2016/29.1.2", "NTFR 2016/1523 met annotatie van MR. E. ALINK", "FutD 2016-0925", "Viditax (FutD) 2016040824"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2016:2675"]]
 ---
 
 # ECLI:NL:GHDHA:2016:945 Gerechtshof Den Haag , 23-03-2016 / BK-15/00909
