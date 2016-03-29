@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:1210"
-published_in: ["Rechtspraak.nl", "AR 2016/923", "AR-Updates.nl 2016-0352", "PR-Updates.nl AR-2016-0352"]
+published_in: ["Rechtspraak.nl", "AR 2016/923", "AR-Updates.nl 2016-0352", "PR-Updates.nl AR-2016-0352", "PR-Updates.nl 2016-0352"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:930"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:3645"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2015:1567"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2015:5305"]]
 ---
 
