@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:1523"
-published_in: ["Rechtspraak.nl", "AR 2016/1169", "PJ 2016/70", "AR-Updates.nl 2016-0442", "PR-Updates.nl AR-2016-0442"]
+published_in: ["Rechtspraak.nl", "AR 2016/1169", "PJ 2016/70", "AR-Updates.nl 2016-0442", "PR-Updates.nl AR-2016-0442", "PR-Updates.nl 2016-0442"]
 ---
 
 # ECLI:NL:GHSHE:2016:1523 Gerechtshof 's-Hertogenbosch , 19-04-2016 / 200 175 445_01
