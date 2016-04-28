@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:4148"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2456", "NTFR 2017/161 met annotatie van mr. T.A.D. van Wordragen", "NLF 2016/0742 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2456", "NLF 2016/0742", "NTFR 2017/161 met annotatie van mr. T.A.D. van Wordragen", "Viditax (FutD) 2016111406", "Viditax (FutD) 2017021708"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:258"]]
 ---
 
