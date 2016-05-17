@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:3725"
-published_in: ["Rechtspraak.nl", "AR 2016/1390", "PJ 2016/86 met annotatie van W. van Heest", "PJ 2016/72 met annotatie van W. van Heest", "AR-Updates.nl 2016-0534", "PR-Updates.nl AR-2016-0534"]
+published_in: ["Rechtspraak.nl", "AR 2016/1390", "PJ 2016/86 met annotatie van W. van Heest", "AR-Updates.nl 2016-0534", "PR-Updates.nl AR-2016-0534", "PR-Updates.nl 2016-0534"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:300, Bekrachtiging/bevestiging"]]
 ---
 
