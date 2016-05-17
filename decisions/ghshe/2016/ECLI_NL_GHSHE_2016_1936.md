@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:1936"
-published_in: ["Rechtspraak.nl", "AR 2016/1421", "PJ 2016/87", "AR-Updates.nl 2016-0537", "PR-Updates.nl AR-2016-0537"]
+published_in: ["Rechtspraak.nl", "AR 2016/1421", "PJ 2016/87", "AR-Updates.nl 2016-0537", "PR-Updates.nl AR-2016-0537", "PR-Updates.nl 2016-0537"]
 ---
 
 # ECLI:NL:GHSHE:2016:1936 Gerechtshof 's-Hertogenbosch , 17-05-2016 / 200.161.799_02
