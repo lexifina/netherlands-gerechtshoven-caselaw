@@ -10,7 +10,6 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:2763"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/1587", "V-N 2016/41.19.16", "Belastingadvies 2016/18.2", "NTFR 2016/2093 met annotatie van Dr. W. Bruins Slot"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2015:4352, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:GHAMS:2016:2763 Gerechtshof Amsterdam , 31-05-2016 / 15/00569 en 15/00570
