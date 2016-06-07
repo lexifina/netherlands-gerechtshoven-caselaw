@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:2294"
-published_in: ["Rechtspraak.nl", "AR 2016/1630", "PJ 2016/110 met annotatie van B. Degelink", "AR-Updates.nl 2016-0627", "PR-Updates.nl AR-2016-0627"]
+published_in: ["Rechtspraak.nl", "AR 2016/1630", "PJ 2016/110 met annotatie van B. Degelink", "AR-Updates.nl 2016-0627", "PR-Updates.nl AR-2016-0627", "PR-Updates.nl 2016-0627"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2014:6684, Overig"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2017:4175"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2019:562"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-308.md", "netherlands/national/acts/bw-boek-3/art-310.md", "netherlands/national/acts/bw-boek-3/art-321.md", "netherlands/national/acts/bw-boek-6/art-089.md", "netherlands/national/acts/bw-boek-6/art-162.md", "netherlands/national/acts/wet-verplichte-deelneming-in-een-bedrijfstakpensioenfonds-2000/art-023.md"]
 ---
