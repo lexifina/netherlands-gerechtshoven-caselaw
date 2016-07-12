@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:1945"
-published_in: ["Rechtspraak.nl", "AR 2016/2134", "AR-Updates.nl 2016-0827", "PR-Updates.nl AR-2016-0827"]
+published_in: ["Rechtspraak.nl", "AR 2016/2134", "AR-Updates.nl 2016-0827", "PR-Updates.nl AR-2016-0827", "PR-Updates.nl 2016-0827"]
 ---
 
 # ECLI:NL:GHDHA:2016:1945 Gerechtshof Den Haag , 12-07-2016 / 200.168.674/01
