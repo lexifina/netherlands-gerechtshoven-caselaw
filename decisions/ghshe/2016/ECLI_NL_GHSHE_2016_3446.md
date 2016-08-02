@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:3446"
-published_in: ["Rechtspraak.nl", "AR 2016/2338", "PJ 2016/129", "AR-Updates.nl 2016-0911", "PR-Updates.nl AR-2016-0911"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2014:8845"]]
+published_in: ["Rechtspraak.nl", "AR 2016/2338", "PJ 2016/129", "AR-Updates.nl 2016-0911", "PR-Updates.nl AR-2016-0911", "PR-Updates.nl 2016-0911"]
 ---
 
 # ECLI:NL:GHSHE:2016:3446 Gerechtshof 's-Hertogenbosch , 02-08-2016 / 200.162.142_01
