@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:3420"
-published_in: ["Rechtspraak.nl", "AR 2016/2758", "AR-Updates.nl 2016-1060", "PR-Updates.nl AR-2016-1060"]
+published_in: ["Rechtspraak.nl", "AR 2016/2758", "AR-Updates.nl 2016-1060", "PR-Updates.nl AR-2016-1060", "PR-Updates.nl 2016-1060"]
 ---
 
 # ECLI:NL:GHAMS:2016:3420 Gerechtshof Amsterdam , 23-08-2016 / 200.164.714/01
