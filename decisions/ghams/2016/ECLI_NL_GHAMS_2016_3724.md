@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:3724"
-published_in: ["Rechtspraak.nl", "RFR 2017/7", "PFR-Updates.nl 2016-0255"]
+published_in: ["Rechtspraak.nl", "RFR 2017/7", "PFR-Updates.nl 2016-0255", "FJR 2026/46.22"]
 ---
 
 # ECLI:NL:GHAMS:2016:3724 Gerechtshof Amsterdam , 13-09-2016 / 200.186.292/01
