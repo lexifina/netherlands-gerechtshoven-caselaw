@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:3810"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2167", "FutD 2016-2495", "FutD 2016-2496", "NTFR 2016/2669 met annotatie van mr. J. Nieuwenhuizen", "NLF 2016/0292 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2015:9996, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:1138"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2167", "NLF 2016/0292", "NTFR 2016/2669 met annotatie van mr. J. Nieuwenhuizen", "FutD 2016-2495", "FutD 2016-2496", "Viditax (FutD) 2016101104", "Viditax (FutD) 2016101105", "Viditax (FutD) 2017062310"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:1138"]]
 cites_law: ["netherlands/national/acts/awr/art-065.md", "netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
 
