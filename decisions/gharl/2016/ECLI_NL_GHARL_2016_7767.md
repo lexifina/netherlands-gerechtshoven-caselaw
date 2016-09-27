@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:7767"
-published_in: ["Rechtspraak.nl", "AR 2016/2898", "Prg. 2016/295", "AR 2016/2878", "TRA 2016/107 met annotatie van F.M. Dekker", "AR-Updates.nl 2016-1120", "PR-Updates.nl AR-2016-1120"]
+published_in: ["Rechtspraak.nl", "AR 2016/2898", "Prg. 2016/295", "AR 2016/2878", "TRA 2016/107 met annotatie van F.M. Dekker", "AR-Updates.nl 2016-1120", "PR-Updates.nl AR-2016-1120", "PR-Updates.nl 2016-1120"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2905, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
