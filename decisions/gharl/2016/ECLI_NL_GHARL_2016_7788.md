@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:7788"
-published_in: ["Rechtspraak.nl", "AR 2016/2830", "PJ 2016/157", "AR-Updates.nl 2016-1079", "PR-Updates.nl AR-2016-1079"]
+published_in: ["Rechtspraak.nl", "AR 2016/2830", "PJ 2016/157", "AR-Updates.nl 2016-1079", "PR-Updates.nl AR-2016-1079", "PR-Updates.nl 2016-1079"]
 ---
 
 # ECLI:NL:GHARL:2016:7788 Gerechtshof Arnhem-Leeuwarden , 27-09-2016 / 200.163.282/01
