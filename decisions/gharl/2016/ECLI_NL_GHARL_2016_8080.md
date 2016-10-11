@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2016:8080"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2510", "FutD 2016-2882", "Viditax (FutD), 20-10-2017", "NTFR 2016/3085 met annotatie van Mr. P.G.M. Jansen", "NLF 2016/0716 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2015:2299, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2676"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2510", "NLF 2016/0716", "NTFR 2016/3085 met annotatie van Mr. P.G.M. Jansen", "FutD 2016-2882", "Viditax (FutD) 2016112213", "Viditax (FutD) 2017102020"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2676"]]
 ---
 
 # ECLI:NL:GHARL:2016:8080 Gerechtshof Arnhem-Leeuwarden , 11-10-2016 / 15/00620 t/m 15/00634
