@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:4675"
-published_in: ["Rechtspraak.nl", "AR 2016/3057", "PJ 2016/159", "AR-Updates.nl 2016-1206", "PR-Updates.nl AR-2016-1206"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2014:8139"]]
+published_in: ["Rechtspraak.nl", "AR 2016/3057", "PJ 2016/159", "AR-Updates.nl 2016-1206", "PR-Updates.nl AR-2016-1206", "PR-Updates.nl 2016-1206"]
 ---
 
 # ECLI:NL:GHSHE:2016:4675 Gerechtshof 's-Hertogenbosch , 18-10-2016 / 200.160.890_01
