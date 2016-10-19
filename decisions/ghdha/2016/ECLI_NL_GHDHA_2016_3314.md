@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:3314"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2371", "V-N 2017/3.1.3", "FutD 2016-2765", "Viditax (FutD), 17-11-2017", "NTFR 2017/67 met annotatie van MR. E. ALINK", "NLF 2016/0516 met annotatie van -"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2371", "V-N 2017/3.1.3", "NLF 2016/0516", "NTFR 2017/67 met annotatie van MR. E. ALINK", "FutD 2016-2765", "Viditax (FutD) 2016110905", "Viditax (FutD) 2017111718"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2016:2852, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2885"]]
 ---
 
