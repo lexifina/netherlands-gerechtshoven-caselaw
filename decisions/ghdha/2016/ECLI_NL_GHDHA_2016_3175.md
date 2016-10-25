@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:3175"
-published_in: ["Rechtspraak.nl", "AR 2016/3119", "PJ 2016/160 met annotatie van E. Lutjens", "JAR 2016/283", "AR-Updates.nl 2016-1207", "PR-Updates.nl AR-2016-1207"]
+published_in: ["Rechtspraak.nl", "AR 2016/3119", "PJ 2016/160 met annotatie van E. Lutjens", "JAR 2016/283", "AR-Updates.nl 2016-1207", "PR-Updates.nl AR-2016-1207", "PR-Updates.nl 2016-1207"]
 cites_law: ["netherlands/national/acts/pensioenwet/art-023.md", "netherlands/national/acts/pensioenwet/art-032.md", "netherlands/national/acts/wet-op-de-ondernemingsraden/art-027.md", "netherlands/national/acts/wet-op-de-ondernemingsraden/art-032.md"]
 ---
 
