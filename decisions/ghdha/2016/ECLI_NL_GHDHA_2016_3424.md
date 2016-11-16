@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2016:3424"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2502", "V-N 2017/9.29.6", "FutD 2016-2881", "NTFR 2016/2968", "NLF 2016/0662 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2015:15439, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2016/2502", "V-N 2017/9.29.6", "NLF 2016/0662", "FutD 2016-2881", "Viditax (FutD) 2016112202"]
 ---
 
 # ECLI:NL:GHDHA:2016:3424 Gerechtshof Den Haag , 16-11-2016 / BK-16/00043
