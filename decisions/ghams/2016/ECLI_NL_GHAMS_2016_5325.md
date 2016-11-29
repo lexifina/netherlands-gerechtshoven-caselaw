@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2016:5325"
-published_in: ["Rechtspraak.nl", "NLF 2017/0179 met annotatie van Theo Hoogwout", "V-N Vandaag 2016/2938", "Belastingadvies 2017/4.2", "FutD 2016-3173", "Viditax (FutD), 02-02-2018", "NTFR 2017/897 met annotatie van mr. B.E.M. Boer"]
+published_in: ["Rechtspraak.nl", "NLF 2017/0179 met annotatie van Theo Hoogwout", "V-N Vandaag 2016/2938", "Belastingadvies 2017/4.2", "NTFR 2017/897 met annotatie van mr. B.E.M. Boer", "FutD 2016-3173", "Viditax (FutD) 2018020202", "Viditax (FutD) 2016122105"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:124, Bekrachtiging/bevestiging"]]
 ---
 
