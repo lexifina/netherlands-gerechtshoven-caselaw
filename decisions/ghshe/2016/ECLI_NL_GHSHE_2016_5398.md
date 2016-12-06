@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2016:5398"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-1451", "PR-Updates.nl AR-2016-1451"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2016-1451", "PR-Updates.nl AR-2016-1451", "PR-Updates.nl 2016-1451"]
 ---
 
 # ECLI:NL:GHSHE:2016:5398 Gerechtshof 's-Hertogenbosch , 06-12-2016 / 200.105.695_01
