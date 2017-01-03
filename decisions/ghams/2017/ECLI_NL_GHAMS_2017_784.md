@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:784"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/604", "V-N 2017/18.1.2", "FutD 2017-0688", "Viditax (FutD), 13-10-2017", "NTFR 2017/866", "NLF 2017/0693 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/604", "V-N 2017/18.1.2", "NTFR 2017/866", "NLF 2017/0693", "FutD 2017-0688", "Viditax (FutD) 2017101305", "Viditax (FutD) 2017031504"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2600, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/awr/art-016.md"]
 ---
