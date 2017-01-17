@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:310"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/214", "V-N 2017/15.1.2", "FutD 2017-0288", "Viditax (FutD), 20-10-2017", "Viditax (FutD), 17-08-2018", "NTFR 2017/627 met annotatie van mr. N. ten Broek", "NLF 2017/0382 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/214", "V-N 2017/15.1.2", "NLF 2017/0382", "NTFR 2017/627 met annotatie van mr. N. ten Broek", "FutD 2017-0288", "Viditax (FutD) 2017102029", "Viditax (FutD) 2018081702"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2016:3226, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1319, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
