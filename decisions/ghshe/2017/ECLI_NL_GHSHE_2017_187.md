@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:187"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/746", "V-N 2017/20.20.10", "NTFR 2017/871", "NLF 2017/0764 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:4568, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/746", "V-N 2017/20.20.10", "NTFR 2017/871", "NLF 2017/0764"]
 ---
 
 # ECLI:NL:GHSHE:2017:187 Gerechtshof 's-Hertogenbosch , 20-01-2017 / 16/03569 en 16/03570
