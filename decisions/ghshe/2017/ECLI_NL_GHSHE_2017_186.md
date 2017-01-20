@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:186"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/747", "FutD 2017-0802", "Viditax (FutD), 01-12-2017", "NTFR 2017/949", "NLF 2017/0763 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2015:2453, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:3047"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/747", "NLF 2017/0763", "FutD 2017-0802", "Viditax (FutD) 2017033010", "Viditax (FutD) 2017120114"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:3047"]]
 cites_law: ["netherlands/national/acts/awr/art-047.md"]
 ---
 
