@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:191"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/663", "FutD 2017-0754", "Viditax (FutD), 15-09-2017", "NTFR 2017/868", "NLF 2017/0752 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2015:7038, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2377"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/663", "NLF 2017/0752", "FutD 2017-0754", "Viditax (FutD) 2017032304", "Viditax (FutD) 2017091523"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:2377"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-019.md"]
 ---
 
