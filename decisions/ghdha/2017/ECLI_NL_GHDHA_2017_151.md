@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:151"
-published_in: ["Rechtspraak.nl", "AR 2017/664", "PJ 2017/32", "AR-Updates.nl 2017-0165", "PR-Updates.nl AR-2017-0165"]
+published_in: ["Rechtspraak.nl", "AR 2017/664", "PJ 2017/32", "AR-Updates.nl 2017-0165", "PR-Updates.nl AR-2017-0165", "PR-Updates.nl 2017-0165"]
 ---
 
 # ECLI:NL:GHDHA:2017:151 Gerechtshof Den Haag , 07-02-2017 / 200.173.642
