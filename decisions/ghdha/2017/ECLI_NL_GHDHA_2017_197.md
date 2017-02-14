@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:197"
-published_in: ["Rechtspraak.nl", "PJ 2017/56", "AR 2017/833", "NTFR 2017/1178 met annotatie van mr. R.B.H. Beune", "AR-Updates.nl 2017-0192", "INS-Updates.nl 2017-0067", "PR-Updates.nl AR-2017-0192"]
+published_in: ["Rechtspraak.nl", "PJ 2017/56", "AR 2017/833", "AR-Updates.nl 2017-0192", "INS-Updates.nl 2017-0067", "PR-Updates.nl AR-2017-0192", "NTFR 2017/1178 met annotatie van mr. R.B.H. Beune", "PR-Updates.nl 2017-0192"]
 ---
 
 # ECLI:NL:GHDHA:2017:197 Gerechtshof Den Haag , 14-02-2017 / 200.166.011
