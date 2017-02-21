@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:538"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0994", "PR-Updates.nl PR-2019-0139"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0994", "PR-Updates.nl PR-2019-0139", "VAAN-AR-Updates.nl 2019-0994", "PR-Updates.nl 2019-0139"]
 ---
 
 # ECLI:NL:GHAMS:2017:538 Gerechtshof Amsterdam , 21-02-2017 / 200.194.164/01
