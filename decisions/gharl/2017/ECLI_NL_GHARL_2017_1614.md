@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:1614"
-published_in: ["Rechtspraak.nl", "NLF 2017/0721 met annotatie van Almer de Beer", "Belastingadvies 2017/8.3", "V-N 2017/24.1.3", "V-N Vandaag 2017/556", "FutD 2017-0613", "Viditax (FutD), 05-01-2018", "Viditax (FutD), 06-04-2018", "NTFR 2017/903 met annotatie van Mr. E.I. Brouwer"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2015:8177, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:511, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "NLF 2017/0721 met annotatie van mr. A.M.A. de Beer", "Belastingadvies 2017/8.3", "V-N 2017/24.1.3", "V-N Vandaag 2017/556", "NTFR 2017/903 met annotatie van Mr. E.I. Brouwer", "FutD 2017-0613", "Viditax (FutD) 2017031010", "Viditax (FutD) 2018010501", "Viditax (FutD) 2018040601"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:511, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:GHARL:2017:1614 Gerechtshof Arnhem-Leeuwarden , 28-02-2017 / 16/00215
