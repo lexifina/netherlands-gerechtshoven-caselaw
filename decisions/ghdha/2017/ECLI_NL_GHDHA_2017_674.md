@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:674"
-published_in: ["Rechtspraak.nl", "V-N 2017/34.31 met annotatie van Redactie", "V-N Vandaag 2017/632", "Belastingblad 2017/164 met annotatie van J.P. Kruimel", "NTFR 2017/1237 met annotatie van Mr. A. Dinée", "NLF 2017/0710 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2016:9455, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N 2017/34.31", "V-N Vandaag 2017/632", "Belastingblad 2017/164 met annotatie van J.P. Kruimel", "NLF 2017/0710", "NTFR 2017/1237 met annotatie van Mr. A. Dinée"]
 ---
 
 # ECLI:NL:GHDHA:2017:674 Gerechtshof Den Haag , 15-03-2017 / BK-16/00435
