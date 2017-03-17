@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:1073"
-published_in: ["Rechtspraak.nl", "V-N 2017/30.17.23", "V-N Vandaag 2017/1080", "FutD 2017-1160", "NTFR 2017/1692 met annotatie van mr. J. Nieuwenhuizen", "NLF 2017/1089 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:2, Meerdere afhandelingswijzen"]]
+published_in: ["Rechtspraak.nl", "V-N 2017/30.17.23", "V-N Vandaag 2017/1080", "NLF 2017/1089", "NTFR 2017/1692 met annotatie van mr. J. Nieuwenhuizen", "FutD 2017-1160", "Viditax (FutD) 2017051007"]
 ---
 
 # ECLI:NL:GHSHE:2017:1073 Gerechtshof 's-Hertogenbosch , 17-03-2017 / 16/00096
