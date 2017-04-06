@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:1782"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1326", "V-N 2017/34.1.1", "FutD 2017-1421", "Viditax (FutD), 11-08-2017", "NTFR 2017/1633 met annotatie van mr. N. ten Broek", "PS-Updates.nl 2017-0539", "NLF 2017/1367 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2016:617, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2017:1623, Niet ontvankelijk"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1326", "V-N 2017/34.1.1", "PS-Updates.nl 2017-0539", "NLF 2017/1367", "NTFR 2017/1633 met annotatie van mr. N. ten Broek", "FutD 2017-1421", "Viditax (FutD) 2017081120", "Viditax (FutD) 2017060802"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2017:1623, Niet ontvankelijk"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-002.md"]
 ---
 
