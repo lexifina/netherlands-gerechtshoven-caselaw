@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:1264"
-published_in: ["Rechtspraak.nl", "AR 2017/2103", "PJ 2017/73", "AR-Updates.nl 2017-0512", "PR-Updates.nl AR-2017-0512"]
+published_in: ["Rechtspraak.nl", "AR 2017/2103", "PJ 2017/73", "AR-Updates.nl 2017-0512", "PR-Updates.nl AR-2017-0512", "PR-Updates.nl 2017-0512"]
 ---
 
 # ECLI:NL:GHAMS:2017:1264 Gerechtshof Amsterdam , 11-04-2017 / 200.156.419/01
