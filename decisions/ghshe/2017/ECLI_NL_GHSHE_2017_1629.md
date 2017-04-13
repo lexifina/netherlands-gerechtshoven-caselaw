@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:1629"
-published_in: ["Rechtspraak.nl", "V-N 2017/39.21.32", "V-N Vandaag 2017/1455", "FutD 2017-1579", "NTFR 2017/1597", "NLF 2017/1529 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2015:7446, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N 2017/39.21.32", "V-N Vandaag 2017/1455", "NLF 2017/1529", "FutD 2017-1579", "Viditax (FutD) 2017062014"]
 ---
 
 # ECLI:NL:GHSHE:2017:1629 Gerechtshof 's-Hertogenbosch , 13-04-2017 / 16/00038
