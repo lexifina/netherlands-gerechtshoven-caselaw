@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:1696"
-published_in: ["Rechtspraak.nl", "AR 2017/2038", "PJ 2017/76 met annotatie van E. Lutjens", "AR-Updates.nl 2017-0508", "PR-Updates.nl AR-2017-0508"]
+published_in: ["Rechtspraak.nl", "AR 2017/2038", "PJ 2017/76 met annotatie van E. Lutjens", "AR-Updates.nl 2017-0508", "PR-Updates.nl AR-2017-0508", "PR-Updates.nl 2017-0508"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2015:2113"]]
 ---
 
