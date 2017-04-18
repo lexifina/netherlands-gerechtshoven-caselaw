@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:1044"
-published_in: ["Rechtspraak.nl", "AR 2017/2116", "PJ 2017/75 met annotatie van E. Lutjens", "AR-Updates.nl 2017-0544", "PR-Updates.nl AR-2017-0544"]
+published_in: ["Rechtspraak.nl", "AR 2017/2116", "PJ 2017/75 met annotatie van E. Lutjens", "AR-Updates.nl 2017-0544", "PR-Updates.nl AR-2017-0544", "PR-Updates.nl 2017-0544"]
 ---
 
 # ECLI:NL:GHDHA:2017:1044 Gerechtshof Den Haag , 18-04-2017 / 200.182.626/01
