@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:3617"
-published_in: ["Rechtspraak.nl", "PJ 2017/95", "AR 2017/2276", "AR-Updates.nl 2017-0573", "PR-Updates.nl AR-2017-0573"]
+published_in: ["Rechtspraak.nl", "PJ 2017/95", "AR 2017/2276", "AR-Updates.nl 2017-0573", "PR-Updates.nl AR-2017-0573", "PR-Updates.nl 2017-0573"]
 ---
 
 # ECLI:NL:GHARL:2017:3617 Gerechtshof Arnhem-Leeuwarden , 25-04-2017 / 200.184.709/01
@@ -307,7 +307,7 @@ Het stond het Pensioenfonds in beginsel vrij om maatregelen te nemen ter incasso
 
 5.12
 
-Waar het Pensioenfonds bevoegd was om gebruik te maken van haar incassobevoegdheden, is [appellante] , op de voet van het bepaalde in artikel 6:96 BW  gehouden om de daaraan verbonden buitengerechtelijke incassokosten te dragen.   heeft verder niet gegriefd tegen wijze waarop de kantonrechter het aan buitengerechtelijke kosten verschuldigde bedrag (gematigd) heeft berekend en het hof ziet in hetgeen door [appellante] is aangevoerd ook geen grond voor verdergaande matiging.
+Waar het Pensioenfonds bevoegd was om gebruik te maken van haar incassobevoegdheden, is [appellante] , op de voet van het bepaalde in artikel 6:96 BW  gehouden om de daaraan verbonden buitengerechtelijke incassokosten te dragen.  [appellante] heeft verder niet gegriefd tegen wijze waarop de kantonrechter het aan buitengerechtelijke kosten verschuldigde bedrag (gematigd) heeft berekend en het hof ziet in hetgeen door [appellante] is aangevoerd ook geen grond voor verdergaande matiging.
 
 5.13
 
