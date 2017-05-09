@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Prejudicieel verzoek"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:1759"
-published_in: ["Rechtspraak.nl", "Prg. 2017/307"]
+published_in: ["Rechtspraak.nl", "Prg. 2017/307", "AA20180141 met annotatie van Klaassen C.J.M. Carla"]
 ---
 
 # ECLI:NL:GHAMS:2017:1759 Gerechtshof Amsterdam , 09-05-2017 / 200.186.069/01, 200.186.100/01 en 200.186.113/01
