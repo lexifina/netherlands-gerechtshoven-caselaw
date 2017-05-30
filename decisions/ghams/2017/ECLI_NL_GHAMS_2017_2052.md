@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:2052"
-published_in: ["Rechtspraak.nl", "PJ 2018/65", "AR-Updates.nl 2018-0231", "PR-Updates.nl PR-2018-0018"]
+published_in: ["Rechtspraak.nl", "PJ 2018/65", "AR-Updates.nl 2018-0231", "PR-Updates.nl PR-2018-0018", "VAAN-AR-Updates.nl 2018-0231", "PR-Updates.nl 2018-0018"]
 ---
 
 # ECLI:NL:GHAMS:2017:2052 Gerechtshof Amsterdam , 30-05-2017 / 200.189.642/01
