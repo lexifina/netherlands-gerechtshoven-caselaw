@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:1928"
-published_in: ["Rechtspraak.nl", "RN 2017/76", "FutD 2017-1376", "TT 2017/4 met annotatie van Mooibroek, M.F."]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:TNORARL:2016:40, Gegrondverklaring"]]
+published_in: ["Rechtspraak.nl", "RN 2017/76", "TT 2017/4 met annotatie van Mooibroek, M.F.", "FutD 2017-1376", "Viditax (FutD) 2017053105", "AA20180141 met annotatie van Klaassen C.J.M. Carla"]
 cites_law: ["netherlands/national/acts/wet-op-het-notarisambt/art-094.md", "netherlands/national/acts/wet-op-het-notarisambt/art-095.md"]
 ---
 
