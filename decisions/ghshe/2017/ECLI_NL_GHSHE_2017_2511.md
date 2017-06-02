@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:2511"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1324", "V-N 2017/39.21.31", "FutD 2017-1420", "NTFR 2017/1848 met annotatie van mr. J. Zandee-Dingemanse", "NLF 2017/1364 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2015:7601, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1324", "V-N 2017/39.21.31", "NLF 2017/1364", "NTFR 2017/1848 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2017-1420", "Viditax (FutD) 2017060804"]
 ---
 
 # ECLI:NL:GHSHE:2017:2511 Gerechtshof 's-Hertogenbosch , 02-06-2017 / 15/01363
