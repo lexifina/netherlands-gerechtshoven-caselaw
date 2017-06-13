@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:4933"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1474", "V-N 2017/43.18.8", "FutD 2017-1554", "NTFR 2017/1686 met annotatie van TH.J.M. VAN SCHENDEL", "NLF 2017/1555 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2016:4109, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1474", "V-N 2017/43.18.8", "NLF 2017/1555", "NTFR 2017/1686 met annotatie van TH.J.M. VAN SCHENDEL", "FutD 2017-1554", "Viditax (FutD) 2017062316"]
 ---
 
 # ECLI:NL:GHARL:2017:4933 Gerechtshof Arnhem-Leeuwarden , 13-06-2017 / 16/01143
