@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:2099"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1722", "Viditax (FutD), 17-07-2017", "FutD 2017-1851", "Viditax (FutD), 23-02-2018", "NTFR 2017/2182 met annotatie van mr. M. de Reus", "NLF 2017/1792 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1722", "NLF 2017/1792", "NTFR 2017/2182 met annotatie van mr. M. de Reus", "FutD 2017-1851", "Viditax (FutD) 2018022318", "Viditax (FutD) 2017071705"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:274"]]
 ---
 
