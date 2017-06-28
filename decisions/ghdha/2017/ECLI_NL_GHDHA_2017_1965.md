@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:1965"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1617", "Belastingadvies 2017/20.2", "V-N 2017/51.18.23", "NTFR 2017/2250 met annotatie van drs. R.P. Bitter", "NLF 2017/1674 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1617", "Belastingadvies 2017/20.2", "V-N 2017/51.18.23", "NLF 2017/1674", "NTFR 2017/2250 met annotatie van drs. R.P. Bitter"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2016:239, Bekrachtiging/bevestiging"]]
 ---
 
