@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:1963"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1643", "V-N 2017/50.10 met annotatie van Redactie", "FutD 2017-1710", "NTFR 2017/2251 met annotatie van drs. R.P. Bitter"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1643", "V-N 2017/50.10 met annotatie van Redactie", "NTFR 2017/2251 met annotatie van drs. R.P. Bitter", "FutD 2017-1710"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2016:238, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
