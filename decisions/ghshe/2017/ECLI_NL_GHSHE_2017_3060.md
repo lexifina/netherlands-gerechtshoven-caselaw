@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:3060"
-published_in: ["Rechtspraak.nl", "PJ 2017/122", "AR 2017/3534", "AR-Updates.nl 2017-0859", "PR-Updates.nl AR-2017-0859"]
+published_in: ["Rechtspraak.nl", "PJ 2017/122", "AR 2017/3534", "AR-Updates.nl 2017-0859", "PR-Updates.nl AR-2017-0859", "PR-Updates.nl 2017-0859"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2015:4534"]]
 cites_law: ["netherlands/national/acts/pensioenwet/art-075.md"]
 ---
