@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:5911"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1822", "V-N 2017/51.18.13", "Viditax (FutD), 31-07-2017", "FutD 2017-1944", "NTFR 2017/1931", "NLF 2017/1950 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2015:8183, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/1822", "V-N 2017/51.18.13", "NLF 2017/1950", "FutD 2017-1944", "Viditax (FutD) 2017073107"]
 ---
 
 # ECLI:NL:GHARL:2017:5911 Gerechtshof Arnhem-Leeuwarden , 11-07-2017 / 16/00182 t/m 16/00195
