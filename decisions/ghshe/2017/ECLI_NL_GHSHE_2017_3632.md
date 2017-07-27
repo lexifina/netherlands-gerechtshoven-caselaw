@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:3632"
-published_in: ["Rechtspraak.nl", "NLF 2017/2292 met annotatie van Mark Hendriks", "V-N Vandaag 2017/2047", "V-N 2017/50.7 met annotatie van Redactie", "Viditax (FutD), 31-08-2017", "FutD 2017-2158", "NTFR 2017/2411 met annotatie van mr. A. Wolkers"]
+published_in: ["Rechtspraak.nl", "NLF 2017/2292 met annotatie van Mark Hendriks", "V-N Vandaag 2017/2047", "V-N 2017/50.7 met annotatie van Redactie", "NTFR 2017/2411 met annotatie van mr. A. Wolkers", "FutD 2017-2158", "Viditax (FutD) 2017083104"]
 cites_law: ["netherlands/national/acts/awb/art-08-029.md", "netherlands/national/acts/awb/art-08-042.md", "netherlands/national/acts/awr/art-052a.md"]
 ---
 
