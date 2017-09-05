@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:3585"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/3031", "Viditax (FutD), 20-12-2017", "FutD 2018-0031", "Viditax (FutD), 30-03-2018", "NTFR 2018/278 met annotatie van mr. R.A. Bosman", "NLF 2018/0051 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:1822, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:464"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/3031", "NLF 2018/0051", "NTFR 2018/278 met annotatie van mr. R.A. Bosman", "FutD 2018-0031", "Viditax (FutD) 2017122014", "Viditax (FutD) 2018033026"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:464"]]
 ---
 
 # ECLI:NL:GHDHA:2017:3585 Gerechtshof Den Haag , 05-09-2017 / BK-17/00389
