@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:3848"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0058"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0058", "PR-Updates.nl 2018-0058"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2015:4849"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2021:926"]]
 ---
 
