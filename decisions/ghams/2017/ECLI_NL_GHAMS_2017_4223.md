@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:4223"
-published_in: ["Rechtspraak.nl", "Prg. 2018/122 met annotatie van J.J.M. de Laat", "PJ 2018/39 met annotatie van H.P. Breuker", "AR-Updates.nl 2018-0212", "PR-Updates.nl PR-2018-0024"]
+published_in: ["Rechtspraak.nl", "Prg. 2018/122 met annotatie van J.J.M. de Laat", "PJ 2018/39 met annotatie van H.P. Breuker", "AR-Updates.nl 2018-0212", "PR-Updates.nl PR-2018-0024", "VAAN-AR-Updates.nl 2018-0212", "PR-Updates.nl 2018-0024"]
 ---
 
 # ECLI:NL:GHAMS:2017:4223 Gerechtshof Amsterdam , 17-10-2017 / 200.176.263/01
