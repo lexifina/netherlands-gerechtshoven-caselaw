@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:9607"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2668", "V-N 2018/8.1.3", "Belastingadvies 2018/3.3", "Viditax (FutD), 10-11-2017", "FutD 2017-2841", "Viditax (FutD), 25-05-2018", "Vp-bulletin 2018/37", "NTFR 2017/2883", "NLF 2017/2683 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2016:3245, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:766"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2668", "V-N 2018/8.1.3", "Belastingadvies 2018/3.3", "Vp-bulletin 2018/37 met annotatie van Redactie", "NLF 2017/2683", "FutD 2017-2841", "Viditax (FutD) 2017111011", "Viditax (FutD) 2018052522"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:766"]]
 ---
 
 # ECLI:NL:GHARL:2017:9607 Gerechtshof Arnhem-Leeuwarden , 07-11-2017 / 16/01059
