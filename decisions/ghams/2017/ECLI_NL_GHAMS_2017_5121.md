@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:5121"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2969", "Viditax (FutD), 14-12-2017", "FutD 2017-3172", "Viditax (FutD), 13-07-2018", "NTFR 2018/68", "NLF 2018/0061 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2969", "NLF 2018/0061", "NTFR 2018/68", "FutD 2017-3172", "Viditax (FutD) 2018071321", "Viditax (FutD) 2017121401"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1140"]]
 cites_law: ["netherlands/national/acts/awb/art-05-010a.md", "netherlands/national/acts/awr/art-067e.md", "netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
