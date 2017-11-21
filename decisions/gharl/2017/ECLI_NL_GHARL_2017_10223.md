@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:10223"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2864", "Viditax (FutD), 01-12-2017", "FutD 2017-3042", "Viditax (FutD), 12-10-2018", "NTFR 2017/3021", "NLF 2017/2911 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2013:858, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1896, (Gedeeltelijke) vernietiging met verwijzen"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2017/2864", "NLF 2017/2911", "FutD 2017-3042", "Viditax (FutD) 2018101216", "Viditax (FutD) 2017120110"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1896, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
 # ECLI:NL:GHARL:2017:10223 Gerechtshof Arnhem-Leeuwarden , 21-11-2017 / 13/00771 en 13/00772
