@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2017:5510"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/315", "V-N 2018/12.1.2", "Viditax (FutD), 07-02-2018", "FutD 2018-0418", "Viditax (FutD), 06-07-2018", "NTFR 2018/446", "NLF 2018/0437 met annotatie van", "NLF 2018/0437 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/315", "V-N 2018/12.1.2", "NLF 2018/0437", "NLF 2018/0437", "NTFR 2018/446", "FutD 2018-0418", "Viditax (FutD) 2018020714", "Viditax (FutD) 2018070614"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1088"]]
 ---
 
