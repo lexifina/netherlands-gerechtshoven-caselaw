@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2017:4135"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/543", "V-N 2018/18.1.3", "Vp-bulletin 2018/23", "Viditax (FutD), 09-03-2018", "FutD 2018-0667", "Viditax (FutD), 29-06-2018", "NTFR 2018/1007", "NLF 2018/0613 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:11398, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1035"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/543", "V-N 2018/18.1.3", "Vp-bulletin 2018/23 met annotatie van Redactie", "NLF 2018/0613", "FutD 2018-0667", "Viditax (FutD) 2018030907", "Viditax (FutD) 2018062927"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1035"]]
 ---
 
 # ECLI:NL:GHDHA:2017:4135 Gerechtshof Den Haag , 12-12-2017 / BK-17/00530
