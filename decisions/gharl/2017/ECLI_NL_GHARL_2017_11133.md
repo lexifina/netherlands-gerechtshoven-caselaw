@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2017:11133"
-published_in: ["Rechtspraak.nl", "AR 2017/6754", "PJ 2018/55", "AR-Updates.nl 2018-0028", "PR-Updates.nl PR-2018-0002"]
+published_in: ["Rechtspraak.nl", "AR 2017/6754", "PJ 2018/55", "AR-Updates.nl 2018-0028", "PR-Updates.nl PR-2018-0002", "VAAN-AR-Updates.nl 2018-0028", "PR-Updates.nl 2018-0002"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHARL:2017:10458"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2019:449, Meerdere afhandelingswijzen"]]
 ---
 
