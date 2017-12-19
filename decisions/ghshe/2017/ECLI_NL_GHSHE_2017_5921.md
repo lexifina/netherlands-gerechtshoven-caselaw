@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2017:5921"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0131"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0131", "PR-Updates.nl 2019-0131"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:1292, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
