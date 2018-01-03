@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:35"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/74", "V-N 2018/16.1.3", "FutD 2018-0177", "Viditax (FutD), 15-06-2018", "NTFR 2018/312 met annotatie van mr. M.E. Kastelein", "NLF 2018/0136 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2017:1275, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:939"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/74", "V-N 2018/16.1.3", "NLF 2018/0136", "FutD 2018-0177", "Viditax (FutD) 2018061509"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2018:939"]]
 ---
 
 # ECLI:NL:GHARL:2018:35 Gerechtshof Arnhem-Leeuwarden , 03-01-2018 / 17/00313
