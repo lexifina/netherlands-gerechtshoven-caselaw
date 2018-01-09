@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:1"
-published_in: ["Rechtspraak.nl", "PJ 2018/40 met annotatie van B. Degelink", "PR-Updates.nl PR-2018-0012"]
+published_in: ["Rechtspraak.nl", "PJ 2018/40 met annotatie van B. Degelink", "PR-Updates.nl PR-2018-0012", "PR-Updates.nl 2018-0012"]
 ---
 
 # ECLI:NL:GHDHA:2018:1 Gerechtshof Den Haag , 09-01-2018 / 200.199.142
