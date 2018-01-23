@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:19"
-published_in: ["Rechtspraak.nl", "AR 2018/533", "PJ 2018/41", "AR-Updates.nl 2018-0170", "PR-Updates.nl PR-2018-0008"]
+published_in: ["Rechtspraak.nl", "AR 2018/533", "PJ 2018/41", "AR-Updates.nl 2018-0170", "PR-Updates.nl PR-2018-0008", "VAAN-AR-Updates.nl 2018-0170", "PR-Updates.nl 2018-0008"]
 ---
 
 # ECLI:NL:GHDHA:2018:19 Gerechtshof Den Haag , 23-01-2018 / 200.177.034
