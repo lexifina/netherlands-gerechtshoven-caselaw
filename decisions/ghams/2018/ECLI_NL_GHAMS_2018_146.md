@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:146"
-published_in: ["Rechtspraak.nl", "NLF 2018/0294 met annotatie van Sonja Dusarduijn", "V-N Vandaag 2018/227", "V-N 2018/16.1.4", "Viditax (FutD), 24-01-2018", "FutD 2018-0262 met annotatie van Fiscaal up to Date", "NTFR 2018/632"]
+published_in: ["Rechtspraak.nl", "NLF 2018/0294 met annotatie van Sonja Dusarduijn", "V-N Vandaag 2018/227", "V-N 2018/16.1.4", "NTFR 2018/632", "FutD 2018-0262", "Viditax (FutD) 2018012403"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:946"]]
 ---
 
