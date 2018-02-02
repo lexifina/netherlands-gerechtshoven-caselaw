@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:1452"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1284", "Viditax (FutD), 15-06-2018", "FutD 2018-1695", "V-N 2018/40.25.2", "NTFR 2018/1560", "NLF 2018/1334 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:7004, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1284", "V-N 2018/40.25.2", "NLF 2018/1334", "FutD 2018-1695", "Viditax (FutD) 2018061517"]
 ---
 
 # ECLI:NL:GHDHA:2018:1452 Gerechtshof Den Haag , 02-02-2018 / BK-17/00713
