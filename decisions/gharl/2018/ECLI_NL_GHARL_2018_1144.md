@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:1144"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/361", "V-N 2018/23.24.11", "Viditax (FutD), 16-02-2018", "FutD 2018-0495", "NTFR 2018/447"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/361", "V-N 2018/23.24.11", "FutD 2018-0495", "Viditax (FutD) 2018021617"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2016:3788, Bekrachtiging/bevestiging"]]
 ---
 
