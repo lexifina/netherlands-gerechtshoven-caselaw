@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:378"
-published_in: ["Rechtspraak.nl", "PJ 2018/42 met annotatie van L.H. Blom", "ARO 2018/95", "JOR 2018/95 met annotatie van Prof. mr. R.H. Maatman", "PR-Updates.nl PR-2018-0009"]
+published_in: ["Rechtspraak.nl", "PJ 2018/42 met annotatie van L.H. Blom", "ARO 2018/95", "JOR 2018/95 met annotatie van Prof. mr. R.H. Maatman", "PR-Updates.nl PR-2018-0009", "PR-Updates.nl 2018-0009"]
 ---
 
 # ECLI:NL:GHAMS:2018:378 Gerechtshof Amsterdam , 06-02-2018 / 200.221.942/01 OK
