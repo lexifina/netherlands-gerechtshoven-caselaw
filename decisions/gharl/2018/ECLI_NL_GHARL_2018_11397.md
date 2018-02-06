@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:11397"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0801", "PR-Updates.nl PR-2019-0107"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0801", "PR-Updates.nl PR-2019-0107", "PJ 2023/22", "VAAN-AR-Updates.nl 2019-0801", "PR-Updates.nl 2019-0107"]
 ---
 
 # ECLI:NL:GHARL:2018:11397 Gerechtshof Arnhem-Leeuwarden , 06-02-2018 / 200.167.643
