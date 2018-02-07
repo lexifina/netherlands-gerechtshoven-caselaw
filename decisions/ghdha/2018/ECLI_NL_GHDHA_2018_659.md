@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:659"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0050"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0050", "PR-Updates.nl 2018-0050"]
 ---
 
 # ECLI:NL:GHDHA:2018:659 Gerechtshof Den Haag , 07-02-2018 / 200.226.622/01
