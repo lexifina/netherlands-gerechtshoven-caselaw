@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:599"
-published_in: ["Rechtspraak.nl", "PJ 2018/83 met annotatie van Redactie", "AR-Updates.nl 2018-0221", "PR-Updates.nl PR-2018-0019"]
+published_in: ["Rechtspraak.nl", "PJ 2018/83", "AR-Updates.nl 2018-0221", "PR-Updates.nl PR-2018-0019", "VAAN-AR-Updates.nl 2018-0221", "PR-Updates.nl 2018-0019"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2016:2995"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2019:1244, Bekrachtiging/bevestiging"]]
 ---
 
