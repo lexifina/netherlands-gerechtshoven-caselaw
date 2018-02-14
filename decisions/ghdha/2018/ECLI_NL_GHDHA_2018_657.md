@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:657"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0046", "FJR 2020/32.56"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:5305, Meerdere afhandelingswijzen"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0046", "FJR 2020/32.56", "PR-Updates.nl 2018-0046"]
 ---
 
 # ECLI:NL:GHDHA:2018:657 Gerechtshof Den Haag , 14-02-2018 / 200.220.939/01 en 200.220.941/01
