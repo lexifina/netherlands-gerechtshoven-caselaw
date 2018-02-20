@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:452"
-published_in: ["Rechtspraak.nl", "PJ 2018/98", "PFR-Updates.nl 2018-0074", "PR-Updates.nl PR-2018-0030"]
+published_in: ["Rechtspraak.nl", "PJ 2018/98", "PFR-Updates.nl 2018-0074", "PR-Updates.nl PR-2018-0030", "PR-Updates.nl 2018-0030"]
 ---
 
 # ECLI:NL:GHDHA:2018:452 Gerechtshof Den Haag , 20-02-2018 / 200.173.953/01
