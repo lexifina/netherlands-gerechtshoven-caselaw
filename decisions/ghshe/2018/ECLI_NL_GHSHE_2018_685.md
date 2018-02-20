@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:685"
-published_in: ["Rechtspraak.nl", "TRA 2018/51 met annotatie van R.H. van het Kaar", "PJ 2018/43 met annotatie van E. Schop", "AR-Updates.nl 2018-0244", "PR-Updates.nl PR-2018-0025"]
+published_in: ["Rechtspraak.nl", "TRA 2018/51 met annotatie van R.H. van het Kaar", "PJ 2018/43 met annotatie van E. Schop", "AR-Updates.nl 2018-0244", "PR-Updates.nl PR-2018-0025", "VAAN-AR-Updates.nl 2018-0244", "PR-Updates.nl 2018-0025"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:1869, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-613.md"]
 ---
