@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:1942"
-published_in: ["Rechtspraak.nl", "RAR 2018/79", "PJ 2018/61 met annotatie van M.C.W. Tomeij", "JAR 2018/86", "AR-Updates.nl 2018-0274", "PR-Updates.nl PR-2018-0031"]
+published_in: ["Rechtspraak.nl", "RAR 2018/79", "PJ 2018/61 met annotatie van M.C.W. Tomeij", "JAR 2018/86", "AR-Updates.nl 2018-0274", "PR-Updates.nl PR-2018-0031", "VAAN-AR-Updates.nl 2018-0274", "PR-Updates.nl 2018-0031"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2018:8124"]]
 ---
 
