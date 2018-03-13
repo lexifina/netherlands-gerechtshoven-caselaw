@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:1092"
-published_in: ["Rechtspraak.nl", "PJ 2018/64 met annotatie van B. Degelink", "AR-Updates.nl 2018-0345", "PR-Updates.nl PR-2018-0032"]
+published_in: ["Rechtspraak.nl", "PJ 2018/64 met annotatie van B. Degelink", "AR-Updates.nl 2018-0345", "PR-Updates.nl PR-2018-0032", "VAAN-AR-Updates.nl 2018-0345", "PR-Updates.nl 2018-0032"]
 ---
 
 # ECLI:NL:GHSHE:2018:1092 Gerechtshof 's-Hertogenbosch , 13-03-2018 / 200.194.101_01
