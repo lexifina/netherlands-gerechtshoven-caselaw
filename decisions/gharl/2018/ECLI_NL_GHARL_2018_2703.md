@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:2703"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/720", "V-N 2018/31.30.3", "Viditax (FutD), 30-03-2018", "FutD 2018-0912", "NTFR 2018/826", "NLF 2018/0825 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/720", "V-N 2018/31.30.3", "NLF 2018/0825", "FutD 2018-0912", "Viditax (FutD) 2018033013"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2017:3447, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2018:1803"]]
 ---
 
