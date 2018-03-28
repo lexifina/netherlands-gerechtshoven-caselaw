@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:799"
-published_in: ["Rechtspraak.nl", "JPF 2019/24", "PR-Updates.nl PR-2018-0047"]
+published_in: ["Rechtspraak.nl", "JPF 2019/24", "PR-Updates.nl PR-2018-0047", "PR-Updates.nl 2018-0047"]
 ---
 
 # ECLI:NL:GHDHA:2018:799 Gerechtshof Den Haag , 28-03-2018 / 200.220.713/01; 200.220.715/01; 200.220.715/02
