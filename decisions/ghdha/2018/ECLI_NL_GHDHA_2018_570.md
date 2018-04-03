@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:570"
-published_in: ["Rechtspraak.nl", "PJ 2018/74 met annotatie van E. Lutjens", "PR-Updates.nl PR-2018-0049"]
+published_in: ["Rechtspraak.nl", "PJ 2018/74 met annotatie van E. Lutjens", "PR-Updates.nl PR-2018-0049", "PR-Updates.nl 2018-0049"]
 ---
 
 # ECLI:NL:GHDHA:2018:570 Gerechtshof Den Haag , 03-04-2018 / 200.206.533/01
