@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:1254"
-published_in: ["Rechtspraak.nl", "PJ 2018/103", "AR-Updates.nl 2018-0577", "PR-Updates.nl PR-2018-0059"]
+published_in: ["Rechtspraak.nl", "PJ 2018/103", "AR-Updates.nl 2018-0577", "PR-Updates.nl PR-2018-0059", "VAAN-AR-Updates.nl 2018-0577", "PR-Updates.nl 2018-0059"]
 ---
 
 # ECLI:NL:GHAMS:2018:1254 Gerechtshof Amsterdam , 10-04-2018 / 200.212.101/01
