@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:3623"
-published_in: ["Rechtspraak.nl", "PJ 2018/99", "EB 2018/74", "JPF 2019/22 met annotatie van Reinhartz, B.E.", "PR-Updates.nl PR-2018-0052", "FJR 2020/32.7"]
+published_in: ["Rechtspraak.nl", "PJ 2018/99", "EB 2018/74", "JPF 2019/22 met annotatie van Prof. dr. B.E. Reinhartz", "PR-Updates.nl PR-2018-0052", "FJR 2020/32.7", "PR-Updates.nl 2018-0052"]
 ---
 
 # ECLI:NL:GHARL:2018:3623 Gerechtshof Arnhem-Leeuwarden , 17-04-2018 / 200.201.071/01
