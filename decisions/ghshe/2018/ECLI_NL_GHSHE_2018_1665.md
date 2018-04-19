@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:1665"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/897", "V-N 2018/27.15 met annotatie van Redactie", "Viditax (FutD), 20-04-2018", "FutD 2018-1138", "Viditax (FutD), 05-10-2018", "NTFR 2018/1312", "NLF 2018/1052 met annotatie van", "NLF 2018/1052 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/897", "V-N 2018/27.15 met annotatie van Redactie", "NLF 2018/1052", "NLF 2018/1052", "FutD 2018-1138", "Viditax (FutD) 2018042010", "Viditax (FutD) 2018100503"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:5319, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2018:1725"]]
 cites_law: ["netherlands/national/acts/awr/art-027ga.md", "netherlands/national/acts/awr/art-027h.md"]
 ---
