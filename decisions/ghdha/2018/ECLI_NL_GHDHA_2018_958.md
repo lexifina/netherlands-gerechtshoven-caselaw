@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:958"
-published_in: ["Rechtspraak.nl", "PJ 2018/101 met annotatie van L.H. Blom CPL", "PR-Updates.nl PR-2018-0057", "NJ 2020/78"]
+published_in: ["Rechtspraak.nl", "PJ 2018/101 met annotatie van L.H. Blom", "PR-Updates.nl PR-2018-0057", "NJ 2020/78", "PR-Updates.nl 2018-0057"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:2035, Bekrachtiging/bevestiging"]]
 ---
 
