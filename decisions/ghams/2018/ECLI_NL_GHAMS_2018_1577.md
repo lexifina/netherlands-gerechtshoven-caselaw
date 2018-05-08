@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:1577"
-published_in: ["Rechtspraak.nl", "TT 2018/38 met annotatie van Rijckevorsel-Teeuwen, E.J.M. van", "ERF-Updates.nl 2018-0090", "JERF Actueel 2018/190"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:TNORARL:2017:51"]]
+published_in: ["Rechtspraak.nl", "TT 2018/38 met annotatie van mr. E.J.M. Rijckevorsel-Teeuwen", "ERF-Updates.nl 2018-0090", "JERF Actueel 2018/190"]
 ---
 
 # ECLI:NL:GHAMS:2018:1577 Gerechtshof Amsterdam , 08-05-2018 / 200.227.548/01 NOT
