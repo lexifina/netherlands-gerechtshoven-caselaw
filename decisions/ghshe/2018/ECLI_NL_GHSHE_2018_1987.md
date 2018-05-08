@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:1987"
-published_in: ["Rechtspraak.nl", "PJ 2018/102", "AR-Updates.nl 2018-0557", "PR-Updates.nl PR-2018-0060"]
+published_in: ["Rechtspraak.nl", "PJ 2018/102", "AR-Updates.nl 2018-0557", "PR-Updates.nl PR-2018-0060", "VAAN-AR-Updates.nl 2018-0557", "PR-Updates.nl 2018-0060"]
 ---
 
 # ECLI:NL:GHSHE:2018:1987 Gerechtshof 's-Hertogenbosch , 08-05-2018 / 200.190.805_01
