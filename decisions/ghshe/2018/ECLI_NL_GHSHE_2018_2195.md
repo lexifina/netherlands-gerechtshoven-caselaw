@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:2195"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-08-2018", "V-N Vandaag 2018/1748", "FutD 2018-2267", "V-N 2018/48.13.3", "NTFR 2018/2024", "NLF 2018/1801 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:1162, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1748", "V-N 2018/48.13.3", "NLF 2018/1801", "NTFR 2018/2024", "FutD 2018-2267", "Viditax (FutD) 2018082015"]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-111.md", "netherlands/national/acts/wet-inkomstenbelasting-2001/art-05-003.md"]
 ---
 
