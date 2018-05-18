@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:2189"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-08-2018", "V-N Vandaag 2018/1767", "FutD 2018-2303", "V-N 2018/53.6 met annotatie van Redactie", "NTFR 2018/1927", "NLF 2018/1862 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:7484, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1767", "V-N 2018/53.6 met annotatie van Redactie", "NLF 2018/1862", "FutD 2018-2303", "Viditax (FutD) 2018082005"]
 ---
 
 # ECLI:NL:GHSHE:2018:2189 Gerechtshof 's-Hertogenbosch , 18-05-2018 / 17/00023
