@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:1657"
-published_in: ["Rechtspraak.nl", "TT 2018/39 met annotatie van Maaldrink, G.L.", "ERF-Updates.nl 2018-0095", "JERF Actueel 2018/189"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:TNORSHE:2017:22, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "TT 2018/39 met annotatie van mr. G.L. Maaldrink", "ERF-Updates.nl 2018-0095", "JERF Actueel 2018/189"]
 ---
 
 # ECLI:NL:GHAMS:2018:1657 Gerechtshof Amsterdam , 22-05-2018 / 200.228.431/01 NOT
