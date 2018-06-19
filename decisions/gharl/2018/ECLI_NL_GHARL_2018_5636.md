@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:5636"
-published_in: ["Rechtspraak.nl", "EB 2018/81", "PJ 2018/149", "PFR-Updates.nl 2018-0184", "PR-Updates.nl PR-2018-0088", "FJR 2020/32.70"]
+published_in: ["Rechtspraak.nl", "EB 2018/81", "PJ 2018/149", "PFR-Updates.nl 2018-0184", "PR-Updates.nl PR-2018-0088", "FJR 2020/32.70", "PR-Updates.nl 2018-0088"]
 ---
 
 # ECLI:NL:GHARL:2018:5636 Gerechtshof Arnhem-Leeuwarden , 19-06-2018 / 200.150.390
