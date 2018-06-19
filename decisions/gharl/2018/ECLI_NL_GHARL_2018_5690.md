@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:5690"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0091"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0091", "PR-Updates.nl 2020-0091"]
 ---
 
 # ECLI:NL:GHARL:2018:5690 Gerechtshof Arnhem-Leeuwarden , 19-06-2018 / 200.160.728
