@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:5638"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0016"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0016", "PR-Updates.nl 2020-0016"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:70, Bekrachtiging/bevestiging"]]
 ---
 
