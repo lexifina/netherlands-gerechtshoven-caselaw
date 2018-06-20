@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:1781"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 20-07-2018", "FutD 2018-1978", "V-N Vandaag 2018/1615", "NLF 2018/1688 met annotatie van Marlies Kastelein", "V-N 2018/53.4 met annotatie van Redactie", "NTFR 2018/1859 met annotatie van mr. M.E. Kastelein"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1615", "NLF 2018/1688 met annotatie van Marlies Kastelein", "V-N 2018/53.4 met annotatie van Redactie", "NTFR 2018/1859 met annotatie van mr. M.E. Kastelein", "FutD 2018-1978", "Viditax (FutD) 2018072004"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:6806, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
