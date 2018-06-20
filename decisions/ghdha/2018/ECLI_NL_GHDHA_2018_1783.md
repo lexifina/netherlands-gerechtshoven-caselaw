@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:1783"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 24-07-2018", "V-N Vandaag 2018/1616", "FutD 2018-2071", "V-N 2018/1433", "V-N 2018/53.26.6", "NTFR 2018/1916", "NLF 2018/1704 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1616", "V-N 2018/1433", "V-N 2018/53.26.6", "NLF 2018/1704", "FutD 2018-2071", "Viditax (FutD) 2018072403"]
 ---
 
 # ECLI:NL:GHDHA:2018:1783 Gerechtshof Den Haag , 20-06-2018 / BK-17/00648
