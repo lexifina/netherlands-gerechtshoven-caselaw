@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:2112"
-published_in: ["Rechtspraak.nl", "NTHR 2018, afl. 5, p. 257", "TvA 2018/80", "PR-Updates.nl PR-2018-0073"]
+published_in: ["Rechtspraak.nl", "NTHR 2018, afl. 5, p. 257", "TvA 2018/80", "PR-Updates.nl PR-2018-0073", "PR-Updates.nl 2018-0073"]
 ---
 
 # ECLI:NL:GHAMS:2018:2112 Gerechtshof Amsterdam , 26-06-2018 / 200.197.424/01
