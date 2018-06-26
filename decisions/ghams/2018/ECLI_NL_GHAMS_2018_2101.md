@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:2101"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0074"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0074", "PR-Updates.nl 2018-0074"]
 ---
 
 # ECLI:NL:GHAMS:2018:2101 Gerechtshof Amsterdam , 26-06-2018 / 200.232.262/01
