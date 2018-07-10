@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:2383"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0851", "PR-Updates.nl PR-2018-0091"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-0851", "PR-Updates.nl PR-2018-0091", "VAAN-AR-Updates.nl 2018-0851", "PR-Updates.nl 2018-0091"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:261, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
