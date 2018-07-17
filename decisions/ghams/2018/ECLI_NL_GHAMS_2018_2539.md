@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:2539"
-published_in: ["Rechtspraak.nl", "JAR 2018/199", "PJ 2018/162", "PR-Updates.nl PR-2018-0092"]
+published_in: ["Rechtspraak.nl", "JAR 2018/199", "PJ 2018/162", "PR-Updates.nl PR-2018-0092", "PR-Updates.nl 2018-0092"]
 ---
 
 # ECLI:NL:GHAMS:2018:2539 Gerechtshof Amsterdam , 17-07-2018 / 200.232.527/01
