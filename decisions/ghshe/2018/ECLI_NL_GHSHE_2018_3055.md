@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:3055"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2018-0141", "PR-Updates.nl PR-2018-0090", "JERF Actueel 2018/299"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2016:4620, Overig"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2016:2454, Overig"]]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2018-0141", "PR-Updates.nl PR-2018-0090", "JERF Actueel 2018/299", "PR-Updates.nl 2018-0090"]
 ---
 
 # ECLI:NL:GHSHE:2018:3055 Gerechtshof 's-Hertogenbosch , 17-07-2018 / 200.204.161_01
