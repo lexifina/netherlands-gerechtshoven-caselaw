@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:6545"
-published_in: ["Rechtspraak.nl", "PJ 2018/144 met annotatie van H.P. Breuker", "PR-Updates.nl PR-2018-0087"]
+published_in: ["Rechtspraak.nl", "PJ 2018/144 met annotatie van H.P. Breuker", "PR-Updates.nl PR-2018-0087", "PR-Updates.nl 2018-0087"]
 ---
 
 # ECLI:NL:GHARL:2018:6545 Gerechtshof Arnhem-Leeuwarden , 17-07-2018 / 200.191.143
