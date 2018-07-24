@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:2574"
-published_in: ["Rechtspraak.nl", "PJ 2018/177", "PFR-Updates.nl 2018-0251", "PR-Updates.nl PR-2018-0126"]
+published_in: ["Rechtspraak.nl", "PJ 2018/177", "PFR-Updates.nl 2018-0251", "PR-Updates.nl PR-2018-0126", "PR-Updates.nl 2018-0126"]
 ---
 
 # ECLI:NL:GHDHA:2018:2574 Gerechtshof Den Haag , 24-07-2018 / 200.220.113/01
