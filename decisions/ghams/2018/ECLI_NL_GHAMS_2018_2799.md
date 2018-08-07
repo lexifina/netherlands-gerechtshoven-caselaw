@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:2799"
-published_in: ["Rechtspraak.nl", "TT 2018/68 met annotatie van Daniels, V.C.A.A.V."]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:TNORSHE:2017:27"]]
+published_in: ["Rechtspraak.nl", "TT 2018/68 met annotatie van mr. M.C.J. Höfelt"]
 ---
 
 # ECLI:NL:GHAMS:2018:2799 Gerechtshof Amsterdam , 07-08-2018 / 200.230.391/01 NOT
