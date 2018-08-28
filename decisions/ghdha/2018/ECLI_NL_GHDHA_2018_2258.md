@@ -1,0 +1,173 @@
+---
+ecli: "ECLI:NL:GHDHA:2018:2258"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "200.215.311/01"
+decided: "2018-08-28"
+published: "2018-09-04"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:2258"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHDHA:2018:2258 Gerechtshof Den Haag , 28-08-2018 / 200.215.311/01
+
+## Inhoudsindicatie
+
+ontbinding huurovereenkomst woonruimte, artikel 7:213 BW
+
+## Uitspraak
+
+GERECHTSHOF DEN HAAG
+
+Afdeling Civiel recht
+
+Zaaknummer	: 200.215.311/01
+
+Zaaknummer rechtbank	: 5269867 CV EXPL 16-31641
+
+arrest van 28 augustus 2018
+
+inzake
+
+[appellante],
+
+wonende te [woonplaats],
+
+appellante,
+
+hierna te noemen: [appellante],
+
+advocaat: mr. N. Claassen te Schiedam,
+
+tegen
+
+Stichting Vestia,
+
+gevestigd te Rotterdam,
+
+geïntimeerde,
+
+hierna te noemen: Vestia,
+
+advocaat: mr. R. van der Hoeff te Rotterdam.
+
+Het geding
+
+1. Bij exploot van 25 april 2017 is [appellante] in hoger beroep gekomen van een door de kantonrechter in de rechtbank Rotterdam (hierna: de kantonrechter) tussen partijen gewezen vonnis van 10 maart 2017, zoals verbeterd bij herstelvonnis van 14 april 2017. Bij memorie van grieven met producties heeft [appellante] elf grieven aangevoerd. Bij memorie van antwoord met producties heeft Vestia de grieven bestreden. Vervolgens zijn de stukken overgelegd en is arrest gevraagd.
+
+De feiten
+
+2. Het hof gaat uit van de volgende feiten.
+
+3. [appellante] huurde sinds 2008 een woning van Vestia aan de [adres 1] (gemeente Rotterdam). In september 2008 is daar brand uitgebroken, waarbij de slaapkamer van [appellante] is uitgebrand en de vloer doorgebrand. Als enige brandoorzaak is een onbeheerd achtergelaten brandende kaars genoemd; (nader) onderzoek naar de brandoorzaak is niet gedaan. Na herstel van de woning is [appellante] daarin teruggekeerd. Eerder, in december 2006 was er een brandmelding geweest over een andere woning van [appellante]; dat bleek te gaan om rookontwikkeling in de keuken.
+
+4. Sinds 29 mei 2013 huurde [appellante] een andere woning van Vestia, aan de [adres 2]. In deze straat en buurt verhuurt Vestia ook andere woningen, onder meer aan de naaste buren van [appellante].
+
+5. Op 29 januari 2016 is er brand geweest in de door [appellante] gehuurde woning aan de [adres 2]. Haar driejarige buurjongetje is naar het ziekenhuis gebracht in verband met het inademen van rook.
+
+6. In februari 2016 heeft een van de ouders van het buurjongetje een brief aan Vestia gestuurd waarin deze verslag doet van de gebeurtenissen rond de brand. Daarnaast wordt aangegeven dat zij al meerdere keren hebben gewaarschuwd dat [appellante] in hun ogen niet zelfstandig kan wonen, dat [appellante] een gevaar is voor hun kind en dat zij nooit meer een herhaling willen van deze gebeurtenis.
+
+7. Bij brief van 8 maart 2016 heeft Vestia aan [appellante] bericht dat zij zich genoodzaakt ziet de huurovereenkomst te beëindigen en wordt [appellante] verzocht de huurovereenkomst met onmiddellijke ingang op te zeggen en het gehuurde te ontruimen. [appellante] heeft daar niet aan voldaan.
+
+8. Op 21 april 2016 heeft de politie op verzoek van de gemachtigde van Vestia op grond van artikel 19 van de Wet Politie Gegevens (WPG) informatie aan Vestia verstrekt. Daaronder bevindt zich een chronologisch overzicht van incidenten betreffende [appellante] voorzover die betrekking hebben op de openbare orde, dat onder meer het volgende inhoudt (zakelijk weergegeven):
+
+9-12-2006: Brand in de oude woning van [appellante]. [appellante] had het flesje van haar dochter opgewarmd, maar had per ongeluk de verkeerde pit aangezet, waardoor rookontwikkeling ontstond in de keuken.
+
+7-1-2010 [opmerking hof: het nummer in het bedrijfsprocessensysteem van de politie verwijst naar het jaar 2008]: Brand in de woning [adres 1]. [appellante] had een kaarsje aangestoken. De slaapkamer is nagenoeg uitgebrand en de vloer was doorgebrand. Woning onbewoonbaar.
+
+20-9-2013 (9.45 uur): Naar aanleiding van een melding van de buren is de politie naar de [adres 2] gegaan. Buren hebben al lange tijd last van [appellante]. Het gaat met name om geluidsoverlast en geschreeuw. Dit is ook gemeld bij Vestia. [appellante] opende de deur en rochelde met tandpasta naast de politiemedewerkers. Gesprek op normaal geluidsniveau was niet mogelijk. [appellante] bleef schreeuwen dat het haar niet interesseerde.
+
+20-9-2013 (10.43 uur): Melding ruziezoekende personen voor [adres 2]. Ter plaatse geen personen aangetroffen. Deur van de woning stond open en de radio in de woning stond hard. Het was niet mogelijk om met [appellante] een gesprek aan te gaan. Meerdere (over)buren ondervinden overlast van [appellante] die bestaat uit de radio die hard aanstaat, schreeuwen in en om de woning en zeer hard smijten met deuren. De achtertuin was een grote puinhoop met van de eerste verdieping naar beneden gegooide goederen (matrassen, karton, etc.). De ramen zijn met kranten dichtgeplakt. [appellante] vertoont onaangepast gedrag en is niet bereid dit te veranderen.
+
+24-09-2013: Politie is samen met een medewerker van Vestia bij [appellante] langs geweest. Volgens [appellante] wordt ze gek van de buren en dat ze overal over klagen. De politie heeft haar aangesproken op haar gedrag richting de politie. [appellante] begreep dat zij de politie normaal te woord moest staan en zal proberen hier op te letten.
+
+30-10-2013: Melding geluidsoverlast afkomstig van [adres 2]. Ter plaatse stond de muziek niet meer aan en werd op normaal stemgeluid gezongen. Het gesprek met [appellante] verliep moeizaam. Het enige wat zij riep was dat zij toestemming van Vestia had gekregen om de radio op een bepaald volumeniveau te mogen zetten.
+
+4-9-2015: Gesprek met de buren van [appellante]. Ze ervaren nog steeds overlast. De overlast bestaat uit muziek en het slaan van deuren. Probleem is dat [appellante] haar slaapkamer heeft verplaatst naar de achterzijde van de woning. De kamer waar zij nu verblijft grenst aan de kinderkamer van de buren. [appellante] zit tot laat in de avond te bellen met zeer luide en boze stem. Verder zijn er zorgen over [appellante], omdat zij niet goed voor zichzelf en haar omgeving zorgt.
+
+29-1-2016: Brand in de woning aan de [adres 2]. [appellante] had op de tv in haar slaapkamer een brandende kaars neergezet en had de woning verlaten. De 3-jarige buurjongen heeft in de naastgelegen woning rook ingeademd en is voor controle overgebracht naar het ziekenhuis. De bovenste etage van de woning [adres 2] is onbewoonbaar verklaard. Het is o.a. de wijkagent bekend dat [appellante] psychisch in de war is. Dit zorgt al langer voor problemen. Daar de brand vermoedelijk door nalatigheid van [appellante] is ontstaan zorgt dit voor spanningen in de buurt.
+
+02-03-2016: Door de politie is aan [appellante] uitgelegd dat ze niet terug kan naar haar woning. Zij weet dat er wordt gezocht naar een woonruimte voor haar, maar ze wil niet begeleid wonen. Volgens haar zou Vestia een spelletje aan het spelen zijn. Bij het verlaten van het bureau zei ze: ‘Dan zullen er andere maatregelen moeten gebeuren’. Op de vraag wat ze daarmee bedoelde zei ze dat de politie dat best wel wist.
+
+Daarnaast blijkt uit het overzicht dat de politie meldingen van overlast heeft genoteerd op 9 september 2014 en 18 en 24 november 2014.
+
+9. In de brief van 21 april 2016  betreffende de art. 19 WPG-verstrekking heeft de politie ook het volgende aan Vestia geschreven: “Er is sprake van een zwaarwegend belang, hoofdzakelijk vanwege de incidenten waarbij er sprake was van gevaarzetting. Het betreft dan de drie branden, die in haar (voormalige) woningen hebben plaatsgevonden en die tot gemeen gevaar hebben geleid voor omwonenden.Daarnaast is sprake van herhaaldelijke woonoverlast, voornamelijk in de vorm van geluidsoverlast, veroorzaakt door mevrouw [appellante].De wijkagent concludeert dat zij, gelet op de incidenten en veroorzaakte overlast, kennelijk niet in staat is om zelfstandig te wonen en een terugkeer naar de woning aan de [adres 2] (na reparatie aan de woning als gevolg van de brand op 29 januari 2016) is buitengewoon onwenselijk. Buurtbewoners leven in constante angst. Indien mevrouw blijft wonen aan de [adres 2] (…), dan zal dit vermoedelijk leiden tot escalaties in de buurt.”.
+
+10. Op 24 mei 2016 heeft de politie op grond van artikel 19 WPG aanvullende informatie aan de gemachtigde van Vestia gestuurd. Deze houdt onder meer het volgende in:
+
+Onder het kopje ‘eigen waarnemingen’ staat dat de wijkagent constateert dat veel buurtbewoners ‘meldingsmoe’ zijn en de overlast incasseren.
+
+Onder het kopje ‘bemiddeling’ is vermeld: “De ervaring van politieambtenaren is dat een gesprek met mevrouw [appellante] onvoorspelbaar is. Meestal reageert zij buitengewoon defensief en soms ook agressief. (…) Op basis van de contacten tussen de politieambtenaren en mevrouw [appellante] acht de politie dat er geen goede basis aanwezig is voor een succesvolle buurtbemiddeling. (…) Verder is er vanuit Vestia regelmatig contact met mevrouw [appellante] geweest.”
+
+Onder het kopje ‘ontstaan van de brand op 29 januari 2016’ is vermeld dat uit een op ambtseed opgemaakt proces-verbaal van bevindingen het volgende blijkt. Er is een melding binnengekomen van een brand op de eerste verdieping van de [adres 2] en de bewoonster zou de woning inmiddels hebben verlaten. Na enige tijd zagen politieambtenaren [appellante] lopen en zij hebben haar aangesproken. Zij verklaarde uit eigen beweging aan hen: “Ik was in mijn slaapkamer en heb daar een kaars aangestoken. Deze heb ik op de televisie in mijn slaapkamer gezet. Na enige tijd heb ik mijn woning verlaten, terwijl de kaars nog aanstond. Ik ben toen bij de buurvrouw haren gaan vlechten. Vervolgens ben ik terug gegaan naar mijn woning. In de gang van mijn woning zag ik een hoop rook. Ik zag al snel dat de rook van bovenaf kwam. Ik heb nog geprobeerd om de trap op te lopen naar de eerste verdieping van mijn woning. Alleen door de rook lukte dat niet. Hierop ben ik naar buiten gegaan.”
+
+11. Een medewerker van Vestia heeft op 2 mei 2016 in een e-mail, gericht aan de gemachtigde van Vestia, het volgende verklaard. Op 4 februari 2016 heeft deze medewerker op het kantoor van Vestia gesproken met [appellante]. Het gesprek verliep erg moeizaam omdat [appellante] erg boos was omdat er volgens haar niks aan de hand was in de woning en Vestia van een mug een olifant maakte. Door haar boosheid hoorde ze niet wat de medewerker te zeggen had. [appellante] heeft toen ze eenmaal wat rustiger was, verklaard dat ze een brandend kaarsje op de tv had staan, dat ze naar haar buurvrouw is gegaan en dat toen de brand is uitgebroken. De medewerker van Vestia verklaart verder dat [appellante] geen woorden in de mond zijn gelegd.
+
+12. Op 18 juli 2016 heeft de buurvrouw een verslag opgesteld van een aantal gebeurtenissen, dat - kort en zakelijk weergegeven - het volgende inhoudt. Al snel nadat [appellante] de woning had betrokken, is de geluidoverlast begonnen in de vorm van luide muziek en schreeuwen. Toen zij [appellante] daar op aansprak, begon [appellante] te schreeuwen dat zij zich er niet mee moest bemoeien en dat ze moest oprotten. Ook was sprake van schelden en spugen. Ze hebben meerdere keren de politie gebeld vanwege de geluidsoverlast. [appellante] gooit in de avond als ze thuiskomt keihard met alle deuren zodat alles bij de buren staat te trillen. Voorts schrijft deze buurvrouw dat zij het erg heeft gevonden dat [appellante] vaak tot laat in de avond aan het schreeuwen was aan de telefoon. Haar zoontje (in de aangrenzende slaapkamer) heeft daarvan vaak wakker gelegen en begon dan te huilen ‘omdat die mevrouw zo boos was’. Daarnaast doet de buurvrouw verslag van de brand. Toen de brandweer met loeiende sirenes voor de deur stond en zij zagen dat die bij [appellante] naar binnen ging, zijn zij naar boven gerend naar de kamer waar hun zoontje lag te slapen. Zijn kamer, die grenst aan de woonruimte die [appellante] bij haar boven had gecreëerd, was al gevuld met rook. Zij hebben hun zoontje uit bed getrokken en hij is met een ambulance naar het ziekenhuis gebracht. De buurvrouw verklaart verder dat ze behoorlijk angstig zijn geworden voor een herhaling van dit voorval.
+
+De vordering en de beslissing in eerste aanleg
+
+13. Vestia vorderde in eerste aanleg, verkort weergegeven, ontbinding van de huurovereenkomst, veroordeling van [appellante] tot ontruiming van de woning en betaling van het bedrag dat [appellante] op grond van de huurovereenkomst verschuldigd is tot de datum waarop [appellante] de woning daadwerkelijk heeft ontruimd, waarbij een ingegane maand voor een volle maand wordt gerekend, te vermeerderen met de wettelijke rente vanaf de vervaldag van elke termijn.
+
+14. Bij vonnis van 10 maart 2017, zoals verbeterd door middel van het herstelvonnis van 14 april 2017, heeft de kantonrechter de vordering tot ontbinding van de huurovereenkomst en ontruiming van de woning toegewezen, en is [appellante] veroordeeld tot betaling aan Vestia van huur van (thans) € 636,78 per maand tot het moment dat [appellante] de woning ontruimt, een ingegane maand voor een volle gerekend, vermeerderd met wettelijke rente vanaf de vervaldag van elke huurtermijn, met veroordeling van [appellante] in de kosten van de procedure. Het vonnis is uitvoerbaar bij voorraad verklaard.
+
+15. De kantonrechter heeft hiertoe, kort gezegd, het volgende overwogen. [appellante] gedraagt zich niet als een goed huurder. Ze veroorzaakt overlast, vertoont onaangepast gedrag en is niet bereid dit te veranderen. De druppel die de emmer heeft doen overlopen is de brand van 29 januari 2016. Deze brand is volgens twee verklaringen van [appellante] veroorzaakt doordat [appellante] in haar slaapkamer een kaars heeft aangestoken en deze niet heeft uitgeblazen toen zij wegging. Haar buurjongen van drie jaar oud is naar het ziekenhuis gebracht omdat hij te veel rook had binnengekregen. Deze gebeurtenis heeft de al (uiterst) gespannen relatie met de buren verder op scherp gezet. Dat er eerder brand in een woning van [appellante] is geweest, het gebrek aan zelfinzicht bij [appellante] en haar gebrek aan medeleven maken het aannemelijk dat de buren haar als een gevaar zijn gaan zien. Al met al is de positie van [appellante] in de buurt niet langer houdbaar.
+
+16. [appellante] heeft bij de voorzieningenrechter vergeefs om schorsing van de executie van dit vonnis gevraagd. De ontruiming van de woning aan de [adres 2] heeft plaatsgevonden op 7 juni 2017.
+
+De beoordeling van het hoger beroep
+
+17. [appellante] vordert in hoger beroep dat het hof de beslissing van de kantonrechter vernietigt en de vorderingen van Vestia alsnog afwijst, met veroordeling van Vestia in de proceskosten in beide instanties. Met de aangevoerde elf grieven legt [appellante] het geschil in volle omvang aan het hof voor.
+
+18. Voorop staat dat [appellante] zich op grond van artikel 7:213 BW als een goed huurder dient te gedragen. Een huurder gedraagt zich onder meer niet als een goed huurder als hij aan anderen door de wijze van bewonen overlast bezorgt of anderen (reële) angst aanjaagt. Vestia is van haar kant verplicht om aan de omwonenden, die ook van Vestia huren, rustig huurgenot te verschaffen en zij is jegens andere huurders die overlast ervaren gehouden om tegen een overlast of angst veroorzakende huurder op te treden.
+
+19. Zoals hiervoor bij nr. 9 is aangegeven, heeft de politie aan Vestia geschreven dat Rafaels terugkeer naar de woning na herstel van de brand buitengewoon onwenselijk is, dat buurtbewoners in constante angst leven en dat haar terugkeer vermoedelijk zal leiden tot escalaties in de buurt. Vanwege haar zorgplicht tegenover haar andere huurders, mag Vestia de inhoud van dit bericht van de politie niet negeren. Wanneer Vestia moet aannemen dat Rafaels terugkeer naar de woning zeer onwenselijk is en vanwege Rafaels gedrag (verband houdend met de wijze van bewonen) tot escalaties kan leiden, is Vestia tegenover de overige huurders gehouden gevolg te geven aan het bericht door zo nodig de huurovereenkomst met [appellante] voor deze woning te ontbinden.
+
+20. Vestia heeft op grond van het volgende voldoende onderbouwd dat [appellante] overlast heeft veroorzaakt, met name geluidsoverlast in de vorm van harde muziek, schreeuwen en smijten met deuren, dat zij daar op is aangesproken maar dat zij haar gedrag niet heeft aangepast. De politie heeft zelf geconstateerd dat [appellante] geluidsoverlast veroorzaakte, dat zij schreeuwde dat het haar niet interesseerde en dat zij ook overigens onaangepast gedrag vertoonde (zie nr. 8). Daarnaast zijn er blijkens de door de politie verstrekte informatie herhaaldelijk meldingen gedaan van geluidsoverlast. De buurvrouw heeft verder in haar verslag verklaard over de door hen ervaren overlast en de ongepaste reactie van [appellante] als zij daarop werd aangesproken (zie nr. 12). De politie meldt verder dat de wijkagent heeft geconstateerd dat veel buurtbewoners ‘meldingsmoe’ zijn en de overlast (van [appellante]) incasseren (zie nr. 10), wat betekent dat de door de politie geregistreerde overlastmeldingen en de door de politie zelf waargenomen overlast slechts een beperkt beeld geven van de mate van overlast die [appellante] werkelijk veroorzaakte.
+
+21. [appellante] heeft van haar kant aangevoerd dat niet vast staat dat de door haar buren geconstateerde geluidsoverlast door haar wordt veroorzaakt en werpt daartoe de vraag op hoe de buren nou kunnen weten dat de muziek van haar afkomstig is en dat [appellante] degene is die met de deuren slaat. Dit verweer wordt als onvoldoende onderbouwd verworpen. De buren, die in de naastgelegen eengezinswoning wonen, moeten wel degelijk worden geacht duidelijk te kunnen vaststellen of geluid bij hun buurvrouw vandaan komt. Daarbij komt dat de politie zelf heeft vastgesteld dat de radio bij [appellante] hard stond. Dat, zoals [appellante] verder aanvoert, sprake is van gehorige woningen en dat dat de reden is dat de buren “overlast” ervaren, strookt niet met de constatering van de politie dat de radio in de woning van [appellante] hard aan stond. Daarnaast geldt dienaangaande het volgende. [appellante] heeft niet betwist dat zij luidruchtig praat. Uit het onder nr. 12 kort aangehaalde verslag van de buurvrouw blijkt dat zij dit onder meer ’s avonds doet in de ruimte op de verdieping die grenst aan de slaapkamer van het buurkind. [appellante] weet dat de woningen gehorig zijn. Desondanks stelt zij zich op het standpunt dat haar luidruchtig praten geen overlast oplevert. Volgens haar is er alleen sprake van ernstige overlast wanneer zij de hele buurt bij elkaar schreeuwt en dit een lange periode doet. Met dit standpunt heeft zij een onjuiste houding aangenomen. [appellante] behoort als goed huurder van een gehorige woning te weten dat zij niet – en zeker niet tot (laat) in de avond op de slaapkamerverdieping – langdurig met luide stem kan blijven spreken. Ook de radio behoort in gehorige woningen zodanig zachter te worden gezet, dat die bij de buren niet of nauwelijks hoorbaar is op tijdstippen waarop kinderen moeten slapen of nadat buren hebben aangegeven last van de radio te hebben. heeft nog aangevoerd dat de klachten over overlast slechts van de buren naast haar afkomstig zijn en dat andere buurtbewoners niet klagen. Zelfs als dat juist zou zijn, dan doet dat niets af aan de door deze buren ervaren overlast. Voor zover [appellante] heeft betoogd dat de overlastmeldingen van deze buren vals zijn, geldt dat dat wordt gelogenstraft door het feit dat de politie zelf overlast door harde muziek heeft geconstateerd en tevens (op 20 september 2013) dat een gesprek op normaal geluidsniveau met haar (toen) niet mogelijk was.
+
+22. Ten aanzien van het verweer van [appellante] dat Vestia haar nooit heeft gesommeerd of meegedeeld dat nieuwe overlast het starten van een procedure ten gevolge zou hebben en dat Vestia onvoldoende heeft ondernomen om haar te wijzen op de ernst van haar handelen, overweegt het hof als volgt. Ook als zou juist zijn dat [appellante], zoals zij betoogt, de brief van 20 november 2014 waarin Vestia klachten over geluidshinder benoemt, nooit heeft ontvangen, dan nog geldt dat het [appellante] voldoende duidelijk moet zijn geweest dat haar hiervoor beschreven gedrag overlast veroorzaakte. Niet alleen is de politie verschillende keren bij haar aan de deur geweest naar aanleiding van overlastmeldingen, maar ook heeft Vestia zelf, zoals ook de politie in de door haar verstrekte informatie vermeldt (zie nr. 10), contact gehad met [appellante]. Gelet daarop kan Vestia de door [appellante] veroorzaakte overlast mede ten grondslag leggen aan haar vordering tot ontbinding van de huurovereenkomst.
+
+23. [appellante] heeft in hoger beroep aangeboden om nader op te geven buurtbewoners als getuigen te doen horen om aan te tonen dat zij niet debet is aan (ernstige structurele) overlast. Het hof acht de betwisting van [appellante] dat zij geen overlast veroorzaakt onvoldoende, omdat zij ten onrechte slechts wil aannemen dat sprake is van overlast wanneer ze de buurt bij elkaar zou schreeuwen of de radio extra hard aan zou hebben. Zoals het hof hiervoor onder nr. 21 heeft aangegeven, kan er in gehorige woningen ook bij luid spreken en een radio op normaal volume hebben staan, sprake zijn van ontoelaatbare geluidsoverlast. Voorts geldt dat ook als er buurtbewoners zijn die zouden verklaren dat zij geen overlast van [appellante] hebben gehad, dat niet kan afdoen aan het oordeel van het hof dat voldoende vast is komen te staan dat haar naaste buren wel overlast van haar hebben gehad. Het aanbod tot het leveren van (tegen)bewijs wordt dan ook verworpen.
+
+24. [appellante] heeft ook nog aangevoerd dat de overlast onvoldoende structureel en ernstig is om ontbinding van de huurovereenkomst te rechtvaardigen, maar het hof is van oordeel dat deze in ieder geval voldoende ernstig is om gewicht in de schaal te leggen naast de (hierna te bespreken) andere relevante omstandigheden.
+
+25. Bij de hiervoor besproken overlast komt dat er in januari 2016 een brand is uitgebroken in de woning van [appellante]. Dit was de derde keer dat brand vanuit een woning van [appellante] gemeld werd (na de sterke rookontwikkeling in 2006 en de brand in 2008).
+
+26. [appellante] heeft in de onderhavige procedure betwist dat de brand is veroorzaakt doordat zij een brandende kaars onbeheerd heeft achtergelaten. Haar broer zou tegen haar een vermoeden hebben geuit dat de brand door kortsluiting in de televisie is ontstaan (hetgeen, zo constateert het hof, eveneens in de risicosfeer van [appellante] ligt). Het hof stelt thans vast dat de oorzaak van de brand destijds niet op andere wijze is onderzocht dan met de constatering dat de brand binnen, op de eerste verdieping, is uitgebroken en met de verklaring van [appellante] aan de politie dat zij zelf daar een kaars had laten branden. Een en ander is echter, tezamen met de eerdere brandmeldingen, voldoende voor Vestia om er rekening mee te moeten houden dat de wijze van bewoning door [appellante] een verhoogd risico op brand heeft en (mede) daardoor gevaar zettend voor de (naaste) buren kan zijn.
+
+27. Bovendien geldt het volgende. Uit een op ambtseed opgemaakt proces-verbaal blijkt dat [appellante] tegen politieambtenaren kort na het uitbreken van de brand uit eigen beweging heeft verklaard dat zij op de bovenverdieping van haar woning een kaars had aangestoken en die op de tv had geplaatst, dat zij de woning daarna heeft verlaten zonder deze uit te blazen en dat zij bij terugkomst constateerde dat er brand was op de bovenverdieping (zie nr. 10). Tegen (een medewerker van) Vestia heeft [appellante] eveneens verklaard  dat zij een brandend kaarsje op de tv had geplaatst en toen is weggegaan; de medewerker heeft daarbij verklaard dat [appellante] geen woorden in de mond zijn gelegd (zie nr. 11). Hiertegenover legt de bewering van [appellante] dat zij niet heeft verklaard dat zij een kaars had aangestoken en dat als zij dit wel heeft verklaard haar dan woorden in de mond zijn gelegd, onvoldoende gewicht in de schaal.
+
+28. Gelet op het voornoemde op ambtseed opgemaakte proces-verbaal, op hetgeen [appellante] tegen de medewerker van Vestia heeft gezegd en op het feit dat er bij de twee eerdere brandmeldingen ook sprake is geweest van brandgevaarlijk handelen van [appellante] zelf, heeft Vestia voldoende grond om aan te nemen dat de branden telkens door toedoen van [appellante] konden ontstaan. [appellante] heeft daartegenover onvoldoende ingebracht. Het niet onderbouwde vermoeden van de broer van [appellante] dat de brand is ontstaan door kortsluiting in de tv voldoet wat dit betreft niet. Het hof komt aan bewijslevering niet toe. Het gaat in deze zaak immers niet om de vraag waardoor de brand is ontstaan, maar om de vraag of de wijze van bewoning van de woning door [appellante] de buren reële angst inboezemt en tot escalatie in de buurt kan leiden.
+
+29. Hierbij komt het volgende. De eerdere brand in 2008 betrof een woning van Vestia. Na deze brand heeft een medewerker van Vestia aangifte van bedreiging door [appellante] gedaan. In deze aangifte staat dat [appellante] bij de afhandeling van de brand in haar woning zeer agressief en explosief op de medewerker overkwam en dat zij bij een volgend gesprek bedreigend zou hebben gezegd: “als ik geen ander huis krijg (…) maak ik jou dood en je moet zien wie ik nog meer van jullie dood ga maken”. [appellante] heeft in de onderhavige zaak betwist dat zij de medewerker bedreigd heeft, echter Vestia kan er voor de vraag of [appellante] intimiderend overkomt en in de buurt angst aanjaagt, niet omheen dat haar eigen medewerker destijds aangifte van bedreiging bij de politie heeft gedaan. Dat dit niet tot een strafvervolging van [appellante] heeft geleid, betekent niet dat die aangifte vals was. Voor die valsheid is geen enkele aanwijzing en [appellante] heeft in dit verband ook geen (tegen)bewijs aangeboden. Bij de afwikkeling van de brand in 2016 gedroeg [appellante] zich bij Vestia eveneens ongepast. Zij was boos. Uit niets blijkt dat zij er zich toen rekenschap van gaf dat er grote (brand)schade aan de eigendom van Vestia was ontstaan, terwijl zij de woning onder zich had. Hoewel de verdieping onbewoonbaar bleek, gaf zij aan dat er niets aan de hand was.
+
+30. De door [appellante] jegens haar buren veroorzaakte overlast in combinatie met de reële angst voor brand die door haar toedoen is ontstaan en de wijze waarop [appellante] zich na de brand daarover jegens Vestia heeft geuit, betekent dat [appellante] tekortgeschoten is in de verplichting om zich als een goed huurder te gedragen. Ingevolge artikel 6:265 BW geeft iedere tekortkoming de wederpartij de bevoegdheid om de overeenkomst te ontbinden, tenzij de tekortkoming, gezien haar bijzondere aard of geringe betekenis, deze ontbinding en haar gevolgen niet rechtvaardigt. [appellante] doet een beroep op dat laatste, maar dat beroep faalt: tegenover de aard en ernst van de hiervoor besproken tekortkoming, is het woonbelang van [appellante] onvoldoende om te concluderen dat ontbinding niet gerechtvaardigd zou zijn.
+
+31. [appellante] heeft betoogd dat Vestia buurtbemiddeling had moeten inzetten, in plaats van overgaan tot ontbinding van de huurovereenkomst, maar dat gaat niet op, reeds omdat Vestia niet verplicht is om bemiddeling te proberen. Daarnaast heeft Vestia voldoende onderbouwd dat dat in dit geval geen adequate oplossing biedt. De door de politie afgegeven verklaring hierover (zie nr. 10) bevestigt dat. Anders dan [appellante] betoogt moeten de politie, die herhaaldelijk contact heeft gehad met [appellante] en met de buren, en Vestia, die eveneens contact heeft gehad met [appellante] en met de buren wel degelijk in staat worden geacht in te schatten of buurtbemiddeling voldoende kans van slagen heeft.
+
+32. [appellante] heeft verder aangevoerd dat de kantonrechter de beslissing tot ontbinding en ontruiming niet uitvoerbaar bij voorraad had mogen verklaren. Het daarbij gedane beroep op artikel 7:295 BW gaat niet op, omdat deze bepaling op grond van artikel 7:290 BW slechts van toepassing is op de huur van bedrijfsruimte en niet op woonruimte. Artikel 7:272 BW, waar [appellante] ook naar heeft verwezen, is evenmin van toepassing. Weliswaar heeft deze bepaling wel betrekking op woonruimte, maar het ziet slechts op de vordering tot opzegging van de huurovereenkomst, en niet op ontbinding van een huurovereenkomst op grond van tekortkoming van de huurder. Bij de beoordeling of de beslissing tot ontbinding en ontruiming uitvoerbaar bij voorraad verklaard moet worden, moeten de belangen van partijen worden afgewogen in het licht van de omstandigheden van het geval. Bekeken moet worden of het belang van Vestia bij uitvoerbaarheid van de veroordeling zwaarder weegt dan het belang van [appellante] bij behoud van de bestaande toestand totdat de beslissing onherroepelijk is. Vestia is gehouden om adequate maatregelen te nemen om de belangen van haar andere huurders te beschermen. Gelet op het bericht van de politie van 21 april 2016, ondersteund door de bij Vestia bekend geworden overlast en (de nasleep van) de branden, afgezet tegen het belang van [appellante] om in de woning te kunnen blijven, moet worden geoordeeld dat van Vestia, in het bijzonder gelet op het belang van haar overige huurders (met name de naaste buren), niet gevergd kan worden dat zij de woning aan [appellante] ter beschikking stelt totdat de beslissing onherroepelijk is. De beslissing tot ontbinding en ontruiming is dan ook terecht uitvoerbaar bij voorraad verklaard.
+
+33. De kantonrechter heeft [appellante] bij herstelvonnis van 14 april 2017 veroordeeld tot betaling aan Vestia “van de huur van (thans) € 636,78 per maand, tot aan het moment dat [appellante] de woning ontruimt”. [appellante] heeft hier bezwaar tegen gemaakt. Zij betoogt in de eerste plaats dat de kantonrechter de veroordeling in het eerdere vonnis van 10 maart 2017 tot betaling aan Vestia “van de huur van (thans) € 436,78 per maand, tot het moment dat [appellante] de woning ontruimt” niet had mogen aanmerken als een kennelijke fout die zich voor eenvoudig herstel leent.
+
+34. Het hof stelt vast dat Vestia in het petitum in de inleidende dagvaarding heeft gevorderd [appellante] te veroordelen om aan Vestia te betalen “lopende maandelijkse huurverplichtingen, dan wel indien de huurovereenkomst door opzegging door [[appellante]] is geëindigd en zolang [[appellante]] het gehuurde nog in gebruik heeft of gedurende de periode dat [[appellante]] geen woongenot heeft maar het gehuurde niet ontruimt, een bedrag van € 436,78 per maand met ingang van de datum waarop de huurovereenkomst is geëindigd of de datum waarop [[appellante]] geen woongenot heeft maar niet heeft ontruimd (…), een en ander tot aan het tijdstip van de daadwerkelijke ontruiming van het gehuurde (…)” [cursiveringen toegevoegd door het hof]. Uit de wijze waarop dit petitum is geformuleerd volgt niet dat het daarin genoemde bedrag van € 436,78 ziet op de gevorderde “lopende maandelijkse huurverplichtingen”; het ziet op het bedrag dat Vestia vordert als de huurovereenkomst door middel van opzegging door [appellante] is geëindigd. Daarnaast is van belang dat Vestia in randnummer 1 van de inleidende dagvaarding heeft gesteld dat de maandelijkse huurprijs van de woning € 636,78 bedraagt, wat zij (reeds in eerste aanleg) heeft onderbouwd door overlegging van de brief van 9 april 2016 inzake de huurverhoging per 1 juli 2016, dat uit de in eerste aanleg overgelegde huurovereenkomst van 29 mei 2013 volgt dat de huur toen al € 569,07 bedroeg, en dat uit het in eerste aanleg overgelegde kort geding vonnis dat op 29 april 2016 tussen partijen is gewezen, bij de vaststaande feiten is opgenomen dat de maandelijkse huurprijs op dat moment € 629,36 bedroeg. Gelet op het voorgaande mocht de kantonrechter de veroordeling van [appellante] tot betaling van de huur tot het moment van ontruiming corrigeren van € 436,78 naar € 636,78. Ook voor [appellante] moet direct duidelijk zijn geweest dat het bedrag € 436,78 voor wat betreft de toegewezen vordering inzake de maandelijkse huurverplichtingen een vergissing was, en dat de kantonrechter bedoelde de lopende maandelijkse huurverplichtingen van (op dat moment) € 636,78 toe te wijzen. Dat de huurverplichtingen inderdaad uitkwamen op dit bedrag, wordt overigens bevestigd door  het door [appellante] zelf bij memorie van grieven overgelegde overzicht van huurbetalingen die voor haar door de Sociale Dienst zijn verricht, waarop als laatste huurbetalingen (meermalen) een bedrag van € 636,78 is vermeld.
+
+35. [appellante] heeft in de tweede plaats aangevoerd dat zij sinds de brand van januari 2016 niet meer in haar huis is geweest en dat zij daarom de brief van 9 april 2016 met de laatste huurverhoging (van € 629,36 naar € 636,78, zie ook het hiervoor genoemde overzicht dat door [appellante] is verstrekt) niet heeft ontvangen en dat zij daarom niet gehouden is om die verhoging te betalen. Het hof verwerpt ook dat verweer. [appellante] heeft de huur niet opgezegd en de woning niet ontruimd. Het was aan [appellante] om haar post op te (laten) halen of tenminste aan Vestia haar nieuwe adres door te geven danwel ervoor te zorgen dat de post naar haar werd doorgestuurd. [appellante] is dan ook gehouden om tot het moment van ontruiming een bedrag van € 636,78 te voldoen (waarbij een ingetreden maand voor een volle maand geldt).
+
+36. De slotsom is dat het vonnis van de kantonrechter zal worden bekrachtigd. [appellante] zal als de in het ongelijk gestelde partij worden veroordeeld in de kosten van het hoger beroep.
+
+Beslissing
+
+Het hof
+
+- bekrachtigt het tussen partijen gewezen vonnis van de kantonrechter van 10 maart 2017, zoals verbeterd bij herstelvonnis van 14 april 2017;
+
+- veroordeelt [appellante] in de kosten van de procedure in hoger beroep, tot op heden aan de zijde van Vestia begroot op € 716,-- aan griffierecht en € 1.074,-- aan salaris voor de advocaat (1 punt x tarief II) en bepaalt dat deze bedragen binnen 14 dagen na de dag van de uitspraak moeten zijn voldaan, bij gebreke waarvan deze bedragen worden vermeerderd met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf het einde van deze termijn van 14 dagen;
+
+- verklaart deze proceskostenveroordeling uitvoerbaar bij voorraad.
+
+Dit arrest is gewezen door mrs. H.J.M. Burg, A. Dupain en G. Dulek-Schermers en is uitgesproken ter openbare terechtzitting van 28 augustus 2018 in aanwezigheid van de griffier.
