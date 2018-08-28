@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:7692"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0140"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0140", "PR-Updates.nl 2018-0140"]
 ---
 
 # ECLI:NL:GHARL:2018:7692 Gerechtshof Arnhem-Leeuwarden , 28-08-2018 / 200.167.643/01
