@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:3682"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 06-11-2018", "V-N Vandaag 2018/2408", "FutD 2018-2935 met annotatie van Fiscaal up to Date", "NLF 2018/2385 met annotatie van Nicole Gubbels", "V-N 2018/62.1.2", "Vp-bulletin 2019/4 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "Viditax (FutD), 17-05-2019", "Viditax (FutD), 12-07-2019", "FJR 2019/66.18", "NTFR 2018/2627"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2408", "NLF 2018/2385 met annotatie van Nicole Gubbels", "V-N 2018/62.1.2", "Vp-bulletin 2019/4 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "FJR 2019/66.18", "FutD 2018-2935", "Viditax (FutD) 2019051701", "Viditax (FutD) 2018110602", "Viditax (FutD) 2019071206"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:5809, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
