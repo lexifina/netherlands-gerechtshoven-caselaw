@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:2269"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 11-09-2018", "V-N Vandaag 2018/1891", "FutD 2018-2451", "NTFR 2018/2419 met annotatie van MR. E. ALINK", "V-N 2018/62.1.3", "Viditax (FutD), 12-07-2019", "NLF 2018/2002 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1891", "V-N 2018/62.1.3", "NLF 2018/2002", "NTFR 2018/2419 met annotatie van MR. E. ALINK", "FutD 2018-2451", "Viditax (FutD) 2019071221", "Viditax (FutD) 2018091104"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:1179"]]
 ---
 
