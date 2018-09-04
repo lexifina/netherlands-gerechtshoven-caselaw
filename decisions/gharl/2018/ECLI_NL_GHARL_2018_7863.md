@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:7863"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-09-2018", "FutD 2018-2452", "V-N Vandaag 2018/1950", "V-N 2018/67.23.4", "NTFR 2018/2143", "NLF 2018/2001 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/1950", "V-N 2018/67.23.4", "NLF 2018/2001", "FutD 2018-2452", "Viditax (FutD) 2018091412"]
 ---
 
 # ECLI:NL:GHARL:2018:7863 Gerechtshof Arnhem-Leeuwarden , 04-09-2018 / 17/01338 en 17/01339
