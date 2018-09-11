@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:3365"
-published_in: ["Rechtspraak.nl", "PJ 2018/168", "AR-Updates.nl 2018-1094", "PR-Updates.nl PR-2018-0113"]
+published_in: ["Rechtspraak.nl", "PJ 2018/168", "AR-Updates.nl 2018-1094", "PR-Updates.nl PR-2018-0113", "VAAN-AR-Updates.nl 2018-1094", "PR-Updates.nl 2018-0113"]
 ---
 
 # ECLI:NL:GHAMS:2018:3365 Gerechtshof Amsterdam , 11-09-2018 / 200.209.449/01
