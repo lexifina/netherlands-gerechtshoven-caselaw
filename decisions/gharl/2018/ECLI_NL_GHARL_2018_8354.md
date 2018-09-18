@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:8354"
-published_in: ["Rechtspraak.nl", "PJ 2018/170", "PR-Updates.nl PR-2018-0117"]
+published_in: ["Rechtspraak.nl", "PJ 2018/170", "PR-Updates.nl PR-2018-0117", "PR-Updates.nl 2018-0117"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2018:1353"]]
 ---
 
