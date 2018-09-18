@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:8311"
-published_in: ["Rechtspraak.nl", "PJ 2018/175", "PR-Updates.nl PR-2018-0116"]
+published_in: ["Rechtspraak.nl", "PJ 2018/175", "PR-Updates.nl PR-2018-0116", "PR-Updates.nl 2018-0116"]
 ---
 
 # ECLI:NL:GHARL:2018:8311 Gerechtshof Arnhem-Leeuwarden , 18-09-2018 / 200.197.715/01
