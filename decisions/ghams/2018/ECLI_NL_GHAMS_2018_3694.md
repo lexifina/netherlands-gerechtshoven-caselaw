@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:3694"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 17-10-2018", "FutD 2018-2783", "V-N Vandaag 2018/2304", "V-N 2018/67.23.2", "NTFR 2018/2631", "NLF 2018/2229 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2304", "V-N 2018/67.23.2", "NLF 2018/2229", "NTFR 2018/2631", "FutD 2018-2783", "Viditax (FutD) 2018101703"]
 ---
 
 # ECLI:NL:GHAMS:2018:3694 Gerechtshof Amsterdam , 18-09-2018 / 17/00580
