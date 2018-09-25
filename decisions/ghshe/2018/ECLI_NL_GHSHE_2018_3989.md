@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:3989"
-published_in: ["Rechtspraak.nl", "PJ 2018/171", "AR-Updates.nl 2018-1103", "PR-Updates.nl PR-2018-0119"]
+published_in: ["Rechtspraak.nl", "PJ 2018/171", "AR-Updates.nl 2018-1103", "PR-Updates.nl PR-2018-0119", "VAAN-AR-Updates.nl 2018-1103", "PR-Updates.nl 2018-0119"]
 ---
 
 # ECLI:NL:GHSHE:2018:3989 Gerechtshof 's-Hertogenbosch , 25-09-2018 / 200.203.564_01
