@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4112"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-11-2018", "FutD 2018-3109", "V-N Vandaag 2018/2652", "V-N 2019/7.1.3", "NTFR 2018/2794", "NLF 2018/2576 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:7251, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1063"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2652", "V-N 2019/7.1.3", "NLF 2018/2576", "FutD 2018-3109", "Viditax (FutD) 2018112215"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1063"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2026:1233"]]
 ---
 
 # ECLI:NL:GHSHE:2018:4112 Gerechtshof 's-Hertogenbosch , 04-10-2018 / 16/03939 tot en met 16/03944
