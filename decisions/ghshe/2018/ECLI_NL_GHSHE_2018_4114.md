@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4114"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-11-2018", "V-N Vandaag 2018/2583", "V-N 2019/2.18.2", "NTFR 2018/2797", "NLF 2018/2577 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:687, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2583", "V-N 2019/2.18.2", "NLF 2018/2577", "Viditax (FutD) 2018112210"]
 ---
 
 # ECLI:NL:GHSHE:2018:4114 Gerechtshof 's-Hertogenbosch , 04-10-2018 / 17/00199
