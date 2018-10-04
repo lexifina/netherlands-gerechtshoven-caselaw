@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4118"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 18-01-2019", "FutD 2019-0169", "V-N Vandaag 2019/148", "V-N 2019/11.1.6", "Viditax (FutD), 10-05-2019", "NTFR 2019/252", "NLF 2019/0224 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2018:83, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2019:703"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/148", "V-N 2019/11.1.6", "NLF 2019/0224", "FutD 2019-0169", "Viditax (FutD) 2019011826", "Viditax (FutD) 2019051008"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2019:703"]]
 ---
 
 # ECLI:NL:GHSHE:2018:4118 Gerechtshof 's-Hertogenbosch , 04-10-2018 / 18/00132
