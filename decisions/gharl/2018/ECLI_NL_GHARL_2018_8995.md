@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:8995"
-published_in: ["Rechtspraak.nl", "PJ 2018/190", "PFR-Updates.nl 2018-0256", "PR-Updates.nl PR-2018-0127"]
+published_in: ["Rechtspraak.nl", "PJ 2018/190", "PFR-Updates.nl 2018-0256", "PR-Updates.nl PR-2018-0127", "PR-Updates.nl 2018-0127"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:276, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
