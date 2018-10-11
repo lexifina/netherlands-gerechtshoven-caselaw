@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4234"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 06-12-2018", "FutD 2018-3237", "V-N Vandaag 2018/2708", "NTFR 2019/60 met annotatie van mr. M.H. Hogendoorn", "V-N 2019/7.1.1", "Belastingblad 2019/320 met annotatie van L.J. Boone", "NLF 2018/2650 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2708", "V-N 2019/7.1.1", "Belastingblad 2019/320 met annotatie van L.J. Boone", "NLF 2018/2650", "NTFR 2019/60 met annotatie van mr. M.H. Hogendoorn", "FutD 2018-3237", "Viditax (FutD) 2018120602"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:5544, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2019:819"]]
 cites_law: ["netherlands/national/acts/awr/art-052a.md"]
 ---
