@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:3125"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-11-2018", "FutD 2018-3114", "V-N Vandaag 2018/2592", "V-N 2019/4.28.3", "NTFR 2019/105", "NLF 2018/2526 met annotatie van", "NLF 2018/2526 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2017:13985, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2018/2592", "V-N 2019/4.28.3", "NLF 2018/2526", "NLF 2018/2526", "FutD 2018-3114", "Viditax (FutD) 2018112218"]
 ---
 
 # ECLI:NL:GHDHA:2018:3125 Gerechtshof Den Haag , 16-10-2018 / BK-18/00018
