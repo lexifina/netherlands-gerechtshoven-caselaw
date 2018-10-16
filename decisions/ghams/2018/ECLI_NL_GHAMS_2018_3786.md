@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:3786"
-published_in: ["Rechtspraak.nl", "PJ 2019/12", "PR-Updates.nl PR-2018-0141"]
+published_in: ["Rechtspraak.nl", "PJ 2019/12", "PR-Updates.nl PR-2018-0141", "PR-Updates.nl 2018-0141"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:2099, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
