@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4312"
-published_in: ["Rechtspraak.nl", "PJ 2018/191", "PFR-Updates.nl 2018-0255", "PR-Updates.nl PR-2018-0129"]
+published_in: ["Rechtspraak.nl", "PJ 2018/191", "PFR-Updates.nl 2018-0255", "PR-Updates.nl PR-2018-0129", "PR-Updates.nl 2018-0129"]
 ---
 
 # ECLI:NL:GHSHE:2018:4312 Gerechtshof 's-Hertogenbosch , 18-10-2018 / 200.233.433_01
