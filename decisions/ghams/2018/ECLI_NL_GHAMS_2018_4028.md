@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:4028"
-published_in: ["Rechtspraak.nl", "PJ 2019/1", "RFR 2019/32", "PR-Updates.nl PR-2018-0142", "FJR 2020/32.34"]
+published_in: ["Rechtspraak.nl", "PJ 2019/1", "RFR 2019/32", "PR-Updates.nl PR-2018-0142", "FJR 2020/32.34", "PR-Updates.nl 2018-0142"]
 ---
 
 # ECLI:NL:GHAMS:2018:4028 Gerechtshof Amsterdam , 30-10-2018 / 200.221.168/01
