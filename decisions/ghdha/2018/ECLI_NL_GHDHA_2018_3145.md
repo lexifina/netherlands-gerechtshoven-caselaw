@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:3145"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0671", "PR-Updates.nl PR-2019-0080"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0671", "PR-Updates.nl PR-2019-0080", "VAAN-AR-Updates.nl 2019-0671", "PR-Updates.nl 2019-0080"]
 ---
 
 # ECLI:NL:GHDHA:2018:3145 Gerechtshof Den Haag , 06-11-2018 / 200.207.360/01
