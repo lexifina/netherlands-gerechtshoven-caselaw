@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:4183"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1329", "PJ 2019/11", "PR-Updates.nl PR-2018-0144"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1329", "PJ 2019/11", "PR-Updates.nl PR-2018-0144", "VAAN-AR-Updates.nl 2018-1329", "PR-Updates.nl 2018-0144"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:480, Bekrachtiging/bevestiging"]]
 ---
 
