@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2018:4902"
-published_in: ["Rechtspraak.nl", "PJ 2019/24", "PR-Updates.nl PR-2018-0146"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2016:290"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:1994"]]
+published_in: ["Rechtspraak.nl", "PJ 2019/24", "PR-Updates.nl PR-2018-0146", "PR-Updates.nl 2018-0146"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:1994"]]
 ---
 
 # ECLI:NL:GHSHE:2018:4902 Gerechtshof 's-Hertogenbosch , 27-11-2018 / 200.205.581_01
