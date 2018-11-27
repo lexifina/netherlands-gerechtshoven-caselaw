@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:10505"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0150"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0150", "PR-Updates.nl 2018-0150"]
 ---
 
 # ECLI:NL:GHARL:2018:10505 Gerechtshof Arnhem-Leeuwarden , 27-11-2018 / 200.198.964/01 en 200.212.272/01
