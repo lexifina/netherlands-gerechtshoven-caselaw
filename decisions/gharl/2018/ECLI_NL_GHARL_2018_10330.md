@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:10330"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1334", "PR-Updates.nl PR-2018-0145"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1334", "PR-Updates.nl PR-2018-0145", "VAAN-AR-Updates.nl 2018-1334", "PR-Updates.nl 2018-0145"]
 ---
 
 # ECLI:NL:GHARL:2018:10330 Gerechtshof Arnhem-Leeuwarden , 27-11-2018 / 200.169.604/01
