@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2018:4443"
-published_in: ["Rechtspraak.nl", "RFR 2019/58", "JONDR 2019/149", "PR-Updates.nl PR-2019-0002"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2017:4646"]]
+published_in: ["Rechtspraak.nl", "RFR 2019/58", "JONDR 2019/149", "PR-Updates.nl PR-2019-0002", "PR-Updates.nl 2019-0002"]
 ---
 
 # ECLI:NL:GHAMS:2018:4443 Gerechtshof Amsterdam , 04-12-2018 / 200.222.884/01
