@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2018:10561"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2019-0594", "PJ 2019/66", "PR-Updates.nl PR-2019-0060", "JERF Actueel 2019/117"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2019-0594", "PJ 2019/66", "PR-Updates.nl PR-2019-0060", "JERF Actueel 2019/117", "PR-Updates.nl 2019-0060"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2016:1857"]]
 ---
 
