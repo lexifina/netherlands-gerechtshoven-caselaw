@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2018:3332"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1374", "RAR 2019/43", "PJ 2019/13", "PR-Updates.nl PR-2018-0151"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2018-1374", "RAR 2019/43", "PJ 2019/13", "PR-Updates.nl PR-2018-0151", "VAAN-AR-Updates.nl 2018-1374", "PR-Updates.nl 2018-0151"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2019:2455"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2020:1969"]]
 ---
 
