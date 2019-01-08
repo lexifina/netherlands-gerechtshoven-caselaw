@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:151"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1198", "JAAN 2019/87 met annotatie van Hart, G. 't"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1198", "JAAN 2019/87 met annotatie van mr. G. 't Hart"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:802, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2020:2980"]]
 ---
 
