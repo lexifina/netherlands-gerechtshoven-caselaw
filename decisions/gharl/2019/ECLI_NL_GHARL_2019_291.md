@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:291"
-published_in: ["Rechtspraak.nl", "JA 2019/34 met annotatie van Delhaas, H.J.", "PJ 2019/39", "NTHR, 2019, afl.2/3, p. 153", "PR-Updates.nl PR-2019-0006"]
+published_in: ["Rechtspraak.nl", "JA 2019/34 met annotatie van Delhaas, H.J.", "PJ 2019/39", "NTHR, 2019, afl.2/3, p. 153", "PR-Updates.nl PR-2019-0006", "PR-Updates.nl 2019-0006"]
 ---
 
 # ECLI:NL:GHARL:2019:291 Gerechtshof Arnhem-Leeuwarden , 15-01-2019 / 200.222.212/01
