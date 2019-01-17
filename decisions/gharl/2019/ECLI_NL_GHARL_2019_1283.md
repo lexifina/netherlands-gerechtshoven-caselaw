@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:1283"
-published_in: ["Rechtspraak.nl", "EB 2019/52", "JPF 2019/44 met annotatie van Reinhartz, B.E.", "PR-Updates.nl PR-2019-0021"]
+published_in: ["Rechtspraak.nl", "EB 2019/52", "JPF 2019/44 met annotatie van Reinhartz, B.E.", "PR-Updates.nl PR-2019-0021", "PR-Updates.nl 2019-0021"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1631, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
