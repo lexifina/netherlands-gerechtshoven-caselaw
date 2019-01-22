@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:172"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0050", "PJ 2019/54", "PR-Updates.nl PR-2019-0027", "FJR 2020/32.57"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2018:1428"]]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0050", "PJ 2019/54", "PR-Updates.nl PR-2019-0027", "FJR 2020/32.57", "PR-Updates.nl 2019-0027"]
 ---
 
 # ECLI:NL:GHAMS:2019:172 Gerechtshof Amsterdam , 22-01-2019 / 200.237.077/01
