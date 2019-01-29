@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:76"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0105", "PJ 2019/40 met annotatie van B. Degelink", "PR-Updates.nl PR-2019-0001"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0105", "PJ 2019/40 met annotatie van B. Degelink", "PR-Updates.nl PR-2019-0001", "VAAN-AR-Updates.nl 2019-0105", "PR-Updates.nl 2019-0001"]
 ---
 
 # ECLI:NL:GHDHA:2019:76 Gerechtshof Den Haag , 29-01-2019 / 200.223.661/01
