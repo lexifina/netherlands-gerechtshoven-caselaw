@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:384"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/734", "RFR 2019/74", "PR-Updates.nl PR-2019-0023"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2013:9244"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:3651"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:6248"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:2288"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:3511"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/734", "RFR 2019/74", "PR-Updates.nl PR-2019-0023", "PR-Updates.nl 2019-0023"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:3651"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2014:6248"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:2288"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:3511"]]
 ---
 
 # ECLI:NL:GHSHE:2019:384 Gerechtshof 's-Hertogenbosch , 05-02-2019 / 200.128.232_03
