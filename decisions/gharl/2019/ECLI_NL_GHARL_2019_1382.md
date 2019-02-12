@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:1382"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0179", "PJ 2019/27", "PR-Updates.nl PR-2019-0020"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0179", "PJ 2019/27", "PR-Updates.nl PR-2019-0020", "VAAN-AR-Updates.nl 2019-0179", "PR-Updates.nl 2019-0020"]
 ---
 
 # ECLI:NL:GHARL:2019:1382 Gerechtshof Arnhem-Leeuwarden , 12-02-2019 / 200.229.088/01
