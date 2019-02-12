@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:498"
-published_in: ["Rechtspraak.nl", "PJ 2019/50 met annotatie van W.M.A. Kalkman, E.A.L. van Emden", "JOR 2019/140 met annotatie van mr. M.L.S. Kalff", "INS-Updates.nl 2019-0086", "PR-Updates.nl PR-2019-0024"]
+published_in: ["Rechtspraak.nl", "PJ 2019/50 met annotatie van E.A.L. van Emden, W.M.A. Kalkman", "JOR 2019/140 met annotatie van mr. M.L.S. Kalff", "INS-Updates.nl 2019-0086", "PR-Updates.nl PR-2019-0024", "PR-Updates.nl 2019-0024"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2016:5154"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:1337"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:2181"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:36, (Gedeeltelijke) vernietiging met verwijzen"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-021.md", "netherlands/national/acts/faillissementswet/art-022a.md"]
 ---
