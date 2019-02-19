@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:562"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0193", "PJ 2019/34", "PR-Updates.nl PR-2019-0019"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0193", "PJ 2019/34", "PR-Updates.nl PR-2019-0019", "VAAN-AR-Updates.nl 2019-0193", "PR-Updates.nl 2019-0019"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2015:2668"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:2294"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:4175"]]
 ---
 
