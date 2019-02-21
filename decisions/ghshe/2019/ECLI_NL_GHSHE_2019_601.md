@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:601"
-published_in: ["Rechtspraak.nl", "PJ 2019/55", "JPF 2019/125", "PR-Updates.nl PR-2019-0025"]
+published_in: ["Rechtspraak.nl", "PJ 2019/55", "JPF 2019/125", "PR-Updates.nl PR-2019-0025", "PR-Updates.nl 2019-0025"]
 ---
 
 # ECLI:NL:GHSHE:2019:601 Gerechtshof 's-Hertogenbosch , 21-02-2019 / 200.218.626_01
