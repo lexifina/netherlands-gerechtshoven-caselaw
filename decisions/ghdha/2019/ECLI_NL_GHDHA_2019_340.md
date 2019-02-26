@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:340"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0222", "PS-Updates.nl 2019-0366", "NJF 2019/208", "PJ 2019/51", "PR-Updates.nl PR-2019-0026"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0222", "PS-Updates.nl 2019-0366", "NJF 2019/208", "PJ 2019/51", "PR-Updates.nl PR-2019-0026", "VAAN-AR-Updates.nl 2019-0222", "PR-Updates.nl 2019-0026"]
 relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2019:1784"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2020:222"]]
 ---
 
