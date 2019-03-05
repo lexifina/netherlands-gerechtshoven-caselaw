@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:792"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0042", "FJR 2020/32.12"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0042", "FJR 2020/32.12", "PR-Updates.nl 2019-0042"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2018:3279"]]
 ---
 
