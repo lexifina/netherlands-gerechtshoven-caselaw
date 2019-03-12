@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:974"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1160", "JAAN 2019/88 met annotatie van Beuken, G.E. van den"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2016:8455"]]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1160", "JAAN 2019/88 met annotatie van mr. G.E. van den Beuken"]
 cites_law: ["netherlands/national/acts/aanbestedingswet-2012/art-04-015.md"]
 ---
 
