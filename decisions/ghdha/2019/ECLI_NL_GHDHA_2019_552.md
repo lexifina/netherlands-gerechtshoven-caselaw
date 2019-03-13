@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:552"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 18-03-2019", "V-N Vandaag 2019/646", "FutD 2019-0804 met annotatie van Fiscaal up to Date", "NLF 2019/1061 met annotatie van Frouke Verberk", "NTFR 2019/1455 met annotatie van MR. H.J. NOORDENBOS", "Viditax (FutD), 25-10-2019", "Viditax (FutD), 13-03-2020"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/646", "NLF 2019/1061 met annotatie van Frouke Verberk", "NTFR 2019/1455 met annotatie van MR. H.J. NOORDENBOS", "FutD 2019-0804", "Viditax (FutD) 2019102506", "Viditax (FutD) 2019031812", "Viditax (FutD) 2020031303"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:7431, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:407"]]
 ---
 
