@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:551"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 18-03-2019", "V-N Vandaag 2019/656", "FutD 2019-0804 met annotatie van Fiscaal up to Date", "NLF 2019/1060 met annotatie van Frouke Verberk", "V-N 2019/23.1.1", "Viditax (FutD), 25-10-2019", "Viditax (FutD), 13-03-2020", "NTFR 2019/1480"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:7378, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:400"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/656", "NLF 2019/1060 met annotatie van Frouke Verberk", "V-N 2019/23.1.1", "FutD 2019-0804", "Viditax (FutD) 2019102506", "Viditax (FutD) 2019031811", "Viditax (FutD) 2020031303"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:400"]]
 ---
 
 # ECLI:NL:GHDHA:2019:551 Gerechtshof Den Haag , 13-03-2019 / BK-18/00473 tot en met BK-18/00481
