@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:1155"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0353", "PR-Updates.nl PR-2019-0043"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0353", "PR-Updates.nl PR-2019-0043", "VAAN-AR-Updates.nl 2019-0353", "PR-Updates.nl 2019-0043"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-071.md"]
 ---
 
