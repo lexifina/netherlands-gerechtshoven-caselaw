@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:2616"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 05-04-2019", "FutD 2019-0971", "V-N Vandaag 2019/841", "Vp-bulletin 2019/28 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "V-N 2019/31.25.1", "NTFR 2019/927", "NLF 2019/0843 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:377, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/841", "Vp-bulletin 2019/28 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "V-N 2019/31.25.1", "NLF 2019/0843", "FutD 2019-0971", "Viditax (FutD) 2019040507"]
 ---
 
 # ECLI:NL:GHARL:2019:2616 Gerechtshof Arnhem-Leeuwarden , 26-03-2019 / 18/00201
