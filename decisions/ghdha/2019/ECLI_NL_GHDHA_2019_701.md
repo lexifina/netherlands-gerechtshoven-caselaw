@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:701"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0399", "PS-Updates.nl 2019-0605", "RAR 2019/102", "PR-Updates.nl PR-2019-0064"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0399", "PS-Updates.nl 2019-0605", "RAR 2019/102", "PR-Updates.nl PR-2019-0064", "VAAN-AR-Updates.nl 2019-0399", "PR-Updates.nl 2019-0064"]
 ---
 
 # ECLI:NL:GHDHA:2019:701 Gerechtshof Den Haag , 09-04-2019 / 200.234.855
