@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:834"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 19-04-2019", "FutD 2019-1105", "V-N Vandaag 2019/973", "Vp-bulletin 2019/35 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "V-N 2019/36.4 met annotatie van Redactie", "NTFR 2019/1154", "NLF 2019/0969 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:9034, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/973", "Vp-bulletin 2019/35 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "V-N 2019/36.4 met annotatie van Redactie", "NLF 2019/0969", "FutD 2019-1105", "Viditax (FutD) 2019041912"]
 ---
 
 # ECLI:NL:GHDHA:2019:834 Gerechtshof Den Haag , 09-04-2019 / BK-18/00823
