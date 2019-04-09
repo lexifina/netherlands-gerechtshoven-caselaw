@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:3101"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 19-04-2019", "FutD 2019-1106", "V-N Vandaag 2019/956", "NTFR 2019/1438 met annotatie van mr. J. Nieuwenhuizen", "Belastingadvies 2019/14.3", "V-N 2019/37.6 met annotatie van Redactie", "NLF 2019/0965 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:1365, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/956", "Belastingadvies 2019/14.3", "V-N 2019/37.6 met annotatie van Redactie", "NLF 2019/0965", "NTFR 2019/1438 met annotatie van mr. J. Nieuwenhuizen", "FutD 2019-1106", "Viditax (FutD) 2019041907"]
 ---
 
 # ECLI:NL:GHARL:2019:3101 Gerechtshof Arnhem-Leeuwarden , 09-04-2019 / 18/00332
