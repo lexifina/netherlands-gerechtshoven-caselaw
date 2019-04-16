@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:1332"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1181", "JG 2019/17 met annotatie van Biezenaar, M.E.", "JAAN 2019/104 met annotatie van Versteeg, D.R."]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1181", "JG 2019/17 met annotatie van Biezenaar, M.E.", "JAAN 2019/104 met annotatie van mr. D.R. Versteeg"]
 ---
 
 # ECLI:NL:GHAMS:2019:1332 Gerechtshof Amsterdam , 16-04-2019 / 200.249.035/01
