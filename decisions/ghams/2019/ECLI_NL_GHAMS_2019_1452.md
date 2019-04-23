@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:1452"
-published_in: ["Rechtspraak.nl", "PJ 2019/72 met annotatie van J. van Slooten", "AR-Updates.nl 2019-0734", "Ondernemingsrecht 2019/139 met annotatie van A.G. van Marwijk Kooy", "JOR 2019/254 met annotatie van Vermeeren-Keijzers, I.H.", "PR-Updates.nl PR-2019-0103"]
+published_in: ["Rechtspraak.nl", "PJ 2019/72 met annotatie van J. van Slooten", "AR-Updates.nl 2019-0734", "Ondernemingsrecht 2019/139 met annotatie van A.G. van Marwijk Kooy", "JOR 2019/254 met annotatie van Vermeeren-Keijzers, I.H.", "PR-Updates.nl PR-2019-0103", "VAAN-AR-Updates.nl 2019-0734", "PR-Updates.nl 2019-0103"]
 ---
 
 # ECLI:NL:GHAMS:2019:1452 Gerechtshof Amsterdam , 23-04-2019 / 200.201.897/01
