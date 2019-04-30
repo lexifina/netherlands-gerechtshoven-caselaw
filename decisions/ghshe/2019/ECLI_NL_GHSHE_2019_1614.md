@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:1614"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2019-0119", "PJ 2019/75", "PR-Updates.nl PR-2019-0053"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2019-0119", "PJ 2019/75", "PR-Updates.nl PR-2019-0053", "VAAN-AR-Updates.nl 2019-0483", "AR-Updates.nl 2019-0483", "PR-Updates.nl 2019-0053"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:4194"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:1615"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-237.md"]
 ---
