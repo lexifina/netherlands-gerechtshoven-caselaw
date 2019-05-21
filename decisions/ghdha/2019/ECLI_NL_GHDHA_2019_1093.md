@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:1093"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0589", "RCR 2019/72", "PR-Updates.nl PR-2019-0059"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0589", "RCR 2019/72", "PR-Updates.nl PR-2019-0059", "VAAN-AR-Updates.nl 2019-0589", "PR-Updates.nl 2019-0059"]
 ---
 
 # ECLI:NL:GHDHA:2019:1093 Gerechtshof Den Haag , 21-05-2019 / 200.220.030/01
