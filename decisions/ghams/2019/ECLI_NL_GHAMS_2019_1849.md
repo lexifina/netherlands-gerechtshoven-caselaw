@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:1849"
-published_in: ["Rechtspraak.nl", "PJ 2019/87 met annotatie van B. Degelink", "AR-Updates.nl 2019-0620", "PR-Updates.nl PR-2019-0077"]
+published_in: ["Rechtspraak.nl", "PJ 2019/87 met annotatie van B. Degelink", "AR-Updates.nl 2019-0620", "PR-Updates.nl PR-2019-0077", "VAAN-AR-Updates.nl 2019-0620", "PR-Updates.nl 2019-0077"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2021:527, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2021:527, (Gedeeltelijke) 
 
 ## Inhoudsindicatie
 
-Het Bedrijfstakpensioenfonds voor de reisbranche vordert een verklaring voor recht dat de exploitant van het reserveringsplatform www.booking.com onder het begrip reisagent van de werkingssfeerbepaling van het Verplichtstellingsbesluit van 23 december 1996 (Stcrt. 1996 nr. 250) valt. Het hof oordeelt dat het exploiteren van een onlinereserveringsplatform niet valt onder het begrip bemiddelen bij de totstandkoming van overeenkomsten.
+Het Bedrijfstakpensioenfonds voor de reisbranche vordert een verklaring voor recht dat de exploitant van het reserveringsplatform [naam website] onder het begrip reisagent van de werkingssfeerbepaling van het Verplichtstellingsbesluit van 23 december 1996 (Stcrt. 1996 nr. 250) valt. Het hof oordeelt dat het exploiteren van een onlinereserveringsplatform niet valt onder het begrip bemiddelen bij de totstandkoming van overeenkomsten.
 
 ## Uitspraak
 
