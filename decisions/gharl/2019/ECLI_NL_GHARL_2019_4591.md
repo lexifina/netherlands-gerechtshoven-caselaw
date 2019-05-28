@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:4591"
-published_in: ["Rechtspraak.nl", "PJ 2019/94 met annotatie van C. Beltman", "PR-Updates.nl PR-2019-0061"]
+published_in: ["Rechtspraak.nl", "PJ 2019/94 met annotatie van C. Beltman", "PR-Updates.nl PR-2019-0061", "PR-Updates.nl 2019-0061"]
 ---
 
 # ECLI:NL:GHARL:2019:4591 Gerechtshof Arnhem-Leeuwarden , 28-05-2019 / 200.226.696/01
