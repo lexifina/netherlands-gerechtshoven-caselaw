@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:2037"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0082", "FJR 2020/32.69"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0082", "FJR 2020/32.69", "PR-Updates.nl 2019-0082"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:5269"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:86"]]
 ---
 
