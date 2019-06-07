@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:2133"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-10-2019", "V-N Vandaag 2019/2321", "FutD 2019-2778", "NTFR 2019/2711", "NLF 2019/2331 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2321", "NLF 2019/2331", "FutD 2019-2778", "Viditax (FutD) 2019102206"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:883"]]
 cites_law: ["netherlands/national/acts/awr/art-026.md", "netherlands/national/acts/awr/art-052a.md"]
 ---
