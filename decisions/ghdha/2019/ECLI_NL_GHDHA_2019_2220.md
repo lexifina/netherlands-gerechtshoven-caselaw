@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:2220"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 21-08-2019", "FutD 2019-2217", "V-N Vandaag 2019/1924", "V-N 2019/42.1.1", "Viditax (FutD), 24-04-2020", "NTFR 2019/2274", "NLF 2019/1947 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:16400, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:786"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1924", "V-N 2019/42.1.1", "NLF 2019/1947", "NTFR 2019/2274", "FutD 2019-2217", "Viditax (FutD) 2019082111", "Viditax (FutD) 2020042427"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:786"]]
 ---
 
 # ECLI:NL:GHDHA:2019:2220 Gerechtshof Den Haag , 12-06-2019 / BK-18/00785 en BK-18/00786
