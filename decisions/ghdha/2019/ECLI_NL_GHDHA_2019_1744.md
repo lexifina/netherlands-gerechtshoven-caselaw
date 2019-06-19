@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:1744"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 12-07-2019", "FutD 2019-1847 met annotatie van Fiscaal up to Date", "V-N Vandaag 2019/1661", "V-N 2019/49.27.1", "NTFR 2019/1918", "NLF 2019/1813 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:9198, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1661", "V-N 2019/49.27.1", "NLF 2019/1813", "FutD 2019-1847", "Viditax (FutD) 2019071227"]
 ---
 
 # ECLI:NL:GHDHA:2019:1744 Gerechtshof Den Haag , 19-06-2019 / BK-18/00925
