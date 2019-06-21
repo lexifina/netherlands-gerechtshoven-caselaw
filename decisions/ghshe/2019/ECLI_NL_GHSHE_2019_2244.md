@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:2244"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 17-10-2019", "V-N Vandaag 2019/2253", "FutD 2019-2669 met annotatie van Fiscaal up to Date", "V-N 2019/51.31.7", "NLF 2019/2333 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2013:10220, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2253", "V-N 2019/51.31.7", "NLF 2019/2333", "FutD 2019-2669", "Viditax (FutD) 2019101702"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2013:10220, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1850"]]
 cites_law: ["netherlands/national/acts/awb/art-08-046.md", "netherlands/national/acts/awb/art-08-060.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-006.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-032.md"]
 ---
 
