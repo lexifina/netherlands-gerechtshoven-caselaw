@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:1897"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0768", "PR-Updates.nl PR-2019-0105"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0768", "PR-Updates.nl PR-2019-0105", "VAAN-AR-Updates.nl 2019-0768", "PR-Updates.nl 2019-0105"]
 ---
 
 # ECLI:NL:GHDHA:2019:1897 Gerechtshof Den Haag , 09-07-2019 / 200.230.314/01
