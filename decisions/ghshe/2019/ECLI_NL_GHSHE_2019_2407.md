@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:2407"
-published_in: ["Rechtspraak.nl", "RFR 2019/140", "PR-Updates.nl PR-2019-0101"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2017:2740, Overig"]]
+published_in: ["Rechtspraak.nl", "RFR 2019/140", "PR-Updates.nl PR-2019-0101", "PR-Updates.nl 2019-0101"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2017:2740, Overig"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2022:135"]]
 ---
 
 # ECLI:NL:GHSHE:2019:2407 Gerechtshof 's-Hertogenbosch , 11-07-2019 / 200.194.485_01 en 200.216.942_01
