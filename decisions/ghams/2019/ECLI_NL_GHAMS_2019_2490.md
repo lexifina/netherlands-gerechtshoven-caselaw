@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:2490"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 31-07-2019", "V-N Vandaag 2019/1823", "FutD 2019-2092", "V-N 2019/48.1.1", "Viditax (FutD), 27-03-2020", "NTFR 2019/2622 met annotatie van mr. M.E. Kastelein", "NLF 2019/1821 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1823", "V-N 2019/48.1.1", "NLF 2019/1821", "NTFR 2019/2622 met annotatie van mr. M.E. Kastelein", "FutD 2019-2092", "Viditax (FutD) 2020032718", "Viditax (FutD) 2019073104"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1369"]]
 ---
 
