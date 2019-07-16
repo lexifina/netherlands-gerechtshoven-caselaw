@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:2829"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0282", "PR-Updates.nl PR-2019-0148", "PJ 2020/71"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0282", "PR-Updates.nl PR-2019-0148", "PJ 2020/71", "PR-Updates.nl 2019-0148"]
 ---
 
 # ECLI:NL:GHDHA:2019:2829 Gerechtshof Den Haag , 16-07-2019 / 200.246.265/01
