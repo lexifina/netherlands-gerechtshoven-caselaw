@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:1998"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 30-07-2019", "V-N Vandaag 2019/1810", "FutD 2019-2072 met annotatie van Fiscaal up to Date", "V-N 2019/51.8 met annotatie van Redactie", "NTFR 2019/2119", "NLF 2019/1824 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1810", "V-N 2019/51.8 met annotatie van Redactie", "NLF 2019/1824", "FutD 2019-2072", "Viditax (FutD) 2019073005"]
 ---
 
 # ECLI:NL:GHDHA:2019:1998 Gerechtshof Den Haag , 16-07-2019 / BK-18/00938
