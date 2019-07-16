@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:5836"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 09-08-2019", "FutD 2019-2145", "V-N Vandaag 2019/1875", "V-N 2019/46.1.5", "NTFR 2019/2031", "NLF 2019/1862 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:3561, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:831"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/1875", "V-N 2019/46.1.5", "NLF 2019/1862", "FutD 2019-2145", "Viditax (FutD) 2019080904"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:831"]]
 ---
 
 # ECLI:NL:GHARL:2019:5836 Gerechtshof Arnhem-Leeuwarden , 16-07-2019 / 18/00775
