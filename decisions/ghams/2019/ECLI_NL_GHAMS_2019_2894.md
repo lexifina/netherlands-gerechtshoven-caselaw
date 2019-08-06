@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:2894"
-published_in: ["Rechtspraak.nl", "PJ 2019/122 met annotatie van B. Degelink", "PR-Updates.nl PR-2019-0120", "FJR 2020/32.37"]
+published_in: ["Rechtspraak.nl", "PJ 2019/122 met annotatie van B. Degelink", "PR-Updates.nl PR-2019-0120", "FJR 2020/32.37", "PR-Updates.nl 2019-0120"]
 ---
 
 # ECLI:NL:GHAMS:2019:2894 Gerechtshof Amsterdam , 06-08-2019 / 200.232.776/01
