@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:GHAMS:2019:3040"
 court: "Gerechtshof Amsterdam"
 court_code: "GHAMS"
-docket: "000727-19 (rekestnummer) en 23-004692-15 (parketnummer)"
+docket: "000727-19 en 23-004692-15"
 decided: "2019-08-15"
 published: "2019-08-16"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:304
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:GHAMS:2019:3040 Gerechtshof Amsterdam , 15-08-2019 / 000727-19 (rekestnummer) en 23-004692-15 (parketnummer)
+# ECLI:NL:GHAMS:2019:3040 Gerechtshof Amsterdam , 15-08-2019 /  000727-19 en 23-004692-15
 
 ## Inhoudsindicatie
 
