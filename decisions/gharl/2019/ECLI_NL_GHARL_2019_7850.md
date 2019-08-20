@@ -1,0 +1,119 @@
+---
+ecli: "ECLI:NL:GHARL:2019:7850"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "200.249.883/02"
+decided: "2019-08-20"
+published: "2019-09-26"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7850"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHARL:2019:7850 Gerechtshof Arnhem-Leeuwarden , 20-08-2019 / 200.249.883/02
+
+## Inhoudsindicatie
+
+Toewijzing verzoek voorlopig getuigenverhoor. Geen verweer.
+
+## Uitspraak
+
+GERECHTSHOF ARNHEM-LEEUWARDEN
+
+locatie Arnhem
+
+afdeling civiel recht
+
+zaaknummer gerechtshof 200.249.883/02
+
+beschikking van 20 augustus 2019
+
+inzake
+
+1. de maatschap
+
+[verzoeker 1]
+,
+
+gevestigd te [vestigingsplaats] ,
+
+2. [verzoeker 2],
+
+wonende te [woonplaats] ,
+
+3. [verzoeker 3],
+
+wonende te [woonplaats] ,
+
+verzoekers,
+
+hierna: [verzoekers] ,
+
+advocaat: mr. H.E. de Leeuw-Blokland,
+
+tegen:
+
+de coöperatie
+
+Coöperatieve Rabobank U.A.,
+
+gevestigd te Amsterdam,
+
+belanghebbende,
+
+hierna: Rabobank,
+
+advocaat: mr. K.M. Kole.
+
+1
+Het verloop van het geding
+
+1.1
+
+Bij op 20 juni 2019 ter griffie van het hof ingekomen verzoekschrift (in zesvoud) hebben [verzoekers] het hof verzocht een voorlopig getuigenverhoor te bevelen, met bepaling van datum, tijd en plaats waarop de verhoren zullen plaatsvinden.
+
+1.2
+
+Bij fax van 12 juli 2019 heeft Rabobank bericht dat zij geen verweer voert tegen het verzoek van [verzoekers] tot het houden van een voorlopig getuigenverhoor en dat zij geen behoefte heeft aan een mondelinge behandeling. [verzoekers] hebben mondeling aan de griffie van het hof meegedeeld eveneens af te zien van een mondelinge behandeling. Gelet daarop heeft het hof beslist de zaak op de stukken af te doen.
+
+2
+De motivering van de beslissing
+
+2.1
+
+[verzoekers] exploiteren een melkveebedrijf. De gebouwen van [verzoekers] zijn verzekerd voor brand- en stormschade, maar zijn niet aanvullend verzekerd voor hagelschade. Toen tijdens een zware storm in 2016 hagelschade ontstond aan de gebouwen van [verzoekers] heeft de verzekeraar dekking geweigerd. [verzoekers] verwijten Rabobank dat zij niet als redelijk bekwaam en redelijk handelend assurantietussenpersoon heeft gehandeld door hen niet adequaat te adviseren en te informeren over de verzekeringen en over de risico’s van het niet verzekeren van aanvullende dekking (waaronder hageldekking). [verzoekers] menen dat Rabobank daarom aansprakelijk is voor de schade die is ontstaan door het ontbreken van verzekeringsdekking. In een procedure tussen [verzoekers] enerzijds en Rabobank anderzijds heeft de rechtbank Midden-Nederland, locatie Utrecht, bij vonnis van 28 juni 2018 de vordering van [verzoekers] afgewezen. Van dit vonnis zijn [verzoekers] in hoger beroep gekomen bij dit hof. De zaak is in behandeling onder zaaknummer 200.249.883/01. In het kader van die procedure hebben [verzoekers] het hof verzocht een voorlopig getuigenverhoor te bevelen.
+
+2.2
+
+[verzoekers] wensen getuigen te doen horen over de feiten en de (advies)gesprekken die met Rabobank zijn gevoerd in het kader van het verzekeren van hun gebouwen. Volgens [verzoekers] zal dit hen in staat stellen om hun positie bij voortzetting van de procedure beter te kunnen beoordelen en om getuigenbewijs te verzamelen. Onder punt 12 tot en met 24 van het verzoekschrift hebben [verzoekers] toegelicht over welke feiten de afzonderlijke getuigen kunnen verklaren. Het verzoek ziet op het doen laten horen van de volgende vier getuigen (waarbij [verzoekers] zich het recht hebben voorbehouden om nog nadere getuigen voor te dragen):
+
+1. [verzoeker 2] , wonende te [woonplaats] ;
+
+2. [verzoeker 3] , wonende te [woonplaats] ;
+
+3. [getuige 3] , wonende te [woonplaats] , en
+
+4. [getuige 4] , wonende te [woonplaats] .
+
+2.3
+
+Rabobank heeft geen verweer gevoerd tegen het verzoek van [verzoekers] op grond waarvan het hof het verzoek zou moeten afwijzen. Gesteld noch gebleken is dat [verzoekers] met het indienen van het verzoek misbruik maken van recht of dat het verzoek strijdig is met een goede procesorde. Van andere zwaarwegende belangen die aan toewijzing van het verzoek in de weg zouden staan, is het hof verder niet gebleken.
+
+2.4
+
+Gelet op het voorgaande is het verzoek van [verzoekers] toewijsbaar.
+
+3
+De beslissing
+
+Het hof, beschikkende in hoger beroep:
+
+beveelt een voorlopig getuigenverhoor;
+
+bepaalt dat het verhoor van de getuigen zal geschieden ten overstaan van het tot raadsheer-commissaris benoemde lid van het hof mr. C.G. ter Veer, die daartoe zitting zal houden in het paleis van justitie aan de Walburgstraat 2-4 te Arnhem op een nader door deze vast te stellen datum en tijdstip;
+
+bepaalt dat de zaak wordt aangehouden tot 3 september 2019 om [verzoekers] in de gelegenheid te stellen de verhinderdata van alle partijen en die van de in rov. 2.2 genoemde getuigen voor de periode van 1 november 2019 tot en met 1 januari 2020 schriftelijk door te geven aan de rekestengriffie van dit hof (Postbus 9030, 6800 EM te Arnhem), waarna datum en tijdstip van de verhoren door de raadsheer-commissaris zullen worden vastgesteld en in beginsel geen uitstel in verband met verhinderingen zal worden verleend.
+
+Deze beschikking is gegeven door mrs. C.G. ter Veer, J.H. Lieber en C.J.H.G. Bronzwaer, is bij afwezigheid van de voorzitter ondertekend door mr. J.H. Lieber en is in tegenwoordigheid van de griffier uitgesproken ter openbare terechtzitting van 20 augustus 2019.
