@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3219"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0015"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0015", "AR-Updates.nl 2022-0099", "VAAN-AR-Updates.nl 2022-0099", "PR-Updates.nl 2021-0015"]
 ---
 
 # ECLI:NL:GHAMS:2019:3219 Gerechtshof Amsterdam , 03-09-2019 / 200.234.355/01
