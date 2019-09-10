@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:3347"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0969", "JAR 2019/251", "RAR 2019/157", "PJ 2019/140", "PR-Updates.nl PR-2019-0129"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0969", "JAR 2019/251", "RAR 2019/157", "PJ 2019/140", "PR-Updates.nl PR-2019-0129", "VAAN-AR-Updates.nl 2019-0969", "PR-Updates.nl 2019-0129"]
 ---
 
 # ECLI:NL:GHAMS:2019:3347 Gerechtshof Amsterdam , 10-09-2019 / 200.249.036/01
