@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7721"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0237", "PJ 2019/147", "EB 2019/114", "PR-Updates.nl PR-2019-0127", "FJR 2020/32.59"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2019-0237", "PJ 2019/147", "EB 2019/114", "PR-Updates.nl PR-2019-0127", "FJR 2020/32.59", "PR-Updates.nl 2019-0127"]
 ---
 
 # ECLI:NL:GHARL:2019:7721 Gerechtshof Arnhem-Leeuwarden , 19-09-2019 / 200.248.202/01
