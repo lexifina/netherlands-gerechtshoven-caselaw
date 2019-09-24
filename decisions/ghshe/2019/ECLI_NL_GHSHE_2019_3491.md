@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:3491"
-published_in: ["Rechtspraak.nl", "JPF 2019/147", "PJ 2019/148", "PR-Updates.nl PR-2019-0134", "FJR 2020/32.2"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:1852"]]
+published_in: ["Rechtspraak.nl", "JPF 2019/147", "PJ 2019/148", "PR-Updates.nl PR-2019-0134", "FJR 2020/32.2", "PR-Updates.nl 2019-0134"]
 ---
 
 # ECLI:NL:GHSHE:2019:3491 Gerechtshof 's-Hertogenbosch , 24-09-2019 / 200.257.994_01
