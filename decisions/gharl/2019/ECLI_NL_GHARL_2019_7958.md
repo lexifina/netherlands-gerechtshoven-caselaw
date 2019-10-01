@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:7958"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1309", "JAAN 2020/3 met annotatie van Huith, G.J."]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2019/1309", "JAAN 2020/3 met annotatie van mr. G.J. Huith"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2018:6488"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2017:5218"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHARL:2018:10159"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHARL:2018:10160"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHARL:2019:5311"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:792, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:791, Bekrachtiging/bevestiging"]]
 ---
 
