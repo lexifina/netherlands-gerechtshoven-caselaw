@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:3628"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 25-11-2019", "V-N Vandaag 2019/2686", "FutD 2019-3138", "V-N 2020/4.16.6", "NTFR 2019/2996", "NLF 2019/2656 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2686", "V-N 2020/4.16.6", "NLF 2019/2656", "FutD 2019-3138", "Viditax (FutD) 2019112512"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2016:3226, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 cites_law: ["netherlands/national/acts/awb/art-08-042.md"]
 ---
