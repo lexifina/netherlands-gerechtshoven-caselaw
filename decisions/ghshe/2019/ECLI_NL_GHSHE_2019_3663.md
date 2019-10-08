@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:3663"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1064", "PJ 2019/132 met annotatie van C. Beltman", "RFR 2020/23", "PR-Updates.nl PR-2019-0155", "JERF Actueel 2019/335"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1064", "PJ 2019/132 met annotatie van C. Beltman", "RFR 2020/23", "PR-Updates.nl PR-2019-0155", "JERF Actueel 2019/335", "VAAN-AR-Updates.nl 2019-1064", "PR-Updates.nl 2019-0155"]
 ---
 
 # ECLI:NL:GHSHE:2019:3663 Gerechtshof 's-Hertogenbosch , 08-10-2019 / 200.225.660_01
