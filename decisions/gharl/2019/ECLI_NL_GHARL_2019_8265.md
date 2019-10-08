@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:8265"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1056", "PR-Updates.nl PR-2019-0146"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1056", "PR-Updates.nl PR-2019-0146", "VAAN-AR-Updates.nl 2019-1056", "PR-Updates.nl 2019-0146"]
 ---
 
 # ECLI:NL:GHARL:2019:8265 Gerechtshof Arnhem-Leeuwarden , 08-10-2019 / 200.177.811/01
@@ -112,7 +112,7 @@ Per brief van 17 augustus 2010 is [appellant] schriftelijk berispt, conform arti
 
 2.7
 
-In het beoordelingsgespreksformulier van 22 december 2010 is het functioneren van [appellant] beoordeeld met een cijfer 3 op een bereik van 1 tot 6, wat neerkomt op een 'matige prestatie’. De voornaamste reden blijkt tijdigheid te zijn, of beter: het gebrek daaraan. In het formulier is daarover opgenomen dat dossiers te vaak over de normtijd heen gaan waardoor de klanten van SVB te lang moeten wachten op uitsluitsel. In het formulier is tevens opgenomen dat [appellant] goede kwaliteit levert en dat hij zijn collega's met zijn deskundigheid op het gebied van buitenlandse zaken bijstaat, flexibel is en bereid is diensten over te nemen. De eindscore op het gebied van algemeen persoonlijk functioneren wordt in vergaande mate omlaaggehaald door voormelde berisping.  heeft het formulier niet voor akkoord ondertekend.
+In het beoordelingsgespreksformulier van 22 december 2010 is het functioneren van [appellant] beoordeeld met een cijfer 3 op een bereik van 1 tot 6, wat neerkomt op een 'matige prestatie’. De voornaamste reden blijkt tijdigheid te zijn, of beter: het gebrek daaraan. In het formulier is daarover opgenomen dat dossiers te vaak over de normtijd heen gaan waardoor de klanten van SVB te lang moeten wachten op uitsluitsel. In het formulier is tevens opgenomen dat [appellant] goede kwaliteit levert en dat hij zijn collega's met zijn deskundigheid op het gebied van buitenlandse zaken bijstaat, flexibel is en bereid is diensten over te nemen. De eindscore op het gebied van algemeen persoonlijk functioneren wordt in vergaande mate omlaaggehaald door voormelde berisping. [appellant] heeft het formulier niet voor akkoord ondertekend.
 
 2.8
 
