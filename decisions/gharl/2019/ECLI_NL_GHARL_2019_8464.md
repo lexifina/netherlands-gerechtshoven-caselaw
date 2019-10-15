@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:8464"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1113", "PJ 2020/8", "PR-Updates.nl PR-2019-0153"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1113", "PJ 2020/8", "PR-Updates.nl PR-2019-0153", "VAAN-AR-Updates.nl 2019-1113", "PR-Updates.nl 2019-0153"]
 ---
 
 # ECLI:NL:GHARL:2019:8464 Gerechtshof Arnhem-Leeuwarden , 15-10-2019 / 200.233.552/01 en 200.233.553/01
