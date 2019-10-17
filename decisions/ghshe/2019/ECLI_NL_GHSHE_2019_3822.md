@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:3822"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1122", "RAR 2020/16", "PR-Updates.nl PR-2019-0150"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1122", "RAR 2020/16", "PR-Updates.nl PR-2019-0150", "VAAN-AR-Updates.nl 2019-1122", "PR-Updates.nl 2019-0150"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-673b.md"]
 ---
 
