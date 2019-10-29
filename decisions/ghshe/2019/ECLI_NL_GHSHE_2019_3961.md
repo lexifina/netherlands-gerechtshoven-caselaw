@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:3961"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1173", "PR-Updates.nl PR-2019-0147", "PJ 2020/79"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1173", "PR-Updates.nl PR-2019-0147", "PJ 2020/79", "VAAN-AR-Updates.nl 2019-1173", "PR-Updates.nl 2019-0147"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:882"], ["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2014:3239"]]
 ---
 
