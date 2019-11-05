@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:3009"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 14-11-2019", "V-N Vandaag 2019/2560", "FutD 2019-2991", "Belastingadvies 2020/3.9", "V-N 2020/22.19.17", "NTFR 2020/298", "NLF 2019/2541 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:12299, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2560", "Belastingadvies 2020/3.9", "V-N 2020/22.19.17", "NLF 2019/2541", "FutD 2019-2991", "Viditax (FutD) 2019111403"]
 ---
 
 # ECLI:NL:GHDHA:2019:3009 Gerechtshof Den Haag , 05-11-2019 / BK-18/01072
