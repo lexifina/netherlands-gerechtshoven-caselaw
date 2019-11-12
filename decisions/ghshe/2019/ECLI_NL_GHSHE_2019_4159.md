@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2019:4159"
-published_in: ["Rechtspraak.nl", "PJ 2020/10", "PR-Updates.nl PR-2019-0169"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2016:2885"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2017:6255"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2018:4292"]]
+published_in: ["Rechtspraak.nl", "PJ 2020/10", "PR-Updates.nl PR-2019-0169", "PR-Updates.nl 2019-0169"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2017:6255"]]
 ---
 
 # ECLI:NL:GHSHE:2019:4159 Gerechtshof 's-Hertogenbosch , 12-11-2019 / 200.229.518_01
