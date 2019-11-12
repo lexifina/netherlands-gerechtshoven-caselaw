@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:9674"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 22-11-2019", "V-N Vandaag 2019/2623", "FutD 2019-3057", "V-N 2020/9.1.4", "NTFR 2019/2936", "NLF 2019/2654 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:3581, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1398"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2623", "V-N 2020/9.1.4", "NLF 2019/2654", "FutD 2019-3057", "Viditax (FutD) 2019112223"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1398"]]
 ---
 
 # ECLI:NL:GHARL:2019:9674 Gerechtshof Arnhem-Leeuwarden , 12-11-2019 / 18/00880
