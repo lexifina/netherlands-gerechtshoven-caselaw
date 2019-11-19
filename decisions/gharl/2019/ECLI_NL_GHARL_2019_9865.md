@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2019:9865"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 29-11-2019", "FutD 2019-3152", "DouaneUpdate 2019-0485", "NTFR 2019/3074", "NLF 2019/2685 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:4871, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "NLF 2019/2685", "Douanerechtspraak 2019/135", "DouaneUpdate 2019-0485", "FutD 2019-3152", "Viditax (FutD) 2019112925"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:4871, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:187"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1632"]]
 ---
 
 # ECLI:NL:GHARL:2019:9865 Gerechtshof Arnhem-Leeuwarden , 19-11-2019 / 18/01125
