@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:3143"
-published_in: ["Rechtspraak.nl", "JM 2020/39 met annotatie van Pieters, S."]
+published_in: ["Rechtspraak.nl", "JM 2020/39 met annotatie van mr. S. Pieters"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1862"], ["Formele relatie", "Conclusie in cassatie: ECLI:NL:PHR:2021:1171"]]
 ---
 
 # ECLI:NL:GHDHA:2019:3143 Gerechtshof Den Haag , 27-11-2019 / 2200509116
