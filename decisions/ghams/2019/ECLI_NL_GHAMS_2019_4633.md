@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2019:4633"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0022", "FJR 2020/32.22"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2018:9085"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:1865"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0022", "FJR 2020/32.22", "PR-Updates.nl 2020-0022"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:1865"]]
 ---
 
 # ECLI:NL:GHAMS:2019:4633 Gerechtshof Amsterdam , 17-12-2019 / 200.247.568/01 en 200.247.569/01
