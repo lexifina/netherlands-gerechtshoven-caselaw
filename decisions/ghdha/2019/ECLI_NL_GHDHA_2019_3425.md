@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2019:3425"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2999", "FutD 2020-0002 met annotatie van Fiscaal up to Date", "Viditax (FutD), 23-12-2019", "NLF 2020/0100 met annotatie van Sonja Dusarduijn", "V-N 2020/5.6 met annotatie van Redactie", "V-N 2020/11.1.3", "NTFR 2020/89"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2018:3150, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1384"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2019/2999", "NLF 2020/0100 met annotatie van Sonja Dusarduijn", "V-N 2020/5.6 met annotatie van Redactie", "V-N 2020/11.1.3", "FutD 2020-0002", "Viditax (FutD) 2019122301"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1384"]]
 ---
 
 # ECLI:NL:GHDHA:2019:3425 Gerechtshof Den Haag , 18-12-2019 / BK-18/00587 en BK-18/00589
