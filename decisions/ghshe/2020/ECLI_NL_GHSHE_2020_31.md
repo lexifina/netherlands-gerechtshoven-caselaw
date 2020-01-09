@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:31"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0048", "JAR 2020/32 met annotatie van Dop, J.", "PR-Updates.nl PR-2020-0015", "RAR 2020/52", "XpertHR.nl 2020-20002986"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0048", "JAR 2020/32 met annotatie van Dop, J.", "PR-Updates.nl PR-2020-0015", "RAR 2020/52", "VAAN-AR-Updates.nl 2020-0048", "PR-Updates.nl 2020-0015"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2019:3211"]]
 ---
 
