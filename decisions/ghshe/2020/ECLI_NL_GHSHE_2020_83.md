@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:83"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0084", "JAR 2020/50", "PR-Updates.nl PR-2020-0026", "PJ 2020/19"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0084", "JAR 2020/50", "PR-Updates.nl PR-2020-0026", "PJ 2020/19", "VAAN-AR-Updates.nl 2020-0084", "PR-Updates.nl 2020-0026"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2018:1001"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-305a.md"]
 ---
