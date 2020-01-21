@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:160"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 12-02-2020", "V-N Vandaag 2020/355", "FutD 2020-0460", "NTFR 2020/979 met annotatie van mr. J. Nieuwenhuizen", "V-N 2020/22.19.7", "NLF 2020/0427 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/355", "V-N 2020/22.19.7", "NLF 2020/0427", "NTFR 2020/979 met annotatie van mr. J. Nieuwenhuizen", "FutD 2020-0460", "Viditax (FutD) 2020021202"]
 ---
 
 # ECLI:NL:GHAMS:2020:160 Gerechtshof Amsterdam , 21-01-2020 / 18/00506
