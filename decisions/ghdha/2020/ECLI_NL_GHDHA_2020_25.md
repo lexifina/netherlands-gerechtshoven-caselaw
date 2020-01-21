@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:25"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0081", "PR-Updates.nl PR-2020-0024", "PJ 2020/20"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:121"]]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0081", "PR-Updates.nl PR-2020-0024", "PJ 2020/20", "VAAN-AR-Updates.nl 2020-0081", "PR-Updates.nl 2020-0024"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:121"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:162, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:GHDHA:2020:25 Gerechtshof Den Haag , 21-01-2020 / 200.237.496/01
