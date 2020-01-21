@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:149"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0054"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0054", "PR-Updates.nl 2020-0054"]
 ---
 
 # ECLI:NL:GHDHA:2020:149 Gerechtshof Den Haag , 21-01-2020 / 200.248.815/01
