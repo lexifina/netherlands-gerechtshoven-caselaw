@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:791"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 07-02-2020", "V-N Vandaag 2020/283", "FutD 2020-0394", "V-N 2020/22.1.3", "NTFR 2020/434", "NLF 2020/0428 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:4739, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1819"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/283", "V-N 2020/22.1.3", "NLF 2020/0428", "FutD 2020-0394", "Viditax (FutD) 2020020712"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1819"]]
 ---
 
 # ECLI:NL:GHARL:2020:791 Gerechtshof Arnhem-Leeuwarden , 28-01-2020 / 18/01215 en 18/01216
