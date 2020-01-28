@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:247"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0107", "JAR 2020/51", "PR-Updates.nl PR-2020-0031", "PJ 2020/28 met annotatie van V. Gerlach"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0107", "JAR 2020/51", "PR-Updates.nl PR-2020-0031", "PJ 2020/28 met annotatie van V. Gerlach", "VAAN-AR-Updates.nl 2020-0107", "PR-Updates.nl 2020-0031"]
 ---
 
 # ECLI:NL:GHSHE:2020:247 Gerechtshof 's-Hertogenbosch , 28-01-2020 / 200.230.797_01
