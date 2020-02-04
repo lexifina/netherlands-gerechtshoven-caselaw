@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:78"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0147", "PR-Updates.nl PR-2020-0044", "PJ 2020/38"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0147", "PR-Updates.nl PR-2020-0044", "PJ 2020/38", "VAAN-AR-Updates.nl 2020-0147", "PR-Updates.nl 2020-0044"]
 ---
 
 # ECLI:NL:GHDHA:2020:78 Gerechtshof Den Haag , 04-02-2020 / 200.092.634/02
