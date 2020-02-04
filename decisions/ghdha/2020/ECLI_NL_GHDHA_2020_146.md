@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:146"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0133", "JAR 2020/66", "PR-Updates.nl PR-2020-0053", "RAR 2020/66"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0133", "JAR 2020/66", "PR-Updates.nl PR-2020-0053", "RAR 2020/66", "VAAN-AR-Updates.nl 2020-0133", "PR-Updates.nl 2020-0053"]
 ---
 
 # ECLI:NL:GHDHA:2020:146 Gerechtshof Den Haag , 04-02-2020 / 200.267.608/01
