@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:371"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0187", "JAR 2020/67", "PR-Updates.nl PR-2020-0042", "RAR 2020/79"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0187", "JAR 2020/67", "PR-Updates.nl PR-2020-0042", "RAR 2020/79", "VAAN-AR-Updates.nl 2020-0187", "PR-Updates.nl 2020-0042"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2019:449"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-673b.md"]
 ---
