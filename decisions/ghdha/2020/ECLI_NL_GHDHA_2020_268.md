@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:268"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0215", "PR-Updates.nl PR-2020-0038"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0215", "PR-Updates.nl PR-2020-0038", "VAAN-AR-Updates.nl 2020-0215", "PR-Updates.nl 2020-0038"]
 relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2021:513"]]
 ---
 
