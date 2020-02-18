@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:435"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-03-2020", "V-N Vandaag 2020/530", "FutD 2020-0714", "V-N 2020/22.19.5", "NTFR 2020/1364 met annotatie van S. Oosterbaan"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/530", "V-N 2020/22.19.5", "NTFR 2020/1364 met annotatie van S. Oosterbaan MSc", "FutD 2020-0714", "Viditax (FutD) 2020030416"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2020:1879"]]
 ---
 
