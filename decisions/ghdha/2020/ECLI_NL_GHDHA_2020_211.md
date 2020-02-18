@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:211"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0037", "PJ 2020/39"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0037", "PJ 2020/39", "PR-Updates.nl 2020-0037"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2021:2489"]]
 ---
 
 # ECLI:NL:GHDHA:2020:211 Gerechtshof Den Haag , 18-02-2020 / 200.224.153/01
