@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:575"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0076", "PJ 2020/81 met annotatie van B. Degelink"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0076", "PJ 2020/81 met annotatie van B. Degelink", "PR-Updates.nl 2020-0076"]
 ---
 
 # ECLI:NL:GHAMS:2020:575 Gerechtshof Amsterdam , 25-02-2020 / 200.249.519/01
