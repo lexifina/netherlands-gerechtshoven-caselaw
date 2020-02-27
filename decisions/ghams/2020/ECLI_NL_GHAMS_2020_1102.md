@@ -1,0 +1,86 @@
+---
+ecli: "ECLI:NL:GHAMS:2020:1102"
+court: "Gerechtshof Amsterdam"
+court_code: "GHAMS"
+docket: "23-000594-19"
+decided: "2020-02-27"
+published: "2020-04-17"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:1102"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHAMS:2020:1102 Gerechtshof Amsterdam , 27-02-2020 / 23-000594-19
+
+## Inhoudsindicatie
+
+Vrijspraak voor zowel plegen als medeplegen voorhanden hebben drugs. Handelingen verdachte zijn onvoldoende om als pleger te worden aangemerkt en leveren ook niet een zodanige wezenlijke bijdrage dat sprake is van een bewuste en nauwe samenwerking.
+
+## Uitspraak
+
+afdeling strafrecht
+
+parketnummer: 23-000594-19
+
+datum uitspraak: 27 februari 2020
+
+TEGENSPRAAK
+
+Verkort arrest van het gerechtshof Amsterdam gewezen op het hoger beroep, ingesteld tegen het vonnis van de politierechter in de rechtbank Amsterdam van 30 januari 2019 in de strafzaak onder parketnummer 13-175270-17 tegen
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] op [geboortedag] 1995,
+
+adres: [adres].
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek ter terechtzitting in hoger beroep van
+
+13 februari 2020 en, overeenkomstig het bepaalde bij artikel 422, tweede lid, van het Wetboek van Strafvordering, naar aanleiding van het onderzoek ter terechtzitting in eerste aanleg.
+
+Namens de verdachte is hoger beroep ingesteld tegen voormeld vonnis.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door de verdachte naar voren is gebracht.
+
+Tenlastelegging
+
+Aan de verdachte is tenlastegelegd dat:
+
+hij op of omstreeks 31 december 2016 te Amsterdam, in elk geval in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk aanwezig heeft gehad en/of heeft vervoerd en/of heeft verkocht en/of heeft afgeleverd en/of heeft verstrekt ongeveer 0,74 gram cocaïne, in elk geval een hoeveelheid van een materiaal bevattende cocaïne en/of ongeveer 6 pillen XTC, in elk geval een hoeveelheid van een materiaal bevattende MDMA, zijnde cocaïne en/of MDMA (telkens) een middel als bedoeld in de bij de Opiumwet behorende lijst I, dan wel aangewezen krachtens het vijfde lid van artikel 3a van die wet.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zal het hof deze verbeterd lezen. De verdachte wordt daardoor niet in de verdediging geschaad.
+
+Vonnis waarvan beroep
+
+Het vonnis waarvan beroep zal worden vernietigd, omdat het hof tot een andere beslissing komt dan de politierechter.
+
+Vordering van het openbaar ministerie
+
+De advocaat-generaal heeft gevorderd dat de verdachte voor het tenlastegelegde zal worden veroordeeld tot een taakstraf voor de duur van 80 uren, waarvan 40 uren voorwaardelijk, met een proeftijd van
+
+2 jaren.
+
+Vrijspraak
+
+Het hof is van oordeel dat, nog daargelaten of de verdachte wetenschap had van de aanwezigheid van de verdovende middelen die de medeverdachte bij zich droeg, de handelingen van de verdachte onvoldoende zijn om als pleger van het tenlastegelegde te worden veroordeeld. Wat het tenlastegelegde medeplegen betreft, is het hof van oordeel dat de handelingen van de verdachte niet een zodanige wezenlijke bijdrage aan het tenlastegelegde opleveren dat kan worden gesproken van bewuste en nauwe samenwerking tussen de verdachte en de medeverdachte. Zodoende kan niet worden vastgesteld dat de verdachte zich als pleger of medepleger aan het tenlastegelegde heeft schuldig gemaakt.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het tenlastegelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Dit arrest is gewezen door de meervoudige strafkamer van het gerechtshof Amsterdam, waarin zitting hadden mr. A.M. van Woensel, mr. G. Oldekamp en mr. J.H.C. van Ginhoven, in tegenwoordigheid van mr. C. Roseboom, griffier, en is uitgesproken op de openbare terechtzitting van dit gerechtshof van
+
+27 februari 2020.
+
+=========================================================================
+
+[…]
