@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:269"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0254", "INS-Updates.nl 2020-0071", "JOR 2020/106", "PR-Updates.nl PR-2020-0075", "PJ 2020/60", "OR-Updates.nl 2020-0103", "JONDR 2020/364"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:10856"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:6205"]]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0254", "INS-Updates.nl 2020-0071", "JOR 2020/106", "PR-Updates.nl PR-2020-0075", "PJ 2020/60", "OR-Updates.nl 2020-0103", "JONDR 2020/364", "VAAN-AR-Updates.nl 2020-0254", "PR-Updates.nl 2020-0075"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:10856"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:6205"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:13, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:GHDHA:2020:269 Gerechtshof Den Haag , 03-03-2020 / 200.254.513/01
