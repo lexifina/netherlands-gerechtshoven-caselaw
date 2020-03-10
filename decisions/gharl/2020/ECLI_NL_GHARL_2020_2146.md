@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:2146"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0478", "PR-Updates.nl PR-2020-0094", "OR-Updates.nl 2020-0155"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0478", "PR-Updates.nl PR-2020-0094", "OR-Updates.nl 2020-0155", "VAAN-AR-Updates.nl 2020-0478", "PR-Updates.nl 2020-0094"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1976, (Gedeeltelijke) vernietiging met verwijzen"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2024:2124"]]
 ---
 
 # ECLI:NL:GHARL:2020:2146 Gerechtshof Arnhem-Leeuwarden , 10-03-2020 / 200.249.684
