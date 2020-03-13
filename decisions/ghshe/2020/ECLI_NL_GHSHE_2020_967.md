@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:967"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 01-04-2020", "V-N Vandaag 2020/810", "FutD 2020-1033", "V-N 2020/24.26.4", "NTFR 2020/1079", "NLF 2020/0849 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:5401, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/810", "V-N 2020/24.26.4", "NLF 2020/0849", "FutD 2020-1033", "Viditax (FutD) 2020040105"]
 ---
 
 # ECLI:NL:GHSHE:2020:967 Gerechtshof 's-Hertogenbosch , 13-03-2020 / 17/00705
