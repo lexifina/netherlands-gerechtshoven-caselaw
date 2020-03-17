@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:565"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0373", "PR-Updates.nl PR-2020-0066", "RAR 2020/100"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0373", "PR-Updates.nl PR-2020-0066", "RAR 2020/100", "VAAN-AR-Updates.nl 2020-0373", "PR-Updates.nl 2020-0066"]
 ---
 
 # ECLI:NL:GHDHA:2020:565 Gerechtshof Den Haag , 17-03-2020 / 200.259.809/01
