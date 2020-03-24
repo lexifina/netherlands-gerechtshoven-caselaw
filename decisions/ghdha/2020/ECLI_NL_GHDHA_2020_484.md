@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:484"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0356", "PR-Updates.nl PR-2020-0062", "PJ 2020/58"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0356", "PR-Updates.nl PR-2020-0062", "PJ 2020/58", "VAAN-AR-Updates.nl 2020-0356", "PR-Updates.nl 2020-0062"]
 ---
 
 # ECLI:NL:GHDHA:2020:484 Gerechtshof Den Haag , 24-03-2020 / 200.250.218/01
@@ -284,7 +284,7 @@ Ik begrijp van [appellant 4] ook dat u uit de door mij ondertekende brief niet k
 
 2.17
 
-Deze rechtbank heeft bij beschikking van 17 september 2014 (productie 11 bij dagvaarding), gewezen op tegenspraak tussen [appellant 1] en Smit, een voorlopig getuigenverhoor bevolen betreffende, kortweg, de door [appellant 1] gestelde toezegging van onvoorwaardelijke indexatie van bet directiepensioen van [appellant 1] . Bij de getuigenverhoren zijn [appellant 1] en Smit en hun procesvertegenwoordigers aanwezig geweest.  heeft als getuigen voorgebracht: [appellant 4] (eiser sub 4), [directiesecretaresse] (voormalig directiesecretaresse van [appellant 1] ), [appellant 5] (eiser sub 5), [appellant 2] (eiser sub 2), [X] (eiser sub 6), [naam eiser sub 7] (eiser sub 7), [appellant 3] (eiser sub 3), zichzelf en [A] (productie 12 en 13 bij dagvaarding).
+Deze rechtbank heeft bij beschikking van 17 september 2014 (productie 11 bij dagvaarding), gewezen op tegenspraak tussen [appellant 1] en Smit, een voorlopig getuigenverhoor bevolen betreffende, kortweg, de door [appellant 1] gestelde toezegging van onvoorwaardelijke indexatie van bet directiepensioen van [appellant 1] . Bij de getuigenverhoren zijn [appellant 1] en Smit en hun procesvertegenwoordigers aanwezig geweest. [appellant 1] heeft als getuigen voorgebracht: [appellant 4] (eiser sub 4), [directiesecretaresse] (voormalig directiesecretaresse van [appellant 1] ), [appellant 5] (eiser sub 5), [appellant 2] (eiser sub 2), [X] (eiser sub 6), [naam eiser sub 7] (eiser sub 7), [appellant 3] (eiser sub 3), zichzelf en [A] (productie 12 en 13 bij dagvaarding).
 
 Smit is in de gelegenheid geweest getuigen voor te brengen.”
 
