@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:2509"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0347", "PR-Updates.nl PR-2020-0067", "PJ 2020/67", "OR-Updates.nl 2020-0106"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0347", "PR-Updates.nl PR-2020-0067", "PJ 2020/67", "OR-Updates.nl 2020-0106", "VAAN-AR-Updates.nl 2020-0347", "PR-Updates.nl 2020-0067"]
 ---
 
 # ECLI:NL:GHARL:2020:2509 Gerechtshof Arnhem-Leeuwarden , 24-03-2020 / 200.261.288/01
