@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:1033"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0105"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:TNORARL:2019:44"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0105", "PR-Updates.nl 2020-0105"]
 ---
 
 # ECLI:NL:GHAMS:2020:1033 Gerechtshof Amsterdam , 07-04-2020 / 200.267.600/01 NOT
