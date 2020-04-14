@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1264"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0093"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0093", "PR-Updates.nl 2020-0093"]
 ---
 
 # ECLI:NL:GHSHE:2020:1264 Gerechtshof 's-Hertogenbosch , 14-04-2020 / 200.240.948_01
