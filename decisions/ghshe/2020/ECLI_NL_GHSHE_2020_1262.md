@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1262"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0450", "PR-Updates.nl PR-2020-0077"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0450", "PR-Updates.nl PR-2020-0077", "VAAN-AR-Updates.nl 2020-0450", "PR-Updates.nl 2020-0077"]
 ---
 
 # ECLI:NL:GHSHE:2020:1262 Gerechtshof 's-Hertogenbosch , 14-04-2020 / 200.239.990_01
