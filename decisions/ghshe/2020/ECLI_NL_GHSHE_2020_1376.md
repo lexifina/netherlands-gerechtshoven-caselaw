@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1376"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0099"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2019:1536"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2019:2614"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0099", "PR-Updates.nl 2020-0099"]
 ---
 
 # ECLI:NL:GHSHE:2020:1376 Gerechtshof 's-Hertogenbosch , 21-04-2020 / 200.261.240_01
