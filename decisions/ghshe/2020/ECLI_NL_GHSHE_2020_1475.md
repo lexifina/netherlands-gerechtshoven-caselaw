@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1475"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 11-05-2020", "V-N Vandaag 2020/1253", "FutD 2020-1523", "V-N 2020/35.1.2", "NTFR 2020/1544", "NLF 2020/1182 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1253", "V-N 2020/35.1.2", "NLF 2020/1182", "FutD 2020-1523", "Viditax (FutD) 2020051108"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2017:5805, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:253"]]
 ---
 
