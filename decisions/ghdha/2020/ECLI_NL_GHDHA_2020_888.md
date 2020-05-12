@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:888"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0551", "PR-Updates.nl PR-2020-0109", "PJ 2020/99 met annotatie van B. Degelink"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0551", "PR-Updates.nl PR-2020-0109", "PJ 2020/99 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2020-0551", "PR-Updates.nl 2020-0109"]
 ---
 
 # ECLI:NL:GHDHA:2020:888 Gerechtshof Den Haag , 12-05-2020 / 200.243.866/01
