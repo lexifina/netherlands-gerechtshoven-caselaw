@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1643"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0112", "PJ 2020/129", "JPF 2020/106"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2018:5077"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0112", "PJ 2020/129", "JPF 2020/106", "PR-Updates.nl 2020-0112"]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-010.md"]
 ---
 
