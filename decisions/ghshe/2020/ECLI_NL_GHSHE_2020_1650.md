@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1650"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 03-06-2020", "V-N Vandaag 2020/1454", "FutD 2020-1721", "NTFR 2020/1845", "V-N 2020/40.16.2", "NLF 2020/1346 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2019:4911, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1454", "V-N 2020/40.16.2", "NLF 2020/1346", "FutD 2020-1721", "Viditax (FutD) 2020060314"]
 ---
 
 # ECLI:NL:GHSHE:2020:1650 Gerechtshof 's-Hertogenbosch , 28-05-2020 / 19/00713 tot en met 19/00716
