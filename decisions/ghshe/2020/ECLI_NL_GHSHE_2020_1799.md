@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:1799"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0114", "PJ 2020/110", "JPF 2020/146"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2016:3327"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2017:1813"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2019:2639"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0114", "PJ 2020/110", "JPF 2020/146", "PR-Updates.nl 2020-0114"]
 ---
 
 # ECLI:NL:GHSHE:2020:1799 Gerechtshof 's-Hertogenbosch , 16-06-2020 / 200.257.743_01
