@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:1808"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0903", "PR-Updates.nl PR-2020-0133"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0903", "PR-Updates.nl PR-2020-0133", "VAAN-AR-Updates.nl 2020-0903", "PR-Updates.nl 2020-0133"]
 ---
 
 # ECLI:NL:GHAMS:2020:1808 Gerechtshof Amsterdam , 23-06-2020 / 200.255.245/01
