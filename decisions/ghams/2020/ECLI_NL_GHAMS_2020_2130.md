@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2130"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0144"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:1985"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0144", "PR-Updates.nl 2020-0144"]
 ---
 
 # ECLI:NL:GHAMS:2020:2130 Gerechtshof Amsterdam , 14-07-2020 / 200.260.816/01 en 200.260.824/01
