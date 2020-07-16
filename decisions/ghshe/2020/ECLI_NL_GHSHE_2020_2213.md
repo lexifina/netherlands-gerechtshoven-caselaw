@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:2213"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 13-08-2020", "V-N Vandaag 2020/1972", "FutD 2020-2336", "NLF 2020/1901 met annotatie van Sara Verkaik", "V-N 2020/45.27.15", "NTFR 2020/2436"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2019:428, Overig"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/1972", "NLF 2020/1901 met annotatie van Sara Verkaik", "V-N 2020/45.27.15", "FutD 2020-2336", "Viditax (FutD) 2020081301"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2019:427, Overig"]]
 ---
 
 # ECLI:NL:GHSHE:2020:2213 Gerechtshof 's-Hertogenbosch , 16-07-2020 / 19/00128-GHK tot en met 19/00133-GHK (T)
