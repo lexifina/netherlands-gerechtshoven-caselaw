@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2080"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0885", "PR-Updates.nl PR-2020-0128", "PJ 2020/131 met annotatie van A.G. van Marwijk Kooy"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0885", "PR-Updates.nl PR-2020-0128", "PJ 2020/131 met annotatie van A.G. van Marwijk Kooy", "VAAN-AR-Updates.nl 2020-0885", "PR-Updates.nl 2020-0128"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1267, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:GHAMS:2020:2080 Gerechtshof Amsterdam , 28-07-2020 / 200.201.897/01
