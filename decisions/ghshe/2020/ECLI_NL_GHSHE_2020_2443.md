@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:2443"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0143"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2019:4478"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0143", "PR-Updates.nl 2020-0143"]
 ---
 
 # ECLI:NL:GHSHE:2020:2443 Gerechtshof 's-Hertogenbosch , 30-07-2020 / 200.267.229_01 en 200.267.230_01
