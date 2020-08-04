@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:1363"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0138", "PJ 2020/132"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0138", "PJ 2020/132", "PR-Updates.nl 2020-0138"]
 ---
 
 # ECLI:NL:GHDHA:2020:1363 Gerechtshof Den Haag , 04-08-2020 / 200.257.866/01
