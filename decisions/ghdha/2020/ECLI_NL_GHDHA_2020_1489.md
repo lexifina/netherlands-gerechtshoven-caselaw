@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:1489"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 25-08-2020", "V-N Vandaag 2020/2019", "FutD 2020-2427", "NTFR 2020/2675 met annotatie van mr. A.H.W. Steijn", "V-N 2020/57.1.3", "NLF 2020/1925 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2019", "NTFR 2020/2675 met annotatie van mr. A.H.W. Steijn", "V-N 2020/57.1.3", "NLF 2020/1925", "FutD 2020-2427", "Viditax (FutD) 2020082501"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1478, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:GHDHA:2020:1489 Gerechtshof Den Haag , 11-08-2020 / BK-19/00604
