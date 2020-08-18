@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:6434"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 24-08-2020", "FutD 2020-2445", "V-N Vandaag 2020/2040", "V-N 2020/57.31.18", "NTFR 2020/2550", "NLF 2020/1917 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2040", "V-N 2020/57.31.18", "NLF 2020/1917", "DouaneUpdate 2021-0175", "FutD 2020-2445", "Viditax (FutD) 2020082411"]
 ---
 
 # ECLI:NL:GHARL:2020:6434 Gerechtshof Arnhem-Leeuwarden , 18-08-2020 / 18/00613 t/m 18/00615 (Wraking)
