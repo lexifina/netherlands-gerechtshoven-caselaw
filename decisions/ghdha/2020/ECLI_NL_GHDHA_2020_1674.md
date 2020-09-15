@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:1674"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1118", "OR-Updates.nl 2020-0302", "PR-Updates.nl PR-2020-0150", "PJ 2020/146"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1118", "OR-Updates.nl 2020-0302", "PR-Updates.nl PR-2020-0150", "PJ 2020/146", "VAAN-AR-Updates.nl 2020-1118", "PR-Updates.nl 2020-0150"]
 ---
 
 # ECLI:NL:GHDHA:2020:1674 Gerechtshof Den Haag , 15-09-2020 / 200.260.212/01
