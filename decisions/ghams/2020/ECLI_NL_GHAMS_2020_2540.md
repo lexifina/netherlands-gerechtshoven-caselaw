@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2540"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 30-09-2020", "V-N Vandaag 2020/2316", "FutD 2020-2822 met annotatie van Fiscaal up to Date", "NTFR 2020/2806", "V-N 2020/64.21.1", "NLF 2020/2258 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2316", "V-N 2020/64.21.1", "NLF 2020/2258", "FutD 2020-2822", "Viditax (FutD) 2020093002"]
 ---
 
 # ECLI:NL:GHAMS:2020:2540 Gerechtshof Amsterdam , 22-09-2020 / 19/01551
