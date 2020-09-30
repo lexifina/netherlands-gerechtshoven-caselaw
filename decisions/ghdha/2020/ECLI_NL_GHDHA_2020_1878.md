@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2020:1878"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 12-10-2020", "V-N Vandaag 2020/2441", "FutD 2020-3026", "ERF-Updates.nl 2020-0243", "NTFR 2020/3517 met annotatie van MR. E. ALINK", "V-N 2020/65.1.2", "NLF 2020/2259 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:11206, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2441", "ERF-Updates.nl 2020-0243", "V-N 2020/65.1.2", "NLF 2020/2259", "NTFR 2020/3517 met annotatie van MR. E. ALINK", "FutD 2020-3026", "Viditax (FutD) 2020101201"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:11206, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1574"]]
 ---
 
 # ECLI:NL:GHDHA:2020:1878 Gerechtshof Den Haag , 30-09-2020 / BK-19/00743 t/m BK-19/00746
