@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:7854"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 01-10-2020", "V-N Vandaag 2020/2320", "FutD 2020-2821 met annotatie van Fiscaal up to Date", "V-N 2020/52.8 met annotatie van Redactie", "NLF 2020/2236 met annotatie van Sonja Dusarduijn", "NTFR 2020/2995 met annotatie van MR. E. ALINK"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:3325, Overig"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2021:963"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2320", "V-N 2020/52.8 met annotatie van Redactie", "NLF 2020/2236 met annotatie van Sonja Dusarduijn", "NTFR 2020/2995 met annotatie van MR. E. ALINK", "FutD 2020-2821", "Viditax (FutD) 2020100102"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2021:963"]]
 ---
 
 # ECLI:NL:GHARL:2020:7854 Gerechtshof Arnhem-Leeuwarden , 30-09-2020 / 19/01119
