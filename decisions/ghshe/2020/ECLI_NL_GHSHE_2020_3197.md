@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:3197"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0254", "Jeugdrecht.nl JR-2020-0011", "FJR 2021/24.48"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0254", "Jeugdrecht.nl JR-2020-0011", "FJR 2021/24.48", "JR-Updates.nl 2020-0011", "PFR-Updates.nl 2020-0011"]
 cites_law: ["netherlands/national/acts/bw-boek-1/art-265i.md", "netherlands/national/acts/bw-boek-1/art-265j.md", "netherlands/national/acts/bw-boek-1/art-265k.md"]
 ---
 
