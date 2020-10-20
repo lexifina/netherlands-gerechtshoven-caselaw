@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2748"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 28-10-2020", "V-N Vandaag 2020/2591", "FutD 2020-3218", "NLF 2020/2375 met annotatie van Peter van der Muur", "Belastingblad 2020/488 met annotatie van J.A. MONSMA", "NTFR 2020/3470"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:1473, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2591", "NLF 2020/2375 met annotatie van Peter van der Muur", "Belastingblad 2020/488 met annotatie van J.A. MONSMA", "NTFR 2020/3470"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:1473, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2021:1846"]]
 cites_law: ["netherlands/national/acts/gemeentewet/art-229.md"]
 ---
 
