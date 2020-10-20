@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:8628"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 30-10-2020", "FutD 2020-3189", "V-N Vandaag 2020/2629", "NTFR 2020/3423 met annotatie van mr. J. Brouwer", "V-N 2021/4.1.1", "NLF 2020/2657 met annotatie van Jeroen van Strien"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:4220, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/2629", "V-N 2021/4.1.1", "NLF 2020/2657 met annotatie van dr. J. van Strien", "NTFR 2020/3423 met annotatie van mr. J. Brouwer", "FutD 2020-3189", "Viditax (FutD) 2020103029", "2020/2657 met annotatie van dr. J. van Strien"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2018:4220, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1121"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:60"]]
 ---
 
 # ECLI:NL:GHARL:2020:8628 Gerechtshof Arnhem-Leeuwarden , 20-10-2020 / 18/01049
