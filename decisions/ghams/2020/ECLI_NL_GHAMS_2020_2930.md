@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2930"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0186"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0186", "AR-Updates.nl 2022-0091", "VAAN-AR-Updates.nl 2022-0091", "PR-Updates.nl 2020-0186"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:661, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
 # ECLI:NL:GHAMS:2020:2930 Gerechtshof Amsterdam , 03-11-2020 / 200.250.384/01
