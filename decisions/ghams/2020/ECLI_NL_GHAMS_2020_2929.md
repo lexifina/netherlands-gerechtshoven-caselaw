@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:2929"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1365", "PR-Updates.nl PR-2020-0187", "PJ 2021/9 met annotatie van T. Huijg"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1365", "PR-Updates.nl PR-2020-0187", "PJ 2021/9 met annotatie van T. Huijg", "VAAN-AR-Updates.nl 2020-1365", "PR-Updates.nl 2020-0187"]
 ---
 
 # ECLI:NL:GHAMS:2020:2929 Gerechtshof Amsterdam , 03-11-2020 / 200.250.380/01
