@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3035"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0293", "PR-Updates.nl PR-2020-0193"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2020-0293", "PR-Updates.nl PR-2020-0193", "PR-Updates.nl 2020-0193"]
 ---
 
 # ECLI:NL:GHAMS:2020:3035 Gerechtshof Amsterdam , 03-11-2020 / 200.273.227/01 en 200.273.228/01
