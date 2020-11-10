@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3023"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1387", "PR-Updates.nl PR-2020-0181", "PJ 2021/3"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1387", "PR-Updates.nl PR-2020-0181", "PJ 2021/3", "VAAN-AR-Updates.nl 2020-1387", "PR-Updates.nl 2020-0181"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2022:930, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:GHAMS:2020:3023 Gerechtshof Amsterdam , 10-11-2020 / 200.262.745/01
