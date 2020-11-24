@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3367"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0011"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0011", "PR-Updates.nl 2021-0011"]
 ---
 
 # ECLI:NL:GHAMS:2020:3367 Gerechtshof Amsterdam , 24-11-2020 / 200.271.312/01
