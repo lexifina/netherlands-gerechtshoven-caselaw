@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:9921"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 04-12-2020", "V-N Vandaag 2020/3024", "FutD 2020-3682 met annotatie van Fiscaal up to Date", "NTFR 2021/208 met annotatie van mr. drs. E.J.H. Vermeulen", "Belastingadvies 2021/6.2", "V-N 2021/21.4 met annotatie van Redactie", "NLF 2021/0107 met annotatie van Jurgen Stormmesand"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:1354, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2020/3024", "Belastingadvies 2021/6.2", "V-N 2021/21.4", "NLF 2021/0107 met annotatie van Jurgen Stormmesand", "NTFR 2021/208 met annotatie van mr. drs. E.J.H. Vermeulen", "FutD 2020-3682", "Viditax (FutD) 2020120402"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:1354, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:557"]]
 ---
 
 # ECLI:NL:GHARL:2020:9921 Gerechtshof Arnhem-Leeuwarden , 24-11-2020 / 19/00522
