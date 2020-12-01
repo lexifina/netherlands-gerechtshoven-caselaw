@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenbeschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:9933"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0069"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0069", "PR-Updates.nl 2021-0069"]
 ---
 
 # ECLI:NL:GHARL:2020:9933 Gerechtshof Arnhem-Leeuwarden , 01-12-2020 / 200.254.608/01
