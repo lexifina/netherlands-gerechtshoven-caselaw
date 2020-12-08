@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:3767"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0021", "PJ 2021/17"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2019:5933"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0021", "PJ 2021/17", "PR-Updates.nl 2021-0021"]
 ---
 
 # ECLI:NL:GHSHE:2020:3767 Gerechtshof 's-Hertogenbosch , 08-12-2020 / 200.266.446_01
