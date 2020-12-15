@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2020:10526"
-published_in: ["Rechtspraak.nl", "Viditax (FutD), 28-12-2020", "FutD 2021-0015", "V-N Vandaag 2021/7", "NTFR 2021/271", "V-N 2021/11.23.1", "NLF 2021/0029 met annotatie van", "NLF 2021/0029 met annotatie van"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2020:817, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/7", "V-N 2021/11.23.1", "NLF 2021/0029", "NLF 2021/0029", "FutD 2021-0015", "Viditax (FutD) 2020122808"]
 ---
 
 # ECLI:NL:GHARL:2020:10526 Gerechtshof Arnhem-Leeuwarden , 15-12-2020 / 20/00450
