@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2020:3763"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0071", "ARO 2021/37", "PR-Updates.nl PR-2021-0019", "PJ 2021/18", "TRA 2021/38 met annotatie van L.C.J. Sprengers", "JONDR 2021/186"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0071", "ARO 2021/37", "PR-Updates.nl PR-2021-0019", "PJ 2021/18", "TRA 2021/38 met annotatie van L.C.J. Sprengers", "JONDR 2021/186", "VAAN-AR-Updates.nl 2021-0071", "PR-Updates.nl 2021-0019"]
 ---
 
 # ECLI:NL:GHAMS:2020:3763 Gerechtshof Amsterdam , 23-12-2020 / 200.287.354/01 OK
