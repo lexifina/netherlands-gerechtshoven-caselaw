@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2020:4006"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0018", "PJ 2021/28 met annotatie van W.P.M. Thijssen"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:4202"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:5587"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:1752"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:4310"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:1782"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:204"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0018", "PJ 2021/28 met annotatie van W.P.M. Thijssen", "JPF 2022/4", "PR-Updates.nl 2021-0018"]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:4202"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2016:5587"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2017:1752"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2018:4310"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:1782"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:204"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1080, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
 # ECLI:NL:GHSHE:2020:4006 Gerechtshof 's-Hertogenbosch , 24-12-2020 / 200.149.647_01 en 200.149.655_01
