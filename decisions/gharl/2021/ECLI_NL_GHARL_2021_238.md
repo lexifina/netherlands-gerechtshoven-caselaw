@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:238"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/153", "V-N 2021/699", "V-N 2021/17.24.4", "NLF 2021/0267 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/153", "V-N 2021/699", "V-N 2021/17.24.4", "NLF 2021/0267", "FutD 2021-0258", "Viditax (FutD) 2021012206"]
 ---
 
 # ECLI:NL:GHARL:2021:238 Gerechtshof Arnhem-Leeuwarden , 12-01-2021 / 19/01559
