@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:73"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0329", "PJ 2021/48", "PR-Updates.nl PR-2021-0067", "VAAN-AR-Updates.nl 2021-0329"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0329", "PJ 2021/48", "PR-Updates.nl PR-2021-0067", "VAAN-AR-Updates.nl 2021-0329", "PR-Updates.nl 2021-0067"]
 ---
 
 # ECLI:NL:GHAMS:2021:73 Gerechtshof Amsterdam , 19-01-2021 / 200.256.000/01
