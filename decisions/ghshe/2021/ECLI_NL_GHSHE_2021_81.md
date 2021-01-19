@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:81"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0101", "PR-Updates.nl PR-2021-0016", "PJ 2021/33", "VAAN-AR-Updates.nl 2021-0101"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0101", "PR-Updates.nl PR-2021-0016", "PJ 2021/33", "VAAN-AR-Updates.nl 2021-0101", "PR-Updates.nl 2021-0016"]
 ---
 
 # ECLI:NL:GHSHE:2021:81 Gerechtshof 's-Hertogenbosch , 19-01-2021 / 200.225.533_01
