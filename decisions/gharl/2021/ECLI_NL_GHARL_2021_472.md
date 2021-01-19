@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:472"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0099", "JAR 2021/47 met annotatie van mr. dr. A. Eleveld", "PR-Updates.nl PR-2021-0017", "PJ 2021/24", "VAAN-AR-Updates.nl 2021-0099"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0099", "JAR 2021/47 met annotatie van mr. dr. A. Eleveld", "PR-Updates.nl PR-2021-0017", "PJ 2021/24", "VAAN-AR-Updates.nl 2021-0099", "PR-Updates.nl 2021-0017"]
 ---
 
 # ECLI:NL:GHARL:2021:472 Gerechtshof Arnhem-Leeuwarden , 19-01-2021 / 200.272.538
