@@ -10,14 +10,14 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:2130"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2021:103"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:7430"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:10647"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2021:103"]]
 ---
 
 # ECLI:NL:GHDHA:2021:2130 Gerechtshof Den Haag , 26-01-2021 / 2200392619.vertaling
 
 ## Inhoudsindicatie
 
-Art. 68 CC; art. 96 paragraph 2 CC; art. 140a CC; art. 6 International Crime Act; CA 3 Geneva Conventions; ECTPCM. Conviction for participation in a terrorist organisation (IS) and for preparatory acts and for a war crime. Ne bis in idem principle and jurisdiction.
+Judgment of the national Dutch Court of Appeal in The Hague. Art. 68 CC; art. 96 paragraph 2 CC; art. 140a CC; art. 6 International Crime Act; CA 3 Geneva Conventions; ECTPCM. Conviction for participation in a terrorist organisation (IS) and for preparatory acts and for a war crime. Ne bis in idem principle and jurisdiction.
 
 ## Uitspraak
 
