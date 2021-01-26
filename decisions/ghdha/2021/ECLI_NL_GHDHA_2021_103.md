@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:103"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2021:2130"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:499"]]
+relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2021:2130"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:7430"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:10647"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:499"]]
 ---
 
 # ECLI:NL:GHDHA:2021:103 Gerechtshof Den Haag , 26-01-2021 / 2200392619
