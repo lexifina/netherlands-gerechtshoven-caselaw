@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:179"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2021-0035", "PR-Updates.nl PR-2021-0029", "PJ 2021/58 met annotatie van W.P.M. Thijssen"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2021-0035", "PR-Updates.nl PR-2021-0029", "PJ 2021/58 met annotatie van W.P.M. Thijssen", "PR-Updates.nl 2021-0029"]
 ---
 
 # ECLI:NL:GHDHA:2021:179 Gerechtshof Den Haag , 27-01-2021 / 200.270.439/01
