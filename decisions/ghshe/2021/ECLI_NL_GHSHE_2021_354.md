@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:354"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0033", "V-N Vandaag 2021/891", "PJ 2021/59", "Belastingadvies 2021/14.3"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0033", "V-N Vandaag 2021/891", "PJ 2021/59", "Belastingadvies 2021/14.3", "PR-Updates.nl 2021-0033"]
 ---
 
 # ECLI:NL:GHSHE:2021:354 Gerechtshof 's-Hertogenbosch , 09-02-2021 / 200.249.268_01
