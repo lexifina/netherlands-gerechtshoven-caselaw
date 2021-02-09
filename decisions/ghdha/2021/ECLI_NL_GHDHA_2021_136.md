@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:136"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0036", "PJ 2021/34 met annotatie van T. Huijg"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0036", "PJ 2021/34 met annotatie van T. Huijg", "PR-Updates.nl 2021-0036"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:3875, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1234, Bekrachtiging/bevestiging"]]
 ---
 
