@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:458"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0210", "PR-Updates.nl PR-2021-0048", "PJ 2021/53", "VAAN-AR-Updates.nl 2021-0210"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0210", "PR-Updates.nl PR-2021-0048", "PJ 2021/53", "VAAN-AR-Updates.nl 2021-0210", "PR-Updates.nl 2021-0048"]
 ---
 
 # ECLI:NL:GHAMS:2021:458 Gerechtshof Amsterdam , 09-02-2021 / 200.270.051/01
