@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:510"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0065", "PJ 2021/71 met annotatie van J. van Slooten"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0065", "PJ 2021/71 met annotatie van J. van Slooten", "PR-Updates.nl 2021-0065"]
 ---
 
 # ECLI:NL:GHAMS:2021:510 Gerechtshof Amsterdam , 16-02-2021 / 200.256.860/01
