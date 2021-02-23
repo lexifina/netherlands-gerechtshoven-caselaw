@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:1686"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0034"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0034", "PR-Updates.nl 2021-0034"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1435, Bekrachtiging/bevestiging"]]
 ---
 
