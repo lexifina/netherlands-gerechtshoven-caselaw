@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:326"
-published_in: ["Rechtspraak.nl", "PJ 2021/60", "PR-Updates.nl PR-2021-0064", "EB 2021/51"]
+published_in: ["Rechtspraak.nl", "PJ 2021/60", "PR-Updates.nl PR-2021-0064", "EB 2021/51", "PR-Updates.nl 2021-0064"]
 ---
 
 # ECLI:NL:GHDHA:2021:326 Gerechtshof Den Haag , 23-02-2021 / 200.277.567/01
