@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:1692"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0042", "PJ 2021/36"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0042", "PJ 2021/36", "PR-Updates.nl 2021-0042"]
 ---
 
 # ECLI:NL:GHARL:2021:1692 Gerechtshof Arnhem-Leeuwarden , 23-02-2021 / 200.255.961
