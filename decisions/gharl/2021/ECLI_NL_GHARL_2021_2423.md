@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:2423"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/803", "PR-Updates.nl PR-2021-0059", "Belastingadvies 2021/12.2", "RFR 2021/85"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/803", "PR-Updates.nl PR-2021-0059", "Belastingadvies 2021/12.2", "RFR 2021/85", "FutD 2021-1104", "Viditax (FutD) 2021032907", "PR-Updates.nl 2021-0059"]
 ---
 
 # ECLI:NL:GHARL:2021:2423 Gerechtshof Arnhem-Leeuwarden , 09-03-2021 / 200.274.908/01
