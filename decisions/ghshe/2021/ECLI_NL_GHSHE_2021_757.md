@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:757"
-published_in: ["Rechtspraak.nl", "PJ 2021/62", "PR-Updates.nl PR-2021-0088"]
+published_in: ["Rechtspraak.nl", "PJ 2021/62", "PR-Updates.nl PR-2021-0088", "PR-Updates.nl 2021-0088"]
 relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2018:1213"]]
 ---
 
