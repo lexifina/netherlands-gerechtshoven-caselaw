@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:875"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2158", "NLF 2021/1830", "V-N 2021/44.13 met annotatie van Redactie", "NTFR 2021/3389 met annotatie van Mr. K.M.G. Demandt", "Viditax (FutD) 2021091511", "FutD 2021-2909"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2158", "NLF 2021/1830", "V-N 2021/44.13", "NTFR 2021/3389 met annotatie van Mr. K.M.G. Demandt", "Viditax (FutD) 2021091511", "FutD 2021-2909"]
 ---
 
 # ECLI:NL:GHAMS:2021:875 Gerechtshof Amsterdam , 25-03-2021 / 20/00118
