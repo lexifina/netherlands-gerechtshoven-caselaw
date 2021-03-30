@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:909"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0692", "JAR 2021/153 met annotatie van Kanen, B.C.L.", "PR-Updates.nl PR-2021-0117", "PJ 2021/95", "VAAN-AR-Updates.nl 2021-0692"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0692", "JAR 2021/153 met annotatie van Kanen, B.C.L.", "PR-Updates.nl PR-2021-0117", "PJ 2021/95", "VAAN-AR-Updates.nl 2021-0692", "PR-Updates.nl 2021-0117"]
 ---
 
 # ECLI:NL:GHAMS:2021:909 Gerechtshof Amsterdam , 30-03-2021 / 200.263.601/01
