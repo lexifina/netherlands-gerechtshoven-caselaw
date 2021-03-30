@@ -1,0 +1,251 @@
+---
+ecli: "ECLI:NL:GHARL:2021:3033"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "200.253.787"
+decided: "2021-03-30"
+published: "2021-03-30"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:3033"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHARL:2021:3033 Gerechtshof Arnhem-Leeuwarden , 30-03-2021 / 200.253.787
+
+## Inhoudsindicatie
+
+Koopgarantregeling: geen dwaling, geen toerekenbare tekortkoming, geen onrechtmatig handelen, beroep op terugkoopregeling niet naar maatstaven van redelijkheid en billijkheid onaanvaardbaar, geen onredelijk bezwarend beding en geen onvoorziene omstandigheden. Ambtshalve: geen sprake van een oneerlijke handelspraktijk.
+
+## Uitspraak
+
+GERECHTSHOF ARNHEM-LEEUWARDEN
+
+locatie Arnhem
+
+afdeling civiel recht, handel
+
+zaaknummer gerechtshof 200.253.787
+
+(zaaknummer rechtbank Gelderland, zittingsplaats Arnhem, NL18.3150)
+
+arrest van 30 maart 2021
+
+in de zaak van
+
+[appellant]
+,
+
+wonende te [A] ,
+
+appellant,
+
+in eerste aanleg: eiser,
+
+hierna: [appellant] ,
+
+advocaat: mr. S.H. van Loon,
+
+tegen
+
+de stichting
+
+Stichting Christelijke Woningcorporatie,
+
+gevestigd te Tiel,
+
+geïntimeerde,
+
+in eerste aanleg: verweerster,
+
+hierna: SCW,
+
+advocaat: mr. T.A. Vermeulen.
+
+1
+Het verdere verloop van het geding in hoger beroep
+
+1.1
+
+Het verdere verloop van de procedure blijkt uit:
+
+- het arrest van 24 maart 2020 waarin een meervoudige comparitie van partijen is bepaald;
+
+- het proces-verbaal van de op 9 december 2020 gehouden meervoudige comparitie van partijen, waaraan de spreekaantekeningen van mr. Van Loon zijn gehecht.
+
+1.2
+
+Vervolgens heeft het hof arrest bepaald op de door [appellant] overgelegde stukken.
+
+2
+De feiten
+
+Het hof gaat uit van de feiten die de rechtbank in het vonnis van 10 oktober 2018 (hierna: het vonnis) onder 2.1 tot en met 2.10 heeft vastgesteld (het hof verwijst voor de relevante bepalingen van de Koopgarantregeling naar een vergelijkbare zaak die is gepubliceerd onder ECLI:NL:RBGEL:2018:2345). Met grief 1 richt [appellant] zich op de onvolledigheid van de opgenomen feiten, maar niet tegen de feitenvaststelling zelf. Voor zover van belang zal het hof hierna bij zijn beoordeling nog op de niet door de rechtbank vastgestelde feiten ingaan. Voor zover grief 1 zich richt tegen de onjuiste waardering door de rechtbank van de vastgestelde feiten zal het hof, voor zover nodig, hierop bij de beoordeling ingaan.
+
+3
+De verdere beoordeling van het geschil in hoger beroep
+
+3.1
+
+Deze zaak gaat, kort gezegd, over het volgende. [appellant] heeft op 23 augustus 2010 met SCW een overeenkomst gesloten tot aankoop van appartementsrechten (hierna: de koopovereenkomst), te weten tot vestiging van erfpacht ten behoeve van [appellant] op een perceel grond met de rechten op de daarop te bouwen opstallen (hierna: de woning). De woning maakt onderdeel uit van het project Hof van Walburg te Tiel. De woning is verkocht met toepassing van het concept Koopgarant. SCW heeft dit concept in licentie verkregen van de Stichting Opmaat. De Koopgarantregeling houdt, samengevat, in dat op de getaxeerde marktwaarde van de woning bij aankoop een korting wordt verleend. Voor [appellant] bedroeg die korting 25%, waardoor hij de woning heeft kunnen kopen voor afgerond € 152.813 (de uitgifteprijs, alle hierna vermelde bedragen zijn afgeronde bedragen), terwijl de getaxeerde waarde € 203.750 (hierna: verkoopwaarde of marktwaarde, ook wel in de stukken met onderhandse verkoopwaarde of koop- en aanneemsom aangeduid) bedroeg. Op grond van de Koopgarantregeling bestaat er, onder meer, een zelfbewoningsplicht, een verplichting om de woning te koop aan te bieden op basis van een terugkoopformule aan de woningcorporatie (de zogeheten terugkoopregeling), een terugkoopverplichting van de woningcorporatie en een regeling omtrent een evenredige verdeling van het waardeverschil bij terugkoop. Voor [appellant] bedroeg dat aandeel 62,5%. Op 8 februari 2017 heeft [appellant] de woning aan SCW terugverkocht en geleverd, waarbij de terugkoopprijs is bepaald op € 141.719, hetgeen resulteert in een negatieve waardeontwikkeling voor [appellant] van € 15.656.
+
+3.2.
+
+Bij de rechtbank heeft [appellant] , samengevat, het volgende gevorderd:
+
+- primair: voor recht te verklaren dat [appellant] heeft gedwaald als bedoeld in artikel 6:228 jo 6:74 BW bij het sluiten van de koopovereenkomst met betrekking tot de woning en SCW te veroordelen tot vergoeding van de door [appellant] als gevolg van voormelde dwaling geleden schade (nader op te maken bij staat) ter opheffing van het nadeel dat [appellant] door de dwaling geleden heeft;
+
+- subsidiair: voor recht te verklaren dat SCW toerekenbaar is tekortgeschoten in de nakoming van de met [appellant] gesloten koopovereenkomst en SCW verplicht is de schade (nader op te maken bij staat) van [appellant] te vergoeden;
+
+- meer-subsidiair: voor recht te verklaren da SCW onrechtmatig heeft gehandeld en zij uit dien hoofd verplicht is de schade (nader op te maken bij staat) van [appellant] te vergoeden;
+
+- uiterst subsidiair: voor recht te verklaren dat de schade die [appellant] door het handelen van SCW lijdt op grond van de beperkende werking van de redelijkheid en billijkheid voor rekening van SCW komt, met de verplichting deze schade (nader op te maken bij staat) aan [appellant] te vergoeden; met in alle gevallen veroordeling van SCW in de kosten.
+
+De rechtbank heeft de vorderingen van [appellant] afgewezen en hem in de kosten veroordeeld.
+
+3.3
+
+[appellant] is met tien grieven tegen het vonnis in hoger beroep gekomen en heeft daarbij (al dan niet in de toelichting op sommige grieven) verzocht om een deskundige te benoemen en daartoe zijn eis gewijzigd. [appellant] vordert thans ook dat het hof een deskundige benoemt en voor recht verklaart dat indien uit het deskundigenrapport blijkt dat de waarde van de woning in 2010 onjuist/te hoog is vastgesteld, SCW gehouden is de schade die daardoor is ontstaan aan [appellant] te vergoeden, alsook de kosten van de deskundige.
+
+Het hof ziet aanleiding om de grieven niet in de gepresenteerde volgorde te behandelen.
+
+Toerekenbare tekortkoming en onrechtmatige daad (grief 5)
+
+3.4
+
+[appellant] keert zich met grief 5 tegen de afwijzing door de rechtbank van zijn vordering op grond van een toerekenbare tekortkoming dan wel onrechtmatige daad. Kern van de verwijten is dat [appellant] stelt dat a) SCW bij het aangaan van de koopovereenkomst in 2010 haar mededelingsplicht heeft geschonden, waardoor [appellant] , samengevat, niet heeft begrepen dat de koperskorting geen onvoorwaardelijke korting was en b) dat de taxatie bij uitgifte was gebaseerd op een waardeverklaring (een niet-onderbouwde prijslijst) hetgeen in strijd is met de Koopgarantregeling en bovendien geen adequaat taxatiemiddel is. Anders dan de rechtbank heeft aangenomen, lag het niet op de weg van [appellant] om uitleg te vragen omdat hij vertrouwde op de mededelingen van SCW en daarop ook mocht vertrouwen.
+
+3.5
+
+SCW heeft als meest verstrekkend verweer aangevoerd tegen de vordering op grond van een toerekenbare tekortkoming dat deze is verjaard. Daarnaast heeft SCW gemotiveerd betwist dat sprake is van een toerekenbare tekortkoming of onrechtmatig handelen aan haar zijde bij het aangaan van de koopovereenkomst. Sterk samengevat betwist SCW dat zij niet zou hebben voldaan aan haar mededelingsplicht, te meer omdat alle relevante zaken in de koopovereenkomst zijn opgenomen en zij in de verkoopbrochure en verkoopgesprekken door haar makelaar voldoende toelichting heeft gegeven. SCW betwist dat [appellant] niet over informatiemateriaal de beschikking had, omdat de advocaat van [appellant] in zijn brief van 18 januari 2018 SCW juist verwijt dat [appellant] op grond van het informatiemateriaal op het verkeerde been is gezet. Bij onduidelijkheden had het op de weg van [appellant] gelegen om die te verifiëren. Dit geldt zeker voor het standpunt van [appellant] dat hij de korting van ruim € 50.000 als onvoorwaardelijk geschenk mocht opvatten. De waardeverklaring is het schriftelijk vastleggen van het resultaat van een taxatie, een wijze van rapporteren, en niet strijdig met de Koopgarantregeling, aldus SCW.
+
+3.6
+
+Het hof oordeelt als volgt. Een rechtsvordering gebaseerd op een (toerekenbare) tekortkoming verjaart vijf jaar na de aanvang van de dag volgend op die waarop de schuldeiser met de tekortkoming bekend is geworden (artikel 3:311 lid 1 BW). Het hof is van oordeel dat de vordering van [appellant] gebaseerd op de door hem gestelde toerekenbare tekortkomingen is verjaard en acht daartoe het volgende redengevend. De verjaringstermijn is gaan lopen vanaf de dag volgend waarop [appellant] de koopovereenkomst heeft getekend, dus vanaf 23 augustus 2010. De verjaring is derhalve voltooid op 23 augustus 2015. Uit de verklaring van [appellant] ter zitting gedaan, volgt dat hij denkt dat bij de aankoop in 2010 vast wel tegen hem gezegd zal zijn dat hij de woning alleen aan SCW mocht terugverkopen, en dat hij dat geen probleem vond. Hij leefde in de veronderstelling dat hij de korting niet zou hoeven terug te betalen en hij heeft niet stilgestaan bij de vraag waarom hij die korting kreeg. Ook was hem mondeling gezegd dat hij tien jaar in de woning moest blijven wonen en hij bij eerdere verkoop een boete moest betalen. Verder heeft hij verklaard dat hij niet zo van de risico's is, hij er geen verstand van had en mensen wel eens wat liet lezen voordat hij verplichtingen aanging. Hij had verwacht dat hij bij verkoop van de woning ongeveer quitte zou spelen, wellicht een winst of verlies van € 10.000. Het hof is van oordeel dat [appellant] vaag, tegenstrijdig en in algemene bewoordingen heeft verklaard over de informatie die bij hem bekend was bij aankoop van de woning. Zo heeft [appellant] niet toegelicht op grond waarvan bij hem de - overigens onjuiste - gedachte heeft post kunnen vatten dat hij een boete zou zijn verschuldigd indien hij korter dan tien jaar na aankoop zijn woning aan SCW zou terugverkopen. Daarvan is immers in de Koopgarantregeling geen sprake. Het hof is van oordeel dat [appellant] in onvoldoende mate heeft betwist dat hij niet over informatie beschikte voor de aankoop van de woning: uit de brief van 16 januari 2018 van zijn advocaat volgt immers dat hij wel over een verkoopbrochure beschikte, hetgeen hij niet in voldoende mate heeft betwist. Ook heeft hij ter zitting verklaard dat hij voor de aankoop met verschillende mensen van Dolron Makelaars heeft gesproken. Dat hij (het gevoel had dat hij) onder druk stond om te tekenen, heeft [appellant] niet voldoende onderbouwd. En ook als dit het geval zou zijn geweest dan zou [appellant] vrij zijn geweest om van de koop af te zien. Ook heeft hij geen gebruik gemaakt om de koop van de woning te ontbinden.
+
+Het hof is derhalve van oordeel dat [appellant] bij het sluiten van de koopovereenkomst in voldoende mate geïnformeerd is over de Koopgarantregeling, dat hij inzicht had in de marktwaarde en de uitgifteprijs en ook overigens bekend was met de contractuele bepalingen. In de door hem ondertekende akte van levering bevat artikel 11 de Koopgarantbepalingen, waar in groot detail de onderdelen van de Koopgarantregeling uiteen worden gezet. In de koopovereenkomst is in artikel 19 de vaststelling van de verkoopwaarde en uitgifteprijs opgenomen, met verwijzing naar de Koopgarantbepalingen. Daarnaast heeft [appellant] een leeswijzer in verband met de erfpacht- en koopgarantbepalingen ondertekend.
+
+3.7
+
+Met betrekking tot de gestelde tekortkoming inzake het gebruik van een waardeverklaring bij de taxatie overweegt het hof als volgt. Het hof blijft bij zijn oordeel (zie onder 3.20 en 3.21 van het arrest van 3 november 2020, ECLI:NL:GHARL:2020:8980) dat het gebruik van de waardeverklaring niet in strijd is met de Koopgarantregeling, waarin is opgenomen wat de waarderingsgrondslag is (onderhandse verkoopwaarde, vrij van huur en gebruik) en dat van een afwerkingsstaat wordt uitgegaan zoals opgenomen in de technische verkoopdocumentatie omdat het hier ging om een nog nieuw te bouwen woning. Het voorgaande leidt tot de conclusie dat [appellant] bij aankoop van de woning bekend was met de contractuele bepalingen van de Koopgarantregeling, zowel wat betreft de koperskorting als de waardeverklaring. Het voorgaande leidt tot de conclusie dat [appellant] bij aankoop van de woning bekend was met de contractuele bepalingen van de Koopgarantregeling, zowel wat betreft de koperskorting als de waardeverklaring en dat deze vorderingen voor zover gebaseerd op toerekenbare tekortkoming (zowel onder a) als b)) zijn verjaard.
+
+3.8
+
+Voor zover de stellingen van [appellant] zo moeten worden begrepen dat  hij vindt dat SCW onrechtmatig heeft gehandeld, dan heeft [appellant] zijn stellingen onvoldoende onderbouwd. Het had op de weg van [appellant] gelegen om nauwkeurig te stellen waaruit het onrechtmatig handelen van SCW ten aanzien van de koperskorting en de taxatie heeft bestaan. De enkele vermelding dat "ook sprake" is van onrechtmatig handelen van SCW, onder verwijzing naar hetgeen in het kader van de toerekenbare tekortkoming is gesteld, is daartoe onvoldoende. Ook tijdens de zitting bij het hof heeft [appellant] op dit onderdeel geen nadere toelichting heeft gegeven. Eerder lijkt [appellant] teleurgesteld te zijn over wat hij bij terugverkoop aan SCW voor de woning heeft ontvangen.
+
+Het verwijt dat [appellant] SCW in hoger beroep lijkt te maken dat niet kon worden volstaan met een waardeverklaring/taxatierapport dat niet is gevalideerd door het Nederlands Woning Waarde Instituut (NWWI) heeft SCW voldoende gemotiveerd weersproken, te weten dat een validatie door het NWWI niet is overeengekomen en een dergelijke verplichting bij het aangaan van de koopovereenkomst in 2010 ook nog niet bestond.
+
+3.9
+
+Voor zover [appellant] heeft bedoeld te stellen dat uit een door Stichting OpMaat in 2017 opgesteld memo volgt dat bij de Koopgarantregeling mogelijk procedurele fouten zijn gemaakt in de taxatie, dan kan dit niet dienen ter onderbouwing van enig onrechtmatig handelen van SCW. Er doet zich immers bij [appellant] niet een situatie voor zoals in het memo van Stichting OpMaat wordt genoemd. [appellant] heeft dat ook niet gesteld. Evenmin kan het benoemen van de door ACM geuite kritiek op de term "korting" in de kopersinformatie en het vervolgens aanpassen door Stichting OpMaat van de informatie op haar website en brochures, zonder nadere toelichting die [appellant] niet heeft gegeven, leiden tot het aannemen van onrechtmatig handelen door SCW. Grief 5 faalt.
+
+Dwaling (grief 6)en eiswijziging: verzoek benoeming deskundige
+
+3.10
+
+Grief 6 richt zich tegen de afwijzing door de rechtbank van het beroep van [appellant] op dwaling. [appellant] stelt, samengevat, dat hij heeft gedwaald over de werking van de koperskorting in de Koopgarantregeling. Dit wordt, volgens hem, ook bevestigd door de uitlating van de ACM en de memo's van de Stichting Opmaat in 2017. Ook heeft hij gedwaald over de wijze waarop de marktwaarde bij uitgifte is vastgesteld. Volgens [appellant] is de marktwaarde bij aankoop niet alleen in strijd met de Koopgarantregeling vastgesteld door het hanteren van een waardeverklaring, maar ook te hoog gelet op de ontwikkelingen op de huizenmarkt in de periode 2010 tot 2017. Indien [appellant] had geweten dat de koperskorting geen onvoorwaardelijke korting was dan had hij de koopovereenkomst niet gesloten. SCW heeft hem onjuiste informatie verstrekt. Reden waarom [appellant] het hof verzoek om op grond van artikel 6:230 BW te bepalen dat SCW de schade moet vergoeden ter opheffing van het nadeel in verband met zijn dwaling over de marktwaarde bij aankoop in 2010.
+
+3.11
+
+SCW heeft tegen het beroep op dwaling van [appellant] het volgende, samengevat, aangevoerd. Zij betwist dat zij haar mededelingsplicht heeft geschonden. Zij heeft aan [appellant] een verkoopbrochure verstrekt waarin de Koopgarantregeling wordt uitgelegd, [appellant] beschikte bij het aangaan van de koopovereenkomst over de koopovereenkomst en akte van levering waarin de Koopgarantbepalingen zijn opgenomen. [appellant] heeft het taxatierapport niet laten toetsen. Indien [appellant] het niet eens zou zijn geweest met de getaxeerde waarde, dan had hij bij terugkoop een beroep op geschillenregeling kunnen doen, hetgeen hij heeft nagelaten. In het geval hij een onjuiste voorstelling van zaken had, dan dient dat daarom voor zijn rekening te blijven. Ook wijst SCW erop dat de vordering van [appellant] tot wijziging van de overeenkomst op grond van artikel 6:230 BW niet kan slagen nu een gemist voordeel geen nadeel is in de zin van genoemd artikel.
+
+3.12
+
+Het hof is van oordeel dat het beroep op dwaling (als bedoeld in artikel 6:228 lid 1 aanhef en onder a en b BW) niet slaagt en acht daartoe het volgende redengevend. Voor een geslaagd beroep op dwaling is beslissend dat de partij die zich op dwaling beroept, een overeenkomst is aangegaan die zij bij juiste voorstelling van zaken niet, of niet op dezelfde voorwaarden zou zijn aangegaan (vergelijk ECLI:NL:HR:2020:717). Het gebruik van de term koperskorting is niet te beschouwen als een onjuiste mededeling van SCW, nu [appellant] ook daadwerkelijk een korting bij de aankoop van de woning heeft gekregen en juist die korting het mogelijk maakte om de woning te kopen met de bij hem beschikbare financieringsruimte. Anders dan [appellant] stelt is er geen sprake van verrekening van de koperskorting maar gaat het erom dat hij voor 62,5 % meedeelt in het verschil in stijging of daling tussen de verkoopwaarde in 2010 en bij terugverkoop in 2017. Hoe de terugkoopprijs wordt berekend, is in voldoende duidelijke bewoordingen opgenomen in de koopovereenkomst en akte van levering. Daarbij is de verkoopwaarde het uitgangspunt voor de bepaling van de terugkoopsom. Zoals hiervoor overwogen, is het voldoende aannemelijk dat [appellant] , voorafgaand aan het sluiten van de koopovereenkomst, over de brochure beschikte. Ter zitting bleek dat [appellant] niet zo over de koperskorting had nagedacht en dat hij het een "mooie" korting vond. Hij heeft verklaard dat hij de korting kreeg omdat hij aan de voorwaarden voldeed, onder meer dat hij een vast dienstverband moest hebben, hetgeen het geval was. [appellant] heeft daarmee in onvoldoende mate gesteld dat hij bij de aankoop ervan overtuigd was dat hij dit bedrag cadeau zou krijgen van SCW. Eerder lijkt het erop dat hij er niet zo over heeft nagedacht. Verder beaamde [appellant] dat hij zich had gerealiseerd dat hij de woning onder speciale voorwaarden had gekocht zoals de terugkoopverplichting aan SCW en de afspraak dat hij bij terugverkoop een mogelijke winst of verlies tegen een vooraf overeengekomen percentage met SCW moest delen. De uitlatingen van [appellant] ter zitting ondersteunen niet zijn beroep op dwaling bij het aangaan van de koopovereenkomst. Die uitlatingen lijken eerder over zijn teleurstelling te gaan dat hij in 2017 minder voor de woning bij terugkoop heeft gekregen dan hij had gehoopt. Voor zover [appellant] ten tijde van de aankoop van de woning in een onjuiste veronderstelling verkeerde, is dat niet te wijten aan een schending van een mededelingsplicht door SCW en moet dit voor zijn rekening blijven.
+
+3.13
+
+Voor zover [appellant] stelt dat hij heeft gedwaald omdat hem niet duidelijk was
+
+volgens welke waarderingsmethode is getaxeerd, is het hof van oordeel dat hij deze stelling onvoldoende heeft onderbouwd. In de waardeverklaring is opgenomen dat bij de taxatie is uitgegaan van de onderhandse verkoopwaarde vrij van huur en/of gebruik. Deze waarderingsgrondslag is ook opgenomen in de Koopgarantbepalingen (inclusief vermelding dat wordt uitgegaan van de afwerkingsstaat in de technische verkoopdocumentatie). [appellant] heeft onvoldoende onderbouwd welke onjuiste voorstelling van zaken hij had, die hem (bij een juiste voorstelling van zaken) zou hebben weerhouden om de koopovereenkomst aan te gaan. Hij was immers bekend met de verkoopwaarde van de woning en heeft die, nadat de koperskorting daarvan was afgetrokken, aanvaard. Het bij memorie van grieven (productie 6) overgelegde rapport van Gruntjes kan dit beroep op dwaling, mede gelet op de gemotiveerde betwisting door SCW, ook niet ondersteunen, al is het alleen al omdat dat rapport betrekking heeft op (andersoortige) woningen in Apeldoorn.
+
+3.14
+
+Tot slot stelt [appellant] dat hij heeft gedwaald over de juistheid van de marktwaarde bij aankoop, gelet op de marktontwikkelingen daarna. Ook hierin volgt het hof [appellant] niet. Zoals hiervoor reeds geoordeeld, is het opmaken van een waardeverklaring in plaats van een taxatierapport niet in strijd met de Koopgarantregeling. Dat in 2010 sprake zou zijn geweest van een taxateur die niet voldoende afhankelijk was (in de zin van het memo van 9 januari 2017 van Stichting Opmaat) heeft [appellant] in onvoldoende mate onderbouwd en is ook niet gebleken. Het eveneens bij memorie van grieven (productie 8) overgelegde deskundigenbericht dat door een door de rechtbank Gelderland benoemde deskundige (in een andere zaak als de onderhavige) op 5 december 2018 is uitgebracht acht het hof ook geen voldoende onderbouwing. Uit dit rapport volgt juist dat ten aanzien van vier van de vijf door hem onderzochte woningen het waardeonderzoek door de deskundige een hogere taxatiewaarde opleverde dan de waarde ten tijde van de uitgifte. De deskundige geeft ook in zijn rapport aan dat de hypothese dat er bij uitgifte een te hoge (niet marktconforme) marktwaarde is toegekend niet wordt bevestigd. Nog daargelaten dat dit rapport niet ziet op de woning van [appellant] , toont het de onjuistheid van de stellingen van [appellant] op dit punt aan.
+
+Het hof is mede daarom van oordeel dat [appellant] onvoldoende heeft gesteld om aannemelijk te kunnen achten dat de taxatie van de marktwaarde van de woning bij aankoop door [appellant] niet marktconform was. Het hof merkt op dat [appellant] zich uitsluitend op dwaling heeft beroepen ten aanzien van de hoogte van de marktwaarde door een onjuiste taxatie bij aankoop en niet op het moment van terugkoop.
+
+Het hof ziet dan ook geen aanleiding om een deskundige te benomen om een hertaxatie (van de waarde bij aankoop) uit te voeren, zoals [appellant] in zijn eiswijziging in hoger beroep heeft verzocht. De conclusie is dan ook dat het beroep van [appellant] op dwaling over de hoogte van de marktwaarde door een onjuiste taxatie wordt afgewezen. Gelet op het oordeel van het hof wordt ook niet toegekomen aan de op de dwaling gerelateerde vordering op grond van artikel 6:230 BW. Grief 6 faalt en de vordering tot benoeming van een deskundige wordt afgewezen.
+
+Redelijkheid en billijkheid (grief 7)
+
+3.15
+
+Met grief 7 maakt [appellant] bezwaar tegen de afwijzing door de rechtbank in r.o. 4.8 op zijn beroep op de beperkende werking van de redelijkheid en billijkheid. [appellant] verwijst daarbij naar de argumenten die hij heeft aangevoerd bij zijn beroep op toerekenbare tekortkoming c.q. dwaling. Onder verwijzing naar de Haviltexnorm betoogt [appellant] dat hij bij de aankoop niet had begrepen dat de koperskorting bij terugverkoop zou worden verrekend. Het beroep van SCW op de terugkoopregeling is onder die omstandigheden onaanvaardbaar.
+
+3.16
+
+SCW betwist dat het mislopen van een voordeel bij de verkoop van de woning naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is. De waardedaling is niet het gevolg van de koopovereenkomst maar van de crisis op de woningmarkt. Het nadeel dat [appellant] heeft ondervonden was veel groter geweest zonder de Koopgarantregeling omdat SCW 37,5% van de negatieve waardeontwikkeling voor haar rekening heeft genomen.
+
+3.17
+
+Het hof overweegt dat het aan [appellant] is om te stellen en te onderbouwen dat de terugkoopregeling (in het bijzonder artikel 11 van de akte van levering) naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is. Dat heeft [appellant] niet voldoende gedaan. Een verwijzing naar de andere grieven is daartoe onvoldoende. De door hem gestelde aanvullende feiten en omstandigheden voor deze grondslag komen er in feite op neer dat hij had gehoopt een voordeel bij de terugverkoop van de woning te behalen, hetgeen niet het geval is gebleken. Dit alleen is onvoldoende om zijn om zijn beroep op de beperkende werking van de redelijkheid en billijkheid te kunnen rechtvaardigen. Het had op de weg van [appellant] gelegen om te stellen waarom hij thans van oordeel is dat het naar maatstaven van redelijkheid en billijkheid onaanvaardbaar is dat SCW het bij aankoop verleende voordeel van ruim € 50.000 bij terugkoop niet zou kunnen afwikkelen op de wijze zoals in de Koopgarantbepalingen was opgenomen. Het oordeel van de rechtbank blijft dus in stand. Grief 7 faalt.
+
+Overig (grieven 2, 3, 4 ,8, 9 en 10)
+
+3.18
+
+Gelet op het voorgaande hoeft het hof het bezwaar van [appellant] dat de rechtbank geen volledig juiste beschrijving van de vordering van [appellant] (r.o. 3.2) en van de Koopgarantregeling (r.o. 4.1) heeft gegeven niet meer separaat te beoordelen, nu hetgeen in de toelichting op grief 2 en grief 3 is aangevoerd, hiervoor aan bod is gekomen dan wel de beoordeling niet anders maakt. In het bijzonder heeft het hof reeds geoordeeld dat met de wijze waarop SCW de taxatie (waardeverklaring) bij uitgifte heeft gedaan niet in strijd is met de Koopgarantregeling, zodat de bezwaren van [appellant] tegen de uitvoering door SCW daarvan geen stand houden. Deze grieven kunnen dus ook niet tot vernietiging van het vonnis leiden. Ter zitting heeft [appellant] grief 4 gericht tegen het oordeel van de rechtbank over de vordering gebaseerd op schending van de Wft ingetrokken, zodat ook deze grief geen beoordeling meer behoeft. Grief 8 keert zich tegen het oordeel van de rechtbank (r.o. 4.8) dat er geen plaats is voor opheffing van het door [appellant] geleden nadeel, dan wel schadevergoeding. Het hof verwijst naar het hiervoor gegeven oordeel, waardoor aan grief 8 geen zelfstandige betekenis meer toekomt. Ook aan grief 9 wordt niet meer toegekomen nu het hof hiervoor zich reeds heeft uitgesproken over de aankooptaxatie.
+
+3.19
+
+Aan grief 10 gericht tegen de proceskostenveroordeling van [appellant] in eerste aanleg komt geen zelfstandige betekenis meer toe nu het hof het vonnis van de rechtbank zal bekrachtigen.
+
+3.20
+
+[appellant] heeft bewijs aangeboden van al zijn stellingen door alle middelen rechtens. Dat is onvoldoende gespecificeerd. Hij heeft geen bewijs aangeboden van feiten en/of omstandigheden die, indien bewezen, tot een andere beslissing zouden moeten leiden. Daarom wordt zijn bewijsaanbod gepasseerd.
+
+Ambtshalve toetsing
+
+3.21
+
+Alhoewel [appellant] hierop geen beroep heeft gedaan heeft het hof zich ambtshalve de vraag gesteld of de Koopgarantbepalingen als onredelijk bezwarend bedingen althans oneerlijk in de zin van de Richtlijn 93/13/EEG betreffende oneerlijke bedingen in consumentenovereenkomsten (hierna: de Richtlijn) moeten worden aangemerkt. Het hof oordeelt hierover als volgt.
+
+3.22
+
+Op grond van artikel 6:231 aanhef en onder a BW zijn bedingen die de kern van de prestaties aangeven, geen algemene voorwaarden voor zover deze laatstgenoemde bedingen duidelijk en begrijpelijk zijn geformuleerd. Het hof is van oordeel dat artikel 11 (deels geciteerd in het vonnis onder 2.4) een kernbeding is nu hierin de kern van de prestatie van de Koopgarantregeling is opgenomen, zonder welke de overeenkomst niet tot stand kan komen. Artikel 11 is daarmee geen algemene voorwaarde in de zin van afdeling 6.5.3 BW, zodat een oneerlijkheidstoets als daar bedoeld niet aan de orde is.
+
+Een kernbeding moet duidelijk en begrijpelijk zijn geformuleerd (vergelijk de conclusie van 8 mei 2020 van A-G Hartlief, ECLI:NL:PHR:2020:455). Dit transparantievereiste is van belang in de periode voorafgaand aan het sluiten van de overeenkomst, omdat het voor de consument van wezenlijk belang is dat hij vooraf kennis neemt van alle contractvoorwaarden en de gevolgen van de sluiting van de overeenkomst, zodat hij op basis daarvan kan beslissen of hij de overeenkomst wenst aan te gaan. Dit vereiste moet, gezien het feit dat de consument zich tegenover de verkoper in een zwakke positie bevindt en met name over minder informatie beschikt, ruim worden uitgelegd. Daarom volstaat grammaticale en taalkundige begrijpelijkheid niet. Het beding moet zodanig transparant zijn dat een normaal geïnformeerde en redelijk omzichtige en oplettende gemiddelde consument, op grond van duidelijke en begrijpelijke criteria, de economische gevolgen die er voor hem uit voortvloeien ten tijde van het sluiten van de overeenkomst kan voorzien. Hierbij spelen alle omstandigheden van het geval een rol (zie HvJEU 23 april 2015, C96/14, EU:C:2015:262 (Van Hove)).
+
+Naar het oordeel van het hof is in het licht van het voorgaand toetsingskader aan het transparantievereiste voldaan. In artikel 11 is onder overzichtelijke kopjes de Koopgarant regeling stap voor stap weergegeven en is het percentage van de korting alsook het aandeel in het waardeverschil van [appellant] bij terugkoop vermeld. Op grond hiervan kon [appellant] als redelijk omzichtige en oplettende gemiddelde consument inschatten welke economische gevolgen het aangaan van de Koopgarantregeling voor hem zou hebben. Dat blijkt ook uit het navolgende.
+
+3.23
+
+Voor het antwoord op de vraag of een kernbeding is overeengekomen, moet worden vastgesteld of de wilsovereenstemming tussen partijen zich tot de inhoud daarvan uitstrekt (wilsvertrouwensleer). Hierbij spelen alle omstandigheden van het geval een rol. Zoals [appellant] ter zitting heeft verklaard, was hij zich ervan bewust dat hij door de Koopgarantregeling minder hoefde te betalen voor de woning, dat het daarom binnen zijn budget viel en dat hij zich realiseerde dat er een aantal voorwaarden verbonden was aan de Koopgarantregeling, zoals de zelfbewoningsplicht (zij het niet voor tien jaar) en de terugkoopregeling. Desgevraagd bleek ter zitting dat hetgeen [appellant] dwarszat niet zozeer het feit was dat hij de voor- en nadelen van de Koopgarantregeling anders had begrepen maar meer dat hij niet volledig heeft kunnen meeprofiteren van de waardestijgingen in de markt. Een en ander laat onverlet dat [appellant] wel had begrepen dat hij de waardeontwikkeling voor de helft met SCW moest delen, in zijn geval 62,5%. Mede in dat licht bezien heeft [appellant] onvoldoende aangevoerd op welke verklaring of gedraging van SCW hij gerechtvaardigd heeft vertrouwd dat de koperskorting een onvoorwaardelijke korting was. Uit de verklaringen van [appellant] volgt ook dat hij een redelijke mogelijkheid heeft gehad om kennis te nemen van de Koopgarantregeling. Dit leidt tot de conclusie dat de wilsovereenstemming van [appellant] zich ook uitstrekte over de inhoud van artikel 11.
+
+De verwijzing naar de bij memorie van grieven overgelegde brief van 17 november 2016 van de Vereniging Eigen Huis (VEH) aan de toenmalige minister van Wonen en Rijksdienst over de bij haar binnengekomen klachten over de Koopgarantregeling (en de reactie daarop aan Stichting Opmaat bij brief van 13 januari 2017) maakt dit niet anders. Het gaat er immers om hoe [appellant] bij het aangaan van de koopovereenkomst artikel 11 redelijkerwijs heeft kunnen begrijpen.
+
+3.24
+
+Voor zover het hof is gehouden (buiten de door de grieven ontsloten rechtsstrijd in hoger beroep) ambtshalve na te gaan of sprake is van een oneerlijke handelspraktijken in de zin van boek 6, afdeling 3A BW (gelezen in het licht van Richtlijn 2005/29/EG) oordeelt hij als volgt. Uit het voorgaande blijkt dat [appellant] door SCW volledig en juist is geïnformeerd alvorens hij het besluit heeft genomen over te gaan tot het aangaan van de koopovereenkomst met SCW. Waar hij nog vragen had over de inhoud van de koopgarantregeling heeft hij zelf onderzoek verricht. Van een oneerlijke (art. 6:193b BW) of misleidende (art. 6:193c BW)handelspraktijk is daarom geen sprake. Evenmin is sprake van een misleidende omissie (art. 6:193d BW) en is de essentiële informatie als bedoeld in art. 6:193e BW verstrekt.
+
+4
+De slotsom
+
+4.1
+
+Het hoger beroep slaagt niet, zodat het bestreden vonnis moet worden bekrachtigd.
+
+4.2
+
+Als de in het ongelijk te stellen partij zal het hof [appellant] in de kosten van het hoger beroep veroordelen.
+
+De kosten voor de procedure in hoger beroep aan de zijde van SCW zullen worden vastgesteld op € 741 aan verschotten (griffierecht) en op € 2.228 aan salaris advocaat (2 punten x tarief II).
+
+5
+De beslissing
+
+Het hof, recht doende in hoger beroep:
+
+bekrachtigt het vonnis van 10 oktober 2018 van de rechtbank Gelderland, zittingsplaats Arnhem;
+
+veroordeelt [appellant] in de kosten van het hoger beroep, tot aan deze uitspraak aan de zijde van SCW vastgesteld op € 741 voor verschotten en op € 2.228 voor salaris overeenkomstig het liquidatietarief;
+
+verklaar dit arrest wat betreft de kostenveroordeling uitvoer bij voorraad;
+
+wijst het meer of anders gevorderde af.
+
+Dit arrest is gewezen door mrs. S.M. Evers, Ch.E. Bethlem en J.G.J. Rinkes, is bij afwezigheid van de voorzitter ondertekend door de oudste raadsheer en is in tegenwoordigheid van de griffier in het openbaar uitgesproken op 30 maart 2021.
+
+Msc deze zin niet opnemen? Onvoldoende gespecificeerd is i.b. voldoende.
