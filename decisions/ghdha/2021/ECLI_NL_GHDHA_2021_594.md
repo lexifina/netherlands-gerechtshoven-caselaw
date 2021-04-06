@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:594"
-published_in: ["Rechtspraak.nl", "PJ 2021/63", "PR-Updates.nl PR-2021-0082"]
+published_in: ["Rechtspraak.nl", "PJ 2021/63", "PR-Updates.nl PR-2021-0082", "PR-Updates.nl 2021-0082"]
 ---
 
 # ECLI:NL:GHDHA:2021:594 Gerechtshof Den Haag , 06-04-2021 / 200.267.127/01
