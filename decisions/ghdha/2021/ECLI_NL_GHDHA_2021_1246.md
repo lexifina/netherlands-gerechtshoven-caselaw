@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1246"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0144"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0144", "PR-Updates.nl 2021-0144"]
 ---
 
 # ECLI:NL:GHDHA:2021:1246 Gerechtshof Den Haag , 06-04-2021 / 200.271.952/01
@@ -180,9 +180,9 @@ Het hof:
 
 - benoemt als zodanig:
 
-1) [naam derde],
+1) [naam derde][naam derde][naam derde][naam derde],
 
-2) [naam derde]
+2) [naam derde][naam derde] [naam derde] [naam derde]
 
 - benoemt tot raadsheer-commissaris mr. A.N. Labohm. Bepaalt dat de deskundigen hun onderzoek in beginsel zelfstandig zullen verrichten. Indien de deskundigen tijdens hun onderzoek op problemen stuiten kunnen zij contact opnemen met de griffier mr. M [naam derde] , die daarna de raadsheer-commissaris zal raadplegen;
 
