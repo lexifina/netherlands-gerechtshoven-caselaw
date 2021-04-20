@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:3833"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1032", "NLF 2021/0986 met annotatie van", "V-N 2021/37.20.4", "NTFR 2021/1676 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2021-1457"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1032", "NLF 2021/0986", "V-N 2021/37.20.4", "NTFR 2021/1676 met annotatie van mr. J. Zandee-Dingemanse", "FutD 2021-1457", "Viditax (FutD) 2021043014"]
 ---
 
 # ECLI:NL:GHARL:2021:3833 Gerechtshof Arnhem-Leeuwarden , 20-04-2021 / 20/00568 en 20/00607
