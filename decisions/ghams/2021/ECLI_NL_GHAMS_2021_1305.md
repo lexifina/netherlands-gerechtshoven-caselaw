@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:1305"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3031", "V-N 2022/3.6 met annotatie van Redactie", "NLF 2022/0110 met annotatie van Ferhat Aksoy", "Belastingadvies 2022/7.8"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/3031", "V-N 2022/3.6", "NLF 2022/0110 met annotatie van Ferhat Aksoy", "Belastingadvies 2022/7.8"]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-012a.md"]
 ---
 
