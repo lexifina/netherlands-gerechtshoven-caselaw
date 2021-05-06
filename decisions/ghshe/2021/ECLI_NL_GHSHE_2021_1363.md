@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:1363"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1383", "NLF 2021/1221 met annotatie van", "ERF-Updates.nl 2021-0152", "V-N 2021/34.12 met annotatie van Redactie", "Vp-bulletin 2021/40 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "NTFR 2021/2167 met annotatie van De redactie", "Viditax (FutD) 2021061014", "FutD 2021-1853"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1383", "NLF 2021/1221", "ERF-Updates.nl 2021-0152", "V-N 2021/34.12 met annotatie van Redactie", "Vp-bulletin 2021/40 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "NTFR 2021/2167 met annotatie van Redactie", "Viditax (FutD) 2021061014", "FutD 2021-1853"]
 ---
 
 # ECLI:NL:GHSHE:2021:1363 Gerechtshof 's-Hertogenbosch , 06-05-2021 / 20/00052
