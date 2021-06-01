@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:2038, (Gedeel
 
 ## Inhoudsindicatie
 
-OB. Levering N2O patronen (lachgas). Verlaagd tarief?
+N2O, lachgas, slagroompatronen, slagroomspuit, verlaagd btw-tarief en Tabel 1, post a.1, onderdeel b.
 
 ## Uitspraak
 
