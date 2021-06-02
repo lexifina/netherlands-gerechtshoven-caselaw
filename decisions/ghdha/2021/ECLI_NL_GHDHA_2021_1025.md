@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1025"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0121"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0121", "PR-Updates.nl 2021-0121"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2019:14525, Meerdere afhandelingswijzen"]]
 ---
 
