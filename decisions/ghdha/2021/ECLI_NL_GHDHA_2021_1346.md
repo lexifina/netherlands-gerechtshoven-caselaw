@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1346"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0141"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0141", "PR-Updates.nl 2021-0141"]
 ---
 
 # ECLI:NL:GHDHA:2021:1346 Gerechtshof Den Haag , 08-06-2021 / 200.272.962/01
