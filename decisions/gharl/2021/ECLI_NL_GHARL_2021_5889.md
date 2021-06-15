@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:5889"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1930", "V-N 2021/35.11 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1930", "V-N 2021/35.11"]
 ---
 
 # ECLI:NL:GHARL:2021:5889 Gerechtshof Arnhem-Leeuwarden , 15-06-2021 / 20/01024
