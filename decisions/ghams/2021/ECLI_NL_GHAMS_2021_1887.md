@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:1887"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0870", "PR-Updates.nl PR-2021-0139", "VAAN-AR-Updates.nl 2021-0870"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0870", "PR-Updates.nl PR-2021-0139", "VAAN-AR-Updates.nl 2021-0870", "PR-Updates.nl 2021-0139"]
 ---
 
 # ECLI:NL:GHAMS:2021:1887 Gerechtshof Amsterdam , 22-06-2021 / 200.273.778/01
