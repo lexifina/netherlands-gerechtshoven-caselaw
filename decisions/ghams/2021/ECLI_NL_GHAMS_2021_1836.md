@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:1836"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1876", "NLF 2021/1594", "V-N 2021/43.13 met annotatie van Redactie", "Viditax (FutD) 2021080206", "FutD 2021-2505"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1876", "NLF 2021/1594", "V-N 2021/43.13", "Viditax (FutD) 2021080206", "FutD 2021-2505"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2020:1949"]]
 ---
 
