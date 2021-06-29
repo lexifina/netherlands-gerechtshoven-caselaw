@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2015"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0137", "PJ 2021/151"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0137", "PJ 2021/151", "PR-Updates.nl 2021-0137"]
 ---
 
 # ECLI:NL:GHSHE:2021:2015 Gerechtshof 's-Hertogenbosch , 29-06-2021 / 200.288.811_01
