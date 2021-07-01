@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1360"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/1901", "NLF 2021/1643", "Belastingadvies 2021/23.9", "NTFR 2021/2835", "Viditax (FutD) 2021080404", "FutD 2021-2474"]
-relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1371"]]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1371"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1128"]]
 ---
 
 # ECLI:NL:GHDHA:2021:1360 Gerechtshof Den Haag , 01-07-2021 / BK-20/00794
