@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:6797"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0196", "JPF 2022/5 met annotatie van Prof. dr. B.E. Reinhartz"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0196", "JPF 2022/5 met annotatie van Prof. dr. B.E. Reinhartz", "PR-Updates.nl 2021-0196"]
 ---
 
 # ECLI:NL:GHARL:2021:6797 Gerechtshof Arnhem-Leeuwarden , 13-07-2021 / 200.278.098
