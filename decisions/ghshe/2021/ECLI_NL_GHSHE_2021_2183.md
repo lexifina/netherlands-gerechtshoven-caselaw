@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2183"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0152", "PJ 2021/106 met annotatie van E. Lutjens"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0152", "PJ 2021/106 met annotatie van E. Lutjens", "PR-Updates.nl 2021-0152"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2018:4438"]]
 ---
 
