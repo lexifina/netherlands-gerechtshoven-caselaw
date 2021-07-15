@@ -1,0 +1,484 @@
+---
+ecli: "ECLI:NL:GHDHA:2021:1448"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "BK-21/00057"
+decided: "2021-07-15"
+published: "2021-07-28"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1448"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:12942, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1380"]]
+---
+
+# ECLI:NL:GHDHA:2021:1448 Gerechtshof Den Haag , 15-07-2021 / BK-21/00057
+
+## Inhoudsindicatie
+
+BPM; stellen van prejudiciële vragen; strijdigheid van de heffingsmodaliteiten met het Unierecht; hoorplicht; bewijslast; schadevergoeding; proceskostenvergoeding en griffierecht.
+
+## Uitspraak
+
+GERECHTSHOF DEN HAAG
+
+Team Belastingrecht
+
+meervoudige kamer
+
+nummer BK-21/00057
+
+Uitspraak van 15 juli 2021
+
+[X] B.V. te [Z] , belanghebbende,
+(gemachtigde: A.F.M.J. Verhoeven)
+
+en
+
+de inspecteur van de Belastingdienst, de Inspecteur,
+(vertegenwoordiger: […] )
+
+op het hoger beroep van belanghebbende tegen de uitspraak van de rechtbank Den Haag (de Rechtbank) van 22 december 2020, SGR 19/3987.
+
+Procesverloop
+
+1.1.
+
+Belanghebbende heeft op aangifte € 5.102 belasting van personenauto’s en motorrijwielen (BPM) voldaan.
+
+1.2.
+
+Hiertegen heeft belanghebbende bezwaar gemaakt. De Inspecteur heeft bij uitspraak op bezwaar het bezwaar ongegrond verklaard.
+
+1.3.
+
+Belanghebbende heeft beroep ingesteld bij de Rechtbank. Van belanghebbende is € 345 griffierecht geheven. De Rechtbank heeft het volgende beslist, waarbij belanghebbende is aangeduid als eiseres en de Inspecteur als verweerder:
+
+“De rechtbank:
+
+- verklaart het beroep ongegrond;
+
+- veroordeelt verweerder tot vergoeding van immateriële schade aan eiseres tot een bedrag van € 500;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.050;
+
+- draagt verweerder op het betaalde griffierecht van € 345 aan eiseres te vergoeden;
+
+- bepaalt dat de termijn voor de vergoeding van de wettelijke rente gaat lopen vanaf vier weken na de datum van deze uitspraak.”
+
+1.4.
+
+Belanghebbende heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld bij het Hof. Van belanghebbende is € 541 griffierecht geheven. De Inspecteur heeft een verweerschrift ingediend.
+
+1.5.
+
+Het hoger beroep is ter zitting behandeld op 3 juni 2021. Partijen zijn verschenen. Ter zitting is tevens behandeld het hoger beroep van belanghebbende met kenmerk BK-21/00058 tot en met BK-21/00069. Van het verhandelde ter zitting is door de griffier één proces-verbaal opgemaakt.
+
+Feiten
+
+2.1.
+
+Belanghebbende heeft met dagtekening 3 september 2018 aangifte BPM gedaan ter zake van een Skoda Octavia Combi 2.0 (de auto) met als datum van eerste toelating 1 maart 2017. De voor de auto verschuldigde BPM van € 5.102 is op 11 september 2018 voldaan. De verschuldigde BPM is berekend op basis van een X-ray koerslijst voor een auto zonder verhuurverleden.
+
+2.2.
+
+Belanghebbende heeft op 27 september 2018 tegen de voldoening op aangifte bezwaar gemaakt.
+
+Oordeel van de Rechtbank
+
+3. De Rechtbank heeft het volgende overwogen, waarbij belanghebbende is aangeduid als eiseres en de Inspecteur als verweerder:
+
+“Bevoegdheid
+
+6. Het is aan de nationale rechter een inhoudelijke beslissing op het aanhangige
+
+geschil te geven. Al hetgeen eiseres in dit kader heeft aangevoerd en de jurisprudentie
+
+waarnaar zij daarbij heeft verwezen, geeft de rechtbank geen aanleiding voor een ander
+
+oordeel.
+
+Inbreukprocedure
+
+7. De inbreukprocedure die volgens eiseres inmiddels door de Europese Commissie is
+
+begonnen, geeft de rechtbank geen aanleiding om de zaak aan te houden.
+
+Schending hoorplicht
+
+8. Tot de stukken van het geding behoort een verslag van een hoorgesprek op
+
+16 april 2019 en een uitnodiging voor dat gesprek waaruit blijkt dat ook onderhavig bezwaar
+
+daar aan de orde is geweest. In de uitspraak op bezwaar wordt ook naar dat hoorgesprek en
+
+hoorverslag verwezen. De enkele stelling van eiseres dat zij niet is gehoord, vindt dus geen
+
+steun in de feiten en treft daarom geen doel. Voor zover eiseres stelt dat verweerder door te
+
+weigeren vooraf de kentekengegevens te overleggen de functie aan het hoorgesprek heeft
+
+ontnomen, volgt de rechtbank eiseres niet. De vraag of verweerder die gegevens zou moeten
+
+overleggen is immers onderdeel van het geschil en zou dan ook op dat hoorgesprek verder
+
+besproken kunnen worden. De rechtbank volgt eiseres evenmin in haar opvatting dat door
+
+de veelheid van zaken die op een hoorzitting wordt gepland het feitelijk niet goed mogelijk
+
+is om alle zaken te bespreken. De rechtbank neemt daarbij in aanmerking dat, hoewel het
+
+om een veelheid aan verschillende auto’s gaat, in vrijwel alle zaken dezelfde
+
+meningsverschillen spelen.
+
+Bewijslast
+
+9. Uit de arresten van de Hoge Raad van 12 mei 20172 en 17 januari 20203 volgt dat
+
+op de belastingplichtige die zich beroept op een vermindering van de door hem op aangifte
+
+voldane Bpm, de plicht rust om feiten te stellen en, zo nodig, aannemelijk te maken die
+
+kunnen leiden tot een vermindering van de verschuldigde belasting. De enkele stelling dat
+
+de nationale wettelijke bepalingen in strijd zijn met het Unierecht, is daarvoor onvoldoende.
+
+Voor het oordeel dat de bewijslastverdeling in de onderhavige regelgeving tussen enerzijds
+
+de belastingplichtige en anderzijds de belastingheffende instantie dusdanig ongelijk is dat
+
+daarmee sprake is van de door eiseres gestelde schending van het Unierecht, vindt de
+
+rechtbank geen aanleiding.
+
+2 ECLI:NL:HR:2017:847
+
+3 ECLI:NL:HR:2020:296
+
+Ex-rental
+
+10. In zijn arrest van 19 december 20134 heeft het HvJ EU met betrekking tot de vraag
+
+wanneer voertuigen gelijksoortig zijn het volgende overwogen:
+
+“Wanneer deze producten op de markt voor tweedehands voertuigen van die lidstaat te koop
+
+worden aangeboden, moeten zij worden beschouwd als ‘gelijksoortige producten', zijnde
+
+producten van dezelfde soort als ingevoerde tweedehands voertuigen, wanneer zij zich door
+
+hun eigenschappen en door de behoeften waarin zij voorzien, in een concurrentieverhouding
+
+bevinden. De mededinging tussen twee modellen hangt af van de mate waarin zij voldoen
+
+aan een aantal vereisten op het punt van, onder meer, prijs, afmetingen, comfort, prestaties,
+
+verbruik, duurzaamheid en betrouwbaarheid. Het referentievoertuig moet het voertuig zijn
+
+waarvan de kenmerken het dichtst aanleunen bij die van het ingevoerde voertuig. Dat houdt
+
+in dat rekening wordt gehouden met het model, het type en andere kenmerken, zoals de
+
+aandrijving of de uitrusting, de ouderdom en de kilometerstand, de staat van onderhoud of
+
+het merk (zie met name arresten van 19 september 2002, Tulliasiamies en Siilin, C-101/00,
+
+Jurispr. blz. 1-7487, punten 75 en 76, en 20 september 2007, Commissie/Griekenland,
+
+C-74/06, Jurispr. blz. 1-7585, punten 29 en 37).”
+
+4 ECL1:EU:C:2013:857
+
+11. Het zijn van een ex-rental is naar het oordeel van de rechtbank een concreet
+
+aanwijsbaar onderscheidende eigenschap van een auto. Een niet ex-rental auto bevindt zich
+
+ten opzichte van ex-rental auto’s dan ook niet in een concurrentieverhouding als bedoeld in
+
+het hiervoor aangehaalde arrest van het HvJ. De rechtbank volgt eiseres daarom niet in haar
+
+stelling dat ook bij de waardebepaling van een niet ex-rental moet worden uitgegaan van de
+
+waarde van een in Nederland aanwezige ex-rental. Eiseres heeft niet gesteld en ook
+
+anderszins is niet gebleken dat de hier in geding zijnde auto een ex-rental is. Er is dan ook
+
+geen aanleiding desalniettemin uit te gaan van een referentievoertuig met een
+
+verhuurverleden (zie ook het arrest van de Hoge Raad van 28 februari 20205).
+
+5 ECLI:NL:HR:2020:331
+
+Verschil in heffingsmodaliteiten
+
+12. Zoals onder 9 is overwogen draagt eiseres de bewijslast dat zij te veel Bpm op
+
+aangiften heeft voldaan. Met de enkele stelling dat er een verschil is tussen het moment van
+
+voldoening van de Bpm en de daadwerkelijke registratie van het voertuig, is zij daarin niet
+
+geslaagd. Eiseres heeft niets aangevoerd op grond waarvan kan worden geoordeeld dat er
+
+een zodanig lange periode is verstreken tussen voldoening en tenaamstelling dat zij te veel
+
+Bpm heeft voldaan. De stelling van eiseres dat verweerder daartoe de kentekengegevens
+
+moet verstrekken, volgt de rechtbank niet. De enkele omstandigheid dat verweerder bij de
+
+controle van eventuele door eiseres gestelde feiten gebruik kan maken van de door hem bij
+
+de RDW opgevraagde kentekengegevens, maakt niet dat eiseres niet langer aan haar
+
+primaire bewijslast behoeft te voldoen. Eiseres heeft ter zitting gesteld dat verweerder op
+
+grond van paragraaf 2 onder 3 van het Besluit Fiscaal Bestuursrecht de kwestie inzake het
+
+overleggen van de kentekengegevens aan de zogenoemde kennisgroep van de
+
+Belastingdienst had moeten voorleggen en dat de kennisgroep dan zou hebben bevestigd dat
+
+verweerder de kentekengegevens moest overleggen. Zo uit voornoemd Besluit al zou volgen
+
+dat verweerder deze kwestie had moeten voorleggen aan de kennisgroep, kan aan het
+
+achterwege laten daarvan niet de conclusie worden verbonden dat het standpunt van eiseres
+
+in deze juist is. Eiseres heeft haar enkele stelling dat de kennisgroep haar standpunt zou
+
+volgen niet met enig bewijs gestaafd.
+
+Rentenadeel door verschil in heffingsmodaliteiten
+
+13. Uit artikel 26 van de Algemene wet inzake rijksbelastingen volgt dat een beroep
+
+tegen de voldoening op aangifte uitsluitend betrekking kan hebben op de hoogte van de
+
+materiële belastingschuld. De door eiseres gestelde renteschade vindt niet zijn grondslag in
+
+de hoogte van de verschuldigde belasting maar in het moment van de betaling daarvan.
+
+Voor het rentenadeel dat eiseres stelt te ondervinden van de eerdere betaling, dient eiseres
+
+zich dan ook tot de civiele rechter te wenden.
+
+Immateriële schade
+
+14. Eiseres heeft verzocht om vergoeding van immateriële schade wegens
+
+overschrijding van de redelijke termijn. De redelijke termijn is overschreden wanneer de
+
+behandeling van het bezwaar en het beroep gezamenlijk langer duurt dan twee jaar. De
+
+behandeltermijn vangt aan op het moment dat verweerder het bezwaarschrift ontvangt en
+
+eindigt met de uitspraak van de rechtbank. Als uitgangspunt voor de hoogte van de
+
+schadevergoeding hanteert de Hoge Raad een tarief van € 500 per halfjaar dat de redelijke
+
+termijn is overschreden, waarbij het totaal van de overschrijding naar boven wordt afgerond.
+
+Heeft de procedure tot de uitspraak van de rechtbank langer dan twee jaar geduurd, dan
+
+dient vervolgens voor de bezwaar- en de beroepsfase afzonderlijk te worden bezien of
+
+sprake is van een langere behandelingsduur dan gerechtvaardigd, waarbij in beginsel geldt
+
+dat de bezwaarfase binnen een halfjaar en de beroepsfase binnen anderhalfjaar zou moeten
+
+worden afgerond6.
+
+6 ECLI:NL:HR:2016:252
+
+15. Het bezwaarschrift is op 27 september 2018 door verweerder ontvangen en
+
+verweerder heeft de uitspraak op bezwaar gedaan op 7 juni 2019. De uitspraak van de
+
+rechtbank wordt op 22 december 2020 gedaan, zodat de bezwaar- en beroepsfase twee jaar
+
+en afgerond drie maanden hebben geduurd. Dit betekent dat eiseres recht heeft op een
+
+vergoeding van immateriële schade tot een bedrag van € 500. De overschrijding is volledig
+
+toe te rekenen aan de bezwaarfase. Gelet hierop zal de rechtbank verweerder veroordelen tot
+
+betaling van een vergoeding van immateriële schade aan de zijde van eiseres van € 500.
+
+16. Gelet op wat hiervoor is overwogen, dient het beroep ongegrond te worden
+
+verklaard. Wel ziet de rechtbank in de overschrijding van de redelijke termijn aanleiding tot
+
+een proceskostenvergoeding en vergoeding van het griffierecht.
+
+Verzoek prejudiciële vragen
+
+17. De rechtbank ziet in al hetgeen eiseres heeft aangevoerd geen reden om
+
+prejudiciële vragen aan het HvJ EU te stellen.
+
+Proceskosten
+
+18. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten.
+
+Deze kosten stelt de rechtbank op grond van het Besluit proceskosten bestuursrecht (Besluit)
+
+voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.050 (1 punt voor
+
+het indienen van het beroepschrift en 1 punt voor het verschijnen ter zitting met een waarde
+
+per punt van € 525). Van overige voor vergoeding in aanmerking komende kosten is de
+
+rechtbank niet gebleken. Voor een integrale proceskostenvergoeding ziet de rechtbank geen
+
+aanleiding. Een hogere dan forfaitaire vergoeding op grond van artikel 2, derde lid, van het
+
+Besluit kan slechts worden toegepast indien er sprake is van een bijzondere omstandigheid.
+
+Uit de gedingstukken en hetgeen eiseres heeft gesteld, valt naar het oordeel van de
+
+rechtbank niet op te maken dat sprake is van bijzondere omstandigheden. Het enkele feit dat
+
+eiseres zich op de zitting door twee personen heeft laten vertegenwoordigen, kan niet als
+
+zodanig worden aangemerkt aangezien eiseres daar kennelijk zelf voor heeft gekozen.
+
+Hoogte griffierecht
+
+19. Nu verweerder zal worden opgedragen het betaald griffierecht aan eiseres te
+
+vergoeden, behoeft de stelling van eiseres dat de hoogte van het griffierecht moet worden
+
+afgestemd op de hoogte van de onderliggende vordering daarom geen behandeling.
+
+Rente over het griffierecht
+
+20. Eiseres heeft aanspraak gemaakt op vergoeding van rente ter zake van het
+
+griffierecht. De rechtbank honoreert die aanspraak in zoverre dat recht bestaat op een
+
+vergoeding van wettelijke rente indien het griffierecht niet aan eiseres wordt uitbetaald
+
+binnen vier weken na de datum van deze uitspraak. Dit heeft ook te gelden voor de overige
+
+op grond van deze uitspraak aan eiseres te betalen vergoedingen.”
+
+Omschrijving geschil in hoger beroep en conclusies van partijen
+
+4.1.
+
+In hoger beroep is in geschil of de hoorplicht is geschonden, wie de bewijslast heeft, of de heffingsmodaliteiten voor uit andere lidstaten afkomstige auto’s in strijd zijn met het Unierecht, of de auto als een ex-rental in de heffing moet worden betrokken, of is uitgegaan van een te hoge CO2-uitstoot, de schadevergoeding en de hoogte van de proceskostenvergoeding. Voorts verzoekt belanghebbende om een passende rentevergoeding.
+
+4.2.
+
+Belanghebbende concludeert tot vernietiging van de uitspraak van de Rechtbank en de uitspraak op bezwaar, tot teruggaaf van de BPM en tot toekenning van vergoedingen wegens immateriële schade, proceskosten en gederfde rente.
+
+4.3.
+
+De Inspecteur concludeert tot bevestiging van de uitspraak van de Rechtbank.
+
+Beoordeling van het hoger beroep
+
+Stellen van prejudiciële vragen
+
+5.1.
+
+Het Hof is, als instantie tegen wiens uitspraken cassatie kan worden ingesteld bij de Hoge Raad, niet verplicht prejudiciële vragen te stellen. Het Hof ziet geen aanleiding voor het stellen van vragen aan het Hof van Justitie van de Europese Unie.
+
+Schending hoorplicht
+
+5.2.
+
+De Rechtbank heeft aan de hand van de gedingstukken vastgesteld dat in de bezwaarfase een hoorgesprek heeft plaatsgevonden. Het Hof komt tot dezelfde vaststelling. Dat de Inspecteur heeft geweigerd bepaalde gegevens te verzamelen en/of te verstrekken, zoals kentekengegevens (het Hof merkt ten overvloede op dat belanghebbende de meest gerede partij is om relevante gegevens over de auto te verzamelen en te verstrekken) heeft niet tot gevolg dat geen hoorgesprek mogelijk was of dat de Inspecteur zijn hoorplicht heeft geschonden. Het Hof verenigt zich op dit punt met het oordeel van de Rechtbank. Dit heeft tot gevolg dat het andersluidende standpunt van belanghebbende faalt.
+
+Heffingsmodaliteiten
+
+5.3.
+
+Belanghebbende stelt zich op het standpunt dat de heffingsmodaliteiten die op de invoer van gebruikte auto’s uit andere lidstaten van toepassing zijn, strijdig zijn met het Unierecht. Het Hof verenigt zich met het oordeel van de Rechtbank op dit punt en maakt dit en de overwegingen daartoe tot de zijne.
+
+5.4.
+
+Het Hof stelt voorop dat het aan belanghebbende is om aannemelijk te maken dat er waardeverminderende omstandigheden zijn (HR 17 januari 2020, nr. 18/03802, ECLI:NL:HR:2020:63). Belanghebbende heeft geen enkele concrete onderbouwing geleverd van zijn standpunt dat te veel BPM is geheven. Dat altijd van de voor belanghebbende gunstigste omstandigheid (zoals ex-rental en lagere CO2-uitstoot) mag worden uitgegaan, ook als deze omstandigheid zich niet voordoet, is niet juist. Dit standpunt faalt.
+
+Rentevergoeding
+
+5.5.
+
+Belanghebbende zal, om een passende rentevergoeding te krijgen, een verzoek moeten doen aan de ontvanger. Binnen deze procedure kan het verzoek niet worden behandeld (HR 3 maart 2017, nr.  16/01176, ECLI:NL:HR:2017:341 en 13 april 2018, nr. 17/01548, ECLI:NL:HR:2018:583). Dit geldt ook voor de vergoeding van rente over het wel verschuldigde bedrag aan BPM omdat, naar belanghebbende veronderstelt, de BPM voortijdig - in strijd met het Unierecht - en wel tien dagen te vroeg moet worden betaald. Ten overvloede verwerpt het Hof het standpunt dat de heffingssystematiek van BPM, in het bijzonder de heffing via voldoening op aangifte, in zoverre in strijd is met het Unierecht. Op de voldoening van BPM op nieuwe voertuigen is immers een vergelijkbare heffingssystematiek van toepassing. Ook voor deze voertuigen moet de BPM worden voldaan, voordat een kenteken wordt afgegeven. Voor alle voertuigen geldt dat de verschuldigde belastingen op aangifte moeten worden voldaan voordat de registratie plaatsvindt. De houder van een uit een andere lidstaat afkomstig voertuig wordt dus niet slechter behandeld in dit opzicht. De uitoefening van uit het Unierecht voortvloeiende rechten wordt belanghebbende niet bemoeilijkt of onmogelijk gemaakt, althans belanghebbende heeft het tegendeel niet aannemelijk gemaakt. De formele Unierechtelijke beginselen van gelijkwaardigheid en doeltreffendheid worden niet geschonden. Het standpunt van belanghebbende faalt.
+
+Schadevergoeding
+
+5.6.
+
+Belanghebbende stelt zich op het standpunt dat uit het Unierecht volgt dat een schadevergoeding door een andere rechter of kamer moet worden vastgesteld dan de rechter of kamer die de hoofdzaak behandelt. Het Hof verwerpt dit standpunt onder verwijzing naar rechtspraak van de Hoge Raad (HR 19 april 2019, ECLI:NL:HR:2019:623). Het Hof ziet overigens geen aanleiding voor een hogere schadevergoeding dan de Rechtbank heeft toegekend.
+
+Proceskosten beroep
+
+5.7.
+
+Belanghebbende stelt zich onder verwijzing naar een rapport van de minister voor Rechtsbescherming Dekker op het standpunt dat de proceskostenvergoeding op een te laag bedrag is vastgesteld. Het Hof verwerpt dit standpunt. Het rapport waarop belanghebbende doelt, ziet op de indexatie van de bedragen per 1 juli 2021. Het Hof ziet geen reden voor een hogere proceskostenvergoeding dan de Rechtbank reeds heeft toegekend.
+
+Griffierecht
+
+5.8.1.
+
+Belanghebbende klaagt in de kern erover dat zij ten onrechte het griffierecht voor het beroep en het hoger beroep eerst volledig moet betalen om het onderhavige belastinggeschil door de Rechtbank en het Hof te laten beoordelen. Dit Nederlandse systeem van het vooraf heffen van griffierecht, is volgens belanghebbende in strijd met het Unierecht. Bovendien moet op grond van het Unierecht de hoogte van het verschuldigde griffierecht worden beperkt tot maximaal 4% van de verschuldigde belasting, aldus belanghebbende.
+
+5.8.2.
+
+Deze klachten treffen naar het oordeel van het Hof, gelet op het arrest van de Hoge Raad van 11 oktober 2019, nr. 18/04973, ECLI:NL:HR:2019:1579, geen doel. In dat arrest heeft de Hoge Raad onder meer overwogen:
+
+“3.1.3 (…) Uit het arrest Kantarev (Hof: Hof van Justitie van de Europese Unie van 4 oktober 2018, N. Kantarev, C-571/16, ECLI:EU:C:2018:807), kan niet als algemene regel worden afgeleid dat de toegang tot de nationale rechter alleen dan wordt gewaarborgd indien niet meer dan 4 procent van de in geding zijnde vordering aan griffierechten wordt geheven. Evenmin volgt uit dat arrest dat altijd een vermindering of ontheffing van griffierecht moet worden verleend wanneer het (financiële) belang van de zaak gering is. Of het griffierecht de uitoefening van de door de rechtsorde van de Unie aan particulieren toegekende rechten praktisch onmogelijk of uiterst moeilijk maakt en daarom in strijd is met het Unierechtelijke beginsel van doeltreffendheid, is afhankelijk van het antwoord op de vraag of de hoogte van het verschuldigde recht al dan niet een onoverkomelijk obstakel voor de toegang tot de rechter vormt en of er ontheffingsmogelijkheden bestaan (vgl. punten 134 en 135 van het arrest Kantarev).
+
+3.1.4.
+
+In het algemeen kan worden aangenomen dat de in Nederland bestaande regeling in het bestuursrecht over heffing van griffierecht van dien aard is dat rechtzoekenden daarmee de toegang tot de rechter niet wordt ontnomen. Verder kan een rechtzoekende bij de rechter een beroep op betalingsonmacht doen indien heffing van het ingevolge de wet verschuldigde bedrag aan griffierecht het voor hem onmogelijk, althans uiterst moeilijk, maakt om gebruik te maken van een door de wet opengestelde bestuursrechtelijke rechtsgang (vgl. HR 28 maart 2014, ECLI:NL:HR:2014:699). Het is niet voor redelijke twijfel vatbaar dat met deze voorziening wordt voldaan aan het in het arrest Kantarev bedoelde Unierechtelijke doeltreffendheidsbeginsel.
+
+(…)’.
+
+5.8.3.
+
+Niet gezegd kan worden dat de heffing van de onderhavige griffierechten het voor belanghebbende uiterst moeilijk heeft gemaakt om de rechtsmiddelen van beroep en hoger beroep aan te wenden.
+
+5.9.
+
+Het hoger beroep is ongegrond.
+
+Proceskosten
+
+Het Hof ziet geen aanleiding voor een proceskostenveroordeling.
+
+Beslissing
+
+Het Gerechtshof bevestigt de uitspraak van de Rechtbank.
+
+Deze uitspraak is vastgesteld door A. van Dongen, H.A.J. Kroon en W.M.G. Visser, in tegenwoordigheid van de griffier J. Azmi Shenouda. De beslissing is op 15 juli 2021 in het openbaar uitgesproken.
+
+aangetekend aan
+
+partijen verzonden:
+
+Tegen deze uitspraak kunnen beide partijen binnen zes weken na de verzenddatum beroep in cassatie instellen bij
+de Hoge Raad der Nederlanden via het webportaal van de Hoge Raad www.hogeraad.nl.
+
+Bepaalde personen die niet worden vertegenwoordigd door een gemachtigde die beroepsmatig rechtsbijstand verleent, mogen per post beroep in cassatie instellen. Dit zijn natuurlijke personen en verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte. Als zij geen gebruik willen maken van digitaal procederen kunnen deze personen het beroepschrift in cassatie sturen aan
+de Hoge Raad der Nederlanden (belastingkamer), Postbus 20303, 2500 EH Den Haag.
+
+Alle andere personen en gemachtigden die beroepsmatig rechtsbijstand verlenen, zijn in beginsel verplicht digitaal te procederen (zie www.hogeraad.nl).
+
+Bij het instellen van beroep in cassatie moet het volgende in acht worden genomen:
+
+1 - bij het beroepschrift wordt een afschrift van deze uitspraak gevoegd;
+2 - (alleen bij procederen op papier) het beroepschrift moet ondertekend zijn;
+3 - het beroepschrift moet ten minste het volgende vermelden:
+
+a. - de naam en het adres van de indiener;
+
+b. - de dagtekening;
+
+c. - de vermelding van de uitspraak waartegen het beroep in cassatie is gericht;
+
+d. - de gronden van het beroep in cassatie.
+
+Voor het instellen van beroep in cassatie is griffierecht verschuldigd. Na het instellen van beroep in cassatie ontvangt de indiener een nota griffierecht van de griffier van de Hoge Raad. In het cassatieberoepschrift kan de Hoge Raad verzocht worden om de wederpartij te veroordelen in de proceskosten.
