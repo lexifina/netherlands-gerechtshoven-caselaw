@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2298"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0959", "PR-Updates.nl PR-2021-0146", "JAR 2021/214", "RAR 2021/137", "VAAN-AR-Updates.nl 2021-0959"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-0959", "PR-Updates.nl PR-2021-0146", "JAR 2021/214", "RAR 2021/137", "VAAN-AR-Updates.nl 2021-0959", "PR-Updates.nl 2021-0146"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2014:6684"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:847, Meerdere afhandelingswijzen"]]
 ---
 
