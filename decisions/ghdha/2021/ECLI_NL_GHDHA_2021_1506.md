@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1506"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0169", "EB 2021/97"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0169", "EB 2021/97", "PR-Updates.nl 2021-0169"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2022:1758, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/bw-boek-10/art-003.md", "netherlands/national/acts/bw-boek-10/art-056.md", "netherlands/national/acts/bw-boek-3/art-166.md"]
 ---
