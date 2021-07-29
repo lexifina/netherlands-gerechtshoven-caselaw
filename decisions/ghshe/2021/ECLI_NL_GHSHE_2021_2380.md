@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2380"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0162", "FJR 2022/6.3"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0162", "FJR 2022/6.3", "PR-Updates.nl 2021-0162"]
 ---
 
 # ECLI:NL:GHSHE:2021:2380 Gerechtshof 's-Hertogenbosch , 29-07-2021 / 200.287.148_01
