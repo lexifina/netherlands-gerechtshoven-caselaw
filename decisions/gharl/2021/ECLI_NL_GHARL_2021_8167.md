@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:8167"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0171", "PJ 2021/112"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0171", "PJ 2021/112", "PR-Updates.nl 2021-0171"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2019:5079, Niet ontvankelijk"]]
 ---
 
