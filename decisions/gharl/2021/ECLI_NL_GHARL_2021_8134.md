@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:8134"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0247", "OR-Updates.nl 2021-0287", "PR-Updates.nl PR-2021-0170", "PJ 2021/111", "RO 2021/71", "JONDR 2021/922"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2021-0247", "OR-Updates.nl 2021-0287", "PR-Updates.nl PR-2021-0170", "PJ 2021/111", "RO 2021/71", "JONDR 2021/922", "PR-Updates.nl 2021-0170"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2020:995, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
