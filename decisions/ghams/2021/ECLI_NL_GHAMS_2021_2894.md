@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:2894"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0213", "NJF 2021/472"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0213", "NJF 2021/472", "PR-Updates.nl 2021-0213"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2016:493"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2014:1339"]]
 ---
 
