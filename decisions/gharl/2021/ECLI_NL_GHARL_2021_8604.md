@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:8604"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0190"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0190", "PR-Updates.nl 2021-0190"]
 ---
 
 # ECLI:NL:GHARL:2021:8604 Gerechtshof Arnhem-Leeuwarden , 13-09-2021 / 200.291.997
