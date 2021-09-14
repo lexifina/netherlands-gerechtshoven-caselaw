@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1673"
-published_in: ["Rechtspraak.nl", "PJ 2021/138", "PR-Updates.nl PR-2021-0182"]
+published_in: ["Rechtspraak.nl", "PJ 2021/138", "PR-Updates.nl PR-2021-0182", "PR-Updates.nl 2021-0182"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:14748, Bekrachtiging/bevestiging"]]
 ---
 
