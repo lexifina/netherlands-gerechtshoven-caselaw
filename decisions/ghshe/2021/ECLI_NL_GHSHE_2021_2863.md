@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2021:2863"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1187", "PR-Updates.nl PR-2021-0188", "VAAN-AR-Updates.nl 2021-1187"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1187", "PR-Updates.nl PR-2021-0188", "VAAN-AR-Updates.nl 2021-1187", "PR-Updates.nl 2021-0188"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:3817"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:1641"]]
 ---
 
