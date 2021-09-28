@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:1971"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0224"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0224", "PR-Updates.nl 2021-0224"]
 ---
 
 # ECLI:NL:GHDHA:2021:1971 Gerechtshof Den Haag , 28-09-2021 / 200.218.182/01
