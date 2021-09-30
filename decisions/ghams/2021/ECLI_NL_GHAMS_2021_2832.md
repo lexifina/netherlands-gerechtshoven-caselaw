@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:2832"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2342", "V-N 2021/54.1.2", "NLF 2021/1962 met annotatie van Arco Bobeldijk", "NTFR 2021/3688 met annotatie van R.S. Bekker", "Viditax (FutD) 2021100701", "FutD 2021-3177"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:4809, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2342", "V-N 2021/54.1.2", "NLF 2021/1962 met annotatie van prof. mr. dr. A.C.P. Bobeldijk", "NTFR 2021/3688 met annotatie van R.S. Bekker", "Viditax (FutD) 2021100701", "FutD 2021-3177"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2019:4809, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:736"]]
 ---
 
 # ECLI:NL:GHAMS:2021:2832 Gerechtshof Amsterdam , 30-09-2021 / 19/00872, 19/00873
