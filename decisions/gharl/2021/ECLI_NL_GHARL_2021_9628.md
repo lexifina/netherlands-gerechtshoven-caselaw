@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:9628"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0212", "PJ 2021/143 met annotatie van C. Beltman", "RAR 2022/2", "JAR 2022/46 met annotatie van Hoppers-Rademaker, F."]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0212", "PJ 2021/143 met annotatie van C. Beltman", "RAR 2022/2", "JAR 2022/46 met annotatie van Hoppers-Rademaker, F.", "PR-Updates.nl 2021-0212"]
 ---
 
 # ECLI:NL:GHARL:2021:9628 Gerechtshof Arnhem-Leeuwarden , 12-10-2021 / 200.271.981
