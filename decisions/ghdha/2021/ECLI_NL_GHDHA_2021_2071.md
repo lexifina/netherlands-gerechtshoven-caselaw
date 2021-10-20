@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2021:2071"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2616", "ERF-Updates.nl 2021-0350", "V-N 2022/6.1.1", "NLF 2021/2136", "NTFR 2021/3960 met annotatie van De redactie", "Viditax (FutD) 2021110402", "FutD 2021-3411"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2021/2616", "ERF-Updates.nl 2021-0350", "V-N 2022/6.1.1", "NLF 2021/2136", "NTFR 2021/3960 met annotatie van Redactie", "Viditax (FutD) 2021110402", "FutD 2021-3411"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:7103, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1664"]]
 ---
 
