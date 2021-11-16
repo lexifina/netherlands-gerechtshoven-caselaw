@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:3559"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1490", "PR-Updates.nl PR-2021-0216", "PJ 2022/1 met annotatie van J. Kaldenberg", "VAAN-AR-Updates.nl 2021-1490"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1490", "PR-Updates.nl PR-2021-0216", "PJ 2022/1 met annotatie van J. Kaldenberg", "VAAN-AR-Updates.nl 2021-1490", "PR-Updates.nl 2021-0216"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:6780"]]
 ---
 
