@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:10773"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0024"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0024", "PR-Updates.nl 2022-0024"]
 ---
 
 # ECLI:NL:GHARL:2021:10773 Gerechtshof Arnhem-Leeuwarden , 18-11-2021 / 200.268.185/01
