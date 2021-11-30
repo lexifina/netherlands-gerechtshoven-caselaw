@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2021:11021"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1513", "JAR 2022/13 met annotatie van mr. dr. A. Eleveld", "PR-Updates.nl PR-2022-0019", "VAAN-AR-Updates.nl 2021-1513"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1513", "JAR 2022/13 met annotatie van mr. dr. A. Eleveld", "PR-Updates.nl PR-2022-0019", "VAAN-AR-Updates.nl 2021-1513", "PR-Updates.nl 2022-0019"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:969, (Gedeeltelijke) vernietiging met verwijzen"]]
 ---
 
