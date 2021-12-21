@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:3979"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1596", "JAR 2022/11", "PR-Updates.nl PR-2022-0002", "PJ 2022/12 met annotatie van T. Huijg", "RAR 2022/39", "VAAN-AR-Updates.nl 2021-1596", "Viditax (FutD) 2021122203", "FutD 2022-0009"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2021-1596", "JAR 2022/11", "PR-Updates.nl PR-2022-0002", "PJ 2022/12 met annotatie van T. Huijg", "RAR 2022/39", "VAAN-AR-Updates.nl 2021-1596", "Viditax (FutD) 2021122203", "FutD 2022-0009", "PR-Updates.nl 2022-0002"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:6292"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1622, Bekrachtiging/bevestiging"]]
 ---
 
