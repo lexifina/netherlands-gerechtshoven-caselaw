@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2021:4054"
-published_in: ["Rechtspraak.nl", "NTHR 2022, afl. 2, p. 73", "PJ 2022/64", "PR-Updates.nl PR-2022-0128"]
+published_in: ["Rechtspraak.nl", "NTHR 2022, afl. 2, p. 73", "PJ 2022/64", "PR-Updates.nl PR-2022-0128", "PR-Updates.nl 2022-0128"]
 ---
 
 # ECLI:NL:GHAMS:2021:4054 Gerechtshof Amsterdam , 21-12-2021 / 200.278.448/01
