@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:96"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/284", "NLF 2022/0359 met annotatie van Christa van Hoek", "RN 2022/27", "Vp-bulletin 2022/18 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "Belastingadvies 2022/8.7", "RFR 2022/56", "V-N 2022/22.1.3", "Notamail 2022/21", "NTFR 2022/992 met annotatie van De redactie", "Viditax (FutD) 2022012601", "FutD 2022-0326"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/284", "NLF 2022/0359 met annotatie van Christa van Hoek", "RN 2022/27", "Vp-bulletin 2022/18 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "Belastingadvies 2022/8.7", "RFR 2022/56", "V-N 2022/22.1.3", "Notamail 2022/21", "NTFR 2022/992 met annotatie van Redactie", "Viditax (FutD) 2022012601", "FutD 2022-0326"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:9677, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2024:239"]]
 cites_law: ["netherlands/national/acts/successiewet-1956/art-001.md", "netherlands/national/acts/successiewet-1956/art-012.md"]
 ---
