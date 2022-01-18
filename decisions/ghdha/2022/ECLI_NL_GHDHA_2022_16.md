@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:16"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0214", "PR-Updates.nl PR-2022-0057", "PJ 2022/30", "VAAN-AR-Updates.nl 2022-0214"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0214", "PR-Updates.nl PR-2022-0057", "PJ 2022/30", "VAAN-AR-Updates.nl 2022-0214", "PR-Updates.nl 2022-0057"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:8226, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1291, Bekrachtiging/bevestiging"]]
 ---
 
