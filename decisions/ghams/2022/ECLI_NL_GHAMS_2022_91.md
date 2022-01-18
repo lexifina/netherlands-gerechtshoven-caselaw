@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:91"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1572", "V-N 2022/32.10 met annotatie van Redactie", "Viditax (FutD) 2022062103", "FutD 2022-1805"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1572", "V-N 2022/32.10", "Viditax (FutD) 2022062103", "FutD 2022-1805"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:6624, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:953"]]
 ---
 
