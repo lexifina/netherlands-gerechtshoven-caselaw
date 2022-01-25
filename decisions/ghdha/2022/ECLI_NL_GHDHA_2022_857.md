@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2022:201"]]
 
 ## Inhoudsindicatie
 
-Johnson City Investigation; complete acquittal of (primarily) participation in an organisation whose object it was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences, (alternatively) complicity in participation in a terrorist organisation and (in the further alternative) complicity in the possession or transfer of ammunition. On the basis of the contents of the case file, also viewed in conjunction with each other, insufficient legal and convincing evidence that the accused was involved in the offences charged. Return to the accused of the seized amount of money.
+Judgment of the national Dutch Court of Appeal in the Hague; Johnson City Investigation; complete acquittal of (primarily) participation in an organisation whose object it was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences, (alternatively) complicity in participation in a terrorist organisation and (in the further alternative) complicity in the possession or transfer of ammunition. On the basis of the contents of the case file, also viewed in conjunction with each other, insufficient legal and convincing evidence that the accused was involved in the offences charged. Return to the accused of the seized amount of money.
 
 ## Uitspraak
 
