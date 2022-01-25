@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2022:200"]]
 
 ## Inhoudsindicatie
 
-Johnson City Investigation; acquittal of participation in an organisation whose object it was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences in accordance with the request of the Advocate General and pleaded by the defence. Proven primarily – implicitly alternatively – charged participation in a criminal organisation whose object it is to have weapons and ammunition in its possession.
+Judgment of the national Dutch Court of Appeal in The Hague; Johnson City Investigation; acquittal of participation in an organisation whose object it was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences in accordance with the request of the Advocate General and pleaded by the defence. Proven primarily – implicitly alternatively – charged participation in a criminal organisation whose object it is to have weapons and ammunition in its possession.
 
 No abandonment of the basis of the charges. Reasonable period of time exceeded. PS 8 months, with credit for the time spent in pre-trial detention.
 
