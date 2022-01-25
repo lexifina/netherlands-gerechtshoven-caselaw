@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1401"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:467"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:904"]]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:467"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:904"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:945"]]
 ---
 
 # ECLI:NL:GHDHA:2022:1401 Gerechtshof Den Haag , 25-01-2022 / 22-004665-19.a
