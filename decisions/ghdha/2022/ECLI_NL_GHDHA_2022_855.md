@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2022:199"]]
 
 ## Inhoudsindicatie
 
-Johnson City Investigation; complete acquittal in accordance with the request of the Advocate General and pleaded by the defence of (primarily) participation in an organisation the object of which was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences, (alternatively) complicity in participation in a terrorist organisation and (in the further alternative) co-perpetration in the possession or transfer of ammunition.
+Judgment of the national Dutch Court of Appeal in The Hague; Johnson City Investigation; complete acquittal in accordance with the request of the Advocate General and pleaded by the defence of (primarily) participation in an organisation the object of which was to commit terrorist offences and/or acts facilitating or preparing the commission of terrorist offences, (alternatively) complicity in participation in a terrorist organisation and (in the further alternative) co-perpetration in the possession or transfer of ammunition.
 
 ## Uitspraak
 
