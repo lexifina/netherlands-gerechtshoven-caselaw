@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:466"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0047"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0047", "PR-Updates.nl 2022-0047"]
 relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2018:1213"]]
 ---
 
