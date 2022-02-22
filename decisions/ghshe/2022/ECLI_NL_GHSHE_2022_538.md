@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:538"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0064", "Jurisprudentie Erfrecht 2022/76 met annotatie van Mr. drs. J.H. Lieber", "JERF 2022/76 met annotatie van Mr. drs. J.H. Lieber", "JERF Actueel 2022/61"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0064", "Jurisprudentie Erfrecht 2022/76 met annotatie van Mr. drs. J.H. Lieber", "JERF 2022/76 met annotatie van Mr. drs. J.H. Lieber", "JERF Actueel 2022/61", "FJR 2026/55.23"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:3211"]]
 cites_law: ["netherlands/national/acts/bw-boek-4/art-046.md", "netherlands/national/acts/bw-boek-4/art-047.md"]
 ---
