@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:1961"
-published_in: ["Rechtspraak.nl", "NLF 2022/0768 met annotatie van Gerard Staats", "Viditax (FutD) 2022032513", "FutD 2022-0923"]
+published_in: ["Rechtspraak.nl", "NLF 2022/0768 met annotatie van mr. dr. G.M.C.M. Staats", "Viditax (FutD) 2022032513", "FutD 2022-0923"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2020:5444, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2024:516"]]
 ---
 
