@@ -1,0 +1,1029 @@
+---
+ecli: "ECLI:NL:GHDHA:2022:525"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "BK-21/00788 ev"
+decided: "2022-03-24"
+published: "2022-04-01"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:525"
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1091", "NLF 2022/0924", "V-N 2022/29.20.29"]
+---
+
+# ECLI:NL:GHDHA:2022:525 Gerechtshof Den Haag , 24-03-2022 / BK-21/00788 ev
+
+## Inhoudsindicatie
+
+Art. 6.32 en 6.39, lid 1, Wet IB 2001. Art. 67e Awr.
+
+Belanghebbende heeft in haar aangiften IB/PVV 2011, 2012 en 2014 giften aan een instelling opgevoerd als aftrekpost. De Inspecteur heeft de giften in aftrek toegestaan. Vervolgens heeft de Inspecteur naar aanleiding van de uitkomsten van een FIOD-onderzoek bewijsstukken van de giftenaftrek opgevraagd en zijn van de zijde van belanghebbende giftkwitanties overgelegd voor de jaren 2012 en 2014. De Inspecteur heeft de aftrek teruggenomen met de opgelegde navorderingsaanslagen en voor de jaren 2012 en 2014 vergrijpboetes opgelegd. Het Hof oordeelt dat belanghebbende met de giftkwitanties niet aannemelijk heeft gemaakt dat zij daadwerkelijk giften aan de instelling heeft gedaan. Ten aanzien van de vergrijpboetes oordeelt het Hof dat de Inspecteur aannemelijk heeft gemaakt dat belanghebbende ten tijde van het doen van de aangiften zich ervan bewust is geweest dat de aangiften voor wat betreft de giftenaftrek onjuist waren. De boetes van 75% zijn passend en geboden.
+
+## Uitspraak
+
+GERECHTSHOF DEN HAAG
+
+Team Belastingrecht
+
+meervoudige kamer
+
+nummers BK-21/00788, BK-21/01219 en BK-21/01220
+
+Uitspraak van 24 maart 2022
+
+in het geding tussen:
+
+[X] te [Z] , belanghebbende,
+(gemachtigde: M.A. Daldal)
+
+en
+
+de inspecteur van de Belastingdienst, de Inspecteur,
+(vertegenwoordigers: […] en […] )
+
+op het hoger beroep van de Inspecteur en het incidenteel hoger beroep van belanghebbende tegen de uitspraak van de Rechtbank Den Haag (de Rechtbank) van 23 juli 2021, nummers SGR 20/2721, SGR 20/2755 en SGR 20/2756.
+
+Procesverloop
+
+Jaar 2011 – BK-21/01219
+
+1.1.1.
+
+Aan belanghebbende is over het jaar 2011 een navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen (IB/PVV) opgelegd naar een belastbaar inkomen uit werk en woning van € 23.649. Bij gelijktijdig gegeven beschikking is € 212 heffingsrente in rekening gebracht.
+
+1.1.2.
+
+Bij uitspraak op bezwaar heeft de Inspecteur belanghebbendes bezwaren tegen de navorderingsaanslag en de beschikking afgewezen.
+
+Jaar 2012 – BK-21/00788
+
+1.2.1.
+
+Aan belanghebbende is over het jaar 2012 een navorderingsaanslag IB/PVV opgelegd naar een belastbaar inkomen uit werk en woning van € 25.172. Bij gelijktijdig gegeven beschikkingen is € 218 belastingrente in rekening gebracht en is een vergrijpboete opgelegd van € 950.
+
+1.2.2.
+
+Bij uitspraak op bezwaar heeft de Inspecteur belanghebbendes bezwaren tegen de navorderingsaanslag en de beschikkingen afgewezen.
+
+Jaar 2014 – BK-21/01220
+
+1.3.1.
+
+Aan belanghebbende is over het jaar 2014 een navorderingsaanslag in de inkomstenbelasting/premie volksverzekeringen (IB/PVV) opgelegd naar een belastbaar inkomen uit werk en woning van € 21.166. Bij gelijktijdig gegeven beschikkingen is € 69 belastingrente in rekening gebracht en is een vergrijpboete opgelegd van € 517.
+
+1.3.2.
+
+Bij uitspraak op bezwaar heeft de Inspecteur belanghebbendes bezwaren tegen de navorderingsaanslag en de beschikkingen afgewezen.
+
+1.4.
+
+Belanghebbende heeft tegen de uitspraken op bezwaar beroep bij de Rechtbank Noord-Holland ingesteld. Rechtbank Noord-Holland heeft de zaak voor verdere behandeling en beslissing verwezen naar de Rechtbank Den Haag. De beslissing van de Rechtbank luidt, waarbij belanghebbende is aangeduid als eiseres en de Inspecteur als verweerder:
+
+"De rechtbank:
+
+- verklaart het beroep met zaaknummer SGR 20/2755 (2012) gegrond;
+
+- vernietigt de uitspraak op bezwaar voor het jaar 2012 zover die betrekking heeft op de boetebeschikking;
+
+- vernietigt de boetebeschikking voor het jaar 2012 en bepaalt dat deze uitspraak in zoverre in de plaats treedt van het vernietigde deel van de uitspraak op bezwaar;
+
+- verklaart de beroepen met zaaknummers SGR 20/2721 (2011) en SGR 20/2756 (2014) ongegrond;
+
+- veroordeelt verweerder in de proceskosten van eiseres tot een bedrag van € 1.761;
+
+- draagt verweerder op het betaalde griffierecht van € 47 aan eiseres te vergoeden."
+
+1.5.
+
+De Inspecteur heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld bij het Hof. Belanghebbende heeft een verweerschrift ingediend en heeft daarbij tevens incidenteel hoger beroep ingesteld. De Inspecteur heeft schriftelijk zijn zienswijze omtrent het incidenteel ingestelde hoger beroep naar voren gebracht.
+
+1.6.
+
+Een onderzoek ter zitting van de zaak heeft niet plaatsgehad. Het Hof heeft partijen medegedeeld voornemens te zijn zonder onderzoek ter zitting uitspraak te doen. Partijen hebben het Hof, desgevraagd, niet binnen de daartoe gestelde termijn, medegedeeld een mondelinge behandeling te willen.
+
+Vaststaande feiten
+
+Jaar 2011
+
+2.1.1.
+
+Belanghebbende, gehuwd met [A] , heeft in de aangifte IB/PVV 2011 de volgende bedragen aan giften opgevoerd:
+
+Omschrijving
+
+bedrag
+
+[stichting 1]
+
+€ 3.000
+
+[stichting 2]
+
+€ 150
+
+[stichting 1]
+
+€ 2.000
+
+Totaal giften
+
+€ 5.150
+
+Drempel
+
+€  236
+
+Totaal aftrekbare giften
+
+€ 2.365
+
+Het gehele bedrag dat in de aangifte is vermeld onder de post “totaal aftrekbare giften” is in de aangifte aan belanghebbende toegerekend.
+
+2.1.2.
+
+De Inspecteur heeft de aanslag IB/PVV 2011 met dagtekening 31 augustus 2012 vastgesteld overeenkomstig de ingediende aangifte naar een belastbaar inkomen uit werk en woning van € 21.284.
+
+Jaar 2012
+
+2.2.1.
+
+Belanghebbende heeft in de aangifte IB/PVV 2012 de volgende bedragen aan giften opgevoerd:
+
+Omschrijving
+
+bedrag
+
+[stichting 2]
+
+€ 485
+
+[stichting 1]
+
+€ 1.000
+
+[stichting 1]
+
+€ 3.000
+
+Totaal giften
+
+€ 4.485
+
+Drempel
+
+€  317
+
+Totaal aftrekbare giften
+
+€ 3.179
+
+Het gehele bedrag dat in de aangifte is vermeld onder de post “totaal aftrekbare giften” is in de aangifte aan belanghebbende toegerekend.
+
+2.2.2.
+
+De Inspecteur heeft de aanslag IB/PVV 2012 met dagtekening 7 januari 2015 vastgesteld overeenkomstig de ingediende aangifte naar een belastbaar inkomen uit werk en woning van € 22.151.
+
+Jaar 2014
+
+2.3.1.
+
+Belanghebbende heeft in de aangifte IB/PVV 2014 de volgende giften opgevoerd:
+
+Omschrijving
+
+Bedrag
+
+[stichting 2]
+
+€ 720
+
+[stichting 1]
+
+€ 1.000
+
+[stichting 1]
+
+€ 2.500
+
+Totaal giften
+
+€ 4.220
+
+Drempel
+
+€  309
+
+Totaal aftrekbare giften
+
+€ 3.092
+
+Van het totaal aan aftrekbare giften is in de aangifte een bedrag van € 1.821 aan belanghebbende toegerekend.
+
+2.3.2.
+
+De Inspecteur heeft de aanslag IB/PVV 2014 met dagtekening 4 september 2015 vastgesteld overeenkomstig de ingediende aangifte naar een belastbaar inkomen uit werk en woning van € 19.587.
+
+Alle jaren
+
+2.4.
+
+De [stichting 1] stond in de desbetreffende jaren geregistreerd als Algemeen Nut Beogende Instelling (ANBI).
+
+2.5.1.
+
+De Belastingdienst is in 2013 een onderzoek gestart naar de houdbaarheid van de ANBI-status van de [stichting 1] . Daaruit bleek ten aanzien van het jaar 2012 dat belastingplichtigen gezamenlijk voor ten minste een bedrag van € 3.000.000 aan giften aan de [stichting 1] in aftrek hadden gebracht terwijl in de jaarstukken van de [stichting 1] voor dat jaar een bedrag van € 591.210 aan ontvangen giften was verantwoord. Voorts bleek dat de [stichting 1] in het jaar 2012 meer kwitanties (in totaal 2.500) had uitgeschreven dan zij in haar administratie had verantwoord (531) en dat de [stichting 1] in de jaarstukken voor 2013 een bedrag van € 88.564 aan ontvangen donaties had verwerkt terwijl in aangiften IB/PVV van diverse belastingplichtigen in totaal € 3.445.808 aan giften aan de [stichting 1] was aangegeven. Van dit onderzoek is een rapport opgemaakt dat is gedagtekend 17 mei 2016.
+
+2.5.2.
+
+Omdat de administratie van de [stichting 1] ernstige gebreken vertoonde is de ANBI-status van de [stichting 1] op 6 januari 2014 ingetrokken met terugwerkende kracht tot 1 januari 2008.
+
+2.5.3.
+
+In januari 2015 is de FIOD gestart met strafrechtelijke onderzoeken naar het gebruik van valse giftkwitanties bij drie andere ANBI-instellingen dan de [stichting 1] ( [FIOD-onderzoek 1] en [FIOD-onderzoek 2] ). Uit die onderzoeken bleek dat diverse belastingplichtigen die giften aan voormelde instanties in de aangiften hadden opgenomen ook giften aan de [stichting 1] hadden opgenomen in hun aangiften.
+
+2.6.1.
+
+Voormelde bevindingen (2.5.1 en 2.5.3) zijn aanleiding geweest voor de FIOD om op 17 september 2015 een strafrechtelijk onderzoek te starten naar de [stichting 1] en haar bestuurders in verband met het opmaken van valse giftkwitanties en/of donatieverklaringen van de [stichting 1] en het gebruik hiervan bij het doen van aangiften IB/PVV ( [FIOD-onderzoek 3] ).
+
+2.6.2.
+
+De bevindingen uit het strafrechtelijk onderzoek [FIOD-onderzoek 3] zijn door de FIOD opgenomen in een proces-verbaal, met dossiernummer 57425. De officier van justitie heeft op 16 maart 2017 toestemming verleend de bevindingen uit het FIOD-onderzoek te gebruiken voor fiscale doeleinden. De resultaten van het onderzoek zijn op 23 april 2018 ter beschikking gesteld aan de Belastingdienst/kantoor Den Haag. Het (geanonimiseerde) proces-verbaal met bijlagen is door de Inspecteur verstrekt op een CD-rom (het FIOD-rapport).
+
+2.6.3.
+
+Belanghebbende is in voormeld onderzoek ( [FIOD-onderzoek 3] ) niet als verdachte aangemerkt noch is zij als getuige gehoord.
+
+2.7.
+
+In het FIOD-rapport zijn proces-verbalen van verhoor van verdachten opgenomen uit de strafrechtelijke onderzoeken [FIOD-onderzoek 1] en [FIOD-onderzoek 2] . De verdachten hebben onder andere verklaringen afgelegd over de handel in giftkwitanties bij de [stichting 1] .
+
+2.7.1.
+
+Het FIOD-rapport bevat een "proces-verbaal van verhoor verdachte" uit het onderzoek [FIOD-onderzoek 1] (blz. 2040 e.v.) De verdachte heeft, onder meer verklaard:
+
+"[…] is belastingadviseur en hij werkt samen met de [stichting 1] met betrekking tot het kopen van kwitanties. Hij koopt de kwitanties in voor 10% en verkoopt ze voor 12 tot 15% aan zijn klanten zodat zij dit kunnen aftrekken van de belasting."
+
+2.7.2.
+
+Het FIOD-rapport bevat een "proces-verbaal van verhoor verdachte" uit het onderzoek [FIOD-onderzoek 2] (blz. 2140 e.v.). De verdachte heeft, onder meer verklaard:
+
+"Ik ga u alles vertellen in 2011, 2012 en 2013 heb ik kwitanties gekocht bij [stichting 1] . Dit was niet voor 10% maar voor 15% of zelfs 20% procent weet ik niet meer zeker. Het zijn allemaal oplichters van die stichtingen. Ze stoppen alles in de eigen zak en melden niets aan de Belastingdienst. In 2011 heb ik geld betaald aan [de bestuurder/directeur] van de [stichting 1] . In 2012 en 2013 heb ik geld betaald aan [de penningmeester] van de [stichting 1] . De door mij overgelegde kwitanties over het jaar 2013 van de [stichting 1] heb ik van die [penningmeester] gekregen. Dit geld heb ik op de [adres] in [vestigingsplaats] betaald. De kwitanties heeft [de penningmeester] mij op het adres aan de [adres] waar de [stichting 1] is gevestigd gegeven."
+
+2.7.3.
+
+Het FIOD-rapport bevat een "proces-verbaal van verhoor verdachte" uit het onderzoek [FIOD-onderzoek 3] (blz. 1900 e.v.). Het proces-verbaal vermeldt, voor zover van belang:
+
+"Opmerking verbalisanten: Uit onderzoek is naar voren gekomen dat uw aangiften inkomstenbelasting over de jaren 2010 tot en met 2013 zijn ingediend vanaf het IP-adres van de [stichting 1] .
+
+Vraag verbalisanten: Wie heeft uw aangiften inkomstenbelasting over de jaren 2010 tot en met 2013 ingevuld en ingediend bij de Belastingdienst?
+
+Antwoord gehoorde:
+
+"Omdat ik slecht Nederlands spreek, ben ik door diverse mensen geadviseerd om naar de [stichting 1] te gaan. Ik ging naar de [stichting 1] om mijn aangiften in te laten vullen.
+
+(…)
+
+Vraag verbalisanten: Wie heeft de aangifte Inkomstenbelasting 2011 op uw naam bij de Belastingdienst ingevuld en ingediend?
+
+Antwoord gehoorde:
+
+"Ik ben eerlijk, maar toen ik daar kwam waren het elke keer andere mensen. Er waren allemaal kleine hokjes en daar werd het ingevuld. Ik ben daar gewoon naartoe gegaan, maar ik ken daar helemaal niemand. Ik kan dus niet zeggen wie dat voor mij ingevuld heeft. Op de dag dat ik mijn aangifte liet invullen, kreeg ik de twee kwitanties die ik u zojuist heb overhandigd. De data op de kwitanties hebben zij van de [stichting 1] erop gezet. Ik heb in ieder geval niet op die data betaald. Ik heb in één keer € 300 of zo betaald. Ik weet niet meer precies hoeveel ik heb betaald maar ik dacht iets van 12 of 15% van € 2.500. Ik heb mijn DigiD code en wachtwoord aan de medewerker van de [stichting 1] gegeven en die heeft vervolgens mijn aangifte ingediend. Dat ging elk jaar zo."
+
+(…)
+
+Vraag verbalisanten: In uw aangifte inkomstenbelasting 2012 staat in het onderdeel 'giften' een bedrag van € 2.500. Wat kunt u hierover verklaren?
+
+Antwoord gehoorde:
+
+"Daarvoor geldt hetzelfde als het jaar 2011. Ik denk dat ik daar ook ongeveer € 300 voor betaald heb."
+
+(…)
+
+Opmerking verbalisanten: Op de kwitanties over 2012 staan de data 10-03-2012 en 15112012. Uw aangifte inkomstenbelasting 2012 is gedaan op 9 maart 2013.
+
+Vraag verbalisanten: Heeft u de kwitanties op dezelfde dag dat uw aangifte is gedaan, ontvangen?
+
+Antwoord gehoorde:
+
+"Ja."
+
+(…)
+
+Vraag verbalisanten: In uw aangifte inkomstenbelasting 2013 staat in het onderdeel ‘giften’ een bedrag van € 2.500. Wat kunt u hierover verklaren?
+
+Antwoord gehoorde:
+
+“Ook hier heb ik maar € 300 of € 350 voor betaald."
+
+Opmerking verbalisanten: Op de kwitanties over 2013 staan de data 23-02-2013 en 24052013. Uw aangifte inkomstenbelasting 2013 is gedaan op 26 februari 2014.
+
+Vraag verbalisanten: Heeft u de kwitanties op dezelfde dag dat uw aangifte is gedaan, ontvangen?
+
+Antwoord gehoorde:
+
+"Ja."
+
+2.8.
+
+Het FIOD-rapport bevat een proces-verbaal van een opsporingsambtenaar van de FIOD betreffende "aangetroffen belastingaangiften en correspondentie op de PC van de [stichting 1] " (blz. 930 e.v.). Het proces-verbaal vermeldt onder meer:
+
+"Resumé
+
+Op grond van de volgende feiten en omstandigheden, te weten dat:
+
+(…)
+
+ […] zijn  aangifte inkomstenbelasting 2013 voor € 50 in heeft laten vullen door/bij de [stichting 1] ;
+
+ In de aangifte inkomstenbelasting 2013 op naam van […] een gift is opgenomen van € 3.000;
+
+ […] € 300, ofwel 10%, heeft betaald voor de giftkwitantie, wat overeenkomt met de verklaring van [de penningmeester];
+
+ De aangifte inkomstenbelasting 2013 op naam van […] vermoedelijk opzettelijk onjuist is ingediend;
+
+ De aangifte inkomstenbelasting 2014 op naam van […] die bij de Belastingdienst is ingediend, is verzonden vanaf één van de computers van de [stichting 1] ;
+
+ In de aangifte inkomstenbelasting 2014 op naam van […] een gift is opgenomen van €1.000;
+
+ […] € 100, ofwel 10%, heeft betaald voor de giftkwitantie, wat overeenkomt met de verklaring van [de penningmeester];
+
+ De kwitantie op naam van […] met nummer [xxx] gelet op de verklaring van [de penningmeester] vermoedelijk valselijk is opgemaakt;
+
+ De aangifte inkomstenbelasting 2014 op naam van […] vermoedelijk opzettelijk onjuist is gedaan;
+
+(…)"
+
+2.9.
+
+Het FIOD-rapport bevat een proces-verbaal van een opsporingsambtenaar van de FIOD betreffende "onderzoek in administratie [stichting 1] " (blz. 747 e.v.). Het proces-verbaal vermeldt onder meer:
+
+"In verband met dit onderzoek heeft op 13 december 2016 een doorzoeking plaatsgevonden op het adres van de [stichting 1] , waarbij diverse administratie in beslag is genomen. Ik heb verhuisdoos 1 met boekingsnummer C.22.02.01 van object C van totaal 21 dozen nader onderzocht.
+
+(…)
+
+Resumé
+
+ De [stichting 1] neemt niet alle door hun afgegeven donatieformulieren en/of bewijzen van donaties naar aanleiding van contante stortingen op in het kasboek van de [stichting 1] .
+
+ Meerdere malen wordt slechts het bedrag of een gedeelte van het bedrag wat vermeld staat op 1 donatieformulier of op het bewijs van donatie opgenomen in het kasboek van de [stichting 1] ;
+
+ Uit onderstaande tabel is op te maken dat ongeveer 22% procent van de afgegeven donatieformulieren en/of bewijzen van donaties verantwoord is in het kasboek van de [stichting 1] ;
+
+ (…)"
+
+2.10.
+
+Het FIOD-rapport bevat een op 16 april 2015 bij de FIOD binnengekomen anonieme melding, met nummer 35.04946 (blz. 4180) met de volgende mededeling:
+
+"Belastingfraude door […]. Het gaat om giften/donaties aan de [stichting 1] te [vestigingsplaats] . De ontvangstbewijzen die ontvangen zijn van de [stichting 1] zijn meermalen vervalst en gebruikt voor meerdere personen om belastingteruggaaf aan te vrahen (lees: vragen, Hof) (alsof zij deze giften/bedragen ook hebben betaald)"
+
+2.11.
+
+Het FIOD-rapport bevat een proces-verbaal van een opsporingsambtenaar van de FIOD betreffende "Vergelijking opbrengst donaties [stichting 1] " (blz. 469 e.v.). Het proces-verbaal vermeldt onder meer:
+
+"Ontvangst Excelbestand en kwitanties [stichting 1]
+
+(…)
+
+De Belastingdienst heeft, onder andere over het jaar 2014, diverse kwitanties op naam van de [stichting 1] en een Excelbestand aan de FIOD ter beschikking gesteld.
+
+(…)
+
+Uit onderzoek in het Excelbestand is naar voren gekomen dat er op naam van de [stichting 1] in de periode 1 januari 2014 tot en met 6 januari 2014 in totaal 232 kwitanties zijn uitgeschreven, die een gezamenlijke waarde van € 564.820 vertegenwoordigen.
+
+Vergelijking donaties 2014 met voorliggende Jaren
+
+Ik heb het aantal boekingen, dat over de jaren 2008 tot en met 2013 in de periode 1 januari tot en met 6 januari in de administratie van de [stichting 1] is gedaan, vergeleken met het aantal kwitanties, dat in dezelfde periode in 2014 is uitgeschreven.
+
+Ik zag daarbij dat het aantal boekingen in de administratie over de jaren 2008 tot en met 2013 sterk afwijkt van het aantal kwitanties, dat in 2014 is uitgeschreven. Zie onderstaande tabel.
+
+Jaar
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Data van de boekingen
+
+1, 4 en 5 januari
+
+5 en 6 januari
+
+2, 3 en 5 januari
+
+1, 3,4 en 5 januari
+
+4 en 6 januari
+
+1 t/m 6 januari
+
+Aantal boekingen
+
+7
+
+5
+
+3
+
+13
+
+6
+
+0
+
+232
+
+Bedrag boekingen
+
+€ 9.300
+
+€ 5.450
+
+€ 3.450
+
+€ 13.900
+
+€ 5.250
+
+€ 0
+
+€ 564.820"
+
+2.12.1.
+
+Tijdens het strafrechtelijk onderzoek [FIOD-onderzoek 3] zijn diverse telefoons in beslag genomen. Het FIOD-rapport (blz. 34) vermeldt hierover, onder meer:
+
+"In diverse telefoons die bij de doorzoeking van de woning van [de penningmeester] in beslag werden genomen zijn tekstberichten aangetroffen waarin wordt gesproken over het aankopen van kwitanties en het percentage wat daarvoor moet worden betaald. Ook zijn er berichten aangetroffen waaruit kan worden opgemaakt dat anderen de kwitanties namens belastingplichtigen aankopen."
+
+2.12.2.
+
+Het FIOD-rapport bevat (de vertaling van) de tekstberichten die op de in beslag genomen telefoons zijn gevonden. Het FIOD-rapport bevat onder meer een vertaling van de volgende sms-berichten (blz. 4259, 4261 en 4262):
+
+"*
+
+Folder
+
+Party
+
+Time
+
+(…)
+
+(…)
+
+Message
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+32
+
+Inbox
+
+From
+
+[…]
+
+20-3-2014
+
+21:34:43(…)
+
+Read
+
+Hallo […] Je zou een bon opstellen voor […]. Ik heb de datums genoteerd van de gelden die ik van de bank heb opgenomen. Zou je het na vrijdag kunnen regelen als ik morgen even langskom?
+
+7500 opname op 11.10.2013
+
+1000 opname op 30.09.2013
+
+500 opname op 29.09.2013
+
+2000 opname op 18.12.2013
+
+1000 opname op 17.06.2013
+
+1000 opname op 16.07.2013
+
+1000 opname op 25.07.2013
+
+1000 opname op 30.09.2013
+
+500 opname op 02.10.2013
+
+(…)
+
+33
+
+Sent
+
+To
+
+[...]
+
+20-3-2014
+
+21:35:48 (…)
+
+Sent
+
+Hallo broer, is goed. Ik heb het gereed. Zou je mij je adres en het totaalbedrag van wat je wilt willen doorgeven?
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+(…)
+
+54
+
+Inbox
+
+From
+
+[...]
+
+4-7-2014
+
+22:26:10 (…)
+
+Read
+
+Hallo meneer
+
+24-03-2013 800 euro
+
+23-04-2013 1000 euro
+
+10-06-2013 700 euro
+
+(…)
+
+55
+
+Sent
+
+To
+
+[...]
+
+4-7-2014
+
+22.:27:19
+
+Sent
+
+Hallo hoca, Dankjewel. U kunt het morgenavond op komen halen. Gegroet
+
+(…)"
+
+2.13.
+
+Het FIOD-rapport bevat een "TCI proces-verbaal" van het Team Criminele Inlichtingen (blz. 504 e.v.). Het proces-verbaal vermeldt, onder meer:
+
+"Bij het Team Criminele Inlichtingen van de Belastingdienst/FIOD is in de maand maart 2016 via één informant de navolgende Informatie binnengekomen:
+
+'De leiding van de [ [stichting 1] ] is op de hoogte van de belastingfraude door middel van de verkoop van valse giftenkwitanties op haar naam. Vals opgemaakte stukken worden ondertekend en gestempeld door […]. Nu de [stichting 1] geen ANBI meer is, worden andere stichtingen gebruikt voor deze fraude"
+
+2.14.1.
+
+Het FIOD-rapport bevat een handgeschreven kasadministratie, aangeduid als DOC480 (blz. 3614 e.v.). Dit kasboek bevat de contante inkomsten en uitgaven van de [stichting 1] in de periode van 1 december 2013 tot en met 31 december 2016. Het FIOD-rapport bevat voorts een overzicht van de door de [stichting 1] uitgeschreven kwitanties voor het jaar 2013, aangeduid als DOC-433 (blz. 3399 e.v.).
+
+2.14.2.
+
+De penningmeester heeft over voormelde administratie en voormeld overzicht onder meer verklaard:
+
+a. FIOD-rapport, blz. 1518-1526:
+
+"Ik had zelf een administratie ontwikkeld in excel. Pas toen wij een ANBI controle kregen zijn wij de administratie gaan ontwikkelen. In 2012 als er dan iemand kwam voor een of meerdere kwitanties dan werd deze door mij uitgeschreven en schriftelijk geboekt in een doorschrijf kasboek. Ik boekte dan het bedrag dat wij daadwerkelijk ontvingen. Dus voor een kwitantie van € 1.000 boekte ik een ontvangst van € 100. (…) Later werd door mij het daadwerkelijke bedrag op de kwitantie geboekt. Ik maakte hiervoor een excel bestand aan dat op de computer stond van de [stichting 1] in dit bestand zette ik het bedrag van de kwitantie, zodat ik kon bijhouden wat er gebeurd was voor als de mensen kwamen voor onder andere donatieverklaringen. (…)"
+
+b. FIOD-rapport, blz. 1535:
+
+"Opmerking verbalisanten:
+
+Wij tonen u een Excel bestand welke is gerelateerd aan donatiekwitanties die door de [stichting 1] aan derden zijn verstrekt. In het Excel bestand zijn de kwitantienummers, datum van afgifte, naam donateur en het gedoneerde bedrag opgenomen. (Het Excelbestand wordt onder DOC-511 opgenomen in het dossier)
+
+Vraag verbalisanten: Kunt u aan de hand van dit overzicht aangeven of de geldbedragen vermeld op de bijbehorende kwitanties, in combinatie met de vermelde persoonsnamen, daadwerkelijk zijn gedoneerd aan de [stichting 1] ?
+
+Antwoord gehoorde:
+
+"Van de lijsten die u mij nu laat zien met de namen en bedragen kan ik zeggen, dat niemand hierop deze lijst dat bedragen echt daadwerkelijk aan de [stichting 1] betaald heeft zij hebben van deze bedragen slechts 10% of 12% betaald zoals ik eerder heb verklaard. Ik heb al eerder gezegd dat er slechts een handjevol mensen is die daadwerkelijk het volledige bedrag heeft betaald maar dat betreffen bedragen van maximaal 300 of 400 euro. Als er in het kasboek kleine bedragen opgenomen zijn en daar staan soms geen kwitanties tegenover, dan is dat omdat deze mensen dit ook niet in aftrek wilden nemen bij de belastingdienst."
+
+c. FIOD-rapport, blz. 1557:
+
+"Vraag verbalisanten: Op 6 januari 2014 is de ANBI status van de [stichting 1] ingetrokken. Er zijn meerdere kwitanties aangetroffen die zijn voorzien van een datum gelegen in de periode 1 tot en met 6 januari 2014. Zijn al deze kwitanties valselijk opgemaakt?
+
+Antwoord gehoorde:
+
+"Niet allemaal, er zijn ook donaties die echt zijn gedaan. Ik kan mij nu niet herinneren wie dat zijn geweest. Ik heb het dan over de kwitanties vanaf 2012 die onder de € 500 zijn, alles wat daarboven is, is vals. Dit geld voor alle kwitanties die u heeft aangetroffen. Jullie kunnen uit de kasboeken uitvissen welke bedragen echt zijn gedoneerd. Dat boek klopt namelijk wel."
+
+2.14.3.
+
+Het FIOD-rapport vermeldt onder meer nog het volgende over de administratie bij de [stichting 1] (blz. 33):
+
+"Naast de vermoedelijk achteraf opgestelde donatieoverzichten zijn over de periode
+
+(…)	december 2013 tot en met december 2016 handgeschreven kasboeken bijgehouden. Het vermoeden bestaat dat in dat kasboek de juiste bedragen zijn vermeld. De gegevens van dit kasboek zijn ten behoeve van het strafrechtelijk onderzoek in een Excel-bestand verwerkt en digitaal bij het dossier gevoegd. In deze kasboeken staan inkomsten en uitgaven vermeld.
+
+(…)	Bij onderzoek van de inkomsten die zijn vermeld in de kasboeken is vastgesteld dat over de periode december 2013 tot en met december 2016 totaal 1.192 mutaties zijn opgenomen met de omschrijving 'donatie'. Het totaalbedrag van deze 1.192 donaties is € 489.087,70. Het is opvallend dat het grootste deel van deze donaties kleiner is dan € 500."
+
+2.15.
+
+In eerste aanleg heeft de Inspecteur drie (geanonimiseerde) verslagen van hoorgesprekken met belastingplichtigen overgelegd (bijlage 38). De verslagen bevatten verklaringen van de belastingplichtigen over (hun deelname aan) de handel in giftkwitanties bij de [stichting 1] .
+
+2.15.1.
+
+Het "verslag van het horen op vrijdag 13 juni 2018" [juli; Hof] vermeldt, onder meer:
+
+"6. Het volgende is tijdens het gesprek besproken:
+
+(…)
+
+4. (…) Hij vertelt dat hij één keer per week naar toespraken op de [stichting 1] ging. Na afloop van de toespraak werd aan de toehoorders vertelt dat zij de [stichting 1] konden helpen. In ruil voor deze donaties werd er een hoger bedrag op de kwitantie geschreven. Wanneer er een bedrag van € 300 werd betaald, werd er op de kwitantie € 3.000 vermeld. (…)"
+
+2.15.2.
+
+Het "verslag van het horen op donderdag 9 augustus 2018" vermeldt, onder meer:
+
+"6. Het volgende is tijdens het gesprek besproken:
+
+(…)
+
+3. Voor de aankoop van zijn woning is hij in contact gekomen met Advieskantoor […] via iemand genaamd […] (…) Ze waren behulpzaam en gaven goede adviezen. De heer […] hielp hem met zijn hypotheek en […] hielp hem met het indienen van zijn aangifte inkomstenbelasting 2013. Bij het indienen van de aangifte kreeg hij van […] het advies om te doneren aan de [stichting 1] .
+
+De [belastingplichtige] deelde hen mee dat hij daarvoor geen financiële middelen had. […] deelde hem daarop mee dat het ook anders kon, namelijk eerst het bedrag in aftrek brengen in de aangifte, afhankelijk van de teruggaaf zou dan een bedrag aan de [stichting 1] worden gedoneerd. De kwitantie hiervoor zou dan achteraf geregeld worden (…)."
+
+2.16.1.
+
+Bij het verweerschrift in eerste aanleg heeft de Inspecteur bladzijde 3417 van het FIOD-rapport gevoegd (bijlage F). Deze bladzijde betreft een deel van het onder 2.14.1 genoemde overzicht van de door de [stichting 1] uitgeschreven kwitanties (DOC-433) in het jaar 2013. Dit overzicht vermeldt een bedrag van € 1.000 met datum 20 december 2013 en belanghebbendes naam.
+
+2.16.2.
+
+Bij het verweerschrift in eerste aanleg heeft de Inspecteur bladzijden 3643 en 3663 van het FIOD-rapport gevoegd. Deze bladzijden betreffen de onder 2.14.1 genoemde handgeschreven kasadministratie (DOC-480). Dit overzicht vermeldt een door de [stichting 1] ontvangen bedrag van € 50 (pinbetaling) op 10 maart 2015 van belanghebbende met de omschrijving “Bel.zaken” (bladzijde 3663) en een bedrag van € 800 op 24 mei 2015 van de echtgenoot van belanghebbende, belanghebbende, de zus van belanghebbende ( [B] ) en diens echtgenoot ( [C] ) tezamen (bladzijde 3643). Verder heeft de Inspecteur bij zijn hoger beroepschrift de bladzijden 3754 en 3756 overgelegd van de handgeschreven kasadministratie (DOC-480). Deze bladzijden betreffen de informatie die in DOC-480 is opgenomen met de data 18 december 2013 tot en met 23 december 2013 (bladzijde 3756) en 3 januari 2014 tot en met 7 januari 2014 (bladzijde 3754). De namen van belanghebbende en/of haar echtgenoot worden op die data niet genoemd.
+
+Jaar 2012
+
+2.17.
+
+De Inspecteur heeft belanghebbende bij brief van 15 december 2016 verzocht informatie te verstrekken over de in de aangifte IB/PVV 2012 van belanghebbende in aftrek gebrachte giften. In reactie hierop heeft belanghebbende onder meer kwitanties van de [stichting 1] verstrekt tot het totaalbedrag van de in de aangifte opgevoerde giften aan de [stichting 1] .
+
+Jaar 2014
+
+2.18.
+
+De Inspecteur heeft de echtgenoot van belanghebbende bij brief van 23 oktober 2015 verzocht informatie te verstrekken over de in de aangifte IB/PVV 2014 van de echtgenoot van belanghebbende in aftrek gebrachte giften. In reactie hierop heeft de echtgenoot van belanghebbende, onder meer, twee kwitanties van de [stichting 1] verstrekt:
+
+Kwitantienummer
+
+Naam
+
+Datum
+
+Bedrag
+
+000296
+
+[A]
+
+3 januari 2014
+
+€ 1.000
+
+000462
+
+[belanghebbende]
+
+5 januari 2014
+
+€ 2.500
+
+Alle jaren
+
+2.19.
+
+Bij brieven van 14 september 2017 (jaar 2012) en 25 september 2017 (jaren 2012 en 2014) heeft de Inspecteur belanghebbende te kennen gegeven dat hij over de jaren 2012 en 2014 navorderingsaanslagen zal opleggen waarbij de giftenaftrek ter zake van de [stichting 1] wordt gecorrigeerd. Verder heeft de Inspecteur te kennen gegeven dat hij voornemens is voor beide jaren een vergrijpboete op te leggen als bedoeld in artikel 67e van de Algemene wet inzake rijksbelastingen (AWR) ter hoogte van 75% van de nagevorderde belasting. Bij brief van 4 januari 2018 heeft de Inspecteur belanghebbende medegedeeld op basis van de voor het belastingjaar 2012 gebleken feiten ten behoud van rechten belanghebbende over het jaar 2011 een navorderingsaanslag op te leggen waarbij de giftenaftrek ter zake van de [stichting 1] wordt gecorrigeerd.
+
+2.20.
+
+Vervolgens zijn met dagtekening 2 december 2017 (jaren 2012 en 2014) en 20 januari 2018 (jaar 2011) de onderhavige navorderingsaanslagen opgelegd en gelijktijdig boetebeschikkingen (voor de jaren 2012 en 2014), een beschikking heffingsrente (voor het jaar 2011) en beschikkingen belastingrente (voor de jaren 2012 en 2014) gegeven.
+
+Oordeel van de Rechtbank
+
+3. De Rechtbank heeft geoordeeld, waarbij belanghebbende is aangeduid als eiseres en de Inspecteur als verweerder:
+
+"Beoordeling van het geschil
+
+Nieuw feit
+
+13. Indien enig feit grond oplevert voor het vermoeden dat een aanslag tot een te laag bedrag is vastgesteld, kan ingevolge artikel 16, eerste lid, eerste volzin, van de Awr de inspecteur de te weinig geheven belasting navorderen. Op grond van artikel 16, eerste lid, tweede volzin, van de Awr kan een feit, dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, geen grond voor navordering opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is.
+
+14. De bewijslast dat sprake is van een nieuw feit dat navordering rechtvaardigt, rust op verweerder. Op grond van vaste rechtspraak is verweerder niet gehouden onderzoek te doen naar de juistheid van een ingediende aangifte indien voor de daarin opgenomen posten een redelijke verklaring mogelijk is. Verweerder mag er in dergelijke gevallen van uitgaan dat de belastingplichtige zijn aangifte, juist, volledig en zonder voorbehoud heeft ingevuld. Verweerder heeft de aangiften voor de jaren 2011 en 2014 daarom kunnen en mogen volgen zonder daarover vragen te stellen. Eiseres heeft, tegenover de weerspreking door verweerder, niet aannemelijk gemaakt dat verweerder voor deze jaren stukken heeft opgevraagd voordat hij de aanslagen heeft opgelegd. De brief aan de echtgenoot van eiseres van 23 oktober 2015 over de giftenaftrek in 2014 dateert van na de aanslag die aan eiseres is opgelegd voor dat jaar. Niet gebleken is dat verweerder reeds ten tijde van het opleggen van de aanslagen op de hoogte was dan wel behoorde te zijn van eventuele onregelmatigheden in de door de [stichting 1] afgegeven kwitanties. De rechtbank neemt daarbij in aanmerking dat het FIOD-onderzoek op 17 september 2015, dus pas na het opleggen van de aanslagen, is gestart. Dat betekent dat het FIOD-PV een nieuw feit oplevert als bedoeld in artikel 16, eerste lid, tweede volzin van de Awr en dat verweerder de navorderingsaanslagen heeft mogen opleggen.
+
+Giftenaftrek
+
+15. Ingevolge artikel 6.32 van de Wet inkomstenbelasting 2001 (Wet IB 2001) zijn aftrekbare giften (a) periodieke giften en (b) andere giften. Ingevolge artikel 6.33, eerste lid, onder a, van de Wet IB 2001 wordt onder giften verstaan: bevoordelingen uit vrijgevigheid en verplichte bijdragen waar geen directe tegenprestatie tegenover staat. Verder volgt uit artikel 6.33, eerste lid, onder b in samenhang met artikel 6.35 van de Wet IB dat giften aftrekbaar zijn indien zij worden gedaan aan een ANBI.
+
+16. De bewijslast dat sprake is van aftrekbare giften rust op eiseres. Bij contante giften moet een belastingplichtige met schriftelijke bescheiden aantonen dat de door hem gestelde giften daadwerkelijk zijn gedaan, dat wil zeggen aan de [stichting 1] ten goede zijn gekomen. Eiseres wijst daartoe voor de jaren 2012 en 2014 op de door haar of haar man overgelegde kwitanties. Voor het jaar 2011 heeft zij geen bewijsstukken ingebracht. Gezien de verklaringen van de penningmeester van de [stichting 1] , die worden bevestigd door verklaringen van anderen, kan aan de kwitanties op zichzelf onvoldoende bewijskracht worden toegekend. Nu eiseres geen andere (schriftelijke) bewijsstukken heeft overgelegd, is zij niet geslaagd in het bewijs dat zij de giften heeft gedaan. Verweerder heeft daarom op goede gronden de giftenaftrek gecorrigeerd en de navorderingsaanslagen opgelegd.
+
+Vergrijpboetes 2012 en 2014
+
+17. Op grond van artikel 67e, eerste lid, van de Awr kan verweerder een boete opleggen van ten hoogste 100 percent indien het aan opzet of grove schuld van de belastingplichtige is te wijten dat de aanslag tot een te laag bedrag is vastgesteld.
+
+18. Op verweerder rust de bewijslast dat het beboetbare feit zich heeft voorgedaan. Uit wat hiervoor is overwogen, volgt dat eiseres onvoldoende bewijs heeft geleverd voor de door haar in haar aangiften afgetrokken giften en dat de aanslagen daardoor tot te lage bedragen zijn vastgesteld. Ter onderbouwing van zijn stelling dat dit te wijten is aan opzet dan wel grove schuld van eiseres baseert verweerder zich onder meer op de verklaringen van de penningmeester van de [stichting 1] , de verklaringen van getuigen en verdachten die betrokken zijn in het onderzoek van de [stichting 1] en verklaringen die andere belastingplichtigen hebben afgelegd tijdens diverse hoorgesprekken. Verweerder wijst in dit verband verder op de handgeschreven kasadministratie van de [stichting 1] over de periode 1 december 2013 tot en met 31 december 2016 waarin voor eiseres, haar partner en nog twee personen één betaling voorkomt van € 800 op 24 mei 2015, kort voordat eiseres de aangifte voor het jaar 2014 heeft ingediend op 6 juli 2015. Volgens verweerder moet hiervan € 400 aan eiseres en haar partner worden toegerekend en vormt dit de betaling voor de kwitanties voor het jaar 2014. Dit bedrag is 11,42% van het totaal bedrag van € 3.500 dat op de kwitanties is vermeld.
+
+19. Op zichzelf mag verweerder gebruik maken van bewijsvermoedens, maar die vermoedens moeten wel redelijkerwijs voortvloeien uit de aanwezige bewijsmiddelen1. Daarvan is voor het jaar 2012 in dit geval geen sprake omdat het bewijsvermoeden slechts is gebaseerd op verklaringen van derden over wat kennelijk een gebruikelijke werkwijze was binnen de [stichting 1] . Uit die verklaringen kan weliswaar worden geconcludeerd dat in veel gevallen sprake was van kwitanties die niet in overeenstemming zijn met de bedragen die daadwerkelijk aan de [stichting 1] zijn geschonken, maar dat betekent niet dat reeds daarom in alle gevallen en dus ook in het geval van eiseres sprake is van onjuiste kwitanties en daarmee van het opzettelijk dan wel grofschuldig te weinig betalen van belasting. De rechtbank neemt daarbij in aanmerking dat niet kan worden uitgesloten dat de frauduleuze handelingen van de penningmeester verder strekten dan waarover hij heeft verklaard. Zoals eiseres terecht heeft aangevoerd, kan niet worden uitgesloten dat de penningmeester een deel van de bedragen die door donateurs werden geschonken en waarvoor kwitanties zijn uitgereikt, in eigen zak heeft gestoken. Onder die omstandigheden zou het accepteren van de bewijsvermoedens betekenen dat de bewijslast feitelijk ook voor de boeteoplegging op eiseres komt te rusten. Verweerder is voor het jaar 2012 dan ook niet geslaagd in het bewijs dat het aan opzet of grove schuld van eiseres is te wijten dat te weinig belasting is geheven. Het beroep is in zoverre gegrond.
+
+20. Voor het jaar 2014 heeft verweerder naast de algemene bewijsvermoedens tevens gewezen op de betaling in de handgeschreven kasadministratie van de [stichting 1] die duidt op een handelwijze die overeenkomt met die is vastgesteld in het strafrechtelijk onderzoek. Gelet hierop is het vermoeden gerechtvaardigd dat eiseres in 2014 gebruik heeft gemaakt van valse kwitanties van de [stichting 1] en dat zij zich ten tijde van het doen van haar aangifte IB/PVV 2014 ervan bewust is geweest dat de aangifte voor wat betreft de giftenaftrek onjuist was.
+
+21. De belastingplichtige die wil ontkomen aan bewijs door middel van een bewijsvermoeden, kan zich verweren hetzij door de feiten en omstandigheden te betwisten die aan het bewijsvermoeden ten grondslag zijn gelegd, hetzij door andere feiten te stellen en bij betwisting aannemelijk te maken waardoor redelijke twijfel wordt gewekt aan de redengevende kracht van dat bewijsvermoeden, zodat dit vermoeden wordt ontzenuwd.2 Eiseres is daarin niet geslaagd. De enkele stelling dat zij de giften daadwerkelijk heeft gedaan en dat de verklaringen van de penningmeester onbetrouwbaar zijn, is daarvoor onvoldoende nu de verklaringen van de penningmeester over de handel in kwitanties worden ondersteund door verklaringen van diverse getuigen en belastingplichtigen die door de FIOD zijn gehoord. Dit betekent dat verweerder aannemelijk heeft gemaakt dat eiseres ten tijde van het doen van haar aangifte IB/PVV 2014 zich ervan bewust is geweest dat de aangifte voor wat betreft de giftenaftrek onjuist was, zodat het opzet bewezen is.
+
+22. Verweerder heeft wegens strafverzwarende omstandigheden als bedoeld in paragraaf 8 van het Besluit Bestuurlijke Boeten Belastingdienst (valse kwitanties) de boetes vastgesteld op 75%. Gelet op het voorgaande acht de rechtbank boetes van 75% van de niet geheven belasting passend en geboden.
+
+Rentebeschikkingen
+
+23. Eiseres heeft geen afzonderlijke gronden aangevoerd tegen de rentebeschikkingen. Ook anderszins is niet gebleken dat de belastingrente in strijd met de daartoe strekkende wettelijke bepalingen of enige andere regel van geschreven of ongeschreven recht in rekening is gebracht.
+
+24. Gelet op wat hiervoor is overwogen, dient het beroep voor het jaar 2012 gegrond te worden verklaard voor zover dit is gericht tegen de boetebeschikking en dienen de beroepen voor de jaren 2011 en 2014 ongegrond te worden verklaard.
+
+Proceskosten
+
+22. De rechtbank veroordeelt verweerder in de door eiseres gemaakte proceskosten. De rechtbank stelt deze kosten op grond van het Besluit proceskosten bestuursrecht voor de door een derde beroepsmatig verleende rechtsbijstand vast op € 1.761 (1 punt voor het indienen van het bezwaarschrift met een waarde per punt van € 265, 1 punt voor het indienen van het beroepschrift, 1 punt voor het verschijnen ter zitting met een waarde per punt van € 748 en een wegingsfactor 1)."
+
+Omschrijving geschil in hoger beroep en conclusies van partijen
+
+4.1.
+
+In geschil is of de navorderingsaanslagen voor de jaren 2011, 2012 en 2014 terecht zijn opgelegd, meer in het bijzonder of de giftenaftrek terecht is gecorrigeerd. Tevens is in geschil of de boetebeschikkingen voor de jaren 2012 en 2014 terecht zijn gegeven, en zo ja, of de opgelegde boetes passend en geboden zijn. Belanghebbende beantwoordt deze vragen ontkennend, de Inspecteur bevestigend.
+
+4.2.
+
+De Inspecteur concludeert, naar het Hof begrijpt, in zijn principaal hoger beroep primair tot vernietiging van de uitspraak van de Rechtbank voor wat betreft de boetebeschikking voor het jaar 2012, de proceskosten en het griffierecht en bevestiging van de uitspraak op bezwaar voor het jaar 2012 en subsidiair tot vernietiging van de uitspraak van de Rechtbank en de uitspraak op bezwaar voor het jaar 2012 voor wat betreft de
+
+boetebeschikking, tot vermindering van de boete voor het jaar 2012 tot op 50% (grove
+
+schuld met strafverzwarende omstandigheden), dan wel meer subsidiair op 25% (grove schuld).
+
+De Inspecteur concludeert tot ongegrondverklaring van het incidenteel hoger beroep.
+
+4.3.
+
+Belanghebbende concludeert tot ongegrondverklaring van het principaal hoger beroep. Belanghebbende concludeert, naar het Hof begrijpt, in het incidenteel hoger beroep tot vernietiging van de uitspraak van de Rechtbank, de uitspraken op bezwaar, de navorderingsaanslagen, de beschikkingen heffingsrente (2011) en belastingrente (2012 en 2014) en de boetebeschikkingen voor de jaren 2012 en 2014, tot vergoeding van de proceskosten in (hoger) beroep en het voor het (hoger) beroep betaalde griffierecht.
+
+Beoordeling van het hoger beroep
+
+Nieuw feit
+
+5.1.1.
+
+Belanghebbende heeft zich op het standpunt gesteld dat geen sprake is van een nieuw feit. Zij heeft daartoe het volgende aangevoerd. De Inspecteur heeft ervoor gekozen de primitieve aanslagen (deels) op te leggen zonder daaraan voorafgaand nader onderzoek te doen en meer specifiek een controle van de betalingsbewijzen uit te voeren. Indien de datum van het onderzoek bij de [stichting 1] is gelegen voordat de primitieve aanslagen zijn opgelegd, en voordat bewijsstukken zijn opgevraagd, kan niet worden gesproken van een nieuw feit. Belanghebbende heeft voorts verzocht de verklaringen van de penningmeester in te mogen zien. De Inspecteur heeft een en ander betwist en zich op het standpunt gesteld dat de resultaten van het FIOD-onderzoek bij de [stichting 1] ( [FIOD-onderzoek 3] ) het nieuwe feit vormen dat navordering rechtvaardigt. Dit onderzoek bij de [stichting 1] is eerst op 17 september 2015 aangevangen en de Inspecteur is bekend geworden met die resultaten na 16 maart 2017; de datum waarop door de officier van justitie toestemming is verleend om de bevindingen uit het FIOD-onderzoek te gebruiken voor fiscale doeleinden. De primitieve aanslagen voor de jaren 2011, 2012 en 2014 zijn opgelegd reeds voordat het onderzoek bij de [stichting 1] is aangevangen.
+
+5.1.2.
+
+Het Hof stelt voorop dat de verklaringen van de penningmeester deel uitmaken van het FIOD-rapport en dat belanghebbende daar in eerste aanleg een afschrift op CD-Rom van heeft ontvangen. De inhoud van de verklaringen van de penningmeester is derhalve, net als de inhoud van het gehele FIOD-rapport, reeds beschikbaar voor belanghebbende. Belanghebbende heeft op de inhoud kunnen reageren.
+
+5.1.3.
+
+Artikel 16, lid 1, AWR bepaalt, voor zover van belang, dat, indien enig feit grond oplevert voor het vermoeden dat een aanslag tot een te laag bedrag is vastgesteld, de inspecteur de te weinig geheven belasting kan navorderen. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor navordering opleveren, behoudens in de gevallen waarin de belastingplichtige ter zake van dit feit te kwader trouw is.
+
+5.1.4.
+
+Het Hof oordeelt als volgt. Tijdens het onderzoek bij de [stichting 1] naar de houdbaarheid van de ANBI-status, zijn onvolkomenheden in de administratie van de [stichting 1] geconstateerd. Vanwege deze administratieve onvolkomenheden is de ANBI-status met terugwerkende kracht ingetrokken. Vanwege het feit dat de bedragen aan contante giften die werden opgenomen in aangiften van diverse belastingplichtigen een veelvoud bedroegen van de in de administratie van de [stichting 1] verantwoorde donaties, heeft de Belastingdienst veelal voorafgaand aan het opleggen van de primitieve aanslagen aan de desbetreffende belastingplichtigen vragen gesteld over de door hen opgevoerde giften. Indien de contante giften konden worden onderbouwd met schriftelijke bescheiden, stond de Belastingdienst de giftenaftrek toe.
+
+5.1.5.
+
+Aangezien het intrekken van de ANBI-status zijn grondslag vond in de administratieve onvolkomenheden van de [stichting 1] , staat die omstandigheid niet in de weg aan het opleggen van de navorderingsaanslagen. Uit deze administratieve onvolkomenheden volgt immers niet dat tevens sprake was van misstanden bij de donateurs, zoals valselijk opgemaakte giftkwitanties. Pas nadat de FIOD in januari 2015 was gestart met de strafrechtelijke onderzoeken naar het gebruik van valse giftkwitanties bij drie andere ANBI-instellingen dan de [stichting 1] , bleek dat diverse belastingplichtigen, die giften aan voormelde instanties in de aangiften hadden opgenomen, ook giften aan de [stichting 1] hadden opgenomen in hun aangiften. Dit was de aanleiding om op 17 september 2015 een strafrechtelijk onderzoek te starten bij de [stichting 1] en haar bestuurders in verband met het opmaken van valse giftkwitanties en/of donatieverklaringen van de [stichting 1] en het gebruik hiervan bij het doen van aangiften IB/PVV. De Inspecteur heeft zich derhalve terecht op het standpunt gesteld dat de gebreken in de administratie van de [stichting 1] op het moment van intrekking van de ANBI-status nog niet konden worden toegerekend aan individuele belastingplichtigen. Ook in augustus 2012, januari 2015 en op 4 september 2015 was de Inspecteur in het licht van de op dat moment bekende omstandigheden niet gehouden de aanslagregeling aan te houden. Het niet voorafgaand aan het opleggen van de primitieve aanslagen door de Inspecteur stellen van vragen over de giften en het opleggen van de aanslagen conform de ingediende aangiften, levert derhalve geen ambtelijk verzuim op. Belanghebbende heeft in haar verweerschrift in hoger beroep gesteld dat reeds voorafgaand aan het opleggen van de primitieve aanslagen door de Inspecteur naar bewijsstukken van de giften is gevraagd. Dit is door de Inspecteur gemotiveerd weersproken en de gedingstukken geven geen aanleiding voor de veronderstelling dat de Inspecteur vóór het opleggen van de primitieve aanslagen achterliggende stukken heeft opgevraagd bij belanghebbende.
+
+5.1.6.
+
+Uit voornoemd strafrechtelijk onderzoek van de FIOD bij de [stichting 1] , dat is aangevangen na het opleggen van de primitieve aanslagen 2011, 2012 en 2014, is gebleken dat in verschillende jaren op grote schaal werd gehandeld in valse giftkwitanties van de [stichting 1] . Daarbij werden kwitanties verhandeld voor een percentage van veelal 10%-12% van de op de kwitanties vermelde bedragen. Belastingplichtigen maakten op grote schaal gebruik van die giftkwitanties om giften op te voeren tot bedragen die zij niet hadden betaald. Voorts werden de giftkwitanties veelal gekocht op een latere datum dan de datum die is vermeld op de betreffende giftkwitantie en de datum op de giftkwitanties werd afgestemd op de datum van reeds gedane pinopnames. Uit verklaringen van de penningmeester, welke worden bevestigd door verklaringen van diverse andere belastingplichtigen en de bevindingen in het strafrechtelijk onderzoek bij de [stichting 1] , volgt dat (veelal) geen bedragen zijn gedoneerd van
+
+€ 500 of hoger. Als gevolg van deze bevindingen is bij de Inspecteur het vermoeden ontstaan dat ook bij belanghebbende de aanslagen 2011, 2012 en 2014, als gevolg van de in aftrek gebrachte giften aan de [stichting 1] , tot te lage bedragen zijn vastgesteld. Nu de gedingstukken geen aanleiding geven voor de veronderstelling dat de Inspecteur vóór het opleggen van de definitieve aanslagen van 2011, 2012 en 2014, op respectievelijk 31 augustus 2012, 7 januari 2015 en 4 september 2015, bekend was dan wel redelijkerwijze bekend had kunnen zijn met de voormelde uit het strafrechtelijk onderzoek gebleken feiten, is aan het vereiste van een nieuw feit voldaan.
+
+Giftenaftrek
+
+5.2.1.
+
+Andere giften dan periodieke giften zijn aftrekbaar voor zover zij kunnen worden gestaafd met schriftelijke bescheiden (zie artikel 6.39, lid 1, in verbinding met artikel 6.32 van de Wet Inkomstenbelasting 2001). In geval van betwisting door de inspecteur, zoals hier het geval is, rust op belanghebbende de last de feiten en omstandigheden te stellen en bij betwisting aannemelijk te maken die de conclusie rechtvaardigen dat zij recht heeft op giftenaftrek.
+
+5.2.2.
+
+Belanghebbende heeft gesteld dat zij in de jaren 2011, 2012 en 2014 giften in contanten heeft gedaan aan de [stichting 1] voor bedragen van in totaal € 5.000 respectievelijk
+
+€ 4.000 en € 3.500. Ter onderbouwing van haar stelling heeft belanghebbende voor het jaar 2012 (een aantal) kwitanties en heeft de echtgenoot van belanghebbende voor het jaar 2014 twee kwitanties overgelegd.
+
+5.2.3.
+
+De Inspecteur stelt zich op het standpunt dat de overgelegde giftkwitanties van de [stichting 1] niet zonder meer kunnen dienen ter onderbouwing van de opgevoerde giften en wijst daarbij op de bevindingen uit het strafrechtelijk onderzoek naar de handel in valse giftkwitanties bij de [stichting 1] . Uit dat onderzoek volgt dat op grote schaal giftkwitanties van de [stichting 1] werden verhandeld voor een percentage van veelal 10%-12% van de op de kwitanties vermelde bedragen. Uit verklaringen van de penningmeester welke worden bevestigd door verklaringen van diverse andere belastingplichtigen en de bevindingen in het strafrechtelijk onderzoek, volgt dat geen bedragen zijn gedoneerd van meer dan € 500.
+
+5.2.4.
+
+Ter onderbouwing van zijn standpunt heeft de Inspecteur in beroep en hoger beroep onder meer de volgende feiten en omstandigheden aangevoerd ten aanzien van de handel in valse giftkwitanties bij de [stichting 1] :
+
+de vaststelling van een controlemedewerker dat namens de [stichting 1] in het jaar 2012 in totaal 2.500 kwitanties zijn uitgeschreven, terwijl slechts 531 kwitanties in de administratie zijn verantwoord;
+
+dat in het jaar 2013 in de jaarstukken van de [stichting 1] € 88.564 aan donaties is verantwoord, terwijl in de diverse aangiften over dat jaar in totaal € 3.445.808 aan giften aan de [stichting 1] is aangegeven;
+
+de verklaringen van verdachten dat giftkwitanties voor een bepaald percentage van het giftbedrag werden gekocht/verkocht van de [stichting 1] ;
+
+dat uit de inbeslaggenomen administratie van de [stichting 1] volgt dat 22% van de ontvangen giften is verwerkt in het kasboek;
+
+een anonieme tip aan de FIOD dat de kwitanties zijn vervalst en gebruikt door meerdere personen om een belastingteruggaaf te bewerkstelligen;
+
+dat na het intrekken van de ANBI-status van de [stichting 1] op 6 januari 2014, dat op 19 december 2013 was aangekondigd, in de periode van 1 januari tot 6 januari 2014 een opvallend groter aantal kwitanties is geboekt dan in voorgaande jaren;
+
+de whatsapp- en sms-berichten en de verklaringen van onder andere de penningmeester van de [stichting 1] waaruit volgt dat een levendige handel in giftkwitanties bestond en dat uit die berichten volgt dat de data op de kwitanties worden afgestemd op de data van willekeurige pinopnamen;
+
+de verklaring van een informant aan het Team Criminele Inlichtingen waaruit volgt dat de leiding van de [stichting 1] op de hoogte is van de belastingfraude door middel van de giftkwitanties en meewerkt aan de uitgifte daarvan;
+
+de verklaring van de penningmeester van de [stichting 1] dat slechts een handvol mensen het volledige vermelde bedrag op de giftkwitanties hebben betaald maar dat die bedragen maximaal € 300 of € 400 betreffen;
+
+de verklaringen van diverse personen aan de FIOD en de Belastingdienst die de handel in kwitanties hebben bevestigd;
+
+een overzicht van uitgeschreven kwitanties voor 2013 waarvan de gegevens die in dit document zijn opgenomen niet overeenkomen met de daadwerkelijk ontvangen bedragen;
+
+een doorlopend handgeschreven kasboek waarin de werkelijk ontvangen bedragen werden opgenomen; de werkelijk ontvangen bedragen (donaties) bedroegen veelal 10% tot 12% van de uitgegeven kwitanties;
+
+dat de Belastingdienst bij 2.040 belastingplichtigen navorderingsaanslagen heeft opgelegd dan wel correcties heeft aangebracht bij het opleggen van de aanslagen en indien mogelijk een vergrijpboete. Van deze 2.040 gevallen zijn ongeveer 450 belastingplichtigen in bezwaar gegaan en 150 in beroep;
+
+dat bij belastingplichtigen van wie aanslagen zijn gecorrigeerd of bij wie is nagevorderd doorgaans een giftenaftrek van minimaal € 500 in de aangifte is opgenomen.
+
+5.3.1.
+
+Uit hetgeen de Inspecteur onder 5.2.4 heeft aangevoerd volgt dat op grote schaal valse giftkwitanties van de [stichting 1] werden verhandeld en gebruikt door belastingplichtigen om giften op te voeren die zij niet daadwerkelijk hebben gedaan. Gelet op deze bevindingen kunnen de kwitanties van de [stichting 1] niet zonder meer dienen als bewijs voor de door belanghebbende gestelde giften. Het is aan belanghebbende aanvullende feiten en omstandigheden aan te voeren en bij betwisting aannemelijk te maken die de conclusie rechtvaardigen dat zij recht heeft op giftenaftrek.
+
+5.3.2.
+
+Nu belanghebbende geen (jaar 2011) of geen ander (schriftelijk) bewijs (jaren 2012 en 2014) heeft bijgebracht waaruit volgt dat giften ten goede zijn gekomen aan de [stichting 1] , heeft belanghebbende niet aannemelijk gemaakt dat zij in de onderhavige jaren giften aan de [stichting 1] heeft gedaan. De Inspecteur heeft dan ook terecht geen giften in aftrek toegestaan en de navorderingsaanslagen terecht opgelegd. De enkele stelling van belanghebbende dat onduidelijk is door welke persoon van de [stichting 1] de kwitanties zijn opgemaakt en dat deze door verschillende personen getekend (lijken te) zijn, doet, gelet op het onder 5.2.3 tot en met 5.3.1 overwogene hier niets aan af.
+
+De vergrijpboetes voor de jaren 2012 en 2014
+
+5.4.1.
+
+De Inspecteur kan op grond van artikel 67e, lid 1, AWR een boete opleggen van ten hoogste 100% indien het aan opzet of grove schuld van belanghebbende is te wijten dat de aanslag tot een te laag bedrag is vastgesteld. De bewijslast hiervan rust op de Inspecteur.
+
+5.4.2.
+
+Bij de beantwoording van de vraag of de inspecteur het bewijs van een beboetbaar feit heeft geleverd, dienen de waarborgen in acht te worden genomen die een belanghebbende kan ontlenen aan artikel 6, lid 2, van het Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM). Die waarborgen houden onder meer in dat de bewijslast op de inspecteur rust en de belanghebbende in geval van twijfel het voordeel van de twijfel moet worden gegund. De rechtspraak van het Europees Hof voor de Rechten van de Mens (EHRM) laat toe dat voor het bewijs gebruik wordt gemaakt van vermoedens. De belanghebbende moet wel een redelijke mogelijkheid hebben zich daartegen te verweren en het gebruik van vermoedens mag er niet toe leiden dat de bewijslast wordt verschoven van de inspecteur naar de belanghebbende; het vermoeden moet redelijkerwijs voortvloeien uit de aanwezige bewijsmiddelen (vgl. HR 15 april 2011, ECLI:NL:HR:2011:BN6350, BNB 2011/207 en HR 28 juni 2013, ECLI:NL:HR:2013:63, BNB 2013/207). Het EVRM eist niet dat de inspecteur bij het bewijzen van het opzet of de grove schuld is gebonden aan de bewijsregels van het nationale strafrecht. Er hoeft geen wettig en overtuigend bewijs te worden geleverd overeenkomstig het bepaalde in de artikelen 338 e.v. van het Wetboek van Strafvordering (vgl. HR 18 november 1992, ECLI:NL:HR:1992:ZC5166, BNB 1993/40). Wel moet het uit die vermoedens af te leiden opzet buiten redelijke twijfel zijn (vgl. HR 23 juni 1993, ECLI:NL:HR:1993:ZC5391, BNB 1993/272).
+
+5.5.
+
+De Inspecteur heeft gesteld dat sprake is van opzet en dat sprake is van strafverzwarende omstandigheden, zodat de boetes van 75% passend en geboden zijn.
+
+5.6.
+
+Aangezien de Inspecteur primair heeft gesteld dat sprake is van opzet en subsidiair dat sprake is van grove schuld, rust op de Inspecteur de bewijslast aannemelijk te maken primair dat belanghebbende ten tijde van het doen van de aangiften IB/PVV 2012 en 2014 zich ervan bewust is geweest dat (een aanmerkelijke kans bestond dat) de aangiften voor wat betreft de giftenaftrek onjuist waren en subsidiair dat belanghebbende zodanig onzorgvuldig heeft gehandeld dat haar kan worden verweten dat de aangiften op het punt van de giftenaftrek onjuist waren.
+
+5.7.
+
+Naast de in 5.2.4 aangevoerde feiten en omstandigheden ten aanzien van de handel in valse giftkwitanties bij de [stichting 1] , heeft de Inspecteur ten aanzien van belanghebbendes betrokkenheid bij voormelde handel in giftkwitanties het volgende aangevoerd:
+
+de naam van belanghebbende komt op 20 maart 2013 voor een bedrag van € 1.000 voor in het overzicht van uitgeschreven kwitanties (DOC-433). Op basis van hetgeen is vermeld in het proces-verbaal van de FIOD komen de gegevens die in dit document zijn opgenomen niet overeen met de daadwerkelijk door de [stichting 1] ontvangen bedragen. Dit overzicht werd achteraf door de [stichting 1] opgesteld aan de hand van de verstrekte kwitanties;
+
+de naam van belanghebbende komt voor in het handgeschreven kasboek (DOC480) op 10 maart 2015 voor een bedrag van € 50 met de omschrijving “Bel.zaken”;
+
+de naam van belanghebbende komt, tezamen met de namen van haar echtgenoot, haar zus en diens echtgenoot voor in het handgeschreven kasboek (DOC-480) op 24 mei 2015 voor een bedrag van € 800 met de omschrijving “Donatie [A] (+ [belanghebbende] , [C] en [B] )”. Gelet op de hoogte van de in de aangiften voor het jaar 2014 door belanghebbende en haar zus (zie het dossier van de eveneens bij het Hof aanhangige en gelijktijdig behandelde zaken BK-21/00795, BK-21/00796, BK-21/01221 en BK-21/1222) verantwoorde giften, zal  de helft van dit bedrag betrekking hebben op de donaties door belanghebbende en haar echtgenoot. De helft van dit bedrag bedraagt € 400 en dit bedraagt 11,42 percent van de door belanghebbende voor het jaar 2014 in aftrek gebrachte giften aan de [stichting 1] van € 3.500. Dit komt overeen met de fraudeleuze handelwijze die is beschreven door de FIOD. De omschrijving in het handgeschreven kasboek met de vier namen is dermate specifiek dat hierbij geen sprake kan zijn van een verschrijving of vergissing door degene die het handgeschreven kasboek heeft opgemaakt;
+
+de voormelde donatie van 20 maart 2013, zoals deze is opgenomen in het overzicht van uitgegeven kwitanties (DOC-433) komt niet voor in het handgeschreven kasboek (DOC-480), dat van 1 december 2013 tot en met 31 december 2016 is bijgehouden;
+
+ook in de aangifte voor het jaar 2013 heeft belanghebbende een giftenaftrek aan de [stichting 1] opgevoerd. Abusievelijk is voor dat jaar geen navorderingsaanslag opgelegd;
+
+na het jaar 2014 zijn door belanghebbende geen giften meer in de aangiften opgenomen;
+
+het bewijsvermoeden omtrent de kwitanties en de fraude komt, anders dan de Rechtbank voor het jaar 2012 heeft beslist, niet uitsluitend voort uit verklaringen van de penningmeester en derden, maar vindt bevestiging in de bevindingen die uit het FIOD-onderzoek naar voren zijn gekomen;
+
+de boetes voor het jaar 2012 en 2014 moeten gelet op het voorgaande in onderlinge samenhang worden beoordeeld. Dit wordt nog eens bevestigd door de vermelding van belanghebbende in het handgeschreven kasboek op 10 maart 2015 met de vermelding “Bel.zaken”. Gelet op deze omschrijving nam belanghebbende in verband met haar belastingzaken, ondanks dat de gemachtigde van belanghebbende de aangiften verzorgde, contact op met de [stichting 1] . Hiermee staat vast dat sprake was van overleg over en in samenwerking met de bestuursleden of penningmeester van de [stichting 1] verkrijgen van de voor de in de aangiften opgevoerde giftenaftrek benodigde kwitanties.
+
+5.8.1.
+
+Uit hetgeen de Inspecteur heeft aangevoerd volgt een handelwijze waarbij op grote schaal valse giftkwitanties van de [stichting 1] werden verhandeld voor een percentage van veelal 10%-12% van de op de kwitanties vermelde bedragen. Voorts volgt daaruit dat de valse giftkwitanties door de belastingplichtigen werden gekocht op een latere datum dan de datum die is vermeld op de desbetreffende giftkwitantie.
+
+5.8.2.
+
+Uit het onderzoek van de FIOD volgt dat de handgeschreven kasboeken van de [stichting 1] in totaal 1.192 donaties vermelden met een totaalbedrag van € 489.087,70 in de periode december 2013 tot en met december 2016. Hierbij is het bedrag van het overgrote deel van de donaties lager dan € 500. Gelet op i) voormelde handelwijze waarbij de valse giftkwitanties veelal werden verhandeld voor 10%-12% van daarop vermelde bedragen en ii) de verklaringen van de penningmeester, van getuigen en belastingplichtigen waaruit blijkt dat veelal een paar honderd euro is betaald voor de giftkwitanties, heeft de Inspecteur aannemelijk gemaakt dat het handgeschreven kasboek de juiste gegevens vermeldt.
+
+5.9.1.
+
+De naam van belanghebbende komt in het handgeschreven kasboek (DOC-480) voor onder vermelding van de omschrijving “Bel.zaken”. Voorts komt de naam van belanghebbende samen met de namen van haar echtgenoot, haar zus en diens echtgenoot in het handgeschreven kasboek (DOC-480) voor onder vermelding van een donatie van € 800 op 24 mei 2015. Het Hof acht, gelet op de hoogte van de donaties door belanghebbende en haar echtgenoot en de donaties door haar zus en diens echtgenoot in het onderhavige jaar aannemelijk dat de helft van het bedrag van € 800, te weten € 400, ziet op de giften die door belanghebbende in haar aangiften zijn opgenomen. Dit bedrag is 11,42% van de voor 2014 in aftrek gebrachte giften van € 3.500. Deze bevinding ten aanzien van belanghebbende komt overeen met de handelwijze die volgt uit het strafrechtelijke onderzoek naar de handel in valse kwitanties van de [stichting 1] .
+
+5.9.2.
+
+Gelet op hetgeen hiervoor is overwogen is het vermoeden gerechtvaardigd dat belanghebbende in de onderhavige jaren gebruik heeft gemaakt van valse giftkwitanties van de [stichting 1] en dat belanghebbende zich er ten tijde van het doen van haar aangiften IB/PVV 2012 en 2014 bewust van is geweest dat de aangiften voor wat betreft de giftenaftrek onjuist waren.
+
+5.10.
+
+De belastingplichtige die wil ontkomen aan bewijs door middel van een bewijsvermoeden, kan zich verweren hetzij door de feiten en omstandigheden te betwisten die aan het bewijsvermoeden ten grondslag zijn gelegd, hetzij door andere feiten te stellen en bij betwisting aannemelijk te maken waardoor redelijke twijfel wordt gewekt aan de redengevende kracht van dat bewijsvermoeden, zodat dit vermoeden wordt ontzenuwd (vgl. HR 25 oktober 2002, ECLI:NL:HR:2002:AE9354, BNB 2003/14 en HR 28 juni 2013, ECLI:NL:HR:2013:63, BNB 2013/207).
+
+5.11.
+
+Belanghebbende heeft in dat kader - kort samengevat - het volgende aangevoerd. Belanghebbende heeft geen kwitanties gekocht, maar heeft donaties gedaan tot aan de bedragen die zijn vermeld op de kwitanties. Het is de verklaring van de penningmeester tegenover die van belanghebbende. Er is wel degelijk een groep belastingplichtigen die daadwerkelijk geld heeft gedoneerd. Er is maar één vermelding van de naam van belanghebbende met een donatie in het handgeschreven kasboek en daarbij kan sprake zijn van een fout of vergissing van de penningmeester bij het opmaken van dit handgeschreven kasboek.
+
+5.12.1.
+
+Het Hof ziet geen reden te twijfelen aan de verklaringen van de penningmeester over de handelwijze met betrekking tot de valse giftkwitanties. De verklaringen van de penningmeester zijn bevestigd door verklaringen van diverse getuigen en belastingplichtigen die door de FIOD en de Inspecteur zijn gehoord. Daarnaast bevat het FIOD-rapport diverse onderzoeken van opsporingsambtenaren naar onder andere tekstberichten op in beslag genomen telefoons en de administratie van de [stichting 1] die voormelde handelwijze bevestigen.
+
+5.12.2.
+
+Het Hof ziet, anders dan belanghebbende, evenmin reden te twijfelen aan de in het handgeschreven kasboek vermelde data en bedragen. Die kasadministratie vormt een (administratieve) weergave van de handelwijze waarbij de giftkwitanties voor een bepaald percentage van de daarop vermelde bedragen werden verkocht. Verder volgt uit die kasadministratie en uit de verklaringen van diverse getuigen en belastingplichtigen dat de kwitanties werden gekocht op een latere datum dan vermeld op de uitgeschreven kwitanties.
+
+Belanghebbende heeft bovendien onvoldoende feiten en omstandigheden aangevoerd waaruit volgt dat ten aanzien van de op haar betrekking hebbende bedragen en data van andere data of bedragen dan die vermeld in het kasboek moet worden uitgegaan. Een vergissing of fout bij de op de datum 24 mei 2015 genoteerde vermelding in het handgeschreven kasboek komt het Hof, gelet op de gedetailleerdheid van die omschrijving, niet aannemelijk voor.
+
+5.13.
+
+Gelet op hetgeen onder 5.11 tot en met 5.12.2 is overwogen heeft belanghebbende het bewijsvermoeden dat zij in de onderhavige jaren gebruik heeft gemaakt van valse giftkwitanties van de [stichting 1] niet ontzenuwd. Dit betekent dat de Inspecteur aannemelijk heeft gemaakt dat belanghebbende ten tijde van het doen van haar aangiftes IB/PVV 2012 en 2014 zich ervan bewust is geweest dat de aangiften voor wat betreft de giftenaftrek onjuist waren, zodat het opzet bewezen is.
+
+De hoogte van de boetes
+
+5.14.
+
+De Inspecteur heeft de boetes voor 2012 en 2014 bepaald op 75%, te weten 50% voor het opzet van belanghebbende verhoogd met 25% wegens strafverzwarende omstandigheden als bedoeld in paragraaf 8 van het Besluit Bestuurlijke Boeten Belastingdienst (tekst 2013). Ingevolge laatstvermelde bepaling is voor het in aanmerking nemen van strafverzwarende omstandigheden in elk geval aanleiding indien sprake is van listigheid, valsheid of samenspanning.
+
+5.15.
+
+De Inspecteur heeft gesteld dat het gebruik maken van falsificaties (de valse giftkwitanties) geldt als een strafverzwarende omstandigheid.
+
+5.16.
+
+Gelet op hetgeen onder 5.7 tot en met 5.13 is overwogen acht het Hof aannemelijk dat belanghebbende zich schuldig heeft gemaakt aan het willens en wetens doen van onjuiste aangiften als gevolg waarvan de aanslagen tot een te laag bedrag zijn vastgesteld (opzet). Gelet op de ernst van de gedragingen, te weten het gebruikmaken van valse giftkwitanties, acht het Hof de voor de jaren 2012 en 2014 opgelegde boetes van 75% van het nagevorderde bedrag passend en geboden.
+
+Beschikkingen heffings- en belastingrente
+
+5.17.
+
+Tegen de beschikkingen heffingsrente (2011) en belastingrente (2012 en 2014) zijn geen afzonderlijke gronden aangevoerd. Gesteld noch gebleken is dat de heffingsrente of belastingrente ten onrechte of op onjuiste wijze in rekening is gebracht.
+
+Slotsom
+
+5.18.
+
+Gelet op het hiervoor overwogene is het principaal hoger beroep gegrond en het incidenteel hoger beroep ongegrond.
+
+Proceskosten
+
+6.	Er is geen aanleiding voor een veroordeling in de proceskosten.
+
+Beslissing
+
+Het Gerechtshof:
+
+vernietigt de uitspraak van de Rechtbank, en
+
+bevestigt de uitspraken op bezwaar.
+
+Deze uitspraak is vastgesteld door H.A.J. Kroon, W.G.M. Visser en A. van Dongen, in tegenwoordigheid van de griffier E.J. Nederveen. De beslissing is op 24 maart 2022 in het openbaar uitgesproken.
+
+aangetekend aan
+
+partijen verzonden:
+
+Tegen deze uitspraak kunnen beide partijen binnen zes weken na de verzenddatum beroep in cassatie instellen bij
+de Hoge Raad der Nederlanden via het webportaal van de Hoge Raad www.hogeraad.nl.
+
+Bepaalde personen die niet worden vertegenwoordigd door een gemachtigde die beroepsmatig rechtsbijstand verleent, mogen per post beroep in cassatie instellen. Dit zijn natuurlijke personen en verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte. Als zij geen gebruik willen maken van digitaal procederen kunnen deze personen het beroepschrift in cassatie sturen aan
+de Hoge Raad der Nederlanden (belastingkamer), Postbus 20303, 2500 EH Den Haag.
+
+Alle andere personen en gemachtigden die beroepsmatig rechtsbijstand verlenen, zijn in beginsel verplicht digitaal te procederen (zie www.hogeraad.nl).
+
+Bij het instellen van beroep in cassatie moet het volgende in acht worden genomen:
+
+1 - bij het beroepschrift wordt een afschrift van deze uitspraak gevoegd;
+2 - (alleen bij procederen op papier) het beroepschrift moet ondertekend zijn;
+3 - het beroepschrift moet ten minste het volgende vermelden:
+
+a. - de naam en het adres van de indiener;
+
+b. - de dagtekening;
+
+c. - de vermelding van de uitspraak waartegen het beroep in cassatie is gericht;
+
+d. - de gronden van het beroep in cassatie.
+
+Voor het instellen van beroep in cassatie is griffierecht verschuldigd. Na het instellen van beroep in cassatie ontvangt de indiener een nota griffierecht van de griffier van de Hoge Raad. In het cassatieberoepschrift kan de Hoge Raad verzocht worden om de wederpartij te veroordelen in de proceskosten.
