@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:1042"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/935", "NLF 2022/0785", "Vp-bulletin 2022/29 met annotatie van S.G.M.J. Rebbens, J.M.P. Tobben", "V-N 2022/27.1.3", "Viditax (FutD) 2022041303", "FutD 2022-1162"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/935", "NLF 2022/0785", "Vp-bulletin 2022/29 met annotatie van J.M.P. Tobben, S.G.M.J. Rebbens", "V-N 2022/27.1.3", "Viditax (FutD) 2022041303", "FutD 2022-1162"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:698"]]
 ---
 
