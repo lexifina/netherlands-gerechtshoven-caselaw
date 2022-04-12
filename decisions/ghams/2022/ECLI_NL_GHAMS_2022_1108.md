@@ -1,0 +1,94 @@
+---
+ecli: "ECLI:NL:GHAMS:2022:1108"
+court: "Gerechtshof Amsterdam"
+court_code: "GHAMS"
+docket: "K21/230121"
+decided: "2022-04-12"
+published: "2022-04-12"
+type: "uitspraak"
+procedure: "Raadkamer"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:1108"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHAMS:2022:1108 Gerechtshof Amsterdam , 12-04-2022 / K21/230121
+
+## Inhoudsindicatie
+
+afwijzing beklag ex. artikel 12 Sv ter zake van o.a. smaad/laster; onvoldoende bewijs om tot een bewezenverklaring van een strafbaar feit te komen en onvoldoende aanknopingspunten nader onderzoek.
+
+## Uitspraak
+
+afdeling strafrecht
+
+beklagkamer
+
+rekestnummer K21/230121
+
+Beschikking op het beklag van:
+
+[klager]
+,
+
+klager,
+
+woonplaats kiezende op het kantooradres van zijn gemachtigde: mr. D.V.A. Brouwer, advocaat te
+
+Amsterdam,
+
+en
+
+[klaagster 1] B.V., gevestigd te [vestigingsplaats 1] , [klaagster 2] B.V., gevestigd te [vestigingsplaats 2] en [klaagster 3], gevestigd te [vestigingsplaats 3] ,
+
+klaagsters,
+
+woonplaats kiezende op het kantooradres van hun gemachtigde: mr. O. Pluimer, advocaat te Amsterdam.
+
+1
+Het beklag
+
+Voor het verloop van de procedure en het verhandelde in raadkamer verwijst het hof naar zijn tussenbeschikking van 27 juli 2021.
+
+2
+Het verdere verloop van de procedure
+
+Het hof heeft naast de in de tussenbeschikking genoemde stukken kennisgenomen van:
+
+- de op 22 februari 2022 per e-mail bij het gerechtshof binnengekomen brief met bijlagen van de advocaat van klager [klager] .
+
+Het hof heeft beklaagde in de gelegenheid gesteld op 7 oktober 2021 te worden gehoord. Namens beklaagde is mr. M.E. Rosing, advocaat te Amsterdam, in raadkamer verschenen. Zij heeft het hof primair verzocht de behandeling van het beklag aan te houden. Het hof heeft hierop beslist de behandeling in raadkamer aan te houden.
+
+De raadkamerbehandeling is voortgezet op 24 februari 2022. Beklaagde is, daarbij bijgestaan door zijn advocaat, mr. M.E. Rosing, advocaat te Amsterdam, in raadkamer verschenen en heeft het hof verzocht de klacht af te wijzen.
+
+De advocaat-generaal is bij de behandelingen in raadkamer aanwezig geweest. In hetgeen in raadkamer naar voren is gekomen heeft deze geen aanleiding gevonden de conclusie in het verslag te herzien.
+
+3
+De beoordeling van het beklag
+
+Klagers hebben aangifte tegen beklaagde gedaan van valsheid in geschrift en (uitlokking dan wel medeplegen van) valsheid in geschrift, laster, bedreiging, belaging, afpersing en deelname aan een criminele organisatie.
+
+Voor de weergave van de feitelijke uitgangspunten die van belang zijn voor de beoordeling verwijst het hof naar de inhoud van het ambtsbericht.
+
+Het hof heeft te beoordelen of de strafrechter die over deze zaak zou moeten oordelen – al dan niet na nader onderzoek – tot een veroordeling voor enig strafbaar feit kan komen. Daarnaast moet het hof beoordelen of er, gelet op alle omstandigheden, voldoende belang is bij het alsnog instellen van strafrechtelijke vervolging. Indien het antwoord op beide vragen bevestigend luidt, zal een bevel tot vervolging worden gegeven.
+
+Bij de toetsing is het volgende van belang. Voor een bewezenverklaring is in het strafrecht alleen een aangifte niet voldoende. Er is ten minste een minimale hoeveelheid steunbewijs nodig. Dit moet de in de aangifte opgenomen verklaring over de strafbare gedraging voldoende bevestigen. Bovendien moet het steunbewijs afkomstig zijn uit een andere bron dan de persoon die de aangifte heeft gedaan.
+
+De overwegingen van het hof
+
+Klagers hebben een omvangrijke aangifte met bijlagen opgesteld. Hieruit is ten opzichte van beklaagde een verklaring van [beklaagde] te destilleren die hem in verband brengt met strafbare gedragingen. Voor deze verklaring geldt echter dat [beklaagde] niet consequent is in zijn aantijgingen en dat de verklaring niet wordt ondersteund door andere bewijsmiddelen. Beklaagde is in raadkamer gehoord. Hij ontkent de beschuldigingen. Bij deze stand van zaken zal de strafrechter op dit moment niet tot een bewezenverklaring van een strafbaar feit kunnen komen. Daar is in ieder geval nader onderzoek voor nodig. Het hof zal daartoe echter geen opdracht geven. Daarbij is het volgende van belang.
+
+Het hof ziet op dit moment onvoldoende aanknopingspunten om een strafrechtelijk onderzoek te openen dat voldoende wettig en overtuigend bewijs zal opleveren. Ook zal nader onderzoek, gelet op de aard van de aantijgingen en de verscheidenheid ervan, een grote en tijdrovende inzet van het opsporingsapparaat vergen. Het is maar zeer de vraag of nader onderzoek ruim vier jaar na dato nog bruikbaar en betrouwbaar (steun)bewijs zal opleveren.
+
+Onder deze omstandigheden is het hof van oordeel dat er onvoldoende goede redenen zijn om in deze zaak vervolging te gelasten. Het beklag is ongegrond.
+
+Het hof zal daarom als volgt beslissen.
+
+4
+De beslissing
+
+Het hof wijst het beklag af.
+
+Deze beschikking, waartegen voor betrokkenen geen rechtsmiddel openstaat, is gegeven op
+
+12 april 2022 door mrs. A.D.R.M. Boumans, voorzitter, P.C. Römer en P.F.E. Geerlings, raadsheren, in tegenwoordigheid van mr. J. Mens, griffier, en ondertekend door de voorzitter en de griffier.
