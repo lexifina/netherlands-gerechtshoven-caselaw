@@ -1,0 +1,208 @@
+---
+ecli: "ECLI:NL:GHSHE:2022:1215"
+court: "Gerechtshof 's-Hertogenbosch"
+court_code: "GHSHE"
+docket: "200.305.802_01"
+decided: "2022-04-14"
+published: "2022-04-14"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Civiel recht; Personen- en familierecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:1215"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHSHE:2022:1215 Gerechtshof 's-Hertogenbosch , 14-04-2022 / 200.305.802_01
+
+## Inhoudsindicatie
+
+Ondertoezichtstelling
+
+## Uitspraak
+
+GERECHTSHOF 's-HERTOGENBOSCH
+
+Team familie- en jeugdrecht
+
+Uitspraak	: 14 april 2022
+
+Zaaknummer	: 200.305.802/01
+
+Zaaknummer 1e aanleg	: C/03/296591 / JE RK 21-1882
+
+in de zaak in hoger beroep van:
+
+Leger des Heils Jeugdbescherming en Reclassering,
+
+gevestigd te [vestigingsplaats] , locatie [locatie] ,
+
+verzoekster in hoger beroep,
+
+hierna te noemen: de gecertificeerde instelling (GI).
+
+Deze zaak gaat over de minderjarige [minderjarige], geboren op [geboortedatum] 2013 te [geboorteplaats] , Duitsland, hierna te noemen: [minderjarige] .
+
+Het hof merkt in deze zaak als belanghebbende aan:
+
+[de moeder]
+,
+
+verblijvende te [plaats 1] ,
+
+hierna te noemen: de moeder,
+
+advocaat mr. L.E.I.K. Jaminon.
+
+In zijn hoedanigheid als omschreven in artikel 810 van het Wetboek van Burgerlijke Rechtsvordering is in de procedure gekend:
+
+de Raad voor de Kinderbescherming,
+
+regio: Zuidwest-Nederland, locatie [locatie] ,
+
+hierna te noemen: de raad.
+
+1
+Het geding in eerste aanleg
+
+Het hof verwijst voor het verloop van het geding in eerste aanleg naar de beschikking van de rechtbank Limburg, zittingsplaats Roermond, van 26 oktober 2021, uitgesproken onder voormeld zaaknummer.
+
+2
+Het geding in hoger beroep
+
+2.1.
+
+Bij beroepschrift met producties, ingekomen bij het hof op 26 januari 2022, heeft de GI het hof verzocht primair voormelde beschikking te vernietigen en, opnieuw rechtdoende, uitvoerbaar bij voorraad, het inleidende verzoek van de GI tot verlenging van de ondertoezichtstelling over [minderjarige] alsnog toe te wijzen. Subsidiair heeft de GI het hof verzocht een raadsonderzoek te gelasten met betrekking tot [minderjarige] naar de vraag of voldaan wordt aan de criteria van artikel 1:255 van het Burgerlijk Wetboek (BW).
+
+2.2.
+
+Bij verweerschrift met producties, ingekomen bij het hof op 9 maart 2022, heeft de moeder het hof verzocht de verzoeken van de GI in hoger beroep af te wijzen als zijnde ongegrond en onbewezen en de bestreden beschikking in stand te laten.
+
+2.3.
+
+De mondelinge behandeling heeft plaatsgevonden op 18 maart 2022.
+
+Bij die gelegenheid zijn gehoord:
+
+- de GI, vertegenwoordigd door [vertegenwoordiger van de GI 1] , [vertegenwoordiger van de GI 2] en [vertegenwoordiger van de GI 3] en bijgestaan door
+
+mr. [jurist] ;
+
+de moeder, bijgestaan door mr. Jaminon;
+
+de raad, vertegenwoordigd door [vertegenwoordiger van de raad] .
+
+2.3.1.
+
+[de vader] , de vader, wordt in de onderhavige zaak niet als belanghebbende aangemerkt omdat hij niet is belast met het gezag over [minderjarige] .
+
+2.3.2.
+
+Het hof heeft partijen voorafgaand aan de mondelinge behandeling laten weten dat ambtshalve de vraag aan de orde gesteld zal worden of de GI in haar verzoeken in hoger beroep kan worden ontvangen, nu de kinderrechter bij de bestreden beschikking de ondertoezichtstelling niet heeft verlengd. Op 18 en 21 maart 2022 is in acht andere en vergelijkbare zaken een mondelinge behandeling geweest waarin deze procesrechtelijke kwestie gelijktijdig is behandeld.
+
+2.4.
+
+Het hof heeft verder kennisgenomen van de inhoud van:
+
+het proces-verbaal van de mondelinge behandeling in eerste aanleg op 22 oktober 2021;
+
+het V6-formulier met bijlage van de advocaat van de ouders, ontvangen op
+
+14 maart 2022;
+
+- de tijdens de mondelinge behandeling van 18 maart 2022 door de GI overgelegde volmacht, waaruit blijkt dat aan mr. [jurist] , [vertegenwoordiger van de GI 2] , [vertegenwoordiger van de GI 1] en [vertegenwoordiger van de GI 3] een volmacht is verleend om de GI in rechte te vertegenwoordigen in de onderhavige zaak, ondertekend door de algemeen directeur van de GI, [algemeen directeur] , op 17 maart 2022.
+
+3
+De beoordeling
+
+3.1.
+
+Uit de relatie van de moeder en de vader is op [geboortedatum] 2013 de minderjarige [minderjarige] geboren. De moeder oefent alleen het gezag uit over [minderjarige] .
+
+[minderjarige] verblijft samen met de moeder in [plaats 1] , als onderdeel van leefgemeenschap van de [leefgemeenschap] (hierna: de [leefgemeenschap] ).
+
+3.2.
+
+Bij vonnis van 13 november 2020 van het Amtsgericht [ambtsgericht] is aan de moeder het gezag over [minderjarige] voorlopig ontnomen. Dienst Jeugdzaken [plaats 2] (Jugendamt [plaats 2] ) is tijdelijk belast met de voogdij.
+
+3.3.
+
+Bij beschikking van 14 december 2020 heeft de rechtbank de GI belast met de voorlopige voogdij over [minderjarige] voor de duur van drie maanden. Bij beschikking van 1 februari 2021 is de voorlopige voogdijmaatregel  ingetrokken.
+
+3.4.
+
+Bij beschikking van 1 februari 2021 heeft de rechtbank [minderjarige] aanvankelijk voorlopig onder toezicht gesteld van de GI vanaf 1 februari 2021 tot 1 mei 2021. Bij beschikking van 30 april 2021 heeft de rechtbank hem onder toezicht gesteld van 1 mei 2021 tot 1 juli 2021. Vervolgens heeft de rechtbank bij beschikking van 30 juni 2021 hem onder toezicht gesteld van 1 juli 2021 tot 1 november 2021.
+
+3.5.
+
+Op 30 maart 2021 heeft er een psychodiagnostisch onderzoek plaatsgevonden
+
+3.6.
+
+Bij de bestreden - uitvoerbaar bij voorraad verklaarde - beschikking heeft de rechtbank het verzoek van de GI, om de ondertoezichtstelling van [minderjarige] te verlengen voor de duur van één jaar, afgewezen.
+
+3.7.
+
+De GI kan zich met deze beslissing niet verenigen en zij is hiervan in hoger beroep gekomen.
+
+3.8.
+
+De GI voert – samengevat – het volgende aan. De GI is tijdig in hoger beroep gekomen tegen de bestreden beschikking en kan in zoverre worden ontvangen in het beroep. Zou toewijzing van de verlenging van de ondertoezichtstelling niet meer mogelijk zijn in dit hoger beroep, dan kan de GI feitelijk het recht op hoger beroep niet effectueren en is er sprake van een schending van artikel 6 van het Europees Verdrag voor de Rechten van de Mens (EVRM). [minderjarige] wordt ernstig in zijn ontwikkeling bedreigd en een ondertoezichtstelling is noodzakelijk om deze ontwikkelingsbedreiging weg te nemen.
+
+De zorgen van de GI vloeien voor een deel voort uit de strafrechtelijke veroordeling wegens seksueel misbruik in december 2021 in Duitsland van de vader, één van de voorgangers van de [leefgemeenschap] . Er zijn daarom zorgen over de (seksuele) veiligheid van [minderjarige] . Daar komt bij dat [minderjarige] binnen de geloofsgemeenschap onvoldoende kan toekomen aan de ontwikkeling van een eigen identiteit vanwege het bestaan en het belang van de groepsidentiteit. De GI vindt het kwalijk dat een jongen van acht opgroeit in een gemeenschap waar er geen tegenspraak is. De GI baseert dit op het gegeven dat de vader (ondanks zijn veroordeling) door de [leefgemeenschap] wordt vrijgepleit en het slachtoffer het verwijt wordt gemaakt. Op die manier ontstaat er een blinde vlek. Ook komt de autonomie van [minderjarige] in het gedrang. De GI wil [minderjarige] handvatten bieden om zelfstandig keuzes te kunnen maken, waarbij hij ook voldoende in aanraking kan komen met de normen en waarden die in de samenleving buiten de gemeenschap gelden.
+
+3.9.
+
+De moeder voert – samengevat – het volgende aan.
+
+Primair is de GI niet-ontvankelijk in haar verzoeken in hoger beroep. Zij verwijzen naar een uitspraak van de Hoge Raad van 9 juli 2021 (ECLI:NL:HR:2021:1113), waaruit volgt dat een reeds geëindigde ondertoezichtstelling niet kan worden verlengd. Voor zover het hof wel toekomt aan een inhoudelijke behandeling dan heeft de GI ten aanzien van [minderjarige] geen concrete ontwikkelingsbedreigingen naar voren gebracht. De [leefgemeenschap] is verre van gesloten.
+
+De moeder en [minderjarige] hebben via werk, school en hobby’s voldoende contacten met mensen buiten de [leefgemeenschap] . De moeder heeft altijd open gestaan voor een gesprek en dat staan zij nog steeds. De moeder begrijpt niet waarom de GI niet vaker op bezoek is geweest, waarom het niet mogelijk was het diagnostisch rapport te bespreken met de onderzoekers en er geen contact is gezocht met de school van [minderjarige] . Zij benadrukt dat de [leefgemeenschap] niet staat voor criminaliteit en er geen enkele ruimte is voor intimiteit tussen volwassenen en minderjarigen. Er is - onder voorwaarden - wel ruimte voor vergeving en voor een tweede kans.
+
+Op de mondelinge behandeling heeft de moeder verklaard dat er geen sprake is van een concrete ontwikkelingsbedreiging ten aanzien van [minderjarige] . Er is meer dan voldoende aandacht voor het individu binnen de [leefgemeenschap] . [minderjarige] ontwikkelt zich leeftijdsadequaat. De moeder is er bewust mee bezig dat hij zijn eigen kwaliteiten heeft. Op bepaalde punten doet [minderjarige] het iets minder goed op school, maar de moeder heeft daarover contact met de school.
+
+3.10.
+
+De raad refereert zich aan het oordeel van het hof voor wat betreft de ontvankelijkheid. De raad adviseert, zakelijk weergegeven, als volgt. Er zijn weliswaar zorgen over [minderjarige] , maar deze zorgen zijn onvoldoende concreet. De meeste zorgen zijn gelegen in hoe er in de gemeenschap wordt omgegaan met de veroordeling van de vader.
+
+Er zijn ook zorgen over de identiteitsontwikkeling van [minderjarige] . Daarbij speelt een rol dat hij nog jong is en er veel ingrijpende dingen zijn gebeurd die van invloed zijn op zijn leven. Met name gelet op de strafrechtelijke veroordeling van de vader heeft de raad zorgen over hoe de ouders de kinderen, in dit geval [minderjarige] , beschermen tegen mogelijk seksueel misbruik.
+
+De raad ziet mogelijkheden om in het vrijwillig kader, bijvoorbeeld via Centrum voor Jeugd en Gezin (CJG), het gesprek met de ouders en eventueel de kinderen aan te gaan, om zorgen te bespreken en zo nodig hulpverlening in te zetten. Het is wel belangrijk dat dit proces gemonitord wordt, zodat er zicht op blijft in hoeverre de zorgen, die de raad zeker ook ziet, worden weggenomen.
+
+Ontvankelijkheid verzoeken in hoger beroep
+
+3.11.
+
+Het hof beoordeelt allereerst de ontvankelijkheid van de GI in het door haar ingestelde hoger beroep. Het hof overweegt daarover het volgende.
+
+3.11.1.
+
+Op grond van artikel 1:255 BW kan de kinderrechter een minderjarige onder toezicht stellen van een gecertificeerde instelling. In artikel 1:260 lid 1 BW is bepaald dat de kinderrechter de duur van de ondertoezichtstelling telkens kan verlengen met ten hoogste één jaar.
+
+3.11.2.
+
+Wanneer de duur van de ondertoezichtstelling niet wordt verlengd, eindigt de maatregel van rechtswege na verloop van de door de kinderrechter bepaalde duur. Uit de uitspraak van de Hoge Raad van 9 juli 2021 (ECLI:NL:HR:2021:1113) volgt dat als de maatregel van rechtswege is geëindigd, deze niet meer kan worden verlengd. Wel kan de minderjarige in een dergelijk geval, indien aan de voorwaarden daarvoor is voldaan, door de kinderrechter opnieuw op grond van artikel 1:255 BW onder toezicht worden gesteld.
+
+3.11.3.
+
+Voor deze zaak betekent dit het volgende. Bij de bestreden beschikking is het verzoek van de GI om de ondertoezichtstelling van [minderjarige] met één jaar te verlengen, afgewezen. Nadat de ondertoezichtstelling van rechtswege is geëindigd op 1 november 2021, heeft de GI op 26 januari 2022 hoger beroep ingesteld tegen de bestreden beschikking. Gelet op voornoemde uitspraak van de Hoge Raad van 9 juli 2021 kan het hof dit verzoek van de GI in eerste aanleg niet toewijzen, nog los van de vraag of het hof inhoudelijk gronden ziet om tot verlenging van de ondertoezichtstelling over te gaan. De ondertoezichtstelling is immers op 1 november 2021 van rechtswege geëindigd en uit de uitspraak van de Hoge Raad volgt dat deze dan niet meer kan worden verlengd. Het vorenstaande betekent dat, wat er ook zij van de grieven van de GI, het oorspronkelijk verzoek om de ondertoezichtstelling per 1 november 2021 te verlengen, niet meer kan worden toegewezen.
+
+3.11.4.
+
+Tijdens de mondelinge behandeling heeft de GI nog naar voren gebracht dat als het primaire verzoek door het hof niet kan worden toegewezen, in hoger beroep toch de rechtmatigheid van de bestreden beschikking behoort te worden beoordeeld. Bij dat verzoek heeft de GI evenwel onvoldoende belang, om navolgende reden. Als gezegd kan een beoordeling van de bestreden beschikking niet meer leiden tot verlenging van de ondertoezichtstelling. Weliswaar heeft de Hoge Raad in een andere beschikking van 9 juli 2021 (ECLI:NL:HR:2021:1112) overwogen dat indien de periode waarvoor een machtiging (tot uithuisplaatsing of ondertoezichtstelling) is gegeven ten tijde van de uitspraak in hoger beroep is verstreken, het hof aan de hand van de aangevoerde grieven heeft te beoordelen of de bestreden beslissing terecht is gegeven. Ook in de uitspraak van 18 maart 2022 (ECLI:NL:HR:2022:395), waarin het ging om een niet uitgevoerde machtiging uithuisplaatsing, oordeelde de Hoge Raad dat een ouder op grond van artikel 8 EVRM recht heeft op een rechtmatigheidstoets. Het hof overweegt evenwel dat deze beoordeling op zijn plaats is indien in eerste aanleg een jeugdbeschermingsmaatregel is getroffen waartegen door een belanghebbende ouder of de minderjarige in kwestie hoger beroep is ingesteld. Er is dan immers sprake van een overheidsinbreuk op door artikel 8 lid 1 EVRM beschermde rechten, waartegen in hoger beroep moet kunnen worden opgekomen. Dat is hier echter niet het geval en artikel 8 EVRM is ook niet van toepassing op de GI. De GI heeft aangevoerd dat haar op deze manier het recht op een eerlijk proces als bedoeld in artikel 6 EVRM wordt ontnomen. Het hof volgt de GI hierin niet. De GI kan op grond van artikel 3.1 lid 1 van de Jeugdwet de raad verzoeken een nieuw onderzoek naar de noodzaak van een kinderbeschermingsmaatregel te doen. Het hof wijst er verder op dat uit vaste rechtspraak van de Hoge Raad volgt dat uit artikel 6 EVRM niet volgt dat een recht op hoger beroep bestaat, zodat ook op die grond de GI niet in enig belang is geschaad.
+
+3.11.5.
+
+Op grond van het voorgaande is het hof van oordeel dat de GI geen belang heeft bij het door haar ingestelde hoger beroep. Al het overige dat door de GI is aangevoerd, kan niet tot een ander oordeel leiden. Het hof zal de verzoeken van de GI in hoger beroep dan ook afwijzen.
+
+3.11.6.
+
+Ten overvloede wordt overwogen dat het voorgaande geenszins afdoet aan de zorgen over [minderjarige] en het advies van de raad, waarbij de raad voorstelt om binnen het vrijwillige kader hulpverlening in te zetten en de voortgang daarvan te monitoren. De moeder heeft zich hiertoe tijdens de mondelinge behandeling in beginsel bereid verklaard. Wanneer de zorgen over [minderjarige] aanhouden, ligt het zo nodig op de weg van de GI en de raad om een nieuw verzoek tot ondertoezichtstelling in te dienen
+
+4
+De beslissing
+
+Het hof:
+
+wijst de verzoeken van de GI in hoger beroep af.
+
+Deze beschikking is gegeven door mrs. E.M.C. Dumoulin, C.N.M. Antens, J.C.E. Ackermans-Wijn en is op 14 april 2022 uitgesproken in het openbaar door mr. C.N.M. Antens in tegenwoordigheid van de griffier.
