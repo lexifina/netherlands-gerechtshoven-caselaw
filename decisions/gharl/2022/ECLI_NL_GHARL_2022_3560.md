@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:3560"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0109", "JPF 2022/90 met annotatie van prof. mr. P. Vlaardingerbroek", "FJR 2024/5.12"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0109", "JPF 2022/90 met annotatie van prof. mr. P. Vlaardingerbroek", "FJR 2024/5.12", "PR-Updates.nl 2022-0109"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:949, Niet ontvankelijk"]]
 ---
 
