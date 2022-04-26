@@ -9,8 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:1241"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0110"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:10458"]]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0110", "PR-Updates.nl 2022-0110"]
 ---
 
 # ECLI:NL:GHAMS:2022:1241 Gerechtshof Amsterdam , 26-04-2022 / 200.291.256/01
