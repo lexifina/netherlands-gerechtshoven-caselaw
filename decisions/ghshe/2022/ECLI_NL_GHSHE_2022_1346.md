@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:1346"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2018:6812"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2018:6812"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2015:11407"]]
 ---
 
 # ECLI:NL:GHSHE:2022:1346 Gerechtshof 's-Hertogenbosch , 26-04-2022 / 200.254.755_01
