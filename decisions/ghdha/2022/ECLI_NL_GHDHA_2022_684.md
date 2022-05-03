@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:684"
-published_in: ["Rechtspraak.nl", "PJ 2022/56 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0104"]
+published_in: ["Rechtspraak.nl", "PJ 2022/56 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0104", "PR-Updates.nl 2022-0104"]
 ---
 
 # ECLI:NL:GHDHA:2022:684 Gerechtshof Den Haag , 03-05-2022 / 200.289.731
