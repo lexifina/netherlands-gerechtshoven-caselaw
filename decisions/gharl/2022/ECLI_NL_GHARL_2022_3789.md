@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:3789"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0115"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0115", "PR-Updates.nl 2023-0115"]
 ---
 
 # ECLI:NL:GHARL:2022:3789 Gerechtshof Arnhem-Leeuwarden , 12-05-2022 / 200.276.905
