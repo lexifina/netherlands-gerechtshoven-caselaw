@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:948"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1576", "NTFR 2022/2881 met annotatie van mr. N. ten Broek", "V-N 2022/37.14 met annotatie van Redactie", "Viditax (FutD) 2022062106", "FutD 2022-1819"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1576", "NTFR 2022/2881 met annotatie van mr. N. ten Broek", "V-N 2022/37.14", "Viditax (FutD) 2022062106", "FutD 2022-1819"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:5495, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
