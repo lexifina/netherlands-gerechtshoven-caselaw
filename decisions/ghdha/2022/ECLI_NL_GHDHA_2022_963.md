@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:963"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1569", "Belastingblad 2022/294 met annotatie van Redactie", "V-N 2022/40.24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1569", "Belastingblad 2022/294", "V-N 2022/40.24"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:3466, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2023:110"]]
 ---
 
