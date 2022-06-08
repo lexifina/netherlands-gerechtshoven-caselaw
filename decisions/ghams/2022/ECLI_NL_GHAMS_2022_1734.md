@@ -35,7 +35,8 @@ inzake
 
 de besloten vennootschap met beperkte aansprakelijkheid
 
-MBH B.V.,
+[holding van A]
+,
 
 gevestigd te Veldhoven,
 
@@ -59,7 +60,8 @@ e n  t e g e n
 
 de besloten vennootschap met beperkte aansprakelijkheid
 
-NKH B.V.,
+[holding van B]
+,
 
 gevestigd Veldhoven,
 
@@ -74,17 +76,17 @@ Het verloop van het geding
 
 In het vervolg zullen partijen als volgt worden aangeduid:
 
-verzoekster als MBH;
+verzoekster als [holding van A] ;
 
 [A] als [A] ;
 
 verweerster als Omines Services;
 
-belanghebbende als NKH;
+belanghebbende als [holding van B] ;
 
 [B] als [B] ;
 
-verweerster en belanghebbende gezamenlijk als NKH c.s.
+verweerster en belanghebbende gezamenlijk als [holding van B] c.s.
 
 1.2
 
@@ -96,7 +98,7 @@ Bij de eerste beschikking van 19 januari 2021 heeft de Ondernemingskamer een ond
 
 1.4
 
-Bij beschikking van 8 maart 2021 heeft de Ondernemingskamer het bedrag dat het onderzoek ten hoogste mag kosten vastgesteld op € 12.500, de verschuldigde omzetbelasting daarin niet begrepen. Verder heeft zij bepaald dat MBH zorg zal dragen voor de voorfinanciering van de kosten van het onderzoek die ten laste komen van Omines Services als bedoeld in de beschikking van 19 januari 2021.
+Bij beschikking van 8 maart 2021 heeft de Ondernemingskamer het bedrag dat het onderzoek ten hoogste mag kosten vastgesteld op € 12.500, de verschuldigde omzetbelasting daarin niet begrepen. Verder heeft zij bepaald dat [holding van A] zorg zal dragen voor de voorfinanciering van de kosten van het onderzoek die ten laste komen van Omines Services als bedoeld in de beschikking van 19 januari 2021.
 
 1.5
 
@@ -108,11 +110,11 @@ Bij de beschikking van 14 oktober 2021 heeft de Ondernemingskamer de vergoeding 
 
 1.7
 
-MBH heeft bij op 12 november 2021 ontvangen verzoekschrift met producties de Ondernemingskamer verzocht vast te stellen dat het onderzoeksverslag blijk geeft van wanbeleid bij Omines Services en NKH, en NKH, subsidiair Omines Services, te veroordelen in de kosten van de procedure. Daarnaast heeft MBH de Ondernemingskamer verzocht definitieve voorzieningen te treffen, zoals in het verzoekschrift nader omschreven.
+[holding van A] heeft bij op 12 november 2021 ontvangen verzoekschrift met producties de Ondernemingskamer verzocht vast te stellen dat het onderzoeksverslag blijk geeft van wanbeleid bij Omines Services en [holding van B] , en [holding van B] , subsidiair Omines Services, te veroordelen in de kosten van de procedure. Daarnaast heeft [holding van A] de Ondernemingskamer verzocht definitieve voorzieningen te treffen, zoals in het verzoekschrift nader omschreven.
 
 1.8
 
-Bij op 29 december 2021 ontvangen verweerschrift hebben NKH c.s. verzocht het verzoek van MBH niet ontvankelijk te verklaren, althans af te wijzen en haar te veroordelen in de kosten van de procedure. NKH c.s. hebben daarbij ook een eigen verzoek gedaan, namelijk te bepalen dat Omines Services op voet van artikel 2:356 sub f BW wordt ontbonden, met benoeming van [B] tot vereffenaar.
+Bij op 29 december 2021 ontvangen verweerschrift hebben [holding van B] c.s. verzocht het verzoek van [holding van A] niet ontvankelijk te verklaren, althans af te wijzen en haar te veroordelen in de kosten van de procedure. [holding van B] c.s. hebben daarbij ook een eigen verzoek gedaan, namelijk te bepalen dat Omines Services op voet van artikel 2:356 sub f BW wordt ontbonden, met benoeming van [B] tot vereffenaar.
 
 1.9
 
@@ -123,17 +125,17 @@ De feiten
 
 2.1
 
-Deze zaak betreft een zogenaamde tweedefaseprocedure, waarin MBH op basis van de inhoud van het gedeponeerde verslag van het onderzoek dat in de eerstefaseprocedure tussen partijen was gelast de Ondernemingskamer verzoekt vast te stellen dat bij Omines Services sprake was van wanbeleid en dat haar bestuurder NKH verantwoordelijk is voor dat wanbeleid.
+Deze zaak betreft een zogenaamde tweedefaseprocedure, waarin [holding van A] op basis van de inhoud van het gedeponeerde verslag van het onderzoek dat in de eerstefaseprocedure tussen partijen was gelast de Ondernemingskamer verzoekt vast te stellen dat bij Omines Services sprake was van wanbeleid en dat haar bestuurder [holding van B] verantwoordelijk is voor dat wanbeleid.
 
 De Ondernemingskamer herhaalt hierna – voor zover hier van belang – de feiten die in de eerstefasebeschikking zijn vermeld en vult deze aan met nieuwe feiten.
 
 2.2
 
-[A] is enig aandeelhouder en bestuurder van MBH. [B] is enig aandeelhouder en bestuurder van NKH. In 2006 is [B] een eenmanszaak gestart die zich richt op het ontwikkelen van online software. [A] is met ingang van 1 januari 2009 in dienst getreden bij de eenmanszaak.
+[A] is enig aandeelhouder en bestuurder van [holding van A] . [B] is enig aandeelhouder en bestuurder van [holding van B] . In 2006 is [B] een eenmanszaak gestart die zich richt op het ontwikkelen van online software. [A] is met ingang van 1 januari 2009 in dienst getreden bij de eenmanszaak.
 
 2.3
 
-Op 4 februari 2013 zijn Omines Services en Omines Internetbureau B.V. (hierna: Omines Internetbureau of in citaten uit het onderzoeksverslag: Omines IB) opgericht en is de onderneming van de eenmanszaak (via NKH) ingebracht in Omines Internetbureau en Omines Services. De servicecontracten zijn ingebracht in Omines Services en alle andere activa/passiva (zoals roerende zaken, vorderingen, handelsnamen en schulden) zijn ingebracht in Omines Internetbureau. Sinds 4 februari 2013 houdt MBH 49% van de aandelen en houdt NKH 51% van de aandelen in Omines Services en is NKH enig bestuurder van Omines Services. Verder is NKH enig aandeelhouder en bestuurder van Omines Internetbureau. [A] was tot 7 augustus 2020 in loondienst van Omines Internetbureau.
+Op 4 februari 2013 zijn Omines Services en Omines Internetbureau B.V. (hierna: Omines Internetbureau of in citaten uit het onderzoeksverslag: Omines IB) opgericht en is de onderneming van de eenmanszaak (via [holding van B] ) ingebracht in Omines Internetbureau en Omines Services. De servicecontracten zijn ingebracht in Omines Services en alle andere activa/passiva (zoals roerende zaken, vorderingen, handelsnamen en schulden) zijn ingebracht in Omines Internetbureau. Sinds 4 februari 2013 houdt [holding van A] 49% van de aandelen en houdt [holding van B] 51% van de aandelen in Omines Services en is [holding van B] enig bestuurder van Omines Services. Verder is [holding van B] enig aandeelhouder en bestuurder van Omines Internetbureau. [A] was tot 7 augustus 2020 in loondienst van Omines Internetbureau.
 
 2.4
 
@@ -145,7 +147,7 @@ Omines Internetbureau heeft ten doel het ontwikkelen en beheren van websites en 
 
 2.6
 
-Bij e-mail aan NKH van 18 juni 2019 heeft MBH bezwaren geuit aan het adres van NKH ( [B] ) en heeft MBH verzocht om de helft van het door Omines Internetbureau aan Omines Services gefactureerde bedrag van € 190.768,60 inclusief btw terug te storten en een algemene vergadering te plannen. De e-mail vermeldt onder meer:
+Bij e-mail aan [holding van B] van 18 juni 2019 heeft [holding van A] bezwaren geuit aan het adres van [holding van B] ( [B] ) en heeft [holding van A] verzocht om de helft van het door Omines Internetbureau aan Omines Services gefactureerde bedrag van € 190.768,60 inclusief btw terug te storten en een algemene vergadering te plannen. De e-mail vermeldt onder meer:
 
 “Ik heb moeten vaststellen dat de facturatie door Omines Internetbureau B.V. aan Omines Services B.V. niet onderbouwd is en niet gebaseerd is op geleverde diensten. Op geen enkele manier correspondeert de urenadministratie met de facturatie. Feitelijk komt het erop neer dat u Services aan het "leeghalen" bent.
 
@@ -153,7 +155,7 @@ Ik ben van mening dat u hiermee uw taak als bestuurder onbehoorlijk vervult, alt
 
 2.7
 
-Bij e-mail van 23 juni 2019 heeft [B] aan MBH geschreven dat hij een datum voor een algemene vergadering zal prikken en verder onder meer het volgende:
+Bij e-mail van 23 juni 2019 heeft [B] aan [holding van A] geschreven dat hij een datum voor een algemene vergadering zal prikken en verder onder meer het volgende:
 
 “Het is spijtig te moeten vernemen dat je niet tevreden bent over de manier waarop Omines Internetbureau B.V. en Omines Services B.V. onderling hun kosten verdelen. Ik sta vanzelfsprekend achter het beginsel dat de vennootschappen onderling zoveel mogelijk marktconform handelen (…).
 
@@ -161,15 +163,15 @@ Kun je in de tussentijd alvast toelichting verschaffen op de grondslagen van je 
 
 2.8
 
-Bij brief van 2 juli 2019 heeft mr. Claassens namens MBH aan NKH geschreven dat MBH zich grote zorgen maakt over de continuïteit van Omines Services, omdat Omines Internetbureau grote bedragen onttrekt aan Omines Services, dat MBH graag overleg wenst te voeren en dat MBH indien nodig gerechtelijke stappen zal nemen. Per 11 juli 2019 heeft Omines Internetbureau de betaling van het loon van [A] stopgezet. Vervolgens heeft [A] diverse arbeidsrechtelijke procedures tegen Omines Internetbureau aanhangig gemaakt.
+Bij brief van 2 juli 2019 heeft mr. Claassens namens [holding van A] aan [holding van B] geschreven dat [holding van A] zich grote zorgen maakt over de continuïteit van Omines Services, omdat Omines Internetbureau grote bedragen onttrekt aan Omines Services, dat [holding van A] graag overleg wenst te voeren en dat [holding van A] indien nodig gerechtelijke stappen zal nemen. Per 11 juli 2019 heeft Omines Internetbureau de betaling van het loon van [A] stopgezet. Vervolgens heeft [A] diverse arbeidsrechtelijke procedures tegen Omines Internetbureau aanhangig gemaakt.
 
 2.9
 
-Bij brief van 14 januari 2020 heeft MBH aan NKH verzocht om volledige openheid van zaken en inzage in de stukken, zulks ter voorbereiding op de op 21 januari 2020 geplande aandeelhoudersvergadering van Omines Services. In de brief staat verder dat MBH heeft ontdekt dat NKH zonder MBH daarin te kennen de jaarrekening over 2018 heeft gedeponeerd bij het handelsregister op 24 december 2019, nog voor de aandeelhoudersvergadering heeft plaatsgevonden.
+Bij brief van 14 januari 2020 heeft [holding van A] aan [holding van B] verzocht om volledige openheid van zaken en inzage in de stukken, zulks ter voorbereiding op de op 21 januari 2020 geplande aandeelhoudersvergadering van Omines Services. In de brief staat verder dat [holding van A] heeft ontdekt dat [holding van B] zonder [holding van A] daarin te kennen de jaarrekening over 2018 heeft gedeponeerd bij het handelsregister op 24 december 2019, nog voor de aandeelhoudersvergadering heeft plaatsgevonden.
 
 2.10
 
-Op 21 januari 2020 heeft een aandeelhoudersvergadering van Omines Services plaatsgevonden. De notulen vermelden dat MBH tegen vaststelling van de jaarrekening van Omines Services over 2018 en tegen decharge van NKH heeft gestemd. NKH heeft vóór beide besluiten gestemd, waarmee de jaarrekening over 2018 is vastgesteld en decharge is verleend. Tijdens de vergadering is door mr. Leroux namens MBH aan [B] verzocht om inzage in de administratie van Omines Services. Bij e-mail van 4 februari 2020 heeft [B] aan mr. Leroux onder andere bericht dat de door MBH gevraagde stukken niet worden verstrekt, omdat niet verwacht kan worden dat [B] aan een (toekomstige) concurrent gedetailleerde gegevens verstrekt van klanten die Omines Services ooit heeft bediend.
+Op 21 januari 2020 heeft een aandeelhoudersvergadering van Omines Services plaatsgevonden. De notulen vermelden dat [holding van A] tegen vaststelling van de jaarrekening van Omines Services over 2018 en tegen decharge van [holding van B] heeft gestemd. [holding van B] heeft vóór beide besluiten gestemd, waarmee de jaarrekening over 2018 is vastgesteld en decharge is verleend. Tijdens de vergadering is door mr. Leroux namens [holding van A] aan [B] verzocht om inzage in de administratie van Omines Services. Bij e-mail van 4 februari 2020 heeft [B] aan mr. Leroux onder andere bericht dat de door [holding van A] gevraagde stukken niet worden verstrekt, omdat niet verwacht kan worden dat [B] aan een (toekomstige) concurrent gedetailleerde gegevens verstrekt van klanten die Omines Services ooit heeft bediend.
 
 2.11
 
@@ -185,7 +187,7 @@ Bij e-mail van 19 februari 2020 heeft [B] aan mr. Leroux onder meer het volgende
 
 2.12
 
-In februari 2020 heeft MBH drs. Contzé RA van Contzé & Partners (hierna Contzé) ingeschakeld teneinde een initiële beoordeling op hoofdlijnen over de jaren 2013 t/m 2018 uit te voeren. In overleg met [B] heeft Contzé toegang tot (een deel van) de administratie van Omines Services gekregen.
+In februari 2020 heeft [holding van A] drs. Contzé RA van Contzé & Partners (hierna Contzé) ingeschakeld teneinde een initiële beoordeling op hoofdlijnen over de jaren 2013 t/m 2018 uit te voeren. In overleg met [B] heeft Contzé toegang tot (een deel van) de administratie van Omines Services gekregen.
 
 2.13
 
@@ -195,7 +197,7 @@ Het rapport van Contzé van 31 maart 2020 vermeldt als conclusie:
 
 Overall evaluerend, op basis van ervaring, vaktechnische interpretaties en evaluaties alsmede op basis van de aan ons verstrekte documenten en gevoerde gesprekken met de directie van Omines Services BV en de heer [A] hebben wij voldoende indicaties om vraagtekens te stellen bij de objectiviteit en zorgvuldigheid waarmee de resultaten van Omines Services zijn opgesteld.
 
-Bovenstaande constatering is met name van belang gezien het feit dat de heer [B] middels zijn Holding NKH BV in beide werkmaatschappijen een meerderheid van de stemrechten heeft. Gezien de aanwezigheid van een minderheidsaandeelhouder in Omines Services BV en het tegenstrijdige belang dat beide werkmaatschappijen in de onderhavige discussie hebben, zou geconcludeerd kunnen worden dat de belangen van Omines Services BV door het leeg factureren van de vennootschap geschaad zijn. Nader onderzoek is hiervoor vereist.
+Bovenstaande constatering is met name van belang gezien het feit dat de heer [B] middels zijn Holding [holding van B] BV in beide werkmaatschappijen een meerderheid van de stemrechten heeft. Gezien de aanwezigheid van een minderheidsaandeelhouder in Omines Services BV en het tegenstrijdige belang dat beide werkmaatschappijen in de onderhavige discussie hebben, zou geconcludeerd kunnen worden dat de belangen van Omines Services BV door het leeg factureren van de vennootschap geschaad zijn. Nader onderzoek is hiervoor vereist.
 
 Het leeg factureren i.p.v. het onderbouwd op basis van bestede uren belasten van Omines
 
@@ -203,7 +205,7 @@ Services BV heeft per saldo tot een onzes inziens materieel andere resultaatvast
 
 2.14
 
-In een e-mail van 22 juni 2020 heeft mr. Leroux aan NKH onder meer geschreven dat zij, ondanks herhaalde verzoeken daartoe, weigert inzage te verstrekken in de administratie en openheid van zaken te geven voor wat betreft de financiële gang van zaken van Omines Services, dat het rapport van Contzé aantoont dat facturatie niet op basis van de werkelijke en feitelijke werkzaamheden heeft plaatsgevonden en dat geld aan Omines Services is onttrokken ten faveure van Omines Internetbureau.
+In een e-mail van 22 juni 2020 heeft mr. Leroux aan [holding van B] onder meer geschreven dat zij, ondanks herhaalde verzoeken daartoe, weigert inzage te verstrekken in de administratie en openheid van zaken te geven voor wat betreft de financiële gang van zaken van Omines Services, dat het rapport van Contzé aantoont dat facturatie niet op basis van de werkelijke en feitelijke werkzaamheden heeft plaatsgevonden en dat geld aan Omines Services is onttrokken ten faveure van Omines Internetbureau.
 
 2.15
 
@@ -241,29 +243,29 @@ Overall blijft echter het ontbreken van een door Omines Internetbureau onderbouw
 
 2.18
 
-In de eerste beschikking van 19 januari 2021 heeft de Ondernemingskamer in 3.7 overwogen dat de belangen van Omines Services en Omines Internetbureau niet parallel lopen omdat de aandeelhouders niet dezelfde zijn en dat NKH als enig bestuurder van beide vennootschappen tegenstrijdige belangen heeft te dienen, waarbij een reëel risico bestaat dat bij het doorbelasten van kosten Omines Services wordt benadeeld ten opzichte van Omines Internetbureau. “Naar het oordeel van de Ondernemingskamer is niet aannemelijk geworden dat NKH als bestuurder van Omines Services voldoende oog heeft gehad voor het tegenstrijdig belang dat daarbij speelt en voor het belang om met het oog daarop maatregelen te treffen. Van bijzondere waarborgen of zorgvuldigheidsmaatregelen (bijvoorbeeld inschakeling van onafhankelijke derden en het betrachten van een ruime mate van transparantie) of specifiek in verband hiermee gemaakte expliciete afwegingen door NKH ter voorkoming van benadeling van Omines Services (en daarmee ook van MBH) is niet gebleken.” In 3.8 overwoog zij:
+In de eerste beschikking van 19 januari 2021 heeft de Ondernemingskamer in 3.7 overwogen dat de belangen van Omines Services en Omines Internetbureau niet parallel lopen omdat de aandeelhouders niet dezelfde zijn en dat [holding van B] als enig bestuurder van beide vennootschappen tegenstrijdige belangen heeft te dienen, waarbij een reëel risico bestaat dat bij het doorbelasten van kosten Omines Services wordt benadeeld ten opzichte van Omines Internetbureau. “Naar het oordeel van de Ondernemingskamer is niet aannemelijk geworden dat [holding van B] als bestuurder van Omines Services voldoende oog heeft gehad voor het tegenstrijdig belang dat daarbij speelt en voor het belang om met het oog daarop maatregelen te treffen. Van bijzondere waarborgen of zorgvuldigheidsmaatregelen (bijvoorbeeld inschakeling van onafhankelijke derden en het betrachten van een ruime mate van transparantie) of specifiek in verband hiermee gemaakte expliciete afwegingen door [holding van B] ter voorkoming van benadeling van Omines Services (en daarmee ook van [holding van A] ) is niet gebleken.” In 3.8 overwoog zij:
 
-“De Ondernemingskamer plaatst verder vraagtekens bij de deugdelijkheid van de financiële administratie van Omines Services. Gelet op hetgeen partijen naar voren hebben gebracht in hun processtukken met producties, waaronder het rapport en het addendum van Contzé, lijken duidelijke afspraken (of een duidelijke vastlegging daarvan) tussen Omines Services en Omines Internetbureau met betrekking tot het doorbelasten van kosten voor de afname van diensten door Omines Services van Omines Internetbureau te ontbreken en is onduidelijk hoe de doorbelasting van kosten is uitgevoerd. Het gaat dan om afspraken met betrekking tot onder meer (i) het van toepassing zijnde tarief voor doorbelaste uren, (ii) de criteria die leiden tot het doorbelasten van uren, (iii) de mate waarin [A] werkzaam was voor Omines Services en (iv) de overheadkosten. In dit verband klaagt MBH er terecht over dat zij onvoldoende door NKH wordt geïnformeerd, nu NKH een informatievoorsprong op MBH heeft en er sprake is van een tegenstrijdig belang. Gelet op het rapport en het addendum van Contzé is aannemelijk dat niet voldaan is aan de norm dat in een geval als het onderhavige de verdeling van kosten tussen beide vennootschappen berust op eenduidige, zakelijke en controleerbare criteria.”
+“De Ondernemingskamer plaatst verder vraagtekens bij de deugdelijkheid van de financiële administratie van Omines Services. Gelet op hetgeen partijen naar voren hebben gebracht in hun processtukken met producties, waaronder het rapport en het addendum van Contzé, lijken duidelijke afspraken (of een duidelijke vastlegging daarvan) tussen Omines Services en Omines Internetbureau met betrekking tot het doorbelasten van kosten voor de afname van diensten door Omines Services van Omines Internetbureau te ontbreken en is onduidelijk hoe de doorbelasting van kosten is uitgevoerd. Het gaat dan om afspraken met betrekking tot onder meer (i) het van toepassing zijnde tarief voor doorbelaste uren, (ii) de criteria die leiden tot het doorbelasten van uren, (iii) de mate waarin [A] werkzaam was voor Omines Services en (iv) de overheadkosten. In dit verband klaagt [holding van A] er terecht over dat zij onvoldoende door [holding van B] wordt geïnformeerd, nu [holding van B] een informatievoorsprong op [holding van A] heeft en er sprake is van een tegenstrijdig belang. Gelet op het rapport en het addendum van Contzé is aannemelijk dat niet voldaan is aan de norm dat in een geval als het onderhavige de verdeling van kosten tussen beide vennootschappen berust op eenduidige, zakelijke en controleerbare criteria.”
 
 2.19
 
-Op 3 maart 2021 heeft de algemene vergadering van Omines Services de jaarrekening 2019 vastgesteld en het bestuur decharge verleend; MBH stemde tegen beide voorstellen, NKH voor. Verder heeft de algemene vergadering, in dezelfde stemverhouding, op voorstel van het bestuur, NKH met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning voor haar bestuurstaken toegekend van € 95 exclusief btw per uur.
+Op 3 maart 2021 heeft de algemene vergadering van Omines Services de jaarrekening 2019 vastgesteld en het bestuur decharge verleend; [holding van A] stemde tegen beide voorstellen, [holding van B] voor. Verder heeft de algemene vergadering, in dezelfde stemverhouding, op voorstel van het bestuur, [holding van B] met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning voor haar bestuurstaken toegekend van € 95 exclusief btw per uur.
 
 2.20
 
-Op 20 oktober 2021 heeft Omines Services MBH verzocht de aan haar uitgekeerde dividenden terug te betalen. MBH heeft aan dat verzoek geen gehoor gegeven.
+Op 20 oktober 2021 heeft Omines Services [holding van A] verzocht de aan haar uitgekeerde dividenden terug te betalen. [holding van A] heeft aan dat verzoek geen gehoor gegeven.
 
 2.21
 
-Op verzoek van MBH is op de algemene vergadering van Omines Services van 2 november 2021 een voorstel tot herroeping van het besluit van 3 maart 2021 (2.19) geagendeerd. Met de tegenstem van NKH is dat voorstel daar verworpen. MBH was niet aanwezig maar had NKH op dat onderdeel volmacht verleend om haar stem vóór haar voorstel uit te brengen. Ter vergadering heeft NKH verder gestemd vóór de volgende, niet vooraf geagendeerde besluiten: (1) acceptatie van de herberekening door het bestuur van de intercompany doorbelasting van kosten over de boekjaren 2013 tot en met 2019, (2) erkenning van een vordering van Omines Internetbureau ten bedrage van € 422.994 als het saldo dat vanaf 2013 te weinig in rekening was gebracht bij Omines Services, (3) afdracht van het banksaldo boven € 5.000 aan Omines Internetbureau ter aflossing van die vordering en (4) afzien van nieuwe discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019.
+Op verzoek van [holding van A] is op de algemene vergadering van Omines Services van 2 november 2021 een voorstel tot herroeping van het besluit van 3 maart 2021 (2.19) geagendeerd. Met de tegenstem van [holding van B] is dat voorstel daar verworpen. [holding van A] was niet aanwezig maar had [holding van B] op dat onderdeel volmacht verleend om haar stem vóór haar voorstel uit te brengen. Ter vergadering heeft [holding van B] verder gestemd vóór de volgende, niet vooraf geagendeerde besluiten: (1) acceptatie van de herberekening door het bestuur van de intercompany doorbelasting van kosten over de boekjaren 2013 tot en met 2019, (2) erkenning van een vordering van Omines Internetbureau ten bedrage van € 422.994 als het saldo dat vanaf 2013 te weinig in rekening was gebracht bij Omines Services, (3) afdracht van het banksaldo boven € 5.000 aan Omines Internetbureau ter aflossing van die vordering en (4) afzien van nieuwe discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019.
 
 2.22
 
-MBH heeft NKH bij e-mail van 4 november 2021 verzocht die besluiten terug te draaien. NKH heeft MBH daarop dezelfde dag bericht dat het gaat om rechtsgeldige besluiten, die zij niet kan terugdraaien.
+[holding van A] heeft [holding van B] bij e-mail van 4 november 2021 verzocht die besluiten terug te draaien. [holding van B] heeft [holding van A] daarop dezelfde dag bericht dat het gaat om rechtsgeldige besluiten, die zij niet kan terugdraaien.
 
 2.23
 
-Bij vonnis van 29 december 2021 heeft de voorzieningenrechter te Eindhoven, rechtbank Oost-Brabant, een vordering van Omines Services tot terugbetaling van aan MBH uitgekeerde dividenden afgewezen, omdat de kortgedingprocedure zich daar naar haar oordeel in dit geval niet voor leende.
+Bij vonnis van 29 december 2021 heeft de voorzieningenrechter te Eindhoven, rechtbank Oost-Brabant, een vordering van Omines Services tot terugbetaling van aan [holding van A] uitgekeerde dividenden afgewezen, omdat de kortgedingprocedure zich daar naar haar oordeel in dit geval niet voor leende.
 
 3
 De inhoud van het verslag
@@ -332,34 +334,34 @@ Naar de mening van de onderzoeker had het op de weg gelegen van [B] om de omvang
 
 3.6
 
-Het onderwerp dat de onderzoeker bespreekt in paragraaf 7 (dividend en negatief eigen vermogen) komt niet terug in het tweedefaseverzoek van MBH en zal daarom verder onbesproken blijven.
+Het onderwerp dat de onderzoeker bespreekt in paragraaf 7 (dividend en negatief eigen vermogen) komt niet terug in het tweedefaseverzoek van [holding van A] en zal daarom verder onbesproken blijven.
 
 4
 De gronden van de beslissing
 
 4.1
 
-MBH heeft aan haar verzoek ten grondslag gelegd dat uit het onderzoeksverslag blijkt van wanbeleid van Omines Services en dat NKH daarvoor verantwoordelijk is. Onder verwijzing naar diverse passages uit het onderzoeksverslag heeft MBH – kort samengevat – aangevoerd dat de urenregistratie die volgens NKH ten grondslag lag aan de doorbelasting door Omines Internetbureau volstrekt ondeugdelijk is gebleken, NKH niet goed is omgesprongen met haar tegenstrijdige belangen en de informatieverschaffing aan minderheidsaandeelhouder MBH tekort is geschoten. Uit het onderzoeksverslag blijkt dat structureel uren ten onrechte als “rode uren” zijn geboekt en zo ten laste van Omines Services zijn gekomen. Hierdoor is Omines Services financieel ernstig benadeeld ten gunste van Omines Internetbureau, bij wie die uren eigenlijk hadden moeten vallen. NKH heeft op die manier gelden van de vennootschap weggesluisd naar de vennootschap waarvan zij enig aandeelhouder is. NKH heeft, ondanks dat zij daarbij een tegenstrijdig belang had, als bestuurder van Omines Services besloten over de doorbelasting van kosten aan Omines Services en is daarover niet transparant geweest ten opzichte van minderheidsaandeelhouder MBH.
+[holding van A] heeft aan haar verzoek ten grondslag gelegd dat uit het onderzoeksverslag blijkt van wanbeleid van Omines Services en dat [holding van B] daarvoor verantwoordelijk is. Onder verwijzing naar diverse passages uit het onderzoeksverslag heeft [holding van A] – kort samengevat – aangevoerd dat de urenregistratie die volgens [holding van B] ten grondslag lag aan de doorbelasting door Omines Internetbureau volstrekt ondeugdelijk is gebleken, [holding van B] niet goed is omgesprongen met haar tegenstrijdige belangen en de informatieverschaffing aan minderheidsaandeelhouder [holding van A] tekort is geschoten. Uit het onderzoeksverslag blijkt dat structureel uren ten onrechte als “rode uren” zijn geboekt en zo ten laste van Omines Services zijn gekomen. Hierdoor is Omines Services financieel ernstig benadeeld ten gunste van Omines Internetbureau, bij wie die uren eigenlijk hadden moeten vallen. [holding van B] heeft op die manier gelden van de vennootschap weggesluisd naar de vennootschap waarvan zij enig aandeelhouder is. [holding van B] heeft, ondanks dat zij daarbij een tegenstrijdig belang had, als bestuurder van Omines Services besloten over de doorbelasting van kosten aan Omines Services en is daarover niet transparant geweest ten opzichte van minderheidsaandeelhouder [holding van A] .
 
-Het zichzelf toekennen van een extra beloning (2.19) en de gebeurtenissen na afronding van het onderzoeksverslag (2.20-2.22) tonen aan dat NKH doorgaat met het benadelen van de vennootschap. In elk geval verdient de combinatie van hetgeen de onderzoeker heeft geconstateerd en het wangedrag van NKH nadien het predicaat wanbeleid. Geconcludeerd moet ook worden dat voorzieningen zijn geboden. MBH verzoekt de Ondernemingskamer de betreffende besluiten te vernietigen en NKH te ontslaan, althans te schorsen, met benoeming van een tijdelijk bestuurder in haar plaats.
+Het zichzelf toekennen van een extra beloning (2.19) en de gebeurtenissen na afronding van het onderzoeksverslag (2.20-2.22) tonen aan dat [holding van B] doorgaat met het benadelen van de vennootschap. In elk geval verdient de combinatie van hetgeen de onderzoeker heeft geconstateerd en het wangedrag van [holding van B] nadien het predicaat wanbeleid. Geconcludeerd moet ook worden dat voorzieningen zijn geboden. [holding van A] verzoekt de Ondernemingskamer de betreffende besluiten te vernietigen en [holding van B] te ontslaan, althans te schorsen, met benoeming van een tijdelijk bestuurder in haar plaats.
 
 4.2
 
-Volgens NKH c.s. is het onderzoek niet op het te verwachten niveau uitgevoerd. De onderzoekster heeft medewerkers intimiderend en op insinuerende wijze ondervraagd. Met de reacties van [B] op de concepten van het onderzoeksverslag is vrijwel niets gebeurd. Ongemotiveerd verkoos de onderzoeker de uitleg van [A] boven die van [B] in geval van conflicterende verklaringen over hetzelfde onderwerp. Zij heeft ten onrechte geen tijd besteed aan het in kaart brengen van de overhead. Inhoudelijk hebben NKH c.s. de stellingen van MBH betwist. Zij zien geen reden om wanbeleid vast te stellen. Binnen het management team was er volgens hen volledige openheid over financiële zaken. Uit de stukken die MBH in de eerstefaseprocedure in het geding heeft gebracht blijkt dat [A] onbeperkte toegang tot de facturatie- en urenregistratiesystemen had. De standpunten die [A] in de arbeidsrechtelijke procedures heeft ingenomen tonen aan dat hij vergaand inzicht had in de boekhouding en financiële administratie van de onderneming en voldoende werd geïnformeerd door [B] . [A] heeft zelfs erkend dat financiële documenten toegankelijk en beschikbaar waren en dat liquiditeitskwesties met hem werden besproken. Het standpunt in de onderhavige procedure dat NKH aan MBH onvoldoende informatie heeft verschaft, valt daarmee niet te rijmen. Het tegenstrijdig belang dat zou spelen bij de doorbelasting van de kosten kan hooguit zien op het beleid dat bijna zeven jaar geleden is ingezet, al die tijd onveranderd is uitgevoerd en steeds zonder protest van MBH – die inzage had in alle financiële informatie – is goedgekeurd. De jaarrekeningen zijn ieder jaar goedgekeurd. Met betrekking tot de conclusie van de onderzoeker over de urenregistratie hebben NKH c.s. geopperd dat aannemelijk is dat een significant aantal uren intern niet correct is verantwoord, maar met het aandeelhoudersbesluit van 2 november 2021 (zie 2.21) is dat inmiddels rechtgezet. Ook de verdeling van de overheadkosten is toen op een voor de aandeelhouders acceptabele manier afgehandeld; MBH heeft daartegen geen inhoudelijk bezwaar kenbaar gemaakt. De aandeelhoudersbesluiten tot vaststelling van de vergoeding voor het bestuur en tot herberekening van de kosten zijn conform de benodigde vormvereisten genomen; er is geen aanleiding deze te vernietigen. NKH c.s. verzoeken de Ondernemingskamer desalniettemin Omines Services te ontbinden conform artikel 2:356 sub f BW, omdat zij geen bestaansrecht meer heeft.
+Volgens [holding van B] c.s. is het onderzoek niet op het te verwachten niveau uitgevoerd. De onderzoekster heeft medewerkers intimiderend en op insinuerende wijze ondervraagd. Met de reacties van [B] op de concepten van het onderzoeksverslag is vrijwel niets gebeurd. Ongemotiveerd verkoos de onderzoeker de uitleg van [A] boven die van [B] in geval van conflicterende verklaringen over hetzelfde onderwerp. Zij heeft ten onrechte geen tijd besteed aan het in kaart brengen van de overhead. Inhoudelijk hebben [holding van B] c.s. de stellingen van [holding van A] betwist. Zij zien geen reden om wanbeleid vast te stellen. Binnen het management team was er volgens hen volledige openheid over financiële zaken. Uit de stukken die [holding van A] in de eerstefaseprocedure in het geding heeft gebracht blijkt dat [A] onbeperkte toegang tot de facturatie- en urenregistratiesystemen had. De standpunten die [A] in de arbeidsrechtelijke procedures heeft ingenomen tonen aan dat hij vergaand inzicht had in de boekhouding en financiële administratie van de onderneming en voldoende werd geïnformeerd door [B] . [A] heeft zelfs erkend dat financiële documenten toegankelijk en beschikbaar waren en dat liquiditeitskwesties met hem werden besproken. Het standpunt in de onderhavige procedure dat [holding van B] aan [holding van A] onvoldoende informatie heeft verschaft, valt daarmee niet te rijmen. Het tegenstrijdig belang dat zou spelen bij de doorbelasting van de kosten kan hooguit zien op het beleid dat bijna zeven jaar geleden is ingezet, al die tijd onveranderd is uitgevoerd en steeds zonder protest van [holding van A] – die inzage had in alle financiële informatie – is goedgekeurd. De jaarrekeningen zijn ieder jaar goedgekeurd. Met betrekking tot de conclusie van de onderzoeker over de urenregistratie hebben [holding van B] c.s. geopperd dat aannemelijk is dat een significant aantal uren intern niet correct is verantwoord, maar met het aandeelhoudersbesluit van 2 november 2021 (zie 2.21) is dat inmiddels rechtgezet. Ook de verdeling van de overheadkosten is toen op een voor de aandeelhouders acceptabele manier afgehandeld; [holding van A] heeft daartegen geen inhoudelijk bezwaar kenbaar gemaakt. De aandeelhoudersbesluiten tot vaststelling van de vergoeding voor het bestuur en tot herberekening van de kosten zijn conform de benodigde vormvereisten genomen; er is geen aanleiding deze te vernietigen. [holding van B] c.s. verzoeken de Ondernemingskamer desalniettemin Omines Services te ontbinden conform artikel 2:356 sub f BW, omdat zij geen bestaansrecht meer heeft.
 
 4.3
 
 De Ondernemingskamer oordeelt als volgt.
 
-Formeel: de bezwaren van NKH c.s. tegen het onderzoek
+Formeel: de bezwaren van [holding van B] c.s. tegen het onderzoek
 
 4.4
 
-In hoofdstuk B van het verslag (Onderzoek: verantwoording, samenvatting bevindingen, overwegingen onderzoeker) heeft de onderzoeker een aantal opmerkingen gemaakt over de reacties namens NKH c.s. op de conceptverslagen. Zij heeft daarover onder meer opgemerkt dat zij reacties van partijen heeft verwerkt in het eerste concept en vervolgens een tweede conceptverslag aan hen heeft voorgelegd, waarop het commentaar van partijen opnieuw tot enige aanpassingen heeft geleid. De reacties namens NKH c.s. heeft zij als bijlage bij het onderzoeksverslag gevoegd, opdat de Ondernemingskamer daar kennis van kan nemen. Verder schrijft zij dat zij geen aanwijzingen heeft ontvangen dat medewerkers het interview als intimiderend hebben ervaren.
+In hoofdstuk B van het verslag (Onderzoek: verantwoording, samenvatting bevindingen, overwegingen onderzoeker) heeft de onderzoeker een aantal opmerkingen gemaakt over de reacties namens [holding van B] c.s. op de conceptverslagen. Zij heeft daarover onder meer opgemerkt dat zij reacties van partijen heeft verwerkt in het eerste concept en vervolgens een tweede conceptverslag aan hen heeft voorgelegd, waarop het commentaar van partijen opnieuw tot enige aanpassingen heeft geleid. De reacties namens [holding van B] c.s. heeft zij als bijlage bij het onderzoeksverslag gevoegd, opdat de Ondernemingskamer daar kennis van kan nemen. Verder schrijft zij dat zij geen aanwijzingen heeft ontvangen dat medewerkers het interview als intimiderend hebben ervaren.
 
 4.5
 
-De Ondernemingskamer ziet geen grond het onderzoek onvolkomen te achten. Niet gebleken is dat er onvoldoende gelegenheid is geweest voor hoor en wederhoor en evenmin dat de onderzoeker het commentaar van NKH c.s. heeft genegeerd. Dat de onderzoeker tot andere conclusies is gekomen dan NKH c.s. voorstaan, staat daar los van. Het feit dat de onderzoeker het onmogelijk acht om een redelijke doorbelasting van overheadkosten voor te stellen, heeft zij naar het oordeel van de Ondernemingskamer voldoende gemotiveerd. Ook dit is geen gebrek aan het onderzoek, maar een gevolg van haar constatering dat de urenregistratie volgens haar niet als basis kan dienen voor de werkzaamheden die voor Omines Services werden uitgevoerd.
+De Ondernemingskamer ziet geen grond het onderzoek onvolkomen te achten. Niet gebleken is dat er onvoldoende gelegenheid is geweest voor hoor en wederhoor en evenmin dat de onderzoeker het commentaar van [holding van B] c.s. heeft genegeerd. Dat de onderzoeker tot andere conclusies is gekomen dan [holding van B] c.s. voorstaan, staat daar los van. Het feit dat de onderzoeker het onmogelijk acht om een redelijke doorbelasting van overheadkosten voor te stellen, heeft zij naar het oordeel van de Ondernemingskamer voldoende gemotiveerd. Ook dit is geen gebrek aan het onderzoek, maar een gevolg van haar constatering dat de urenregistratie volgens haar niet als basis kan dienen voor de werkzaamheden die voor Omines Services werden uitgevoerd.
 
 Inhoudelijk: de urenregistratie en de doorbelasting van de “rode uren”
 
@@ -369,7 +371,7 @@ De constateringen van de onderzoeker dat er in de administratie of correspondent
 
 4.7
 
-De bij Omines Services in rekening gebrachte “voorschotten” (tot 1 juli 2019) en uren (vanaf 1 juli 2019) zijn altijd onverkort voldaan aan Omines Internetbureau. Een juiste facturatie was weliswaar in de eerste plaats een zaak van Omines Internetbureau, maar het al dan niet accepteren en betalen van die facturen door Omines Services was een taak van het bestuur van Omines Services. Bij het facturatiebeleid en de acceptatie daarvan waren de belangen van Omines Internetbureau en Omines Services tegengesteld: hoe meer kosten in rekening gebracht werden bij Omines Services, hoe meer winst er werd gemaakt in Omines Internetbureau en hoe minder in Omines Services. Aan beide kanten is NKH enig bestuurder. NKH is daarnaast enig aandeelhouder van Omines Internetbureau, terwijl zij in Omines Services eventuele winst heeft te delen met medeaandeelhouder MBH. Daarmee was het belang van bestuurder/aandeelhouder NKH ook tegengesteld aan dat van Omines Services.
+De bij Omines Services in rekening gebrachte “voorschotten” (tot 1 juli 2019) en uren (vanaf 1 juli 2019) zijn altijd onverkort voldaan aan Omines Internetbureau. Een juiste facturatie was weliswaar in de eerste plaats een zaak van Omines Internetbureau, maar het al dan niet accepteren en betalen van die facturen door Omines Services was een taak van het bestuur van Omines Services. Bij het facturatiebeleid en de acceptatie daarvan waren de belangen van Omines Internetbureau en Omines Services tegengesteld: hoe meer kosten in rekening gebracht werden bij Omines Services, hoe meer winst er werd gemaakt in Omines Internetbureau en hoe minder in Omines Services. Aan beide kanten is [holding van B] enig bestuurder. [holding van B] is daarnaast enig aandeelhouder van Omines Internetbureau, terwijl zij in Omines Services eventuele winst heeft te delen met medeaandeelhouder [holding van A] . Daarmee was het belang van bestuurder/aandeelhouder [holding van B] ook tegengesteld aan dat van Omines Services.
 
 4.8
 
@@ -397,31 +399,31 @@ Ongeacht of de artikelen 2:14-16 BW van toepassing zijn op het voorliggende besl
 
 4.14
 
-Uit het onderzoeksverslag is gebleken dat NKH de op haar rustende verplichtingen die in dit kader gelden, heeft geschonden. NKH heeft telkens zelfstandig als bestuurder namens Omines Services besloten om de van Omines Internetbureau afkomstige facturen onverkort te accepteren en te voldoen. Als geconflicteerde bestuurder had NKH het beleid met betrekking tot de doorbelaste kosten – wat neerkwam op het klakkeloos accepteren van de facturen – niet zelf op deze wijze mogen bepalen. NKH heeft daarbij gehandeld in strijd met de belangen van Omines Services en heeft verzuimd de jegens [A] als minderheidsaandeelhouder van Omines Services vereiste zorgvuldigheid en transparantie te betrachten. Dat de transacties onder redelijke en marktconforme voorwaarden plaatsvonden en dat de transacties daarmee zakelijk verantwoord waren, is geenszins gebleken. Omines Internetbureau heeft blijkens het onderzoeksverslag substantieel te veel uren in rekening gebracht bij Omines Services en NKH heeft, als bestuurder van Omines Services, die doorbelasting zonder meer aanvaard, terwijl die doorbelasting geenszins op transparante wijze plaatsvond en evenmin voldoende herleidbaar werd gedocumenteerd. Op deze wijze is Omines Internetbureau ten onrechte verrijkt ten koste van Omines Services. Het betoog van NKH dat [A] inzage had in de gehele financiële administratie, wat daar verder van zij, doet aan het voorgaande niet af. De onderzoeker heeft vastgesteld dat [A] in elk geval geen inzicht had in de transacties tussen Omines Services en Omines Internetbureau. Evenmin slaagt een beroep op het als productie 38 overgelegde “Besluit tegenstrijdig belang” d.d. 28 januari 2013, nu dat alleen zag op een mogelijk tegenstrijdig belang in verband met de inbreng destijds door NKH in Omines Services.
+Uit het onderzoeksverslag is gebleken dat [holding van B] de op haar rustende verplichtingen die in dit kader gelden, heeft geschonden. [holding van B] heeft telkens zelfstandig als bestuurder namens Omines Services besloten om de van Omines Internetbureau afkomstige facturen onverkort te accepteren en te voldoen. Als geconflicteerde bestuurder had [holding van B] het beleid met betrekking tot de doorbelaste kosten – wat neerkwam op het klakkeloos accepteren van de facturen – niet zelf op deze wijze mogen bepalen. [holding van B] heeft daarbij gehandeld in strijd met de belangen van Omines Services en heeft verzuimd de jegens [A] als minderheidsaandeelhouder van Omines Services vereiste zorgvuldigheid en transparantie te betrachten. Dat de transacties onder redelijke en marktconforme voorwaarden plaatsvonden en dat de transacties daarmee zakelijk verantwoord waren, is geenszins gebleken. Omines Internetbureau heeft blijkens het onderzoeksverslag substantieel te veel uren in rekening gebracht bij Omines Services en [holding van B] heeft, als bestuurder van Omines Services, die doorbelasting zonder meer aanvaard, terwijl die doorbelasting geenszins op transparante wijze plaatsvond en evenmin voldoende herleidbaar werd gedocumenteerd. Op deze wijze is Omines Internetbureau ten onrechte verrijkt ten koste van Omines Services. Het betoog van [holding van B] dat [A] inzage had in de gehele financiële administratie, wat daar verder van zij, doet aan het voorgaande niet af. De onderzoeker heeft vastgesteld dat [A] in elk geval geen inzicht had in de transacties tussen Omines Services en Omines Internetbureau. Evenmin slaagt een beroep op het als productie 38 overgelegde “Besluit tegenstrijdig belang” d.d. 28 januari 2013, nu dat alleen zag op een mogelijk tegenstrijdig belang in verband met de inbreng destijds door [holding van B] in Omines Services.
 
 4.15
 
-De Ondernemingskamer stelt op grond van het voorgaande vast dat bij Omines Services in de onderzoeksperiode sprake was van wanbeleid en dat haar bestuurder NKH daarvoor verantwoordelijk is. Het verzoek van MBH tot veroordeling van NKH in de kosten van onderzoek zal worden toegewezen. NKH kan in het licht van hetgeen hiervoor is overwogen ter zake van het wanbeleid waarvoor zij verantwoordelijk is een ernstig verwijt worden gemaakt. Omdat Omines Service daartoe niet in staat was heeft MBH de kosten van het onderzoek van € 15.125, inclusief btw, voldaan. Bij die stand van zaken zal de Ondernemingskamer op grond van artikel 2:354 BW bepalen dat MBH de door haar gedragen kosten van het onderzoek kan verhalen op NKH en NKH veroordelen die kosten, te vermeerderen met de (gewone) wettelijke rente vanaf 12 november 2021 – de datum van het daartoe strekkend verzoek – aan MBH te voldoen.
+De Ondernemingskamer stelt op grond van het voorgaande vast dat bij Omines Services in de onderzoeksperiode sprake was van wanbeleid en dat haar bestuurder [holding van B] daarvoor verantwoordelijk is. Het verzoek van [holding van A] tot veroordeling van [holding van B] in de kosten van onderzoek zal worden toegewezen. [holding van B] kan in het licht van hetgeen hiervoor is overwogen ter zake van het wanbeleid waarvoor zij verantwoordelijk is een ernstig verwijt worden gemaakt. Omdat Omines Service daartoe niet in staat was heeft [holding van A] de kosten van het onderzoek van € 15.125, inclusief btw, voldaan. Bij die stand van zaken zal de Ondernemingskamer op grond van artikel 2:354 BW bepalen dat [holding van A] de door haar gedragen kosten van het onderzoek kan verhalen op [holding van B] en [holding van B] veroordelen die kosten, te vermeerderen met de (gewone) wettelijke rente vanaf 12 november 2021 – de datum van het daartoe strekkend verzoek – aan [holding van A] te voldoen.
 
 De periode na afronding van het onderzoeksverslag
 
 4.16
 
-De door MBH geschetste gang van zaken van Omines Services in de periode na afronding van het onderzoeksverslag valt buiten de onderzoeksperiode en draagt niet bij aan het oordeel dat in die periode bij Omines Services sprake was van wanbeleid. Wel blijkt daaruit dat NKH voorafgaand aan de behandeling ter zitting van het verzoek van MBH tot het vaststellen van wanbeleid heeft getracht verdere discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019 te voorkomen (2.21), terwijl een nieuwe discussie daarover na een eventuele toewijzing van de verzochte vaststelling van wanbeleid in de rede zou liggen. De manier waarop NKH dat heeft gedaan, door op de algemene vergadering waarbij MBH niet aanwezig was voor de onderneming dergelijke, cruciale besluiten te nemen, zonder dat die vooraf deugdelijk geagendeerd waren, is echter wel reden die besluiten te vernietigen, zoals MBH heeft verzocht, nu een plausibele onderbouwing ervan ontbreekt en de vernietiging van die besluiten kan bijdragen aan het herstel van gezonde verhoudingen. Dit laatste geldt ook voor het besluit van 3 maart 2021 van de algemene vergadering, waarbij NKH als meerderheidsaandeelhouder heeft gestemd voor het  voorstel van NKH, als bestuurder, om met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning aan NKH voor haar bestuurstaken toe te kennen van € 95 exclusief btw per uur.
+De door [holding van A] geschetste gang van zaken van Omines Services in de periode na afronding van het onderzoeksverslag valt buiten de onderzoeksperiode en draagt niet bij aan het oordeel dat in die periode bij Omines Services sprake was van wanbeleid. Wel blijkt daaruit dat [holding van B] voorafgaand aan de behandeling ter zitting van het verzoek van [holding van A] tot het vaststellen van wanbeleid heeft getracht verdere discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019 te voorkomen (2.21), terwijl een nieuwe discussie daarover na een eventuele toewijzing van de verzochte vaststelling van wanbeleid in de rede zou liggen. De manier waarop [holding van B] dat heeft gedaan, door op de algemene vergadering waarbij [holding van A] niet aanwezig was voor de onderneming dergelijke, cruciale besluiten te nemen, zonder dat die vooraf deugdelijk geagendeerd waren, is echter wel reden die besluiten te vernietigen, zoals [holding van A] heeft verzocht, nu een plausibele onderbouwing ervan ontbreekt en de vernietiging van die besluiten kan bijdragen aan het herstel van gezonde verhoudingen. Dit laatste geldt ook voor het besluit van 3 maart 2021 van de algemene vergadering, waarbij [holding van B] als meerderheidsaandeelhouder heeft gestemd voor het  voorstel van [holding van B] , als bestuurder, om met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning aan [holding van B] voor haar bestuurstaken toe te kennen van € 95 exclusief btw per uur.
 
 Voorzieningen
 
 4.17
 
-Uit het voorgaande volgt dat voorzieningen noodzakelijk zijn om aan het wanbeleid een einde te maken. NKH zal worden geschorst als bestuurder van Omines Services. In haar plaats zal de Ondernemingskamer een tijdelijk bestuurder benoemen. Mede gelet op de gedragingen van NKH in haar hoedanigheid van aandeelhouder van Omines Services na de beschikking van 19 januari 2021 als beschreven in 2.19 en 2.21 wordt ook het verzoek tot tijdelijke overdracht van de door NKH gehouden aandelen toegewezen, met uitzondering van één aandeel. De Ondernemingskamer zal bepalen dat de kosten van de te benoemen bestuurder en beheerder ten laste komen van Omines Services.
+Uit het voorgaande volgt dat voorzieningen noodzakelijk zijn om aan het wanbeleid een einde te maken. [holding van B] zal worden geschorst als bestuurder van Omines Services. In haar plaats zal de Ondernemingskamer een tijdelijk bestuurder benoemen. Mede gelet op de gedragingen van [holding van B] in haar hoedanigheid van aandeelhouder van Omines Services na de beschikking van 19 januari 2021 als beschreven in 2.19 en 2.21 wordt ook het verzoek tot tijdelijke overdracht van de door [holding van B] gehouden aandelen toegewezen, met uitzondering van één aandeel. De Ondernemingskamer zal bepalen dat de kosten van de te benoemen bestuurder en beheerder ten laste komen van Omines Services.
 
 4.18
 
-Voor het treffen van andere voorzieningen, waaronder toewijzing van het onvoorwaardelijke verzoek van NKH c.s. tot ontbinding van de vennootschap, ziet de Ondernemingskamer thans geen aanleiding; zo nodig zal de te benoemen bestuurder te zijner tijd een daartoe strekkend besluit aan de algemene vergadering van Omines Services kunnen voorleggen.
+Voor het treffen van andere voorzieningen, waaronder toewijzing van het onvoorwaardelijke verzoek van [holding van B] c.s. tot ontbinding van de vennootschap, ziet de Ondernemingskamer thans geen aanleiding; zo nodig zal de te benoemen bestuurder te zijner tijd een daartoe strekkend besluit aan de algemene vergadering van Omines Services kunnen voorleggen.
 
 4.19
 
-NKH c.s. zullen als de in het ongelijk gestelde partijen worden veroordeeld in de kosten van de procedure.
+[holding van B] c.s. zullen als de in het ongelijk gestelde partijen worden veroordeeld in de kosten van de procedure.
 
 5
 De beslissing
@@ -430,25 +432,25 @@ De Ondernemingskamer:
 
 verstaat dat uit het verslag van het onderzoek in deze zaak blijkt van wanbeleid van Omines Services B.V., gevestigd te Eindhoven, zoals hierboven in rechtsoverwegingen 4.6 en 4.14 is omschreven, zulks in de periode vanaf 2013 tot en met 19 januari 2021;
 
-verstaat dat NKH B.V. voor dat wanbeleid verantwoordelijk is;
+verstaat dat [holding van B] voor dat wanbeleid verantwoordelijk is;
 
-schorst, bij wijze van voorziening voor de duur van twee jaren, NKH B.V. als bestuurder van Omines Services B.V.;
+schorst, bij wijze van voorziening voor de duur van twee jaren, [holding van B] als bestuurder van Omines Services B.V.;
 
 benoemt, bij wijze van voorziening voor de duur van twee jaren, een nader aan te wijzen en aan partijen bekend te maken persoon tot bestuurder van Omines Services B.V.;
 
-bepaalt bij wijze van voorziening voor de duur van twee jaren dat de door NKH gehouden aandelen in Omines Services B.V. met uitzondering van één aandeel ten titel van beheer met ingang van heden zijn overgedragen aan een nader aan te wijzen en aan partijen bekend te maken persoon;
+bepaalt bij wijze van voorziening voor de duur van twee jaren dat de door [holding van B] gehouden aandelen in Omines Services B.V. met uitzondering van één aandeel ten titel van beheer met ingang van heden zijn overgedragen aan een nader aan te wijzen en aan partijen bekend te maken persoon;
 
-benoemt, bij wijze van voorziening voor de duur van twee jaren, een nader aan te wijzen en aan partijen bekend te maken persoon tot beheerder van de door NKH B.V. gehouden aandelen in Omines Services B.V.
+benoemt, bij wijze van voorziening voor de duur van twee jaren, een nader aan te wijzen en aan partijen bekend te maken persoon tot beheerder van de door [holding van B] gehouden aandelen in Omines Services B.V.
 
 bepaalt dat het salaris en de kosten van de bestuurder en van de beheerder voor rekening komen van Omines Services B.V. en bepaalt dat Omines Services B.V. voor de betaling daarvan ten genoegen van de bestuurder en de beheerder zekerheid dienen te stellen vóór de aanvang van hun werkzaamheden;
 
-vernietigt de besluiten van de algemene vergadering van Omines Services B.V. van 3 maart 2021 om met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning aan NKH B.V. voor haar bestuurstaken toe te kennen van € 95 exclusief btw per uur en van 2 november 2021 tot (1) acceptatie van de herberekening door het bestuur van de intercompany doorbelasting van kosten over de boekjaren 2013 tot en met 2019, (2) erkenning van een vordering van Omines Internetbureau ten bedrage van € 422.994 als het saldo dat vanaf 2013 te weinig in rekening was gebracht bij Omines Services, (3) afdracht van het banksaldo boven € 5.000 aan Omines Internetbureau ter aflossing van die vordering en (4) het afzien van nieuwe discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019;
+vernietigt de besluiten van de algemene vergadering van Omines Services B.V. van 3 maart 2021 om met terugwerkende kracht vanaf 1 januari 2020 een aanvullende beloning aan [holding van B] voor haar bestuurstaken toe te kennen van € 95 exclusief btw per uur en van 2 november 2021 tot (1) acceptatie van de herberekening door het bestuur van de intercompany doorbelasting van kosten over de boekjaren 2013 tot en met 2019, (2) erkenning van een vordering van Omines Internetbureau ten bedrage van € 422.994 als het saldo dat vanaf 2013 te weinig in rekening was gebracht bij Omines Services, (3) afdracht van het banksaldo boven € 5.000 aan Omines Internetbureau ter aflossing van die vordering en (4) het afzien van nieuwe discussies over de onderlinge facturatie tussen Omines Services en Omines Internetbureau over de periode van 2013 tot en met 2019;
 
-bepaalt dat MBH B.V. de door haar gedragen kosten van het onderzoek kan verhalen op NKH B.V.;
+bepaalt dat [holding van A] de door haar gedragen kosten van het onderzoek kan verhalen op [holding van B] ;
 
-veroordeelt NKH B.V. aan MBH B.V. te betalen € 15.125, inclusief btw, te vermeerderen met de wettelijke rente van af 12 november 2021 tot aan de dag van de betaling;
+veroordeelt [holding van B] aan [holding van A] te betalen € 15.125, inclusief btw, te vermeerderen met de wettelijke rente van af 12 november 2021 tot aan de dag van de betaling;
 
-veroordeelt NKH B.V. en Omines Services B.V. in de kosten van het geding tot op heden aan de zijde van MBH B.V. begroot op € 4.114;
+veroordeelt [holding van B] en Omines Services B.V. in de kosten van het geding tot op heden aan de zijde van [holding van A] begroot op € 4.114;
 
 verklaart deze beschikking uitvoerbaar bij voorraad;
 
