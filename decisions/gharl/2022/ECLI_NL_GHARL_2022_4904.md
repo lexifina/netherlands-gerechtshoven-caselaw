@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:4904"
-published_in: ["Rechtspraak.nl", "PJ 2022/91", "PR-Updates.nl PR-2022-0132"]
+published_in: ["Rechtspraak.nl", "PJ 2022/91", "PR-Updates.nl PR-2022-0132", "PR-Updates.nl 2022-0132"]
 ---
 
 # ECLI:NL:GHARL:2022:4904 Gerechtshof Arnhem-Leeuwarden , 14-06-2022 / 200.301.707
