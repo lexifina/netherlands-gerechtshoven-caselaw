@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:1850"
-published_in: ["Rechtspraak.nl", "PJ 2022/92", "PR-Updates.nl PR-2022-0134"]
+published_in: ["Rechtspraak.nl", "PJ 2022/92", "PR-Updates.nl PR-2022-0134", "PR-Updates.nl 2022-0134"]
 ---
 
 # ECLI:NL:GHSHE:2022:1850 Gerechtshof 's-Hertogenbosch , 14-06-2022 / 200.266.517_01
