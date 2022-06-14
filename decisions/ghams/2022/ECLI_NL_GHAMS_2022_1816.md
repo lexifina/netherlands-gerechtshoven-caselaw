@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:1816"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1568", "NLF 2022/1337 met annotatie van Dick Barmentlo", "NTFR 2022/3245 met annotatie van mr. J. Kastelein", "V-N 2022/42.21 met annotatie van Redactie", "Viditax (FutD) 2022062301", "FutD 2022-1778"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1568", "NLF 2022/1337 met annotatie van Dick Barmentlo", "NTFR 2022/3245 met annotatie van mr. J. Kastelein", "V-N 2022/42.21", "Viditax (FutD) 2022062301", "FutD 2022-1778"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:4643, Bekrachtiging/bevestiging"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHAMS:2022:1436"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2024:1556"]]
 ---
 
