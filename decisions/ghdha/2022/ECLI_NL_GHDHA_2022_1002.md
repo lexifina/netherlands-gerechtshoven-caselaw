@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1002"
-published_in: ["Rechtspraak.nl", "PJ 2022/90", "PR-Updates.nl PR-2022-0131"]
+published_in: ["Rechtspraak.nl", "PJ 2022/90", "PR-Updates.nl PR-2022-0131", "PR-Updates.nl 2022-0131"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:194, Bekrachtiging/bevestiging"]]
 ---
 
