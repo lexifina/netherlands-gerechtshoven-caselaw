@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:5908"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/1857", "NLF 2022/1467", "V-N 2022/49.13 met annotatie van Redactie", "Viditax (FutD) 2022072214", "FutD 2022-2091"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2021:2707, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2021:2707, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2026:121"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHARL:2026:4339"]]
 ---
 
 # ECLI:NL:GHARL:2022:5908 Gerechtshof Arnhem-Leeuwarden , 12-07-2022 / 21/00806
