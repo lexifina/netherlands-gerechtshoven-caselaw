@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:2342"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0850", "JAR 2022/216", "PR-Updates.nl PR-2022-0153", "PJ 2022/94", "Sdu Nieuws Arbeidsrecht 2022/337", "VAAN-AR-Updates.nl 2022-0850"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0850", "JAR 2022/216", "PR-Updates.nl PR-2022-0153", "PJ 2022/94", "Sdu Nieuws Arbeidsrecht 2022/337", "VAAN-AR-Updates.nl 2022-0850", "PR-Updates.nl 2022-0153"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-613.md"]
 ---
 
