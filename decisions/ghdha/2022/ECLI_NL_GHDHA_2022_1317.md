@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1317"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0898", "PR-Updates.nl PR-2022-0146", "PJ 2022/118 met annotatie van B. Dieleman", "NTHR 2022, afl. 6, p. 229", "VAAN-AR-Updates.nl 2022-0898"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0898", "PR-Updates.nl PR-2022-0146", "PJ 2022/118 met annotatie van B. Dieleman", "NTHR 2022, afl. 6, p. 229", "VAAN-AR-Updates.nl 2022-0898", "PR-Updates.nl 2022-0146"]
 ---
 
 # ECLI:NL:GHDHA:2022:1317 Gerechtshof Den Haag , 26-07-2022 / 200.285.890/01
