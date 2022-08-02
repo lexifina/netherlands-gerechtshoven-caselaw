@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:6856"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2025", "NLF 2022/1694", "V-N 2022/54.25 met annotatie van Redactie", "Viditax (FutD) 2022082504", "FutD 2022-2381"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2025", "NLF 2022/1694", "V-N 2022/54.25", "Viditax (FutD) 2022082504", "FutD 2022-2381"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2021:2882, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
