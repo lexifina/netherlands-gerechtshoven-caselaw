@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:2684"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0872", "OR-Updates.nl 2022-0179", "INS-Updates.nl 2022-0219", "PJ 2022/95", "PR-Updates.nl PR-2022-0167", "RO 2022/54", "JONDR 2022/748", "VAAN-AR-Updates.nl 2022-0872"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0872", "OR-Updates.nl 2022-0179", "INS-Updates.nl 2022-0219", "PJ 2022/95", "PR-Updates.nl PR-2022-0167", "RO 2022/54", "JONDR 2022/748", "VAAN-AR-Updates.nl 2022-0872", "PR-Updates.nl 2022-0167"]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-011.md", "netherlands/national/acts/bw-boek-6/art-162.md"]
 ---
 
