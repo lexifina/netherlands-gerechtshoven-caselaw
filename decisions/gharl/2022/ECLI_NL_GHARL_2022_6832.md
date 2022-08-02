@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:6832"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0884", "PJ 2022/96", "VFP 2022/121", "PR-Updates.nl PR-2022-0164", "RAR 2022/136", "Sdu Nieuws Arbeidsrecht 2022/347", "VAAN-AR-Updates.nl 2022-0884"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0884", "PJ 2022/96", "VFP 2022/121", "PR-Updates.nl PR-2022-0164", "RAR 2022/136", "Sdu Nieuws Arbeidsrecht 2022/347", "VAAN-AR-Updates.nl 2022-0884", "PR-Updates.nl 2022-0164"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2020:1855, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
