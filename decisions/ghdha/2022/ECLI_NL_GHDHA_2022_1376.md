@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1376"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0920", "PR-Updates.nl PR-2022-0166", "PJ 2022/112", "VAAN-AR-Updates.nl 2022-0920"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-0920", "PR-Updates.nl PR-2022-0166", "PJ 2022/112", "VAAN-AR-Updates.nl 2022-0920", "PR-Updates.nl 2022-0166"]
 ---
 
 # ECLI:NL:GHDHA:2022:1376 Gerechtshof Den Haag , 02-08-2022 / 200.295.122/01
