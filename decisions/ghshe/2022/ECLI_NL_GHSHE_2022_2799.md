@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:2799"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0170", "RFR 2023/9"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0170", "RFR 2023/9", "PR-Updates.nl 2022-0170"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2023:1131, Bekrachtiging/bevestiging"]]
 ---
 
