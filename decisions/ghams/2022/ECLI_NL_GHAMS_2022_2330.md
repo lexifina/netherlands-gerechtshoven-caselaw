@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:2330"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0169"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0169", "PR-Updates.nl 2022-0169"]
 ---
 
 # ECLI:NL:GHAMS:2022:2330 Gerechtshof Amsterdam , 16-08-2022 / 200.289.021/01 en 200.289.023/01
