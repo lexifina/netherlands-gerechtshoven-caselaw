@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:7905"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1031", "JAR 2022/250", "PR-Updates.nl PR-2022-0179", "PJ 2022/108", "RAR 2022/160", "Sdu Nieuws Arbeidsrecht 2022/395", "VAAN-AR-Updates.nl 2022-1031"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1031", "JAR 2022/250", "PR-Updates.nl PR-2022-0179", "PJ 2022/108", "RAR 2022/160", "Sdu Nieuws Arbeidsrecht 2022/395", "VAAN-AR-Updates.nl 2022-1031", "PR-Updates.nl 2022-0179"]
 ---
 
 # ECLI:NL:GHARL:2022:7905 Gerechtshof Arnhem-Leeuwarden , 06-09-2022 / 200.280.548/01
