@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:2596"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2022-0202", "ERF-Updates.nl 2022-0260", "JERF 2022/173", "JPF 2022/118", "RFR 2023/6", "JERF Actueel 2022/285"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2022-0202", "ERF-Updates.nl 2022-0260", "JERF 2022/173", "JPF 2022/118", "RFR 2023/6", "JERF Actueel 2022/285", "FJR 2026/69.4"]
 ---
 
 # ECLI:NL:GHAMS:2022:2596 Gerechtshof Amsterdam , 06-09-2022 / 200.305.058/01
