@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:3100"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2215", "NLF 2022/1824", "V-N 2022/54.1.2", "Viditax (FutD) 2022091306", "FutD 2022-2589"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2020:6321, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2020:6321, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1236"]]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-006.md"]
 ---
 
