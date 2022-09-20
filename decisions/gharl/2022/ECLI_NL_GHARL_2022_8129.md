@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:8129"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0180", "JIN 2022/164 met annotatie van Kruijf-Vermeij, C.W.", "RCR 2022/92"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0180", "JIN 2022/164 met annotatie van Kruijf-Vermeij, C.W.", "RCR 2022/92", "PR-Updates.nl 2022-0180"]
 ---
 
 # ECLI:NL:GHARL:2022:8129 Gerechtshof Arnhem-Leeuwarden , 20-09-2022 / 200.300.539/01
