@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:2695"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0181", "RBP 2022/94"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0181", "RBP 2022/94", "PR-Updates.nl 2022-0181"]
 ---
 
 # ECLI:NL:GHAMS:2022:2695 Gerechtshof Amsterdam , 20-09-2022 / 200.310.068/01
