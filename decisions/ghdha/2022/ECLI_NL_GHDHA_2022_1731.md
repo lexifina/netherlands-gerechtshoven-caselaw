@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1731"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0177", "PJ 2022/122", "OR-Updates.nl 2022-0237"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0177", "PJ 2022/122", "OR-Updates.nl 2022-0237", "PR-Updates.nl 2022-0177"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2021:2590"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2019:9621, Bekrachtiging/bevestiging"]]
 ---
 
