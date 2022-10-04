@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:8467"
-published_in: ["Rechtspraak.nl", "PJ 2022/120 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0187"]
+published_in: ["Rechtspraak.nl", "PJ 2022/120 met annotatie van E. Lutjens", "PR-Updates.nl PR-2022-0187", "PR-Updates.nl 2022-0187"]
 ---
 
 # ECLI:NL:GHARL:2022:8467 Gerechtshof Arnhem-Leeuwarden , 04-10-2022 / 200.300.883/01
