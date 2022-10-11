@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:1952"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1157", "PR-Updates.nl PR-2022-0193", "VAAN-AR-Updates.nl 2022-1157"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1157", "PR-Updates.nl PR-2022-0193", "VAAN-AR-Updates.nl 2022-1157", "PR-Updates.nl 2022-0193"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2022:670"], ["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2021:441"]]
 ---
 
