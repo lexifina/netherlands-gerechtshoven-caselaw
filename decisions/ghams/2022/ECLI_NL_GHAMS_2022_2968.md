@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:2968"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0319", "PR-Updates.nl PR-2022-0189", "JERF 2023/18", "TT 2023/14 met annotatie van mr. M.C.J. Höfelt", "Notamail 2022/250", "JERF Actueel 2022/349"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2022-0319", "PR-Updates.nl PR-2022-0189", "JERF 2023/18", "TT 2023/14 met annotatie van mr. M.C.J. Höfelt", "Notamail 2022/250", "JERF Actueel 2022/349", "PR-Updates.nl 2022-0189"]
 ---
 
 # ECLI:NL:GHAMS:2022:2968 Gerechtshof Amsterdam , 18-10-2022 / 200.302.683/01
