@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:3760"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1241", "PR-Updates.nl PR-2022-0201", "VFP 2023/6", "PJ 2023/17", "Sdu Nieuws Arbeidsrecht 2022/476", "VAAN-AR-Updates.nl 2022-1241"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1241", "PR-Updates.nl PR-2022-0201", "VFP 2023/6", "PJ 2023/17", "Sdu Nieuws Arbeidsrecht 2022/476", "VAAN-AR-Updates.nl 2022-1241", "PR-Updates.nl 2022-0201"]
 ---
 
 # ECLI:NL:GHSHE:2022:3760 Gerechtshof 's-Hertogenbosch , 01-11-2022 / 200.282.500_01
