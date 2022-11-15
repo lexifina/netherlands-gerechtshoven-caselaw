@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2022:9842"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2022/2952", "NLF 2022/2403", "V-N 2023/12.1.2", "Viditax (FutD) 2022112509", "FutD 2022-3193"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:961"]]
 ---
 
 # ECLI:NL:GHARL:2022:9842 Gerechtshof Arnhem-Leeuwarden , 15-11-2022 / 21/01451
