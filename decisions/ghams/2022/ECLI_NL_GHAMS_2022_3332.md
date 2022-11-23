@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:3332"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0202", "OR-Updates.nl 2023-0026", "PJ 2023/2", "ARO 2022/218", "JONDR 2023/16"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0202", "OR-Updates.nl 2023-0026", "PJ 2023/2", "ARO 2022/218", "JONDR 2023/16", "PR-Updates.nl 2022-0202"]
 ---
 
 # ECLI:NL:GHAMS:2022:3332 Gerechtshof Amsterdam , 23-11-2022 / 200.313.311/01OK
