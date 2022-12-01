@@ -34,7 +34,7 @@ Verkort arrest van het gerechtshof Amsterdam gewezen op het hoger beroep, ingest
 [verdachte]
 ,
 
-geboren te distrikt [geboorteplaats] op [geboortedag 1] 1948,
+geboren te [geboorteplaats]) op [geboortedag 1] 1948,
 
 adres: [adres 1] .
 
@@ -129,9 +129,9 @@ De raadsvrouw heeft op de terechtzitting in hoger beroep bepleit dat de verdacht
 
 ( i) De verklaringen van [slachtoffer] (hierna ook: [slachtoffer] ) en [naam 5] (hierna ook: [naam 5] ) dienen als onbetrouwbaar van het bewijs te worden uitgesloten;
 
-(ii) Er is onvoldoende ander bewijs dat de verklaringen van Rahana ondersteunt;
+(ii) Er is onvoldoende ander bewijs dat de verklaringen van [slachtoffer] ondersteunt;
 
-(iii) De ten laste gelegde gedragingen hebben niet gedurende de ten laste gelegde periode plaatsgevonden. Het dossier biedt sterke aanwijzingen dat het misbruik in ieder geval niet op de [adres 2] kan hebben plaatsgevonden, onder meer omdat de verdachte daar toen niet verbleef; hij woonde immers eerst aan de Kenaustraat en vervolgens aan de [adres 3] . De verhuizing naar de [adres 3] vond pas na de ten laste gelegde periode plaats.
+(iii) De ten laste gelegde gedragingen hebben niet gedurende de ten laste gelegde periode plaatsgevonden. Het dossier biedt sterke aanwijzingen dat het misbruik in ieder geval niet op de [adres 2] kan hebben plaatsgevonden, onder meer omdat de verdachte daar toen niet verbleef; hij woonde immers eerst aan de [adres 4] en vervolgens aan de [adres 3] . De verhuizing naar de [adres 3] vond pas na de ten laste gelegde periode plaats.
 
 Het hof overweegt als volgt.
 
@@ -149,7 +149,7 @@ De raadsvrouw heeft op zich met juistheid gesteld dat [slachtoffer] door de jare
 
 Dat in de ten laste gelegde periode wel degelijk sprake is geweest van seksueel misbruik door de verdachte kan voorts (mede) worden afgeleid uit de verklaringen die [naam 8] (de pleegmoeder bij wie [naam 5] en [slachtoffer] enige tijd in huis hebben gewoond, hierna: [naam 8] ) en [naam 9] (een voormalig klasgenote van [slachtoffer] , hierna: [naam 9] ) in 1996 hebben afgelegd. Uit die twee laatste verklaringen blijkt dat [slachtoffer] hen in de periode 1995-1996 al (spontaan) over het seksueel misbruik door de verdachte heeft verteld, waarbij zij aan [naam 9] concreet en tamelijk gedetailleerd heeft beschreven waaruit dat misbruik bestond. Bij het proces-verbaal van verhoor van [naam 8] is bovendien een telefoonnotitie van 26 oktober 1995 gevoegd van een gesprek tussen de verdachte en [slachtoffer] , waarin bevestiging kan worden gevonden voor het door de verdachte onder druk zetten van [slachtoffer] om haar te laten zwijgen.
 
-In 1995 is [slachtoffer] op verzoek van de Raad voor de Kinderbescherming onderzocht door klinisch psycholoog prof. dr. [naam 10] . In zijn rapport van 26 april 1995 heeft Wolters (onder andere) persoonskenmerken van [slachtoffer] beschreven en melding gemaakt van seksueel misbruik door – onder andere – de verdachte. De raadsvrouw heeft zich op het standpunt gesteld dat de gesprekstechniek van Wolters bijzonder problematisch is: de meerderheid van de gestelde vragen was gesloten en/of suggestief, waardoor de betrouwbaarheid van de verklaring van [slachtoffer] kan zijn aangetast. Daarnaast is [slachtoffer] door een aantal kind- en persoonskenmerken meer gevoelig voor suggestie dan andere kinderen zouden zijn. Het hof heeft dit onder ogen gezien, maar stelt vast dat zich in het dossier geen concrete aanknopingspunten bevinden om te veronderstellen dat het risico dat de betrouwbaarheid van de verklaringen van [slachtoffer] door de gestelde vragen is aangetast, zich heeft verwezenlijkt.
+In 1995 is [slachtoffer] op verzoek van de Raad voor de Kinderbescherming onderzocht door klinisch psycholoog prof. dr. [naam 10] . In zijn rapport van 26 april 1995 heeft [naam 10] (onder andere) persoonskenmerken van [slachtoffer] beschreven en melding gemaakt van seksueel misbruik door – onder andere – de verdachte. De raadsvrouw heeft zich op het standpunt gesteld dat de gesprekstechniek van [naam 10] bijzonder problematisch is: de meerderheid van de gestelde vragen was gesloten en/of suggestief, waardoor de betrouwbaarheid van de verklaring van [slachtoffer] kan zijn aangetast. Daarnaast is [slachtoffer] door een aantal kind- en persoonskenmerken meer gevoelig voor suggestie dan andere kinderen zouden zijn. Het hof heeft dit onder ogen gezien, maar stelt vast dat zich in het dossier geen concrete aanknopingspunten bevinden om te veronderstellen dat het risico dat de betrouwbaarheid van de verklaringen van [slachtoffer] door de gestelde vragen is aangetast, zich heeft verwezenlijkt.
 
 Daar komt nog bij dat deskundige dr. [naam 11] (niet te verwarren met [naam 10] ) op
 
@@ -378,4 +378,4 @@ mr. S. Bonset, griffier, en is uitgesproken op de openbare terechtzitting van di
 
 1 december 2022.
 
-Handschreven ‘Brief [naam 5] van oom [naam 14]’ van 25 september 1996 (in het politiedossier opgenomen als Bijlage A).
+Handschreven ‘Brief [naam 5] van oom [naam 14] ’ van 25 september 1996 (in het politiedossier opgenomen als Bijlage A).
