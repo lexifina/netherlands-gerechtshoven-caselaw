@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2022:4830"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1179"]]
 ---
 
 # ECLI:NL:GHSHE:2022:4830 Gerechtshof 's-Hertogenbosch , 01-12-2022 / 20-002168-17
