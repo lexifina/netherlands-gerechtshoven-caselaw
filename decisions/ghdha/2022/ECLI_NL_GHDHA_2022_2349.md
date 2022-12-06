@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:2349"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0006"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0006", "PR-Updates.nl 2023-0006"]
 ---
 
 # ECLI:NL:GHDHA:2022:2349 Gerechtshof Den Haag , 06-12-2022 / 200.266.769/01
