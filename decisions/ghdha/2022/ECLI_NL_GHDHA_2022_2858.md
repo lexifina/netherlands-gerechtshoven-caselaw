@@ -17,9 +17,7 @@ relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2022:2421"]]
 
 ## Inhoudsindicatie
 
-Content indication: Investigation 26Clermond. Acquittal art. 6 paragraph 1 under c WIM Dutch International Crimes Act, the acts in this case do not constitute ‘outrage upon personal dignity’. (search-indicators: attack and human dignity).
-
-Proven art. 140a CC Ahrar al-Sham, violation of reasonable time limit.
+Judgment of the national Dutch Court of Appeal in The Hague. Investigation 26Clermond. Acquittal art. 6 paragraph 1 under c WIM Dutch International Crimes Act, the acts in this case do not constitute ‘outrage upon personal dignity’. (search-indicators: attack and human dignity). Proven art. 140a CC Ahrar al-Sham, violation of reasonable time limit.
 
 ## Uitspraak
 
