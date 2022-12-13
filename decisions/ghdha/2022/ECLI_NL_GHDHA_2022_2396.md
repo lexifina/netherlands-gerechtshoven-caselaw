@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:2396"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1423", "PR-Updates.nl PR-2023-0005", "VAAN-AR-Updates.nl 2022-1423"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2022-1423", "PR-Updates.nl PR-2023-0005", "VAAN-AR-Updates.nl 2022-1423", "PR-Updates.nl 2023-0005"]
 ---
 
 # ECLI:NL:GHDHA:2022:2396 Gerechtshof Den Haag , 13-12-2022 / 200.295.700/01
