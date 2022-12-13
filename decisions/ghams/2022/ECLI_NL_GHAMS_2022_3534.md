@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2022:3534"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0007", "PJ 2023/9", "JOR 2023/144 met annotatie van mr. M.P. Waninge"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0007", "PJ 2023/9", "JOR 2023/144 met annotatie van mr. M.P. Waninge", "PR-Updates.nl 2023-0007"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:3161"]]
 ---
 
