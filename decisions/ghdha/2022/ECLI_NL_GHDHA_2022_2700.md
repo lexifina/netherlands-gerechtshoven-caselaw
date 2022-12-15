@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2022:2700"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/81", "NLF 2023/0303 met annotatie van Toon Vroon", "NTFR 2023/296 met annotatie van Drs. C. Verweij", "V-N 2023/14.1.5", "Viditax (FutD) 2023011201", "FutD 2023-0218"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/81", "NLF 2023/0303 met annotatie van mr. A. Vroon", "NTFR 2023/296 met annotatie van Drs. C. Verweij", "V-N 2023/14.1.5", "Viditax (FutD) 2023011201", "FutD 2023-0218"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:959"]]
 ---
 
 # ECLI:NL:GHDHA:2022:2700 Gerechtshof Den Haag , 15-12-2022 / BK-21/01231 tot en met BK-21/01237
