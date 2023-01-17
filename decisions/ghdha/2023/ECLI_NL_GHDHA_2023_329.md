@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:329"
-published_in: ["Rechtspraak.nl", "PJ 2023/30", "PR-Updates.nl PR-2023-0073"]
+published_in: ["Rechtspraak.nl", "PJ 2023/30", "PR-Updates.nl PR-2023-0073", "PR-Updates.nl 2023-0073"]
 ---
 
 # ECLI:NL:GHDHA:2023:329 Gerechtshof Den Haag , 17-01-2023 / 200.295.639/01
