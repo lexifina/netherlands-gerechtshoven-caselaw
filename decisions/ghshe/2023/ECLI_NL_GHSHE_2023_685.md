@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:685"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/501", "Belastingadvies 2023/6.3", "V-N 2023/24.1.2", "NTFR 2023/740 met annotatie van mr. drs. J. Bierman BA", "NLF 2023/0596 met annotatie van Michiel Hennevelt", "Sdu Nieuws Belastingzaken 2023/192", "Viditax (FutD) 2023030102", "FutD 2023-0587"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:785, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/501", "Belastingadvies 2023/6.3", "V-N 2023/24.1.2", "NTFR 2023/740 met annotatie van mr. drs. J. Bierman BA", "NLF 2023/0596 met annotatie van mr. drs. M.T.M. Hennevelt", "Sdu Nieuws Belastingzaken 2023/192", "Viditax (FutD) 2023030102", "FutD 2023-0587"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:785, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1631"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-010.md"]
 ---
 
