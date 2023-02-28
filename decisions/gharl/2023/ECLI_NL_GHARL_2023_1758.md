@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:1758"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/625", "NLF 2023/0623", "V-N 2023/24.1.3", "Viditax (FutD) 2023031301", "FutD 2023-0705"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2021:6826, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2021:6826, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1417"]]
 ---
 
 # ECLI:NL:GHARL:2023:1758 Gerechtshof Arnhem-Leeuwarden , 28-02-2023 / 22/00376
