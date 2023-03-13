@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:506"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1324, (Gedeeltelijke) vernietiging met terugwijzen"]]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1324, (Gedeeltelijke) vernietiging met terugwijzen"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHDHA:2026:2724"]]
 ---
 
 # ECLI:NL:GHDHA:2023:506 Gerechtshof Den Haag , 13-03-2023 / 22-000588-22
