@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:835"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0386", "Sdu Nieuws Arbeidsrecht 2023/132", "PJ 2023/32", "PR-Updates.nl PR-2023-0044", "JAR 2023/127 met annotatie van mr. K.A. van Haaren", "NJF 2023/187", "VAAN-AR-Updates.nl 2023-0386"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0386", "Sdu Nieuws Arbeidsrecht 2023/132", "PJ 2023/32", "PR-Updates.nl PR-2023-0044", "JAR 2023/127 met annotatie van mr. K.A. van Haaren", "NJF 2023/187", "VAAN-AR-Updates.nl 2023-0386", "PR-Updates.nl 2023-0044"]
 ---
 
 # ECLI:NL:GHSHE:2023:835 Gerechtshof 's-Hertogenbosch , 14-03-2023 / 200.293.176_01
