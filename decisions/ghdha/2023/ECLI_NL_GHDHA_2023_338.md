@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:338"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJ 2026/273"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:577"]]
 ---
 
 # ECLI:NL:GHDHA:2023:338 Gerechtshof Den Haag , 14-03-2023 / 200.295.785/01
