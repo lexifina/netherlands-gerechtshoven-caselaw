@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:836"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0382", "Sdu Nieuws Arbeidsrecht 2023/132", "PR-Updates.nl PR-2023-0041", "VAAN-AR-Updates.nl 2023-0382"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0382", "Sdu Nieuws Arbeidsrecht 2023/132", "PR-Updates.nl PR-2023-0041", "VAAN-AR-Updates.nl 2023-0382", "PR-Updates.nl 2023-0041"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:1488"]]
 ---
 
