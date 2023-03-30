@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:1046"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2023:4259"]]
 ---
 
 # ECLI:NL:GHSHE:2023:1046 Gerechtshof 's-Hertogenbosch , 30-03-2023 / 200.317.803_01
