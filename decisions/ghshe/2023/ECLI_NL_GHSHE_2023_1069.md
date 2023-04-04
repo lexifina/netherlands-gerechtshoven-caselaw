@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:1069"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0457", "PJ 2023/48", "PR-Updates.nl PR-2023-0060", "VAAN-AR-Updates.nl 2023-0457"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0457", "PJ 2023/48", "PR-Updates.nl PR-2023-0060", "VAAN-AR-Updates.nl 2023-0457", "PR-Updates.nl 2023-0060"]
 ---
 
 # ECLI:NL:GHSHE:2023:1069 Gerechtshof 's-Hertogenbosch , 04-04-2023 / 200.297.563_01
