@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:1202"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1966", "NLF 2023/2004", "V-N 2023/41.4 met annotatie van Redactie", "Belastingadvies 2023/22.2", "Sdu Nieuws Belastingzaken 2023/802", "Viditax (FutD) 2023082402", "FutD 2023-2252"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1966", "NLF 2023/2004", "V-N 2023/41.4", "Belastingadvies 2023/22.2", "Sdu Nieuws Belastingzaken 2023/802", "Viditax (FutD) 2023082402", "FutD 2023-2252"]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-010.md"]
 ---
 
