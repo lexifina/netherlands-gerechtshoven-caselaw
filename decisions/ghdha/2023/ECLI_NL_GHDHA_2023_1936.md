@@ -10,13 +10,14 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1936"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2021:11858"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2023:997"]]
 ---
 
 # ECLI:NL:GHDHA:2023:1936 Gerechtshof Den Haag , 20-04-2023 / 2200366921.e
 
 ## Inhoudsindicatie
 
-The Court of Appeal convicted the accused for participation in a right-wing extremist terrorist organisation, namely The Base, and for sedition via Telegram.
+The national Dutch Court of Appeal in The Hague convicted the accused for participation in a right-wing extremist terrorist organisation, namely The Base, and for sedition via Telegram.
 
 ## Uitspraak
 
