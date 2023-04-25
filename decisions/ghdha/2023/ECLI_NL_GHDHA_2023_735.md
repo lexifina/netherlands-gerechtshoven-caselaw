@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:735"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0031", "Sdu Nieuws Ondernemingsrechtpraktijk 2023/151", "BPR-Updates.nl 2023-0031"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0031", "Sdu Nieuws Ondernemingsrechtpraktijk 2023/151", "BPR-Updates.nl 2023-0031", "M en R 2023/115 met annotatie van B. Arentz"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:5337"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2020:12496"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2024:2099"]]
 ---
 
