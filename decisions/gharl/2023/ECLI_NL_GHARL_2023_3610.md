@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:3610"
 published_in: ["Rechtspraak.nl", "NJFS 2023/179", "FJR 2024/48.6"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2023:665, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:GHARL:2023:3610 Gerechtshof Arnhem-Leeuwarden , 26-04-2023 / 21-000447-23
