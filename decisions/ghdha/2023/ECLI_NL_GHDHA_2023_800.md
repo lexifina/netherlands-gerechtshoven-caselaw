@@ -60,7 +60,7 @@ De zaak in het kort
 
 1.1
 
-De Ontvanger heeft aan [appellante] een dwangbevel betekend. De Ontvanger wil de belastingschuld van Oemrawsing innen. Die belastingschuld volgt uit 18 belastingaanslagen waarover [appellante] niet of zonder resultaat bij de belastingrechter heeft geprocedeerd. Deze procedure is het gevolg van het feit dat [appellante] verzet tegen het dwangbevel heeft aangetekend. [appellante] is van mening dat de belastingaanslagen die de Ontvanger wil innen niet juist zijn en bovendien (deels) zijn verjaard.
+De Ontvanger heeft aan [appellante] een dwangbevel betekend. De Ontvanger wil de belastingschuld van [echtgenoot] innen. Die belastingschuld volgt uit 18 belastingaanslagen waarover [appellante] niet of zonder resultaat bij de belastingrechter heeft geprocedeerd. Deze procedure is het gevolg van het feit dat [appellante] verzet tegen het dwangbevel heeft aangetekend. [appellante] is van mening dat de belastingaanslagen die de Ontvanger wil innen niet juist zijn en bovendien (deels) zijn verjaard.
 
 1.2
 
