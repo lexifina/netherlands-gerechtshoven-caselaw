@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2093"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2023-0255", "PR-Updates.nl PR-2023-0219"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2023-0255", "PR-Updates.nl PR-2023-0219", "PR-Updates.nl 2023-0219"]
 ---
 
 # ECLI:NL:GHDHA:2023:2093 Gerechtshof Den Haag , 09-05-2023 / 200.322.828/01
