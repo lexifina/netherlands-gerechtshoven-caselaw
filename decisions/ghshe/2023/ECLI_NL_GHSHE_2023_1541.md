@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:GHSHE:2023:1541"
 court: "Gerechtshof 's-Hertogenbosch"
 court_code: "GHSHE"
-docket: "200.318.211_01"
+docket: "200.318.211/01"
 decided: "2023-05-11"
 published: "2023-05-11"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:154
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:GHSHE:2023:1541 Gerechtshof 's-Hertogenbosch , 11-05-2023 / 200.318.211_01
+# ECLI:NL:GHSHE:2023:1541 Gerechtshof 's-Hertogenbosch , 11-05-2023 /  200.318.211/01
 
 ## Inhoudsindicatie
 
