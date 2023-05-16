@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1496"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:1258"]]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2024:1258"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2845"]]
 ---
 
 # ECLI:NL:GHAMS:2023:1496 Gerechtshof Amsterdam , 16-05-2023 / 200.310.299/01
