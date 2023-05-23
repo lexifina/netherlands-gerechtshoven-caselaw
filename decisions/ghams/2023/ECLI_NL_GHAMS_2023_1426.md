@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1426"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1566", "NLF 2023/1556", "NDFR Nieuws 2023/1023", "NTFR 2023/1314 met annotatie van mr. drs. R.J. Bondrager", "V-N 2023/39.1.6", "Viditax (FutD) 2023070521", "FutD 2023-1787"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:859"]]
 ---
 
 # ECLI:NL:GHAMS:2023:1426 Gerechtshof Amsterdam , 23-05-2023 / 20/00715 tot en met 21/00720
