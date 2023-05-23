@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:931"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0657", "PJ 2023/73", "PR-Updates.nl PR-2023-0121", "VAAN-AR-Updates.nl 2023-0657"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0657", "PJ 2023/73", "PR-Updates.nl PR-2023-0121", "VAAN-AR-Updates.nl 2023-0657", "PR-Updates.nl 2023-0121"]
 ---
 
 # ECLI:NL:GHDHA:2023:931 Gerechtshof Den Haag , 23-05-2023 / 200.288.803/01
