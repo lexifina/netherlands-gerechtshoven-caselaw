@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1185"
-published_in: ["Rechtspraak.nl", "PJ 2023/70 met annotatie van B. Degelink", "AR-Updates.nl 2024-0113", "Sdu Nieuws Arbeidsrecht 2024/34", "PR-Updates.nl PR-2024-0023", "VAAN-AR-Updates.nl 2024-0113"]
+published_in: ["Rechtspraak.nl", "PJ 2023/70 met annotatie van B. Degelink", "AR-Updates.nl 2024-0113", "Sdu Nieuws Arbeidsrecht 2024/34", "PR-Updates.nl PR-2024-0023", "VAAN-AR-Updates.nl 2024-0113", "PR-Updates.nl 2024-0023"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:12945, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2024:624"]]
 ---
 
