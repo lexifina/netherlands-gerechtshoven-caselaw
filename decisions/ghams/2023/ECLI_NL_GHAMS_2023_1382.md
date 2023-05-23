@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1382"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1421", "NLF 2023/1488 met annotatie van Michel Ruijschop", "NTFR 2023/1282 met annotatie van Mr. D.C. Simonis", "V-N 2023/38.1.2", "Sdu Nieuws Belastingzaken 2023/577", "FED 2024/104 met annotatie van G.J.W. Kinnegim", "Viditax (FutD) 2023062202", "FutD 2023-1630"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2022:4269, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1421", "NLF 2023/1488 met annotatie van mr. M.H.C. Ruijschop", "NTFR 2023/1282 met annotatie van Mr. D.C. Simonis", "V-N 2023/38.1.2", "Sdu Nieuws Belastingzaken 2023/577", "FED 2024/104 met annotatie van G.J.W. Kinnegim", "Viditax (FutD) 2023062202", "FutD 2023-1630"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2022:4269, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1431"]]
 ---
 
 # ECLI:NL:GHAMS:2023:1382 Gerechtshof Amsterdam , 23-05-2023 / 22/00429
