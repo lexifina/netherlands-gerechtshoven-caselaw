@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:1871"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2074", "NLF 2023/2112", "V-N 2023/47.6 met annotatie van Redactie", "Sdu Nieuws Belastingzaken 2023/882", "Viditax (FutD) 2023090705", "FutD 2023-2390"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2074", "NLF 2023/2112", "V-N 2023/47.6", "Sdu Nieuws Belastingzaken 2023/882", "Viditax (FutD) 2023090705", "FutD 2023-2390"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:2743, Bekrachtiging/bevestiging"]]
 ---
 
