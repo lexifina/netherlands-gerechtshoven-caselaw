@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1382"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0144"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0144", "PR-Updates.nl 2023-0144"]
 ---
 
 # ECLI:NL:GHDHA:2023:1382 Gerechtshof Den Haag , 13-06-2023 / 200.318.461/01
