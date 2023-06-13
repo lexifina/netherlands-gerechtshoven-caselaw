@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:5010"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0116", "PJ 2023/85", "Sdu Nieuws Belastingzaken 2023/565"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0116", "PJ 2023/85", "Sdu Nieuws Belastingzaken 2023/565", "PR-Updates.nl 2023-0116"]
 ---
 
 # ECLI:NL:GHARL:2023:5010 Gerechtshof Arnhem-Leeuwarden , 13-06-2023 / 200.304.726/01
