@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1375"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0907", "Sdu Nieuws Arbeidsrecht 2023/289", "PR-Updates.nl PR-2023-0150", "VAAN-AR-Updates.nl 2023-0907"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0907", "Sdu Nieuws Arbeidsrecht 2023/289", "PR-Updates.nl PR-2023-0150", "VAAN-AR-Updates.nl 2023-0907", "PR-Updates.nl 2023-0150"]
 ---
 
 # ECLI:NL:GHAMS:2023:1375 Gerechtshof Amsterdam , 13-06-2023 / 200.303.577/01
