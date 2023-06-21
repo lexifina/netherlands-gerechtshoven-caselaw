@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:2036"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2061", "NLF 2023/2141", "Sdu Nieuws Belastingzaken 2023/855", "V-N 2023/55.9 met annotatie van Redactie", "Viditax (FutD) 2023062701", "FutD 2023-1691"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2061", "NLF 2023/2141", "Sdu Nieuws Belastingzaken 2023/855", "V-N 2023/55.9", "Viditax (FutD) 2023062701", "FutD 2023-1691"]
 ---
 
 # ECLI:NL:GHSHE:2023:2036 Gerechtshof 's-Hertogenbosch , 21-06-2023 / 21/00274
