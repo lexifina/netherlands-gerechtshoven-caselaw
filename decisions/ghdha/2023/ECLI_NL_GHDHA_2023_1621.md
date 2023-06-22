@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1621"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2023/1268", "NTFR 2023/1574 met annotatie van mr. J.P.W.H.T. Becks, mr. N.P. Arzini", "NLF 2023/2127", "Viditax (FutD) 2023083008", "FutD 2023-2302"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:4967, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:4967, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:713"]]
 ---
 
 # ECLI:NL:GHDHA:2023:1621 Gerechtshof Den Haag , 22-06-2023 / BK-22/00596 tot en met BK-22/00598
