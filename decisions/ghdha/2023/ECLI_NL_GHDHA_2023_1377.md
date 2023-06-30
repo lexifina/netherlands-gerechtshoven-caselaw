@@ -1,0 +1,405 @@
+---
+ecli: "ECLI:NL:GHDHA:2023:1377"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "22-001281-22"
+decided: "2023-06-30"
+published: "2023-07-19"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1377"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHDHA:2023:1377 Gerechtshof Den Haag , 30-06-2023 / 22-001281-22
+
+## Inhoudsindicatie
+
+Schieten met een automatisch vuurwapen op een woning. Vrijspraak van poging tot moord/doodslag. Veroordeling voor bedreiging met enig misdrijf tegen het leven gericht. Samenhang met ECLI:NL:GHDHA:2023:1376
+
+## Uitspraak
+
+PROMIS
+
+Rolnummer:		22-001281-22
+
+Parketnummer(s):	10-213716-21 en 16-141776-19 (TUL)
+
+Datum uitspraak:	30 juni 2023
+
+TEGENSPRAAK
+
+Gerechtshof Den Haag
+
+meervoudige kamer voor strafzaken
+
+Arrest
+
+gewezen op het hoger beroep tegen het vonnis van de rechtbank Rotterdam van 25 april 2022 en de van dat vonnis deel uitmakende beslissing op de vordering tot tenuitvoerlegging in de strafzaak tegen de verdachte:
+
+[naam verdachte]
+
+geboren te [plaats] op [datum]
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting in eerste aanleg en het onderzoek ter terechtzitting in hoger beroep van dit hof.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de verdachte naar voren is gebracht.
+
+Procesgang
+
+In eerste aanleg is de verdachte ter zake van het onder
+
+1. primair impliciet primair en het onder 2 tenlaste-gelegde veroordeeld tot een gevangenisstraf voor de tijd van 10 jaren, met aftrek van voorarrest. Voorts is beslist omtrent de vorderingen van de benadeelde partijen en zijn schadevergoedingsmaatregelen opgelegd.
+
+Namens de verdachte is tegen het vonnis hoger beroep ingesteld.
+
+Omvang van het hoger beroep
+
+De verdachte is in eerste aanleg voor zover het betreft [D] vrijgesproken van hetgeen aan hem onder 1 primair (impliciet primair en impliciet subsidiair) is tenlastegelegd. Het hoger beroep is namens de verdachte onbeperkt ingesteld en mitsdien mede gericht tegen deze in eerste aanleg gegeven vrijspraak. Gelet op hetgeen is bepaald in artikel 404, vijfde lid, van het Wetboek van Strafvordering staat voor de verdachte tegen deze vrijspraak geen hoger beroep open. Het hof zal de verdachte mitsdien niet-ontvankelijk verklaren in het ingestelde hoger beroep, voor zover dat is gericht tegen deze in het vonnis waarvan beroep gegeven vrijspraak.
+
+Waar hierna wordt gesproken van “de zaak” of “het vonnis”, wordt daarmee bedoeld de zaak of het vonnis voor zover op grond van het vorenstaande aan het oordeel van het hof onderworpen.
+
+Tenlastelegging
+
+Aan de verdachte is - na wijziging van de tenlastelegging in eerste aanleg en in hoger beroep en voor zover in hoger beroep nog aan de orde - tenlastegelegd dat:
+
+1. hij op of omstreeks 23 juni 2021 te Rotterdam tezamen en in vereniging met een ander of anderen, althans alleen, ter uitvoering van het voorgenomen misdrijf om [A] en/of [B] en/of [C], althans een of meer bewoner(s) van een woning gelegen aan de [adres], opzettelijk en met voorbedachten rade van het leven te beroven, met dat opzet met een (automatisch) vuurwapen (merk CZ, model EVO3 S1) meermalen op en/of in de richting van die voornoemde woning heeft geschoten (in welke woning op dat moment voornoemde [A] en/of [B] en/of [C] aanwezig waren), terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij op of omstreeks 23 juni 2021 te Rotterdam opzettelijk en wederrechtelijk een gebouw, te weten het pand gelegen op of aan de [adres], in elk geval enig goed,
+
+dat geheel of ten dele aan een ander, te weten aan Woonstad, toebehoorde, heeft vernield, beschadigd, onbruikbaar gemaakt;
+
+2.hij op of omstreeks 23 juni 2021 te Rotterdam tezamen en in vereniging met een ander of anderen, althans alleen, [A] en/of [B] en/of [C] en/of [D] heeft bedreigd met enig misdrijf tegen het leven gericht en/of met zware mishandeling, door meermalen met een (automatisch) vuurwapen (merk CZ, model
+
+EVO3 S1) op en/of in de richting van een woning gelegen aan de [adres] (in welke woning op dat moment oornoemde [A] en/of [B] en/of [C] aanwezig waren) te schieten.
+
+Vordering van de advocaat-generaal
+
+De advocaat-generaal heeft gevorderd dat het vonnis waar-van beroep zal worden vernietigd en dat de verdachte ter zake van het onder 1 primair impliciet primair (mede-plegen van poging tot moord, meermalen gepleegd) en het onder 2 tenlastegelegde zal worden veroordeeld tot een gevangenisstraf voor de tijd van 8 jaren, met aftrek van voorarrest.
+
+Beoordeling van het vonnis
+
+Het vonnis waarvan beroep kan niet in stand blijven omdat het hof tot een andere bewezenverklaring komt dan de eerste rechter.
+
+Vrijspraak
+
+Ter terechtzitting in hoger beroep is niet komen vast te staan dat met het schieten op de woning is gehandeld met de opdracht dan wel met vol opzet om de in de tenlaste-legging genoemde personen, die in de woning aanwezig waren, om het leven te brengen. Voorts is niet komen vast te staan dat - gelet op wat bekend is over de plaats waar de drie bewoners zich ten tijde van het schietincident in de woning bevonden, het tijdstip waarop de woning is beschoten, de richting waarin op de woning is geschoten en de plaatsen die binnen en buiten de woning zijn
+
+geraakt - sprake was van voorwaardelijk opzet op de dood van de in die woning aanwezige bewoners, in die zin dat er een aanmerkelijke kans bestond dat één van de in die woning aanwezige bewoners door het in de tenlastelegging bedoelde schieten dodelijk zou worden getroffen. De door de medeverdachte afgevuurde kogels zijn immers niet verder gekomen dan de hal en de keuken, terwijl uit het dossier volgt dat de bewoners zich op het moment van schieten bevonden in de woonkamer en in een (een verdieping hoger gelegen) slaapkamer, terwijl uit op grond van het verhandelde ter terechtzitting niet zonder meer kan worden vastgesteld dat het mogelijk was dat de bewoners daar hadden kunnen worden geraakt. Dat het in theorie mogelijk is dat de bewoners zich ten tijde van het schieten direct achter de voordeur dan wel in de keuken hadden bevonden, maakt niet dat achteraf alsnog kan worden geoordeeld dat er een aanmerkelijke kans bestond dat zij ten gevolge van het schieten hadden kunnen komen te overlijden (zie in dit verband Hoge Raad 6 september 2005, ECLI:NL:HR:2005:AT2760 en Hoge Raad 20 april 2010, ECLI:NL:HR:2010:BL6765).
+
+Voorts is komen vast te staan dat niet de verdachte, maar diens mededader de feitelijke schutter is geweest, die in de bewuste nacht met een automatisch wapen op de woning aan de [adres] te Rotterdam heeft geschoten.
+
+Gelet op het voorgaande is naar het oordeel van het hof niet wettig en overtuigend bewezen dat de verdachte het
+
+onder 1 tenlastegelegde (medeplegen van poging tot moord/doodslag, meermalen gepleegd, subsidiair vernieling/beschadiging van een gebouw) heeft begaan, zodat de verdachte daarvan behoort te worden vrijgesproken.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 2 tenlastegelegde heeft begaan, met dien verstande dat:
+
+2.hij op of omstreeks 23 juni 2021 te Rotterdam tezamen en in vereniging met een ander of anderen, althans alleen, [A] en [B] en [C] en [D] heeft bedreigd met enig misdrijf tegen het leven gericht en/of met zware mishandeling, door
+
+meermalen met een (automatisch) vuurwapen (merk CZ, model EVO3 S1) op en/of in de richting van een woning gelegen aan de Josephstraat 110 (in welke woning op dat moment voornoemde [A] en [B] en [C] aanwezig waren) te schieten.
+
+Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+Voor zover in de tenlastelegging taal- en/of schrijf-fouten voorkomen, zijn deze in de bewezenverklaring verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+Bewijsvoering
+
+Het hof grondt zijn overtuiging dat de verdachte het bewezenverklaarde heeft begaan op de feiten en omstandig-heden die in de bewijsmiddelen zijn vervat en die reden geven tot de bewezenverklaring.
+
+In die gevallen waarin de wet aanvulling van het arrest vereist met de bewijsmiddelen dan wel, voor zover artikel 359, derde lid, tweede volzin, van het Wetboek van Straf-vordering wordt toegepast, met een opgave daarvan, zal zulks plaatsvinden in een aanvulling die als bijlage aan dit arrest zal worden gehecht.
+
+Nadere bewijsoverweging
+
+Ter terechtzitting in hoger beroep is door en namens de verdachte gesteld dat hij niet degene is die in de nacht van 23 juni 2021 onder de naam ‘Rico Verhoeven’ via de applicatie Signal met de feitelijke schutter heeft gecommuniceerd.
+
+Het hof overweegt hierover als volgt. [medeverdachte] heeft ter terechtzitting in hoger beroep in de zaak van de verdachte als getuige verklaard dat hij de bewuste nacht de feitelijke schutter is geweest en dat hij voor wat betreft dat schieten op die woning via zijn telefoon instructies heeft ontvangen van een persoon met het Signal-account ‘Rico Verhoeven’.
+
+Op het moment van de aanhouding van [medeverdachte] op 23 juni 2021 wordt bij hem een telefoon aangetroffen, waarin
+
+onder andere afbeeldingen worden aangetroffen van [D] en zijn familieleden. Ook worden in de telefoon van [medeverdachte] screenshots aangetroffen van chatgesprekken via de applicatie Signal tussen [medeverdachte] en een gebruiker genaamd ‘Rico Verhoeven’, gebruikmakend van telefoon-nummer xx. De verdachte heeft erkend dat hij de account van deze ‘Rico’ heeft geactiveerd. ‘Rico’ geeft in die chats - kort gezegd - instructies aan [medeverdachte] met betrekking tot het schieten op de in de tenlastelegging bedoelde woning.
+
+Voorts blijkt dat [medeverdachte] op 23 juni 2021,  kort na het schieten op de woning - naar het telefoonnummer xx een foto stuurt van een voordeur waar een A4 op hangt, met hierop geschreven het woord ‘dief’ en daarna het bericht stuurt ‘nu ratelen.’, een en ander overeenkomstig de instructies die hij van ‘Rico’ heeft ontvangen. Uit het voorgaande volgt onder andere dat [medeverdachte] berichten en een foto heeft gestuurd naar de SIM-kaart met het telefoonnummer 06-xx. Uit de bewijsmiddelen blijkt voorts dat in de periode vanaf 14 mei 2021 tot en met 22 juni 2021 te 16:38 uur deze SIM-kaart was aangebracht in een telefoon met IMEI-nummer YY (0), die in deze periode voornamelijk masten aanstraalde gelegen aan de [adres 1] en [adres 2] te Amstelveen. Door het inzetten van een IMSI-catcher heeft de politie het adres weten te achterhalen waarop de telefoon met het voornoemde IMEI-nummer zich bevond, te weten het adres [adres 1] in Amstelveen. Op dit adres stond de verdachte ingeschreven. De telefoon met het voornoemde IMEI-nummer is vervolgens op 7 augustus 2021 aangetroffen in de woning van de vriendin van de verdachte. Zij heeft toen verklaard dat deze telefoon van de verdachte is. Voorts volgt uit onderzoek dat een toestel met een IMEI-nummer eindigend op ZZ (3) in gebruik was bij de verdachte. Uit de inhoud van afgeluisterde gesprekken met dat toestel kan worden vastgesteld dat de verdachte inderdaad de gebruiker was van dat toestel, en op basis van een stemvergelijking is vastgesteld dat de gebruiker van de telefoon met IMEI-nummer eindigend op YY (0) dezelfde is als gebruiker van de telefoon met IMEI-nummer eindigend op ZZ (3). Derhalve kan worden vastgesteld dat de telefoon met IMEI-nummer eindigend op YY (0) van de verdachte was en door hem is gebruikt. Tevens staat vast dat tot 22 juni 2021 om 16:38 uur het telefoonnummer 06-XX gebruikt werd met het toestel met IMEI-nummer eindigend op YY (0). Getuige de screenshots van 20 juni 2021 blijkt dat het
+
+telefoonnummer 06-xx gebruikt werd door ‘Rico Verhoeven’ om met [medeverdachte] via Signal te communiceren en instructies met betrekking tot de beschieting door te geven. Ook na 22 juni 2021 16:38 uur is via dezelfde Signal-account tussen ‘Rico Verhoeven’ en [medeverdachte] gecommuniceerd. Hieruit leidt het hof af dat de gebruiker van het Signal-account ‘Rico Verhoeven’ vóór en na 22 juni 2021 dezelfde is, te weten de verdachte en dat het dus de verdachte is geweest die via genoemd account [medeverdachte] heeft aangestuurd, te meer nu kan worden vastgesteld dat die aansturing al was begonnen toen de SIM-kaart met telefoonnummer 06-xx nog in een telefoon van de verdachte zat. Het hof wordt daarbij in zijn overtuiging gesterkt door het aantreffen van een foto van [medeverdachte] op een (andere) telefoon van de verdachte, welke foto daar op 12 juni 2021 op is terechtgekomen, dezelfde dag als die waarop de account van ’Rico Verhoeven’ is geactiveerd.
+
+De door de verdachte pas in hoger beroep afgelegde verklaring over het aanmaken/activeren van Signal accounts voor anderen stelt het hof gelet op het voorgaande als ongeloofwaardig terzijde, mede gelet op de onjuist gebleken stelling van de verdachte dat hij de accounts van ’Jaap’ en ‘Klaas’ zou hebben geactiveerd (zie het proces-verbaal van bevindingen van 1 november 2022, met documentcode 2211011310.AMB). Overigens doet ook het eerder niet naar waarheid verklaren over zijn aanwezigheid in Amstelveen gedurende de nacht van het schietincident afbreuk aan de geloofwaardigheid van de verdachte. Gelet hierop stelt het hof de lezing van de verdachte, inhoudende dat niet hij maar iemand anders de gebruiker was van het bewuste account, dan ook als ongeloofwaardig terzijde. Het feit dat [medeverdachte] tegenover de raadsheer-commissaris heeft verklaard dat [verdachte] niet degene was met wie hij contact had, maakt dit niet anders. Deze verklaring wordt op geen enkele wijze onderbouwd en is bovendien in strijd met de door het hof gebruikte bewijsmiddelen.
+
+Strafbaarheid van het bewezenverklaarde
+
+Het onder 2 bewezenverklaarde levert op:
+
+medeplegen van bedreiging met enig misdrijf tegen het leven gericht, meermalen gepleegd.
+
+Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+Strafmotivering
+
+Het hof heeft de op te leggen straf bepaald op grond van de ernst van de feiten en de omstandigheden waaronder deze zijn begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.
+
+Daarbij heeft het hof in het bijzonder het volgende in aanmerking genomen.
+
+Tijdens de nachtelijke uren is met een automatisch vuurwapen geschoten op een huis waarin op dat moment een aantal leden van een gezin verbleef. De verdachte heeft zich schuldig gemaakt aan het medeplegen van deze zeer ernstige bedreiging door zijn mededader - degene die feitelijk op de woning heeft geschoten - daarbij aan te sturen. De gevolgen hebben zich uitgestrekt tot onder andere beschadigingen aan de gevel, een ruit, een deur en een radiator in de gang van die woning. Blijkens de aangifte van [A] en hetgeen namens de slachtoffers naar voren is gebracht ter onderbouwing van hun vorderingen heeft het schieten op de woning een grote negatieve impact gehad op hun functioneren. Bovendien dragen delicten als de onderhavige een voor de rechtsorde zeer schokkend karakter en brengen bij de burgers gevoelens van angst en onveiligheid teweeg. Het hof rekent de verdachte het feit zwaar aan.
+
+Het hof heeft acht geslagen op een uittreksel uit de justitiële documentatie van 31 mei 2023, waaruit blijkt dat de verdachte weliswaar eerder is veroordeeld, maar niet voor een soortgelijk delict.
+
+Het hof is - alles afwegende - van oordeel dat een geheel onvoorwaardelijk gevangenisstraf van na te melden duur een passende en geboden reactie vormt.
+
+Tenuitvoerlegging van de opgelegde gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat de veroordeelde in aanmerking komt
+
+voor deelname aan een penitentiair programma, als bedoeld in artikel 4 Penitentiaire beginselenwet, dan wel de regeling van voorwaardelijke invrijheidsstelling, als bedoeld in artikel 6:2:10 Wetboek van Strafvordering, aan de orde is.
+
+Vordering van de benadeelde partij [C]
+
+De benadeelde partij heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schade-vergoeding. Deze bedraagt € 3.500,00. De vordering is bij het vonnis waarvan beroep toegewezen tot een bedrag van
+
+€ 3.000,- en voor het overige niet-ontvankelijk verklaard. De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+De advocaat-generaal heeft geconcludeerd tot toewijzing van de vordering tot een bedrag van € 3.000,-.
+
+Het hof verstaat de vordering tot vergoeding van geleden immateriële schade aldus dat deze strekt tot vergoeding van een gedeelte van de schade die de benadeelde partij rechtstreeks heeft geleden door het onder 2 bewezen-verklaarde.
+
+Het hof is van oordeel dat aannemelijk is geworden dat de benadeelde partij immateriële schade heeft geleden en dat deze schade het rechtstreeks gevolg is van het onder 2 bewezenverklaarde.
+
+Immers, gelet op de aard en de ernst van de normschending en de gevolgen daarvan, is sprake van de in artikel 6:106, aanhef en onder b, BW bedoelde aantasting in de persoon ‘op andere wijze’. De benadeelde partij is met een misdrijf tegen het leven gericht bedreigd doordat de woning waarin hij zich op dat moment bevond veelvuldig is beschoten met een automatisch vuurwapen. Het feit heeft – gelet op de onderbouwing van de vordering ondanks het feit dat de benadeelde partij ten tijde van het schieten op de woning lag te slapen - een zodanige impact gehad op de benadeelde partij dat er sprake is van aantasting in persoon. Dat dit een traumatische ervaring is ligt voor de hand en dit wordt in casu bevestigd. De benadeelde partij is erg gespannen geraakt van het incident, is sindsdien teruggetrokken en is afwezig tijdens
+
+voetbaltrainingen. De gebeurtenis heeft voorts zijn gevoelens van veiligheid en vertrouwen geschaad.
+
+De vordering leent zich - naar maatstaven van billijkheid - voor gedeeltelijke toewijzing tot een bedrag van
+
+€ 750,-, te vermeerderen met de gevorderde wettelijke rente over dit bedrag vanaf 23 juni 2021 tot aan de dag der algehele voldoening. Voor wat de betreft de hoogte van de schade heeft het hof alle omstandigheden van het geval, waaronder de aard van de aansprakelijkheid en de ernst van het aan de verdachte te maken verwijt, alsmede hetgeen ter onderbouwing van de vordering en de leeftijd van het slachtoffer in acht genomen. Voorts heeft het hof gelet op de bedragen die door Nederlandse rechters in vergelijkbare gevallen zijn toegekend.
+
+Voor het overige levert behandeling van de vordering van de benadeelde partij naar het oordeel van het hof een onevenredige belasting van het strafgeding op.
+
+Het hof zal dan ook bepalen dat de benadeelde partij voor het overige niet-ontvankelijk is in de vordering tot vergoeding van de geleden schade. Deze kan in zoverre bij de burgerlijke rechter worden aangebracht.
+
+Betaling aan de Staat ten behoeve van het slachtoffer [C]
+
+Nu vaststaat dat de verdachte tot een bedrag van € 750,00 aansprakelijk is voor de schade die door het onder 2 bewezenverklaarde is toegebracht, zal het hof aan de verdachte de hoofdelijke verplichting opleggen dat bedrag aan de Staat te betalen ten behoeve van het slachtoffer [C], eveneens te vermeerderen met de wettelijke rente.
+
+Vordering van de benadeelde partij [A]
+
+In het onderhavige strafproces heeft [A] zich als benadeelde partij gevoegd en een vordering ingediend tot vergoeding voor geleden immateriële schade en materiële schade van een bedrag van respectievelijk
+
+€ 3.500,- en € 10.293,82.
+
+In hoger beroep is deze vordering weer aan de orde tot deze in eerste aanleg gevorderde bedragen.
+
+De advocaat-generaal heeft geconcludeerd tot toewijzing van de vordering zoals door de rechter in eerste aanleg is toegewezen.
+
+Het hof is van oordeel dat aannemelijk is geworden dat
+
+de benadeelde partij [A] materiële schade heeft geleden tot een bedrag van € 60,- (schade aan de woning) en dat deze schade een rechtstreeks gevolg is van het onder 2 bewezenverklaarde. De vordering van de benadeelde partij zal derhalve tot dat bedrag worden toegewezen, te vermeerderen met de gevorderde wettelijke rente over dit bedrag vanaf 23 juni 2021 tot aan de dag der algehele voldoening.
+
+Voor wat betreft de reis- en parkeerkosten dient de vordering te worden afgewezen, nu de benadeelde partij zich heeft laten bijstaan door een gemachtigd advocaat. Reis- en parkeerkosten van de benadeelde partij zelf komen daarom niet voor vergoeding in aanmerking.
+
+Voorts is het hof van oordeel dat de benadeelde partij niet-ontvankelijk moet worden verklaard voor wat betreft de verhuiskosten, nu niet gesteld noch gebleken is dat de verhuizing daadwerkelijk heeft plaatsgevonden, zodat die kosten op dit moment niet zijn komen vast te staan.
+
+Voor het overige (kosten huurauto, kosten hotel en extra kosten verblijf in hotel) levert de behandeling van de vordering van de benadeelde partij naar het oordeel van het hof een onevenredige belasting van het strafgeding op. Zonder nader onderzoek staat naar het oordeel van het hof niet vast dat (en in hoeverre) deze kosten in een voldoende rechtstreeks verband staan met het bewezenverklaarde.
+
+Het hof zal dan ook bepalen dat de benadeelde partij voor het overige niet-ontvankelijk is in de vordering tot vergoeding van de geleden materiële schade. Deze kan in zoverre bij de burgerlijke rechter worden aangebracht.
+
+Voor wat betreft de vordering tot vergoeding van geleden immateriële schade verstaat het hof de vordering aldus dat deze strekt tot vergoeding van een gedeelte van de schade die de benadeelde partij rechtstreeks heeft geleden door het onder 2 bewezenverklaarde.
+
+Het hof is van oordeel dat aannemelijk is geworden dat de benadeelde partij immateriële schade heeft geleden en dat
+
+deze schade het rechtstreeks gevolg is van het onder 2 bewezenverklaarde.
+
+Immers, gelet op de aard en de ernst van de normschending en de gevolgen daarvan, is sprake van de in artikel 6:106, aanhef en onder b, BW bedoelde aantasting in de persoon ‘op andere wijze’. De benadeelde partij is met een misdrijf tegen het leven gericht bedreigd doordat de woning waarin zij zich op dat moment bevond veelvuldig is beschoten met een automatisch vuurwapen. Het feit heeft – gelet op de onderbouwing van de vordering – een zodanige impact gehad op de benadeelde partij dat er sprake is van aantasting in persoon. Dat dit een traumatische ervaring is ligt voor de hand en dit wordt in casu bevestigd. De benadeelde partij voelt zich sindsdien overal onveilig. Daarnaast is zij ook angstig dat haar kinderen iets aan zullen worden gedaan. Hier leeft zij elke dag mee. Het gevoel van onveiligheid maakt haar moedeloos. De benadeelde partij heeft door het incident stemmingsklachten ontwikkeld. Zij kampt sindsdien met stress- en paniekklachten. Ook ervaart zij continu spanning in haar lichaam. Ze is constant alert en schrikt ’s nachts wakker van elk geluid. Door de angst heeft zij last van slapeloze nachten en nachtmerries. Haar slaapritme is hierdoor ernstig verstoord.
+
+De vordering leent zich - naar maatstaven van billijk-heid - voor gedeeltelijke toewijzing tot een bedrag van € 2.500,-, te vermeerderen met de gevorderde wettelijke rente over dit bedrag vanaf 23 juni 2021 tot aan de dag der algehele voldoening. Voor wat de betreft de hoogte van de schade heeft het hof alle omstandigheden van het geval, waaronder de aard van de aansprakelijkheid en de ernst van het aan de verdachte te maken verwijt, alsmede hetgeen ter onderbouwing van de vordering en de leeftijd van het slachtoffer in acht genomen. Voorts heeft het hof gelet op de bedragen die door Nederlandse rechters in vergelijkbare gevallen zijn toegekend.
+
+Voor het overige levert behandeling van de vordering van de benadeelde partij naar het oordeel van het hof een onevenredige belasting van het strafgeding op.
+
+Het hof zal dan ook bepalen dat de benadeelde partij voor het overige niet-ontvankelijk is in de vordering tot vergoeding van de geleden schade. Deze kan in zoverre bij de burgerlijke rechter worden aangebracht.
+
+Betaling aan de Staat ten behoeve van het slachtoffer [A]
+
+Nu vaststaat dat de verdachte tot een bedrag van
+
+€ 2.560,- aansprakelijk is voor de schade die door het onder 2 bewezenverklaarde is toegebracht, zal het hof aan de verdachte de hoofdelijke verplichting opleggen dat bedrag aan de Staat te betalen ten behoeve van het slachtoffer [A], eveneens te vermeerderen met de wettelijke rente.
+
+Vordering van de benadeelde partij [B]
+
+De benadeelde partij heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schade-vergoeding. Deze bedraagt € 3.500,00. De vordering is bij het vonnis waarvan beroep toegewezen tot een bedrag van
+
+€ 3.000,- en voor het overige niet-ontvankelijk verklaard. De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+De advocaat-generaal heeft geconcludeerd tot toewijzing van de vordering tot een bedrag van € 3.000,-.
+
+Het hof verstaat de vordering tot vergoeding van geleden immateriële schade aldus dat deze strekt tot vergoeding van een gedeelte van de schade die de benadeelde partij rechtstreeks heeft geleden door het onder 2  bewezenverklaarde.
+
+Het hof is van oordeel dat aannemelijk is geworden dat de benadeelde partij immateriële schade heeft geleden en dat deze schade het rechtstreeks gevolg is van het onder 2 bewezenverklaarde.
+
+Immers, gelet op de aard en de ernst van de normschending en de gevolgen daarvan, is sprake van de in artikel 6:106, aanhef en onder b, BW bedoelde aantasting in de persoon ‘op andere wijze’. De benadeelde partij is met een misdrijf tegen het leven gericht bedreigd doordat de woning waarin hij zich op dat moment bevond veelvuldig is beschoten met een automatisch vuurwapen. Het feit heeft – gelet op de onderbouwing van de vordering – een zodanige impact gehad op de benadeelde partij dat er sprake is van aantasting in persoon. Dat dit een traumatische ervaring is ligt voor de hand en dit wordt in casu bevestigd.
+
+De benadeelde partij is veranderd in zijn gedrag, wil niet graag alleen zijn, schrikt sneller van bepaalde geluiden en is erg stil op school. De gebeurtenis heeft voorts zijn gevoelens van veiligheid en vertrouwen geschaad.
+
+De vordering leent zich - naar maatstaven van billijkheid - voor gedeeltelijke toewijzing tot een bedrag van
+
+€ 750,-, te vermeerderen met de gevorderde wettelijke rente over dit bedrag vanaf 23 juni 2021 tot aan de dag der algehele voldoening. Voor wat de betreft de hoogte van de schade heeft het hof alle omstandigheden van het geval, waaronder de aard van de aansprakelijkheid en de ernst van het aan de verdachte te maken verwijt, alsmede hetgeen ter onderbouwing van de vordering en de leeftijd van het slachtoffer in acht genomen. Voorts heeft het hof gelet op de bedragen die door Nederlandse rechters in vergelijkbare gevallen zijn toegekend.
+
+Voor het overige levert behandeling van de vordering van de benadeelde partij naar het oordeel van het hof een onevenredige belasting van het strafgeding op.
+
+Het hof zal dan ook bepalen dat de benadeelde partij voor het overige niet-ontvankelijk is in de vordering tot vergoeding van de geleden schade. Deze kan in zoverre bij de burgerlijke rechter worden aangebracht.
+
+Betaling aan de Staat ten behoeve van het slachtoffer [B]
+
+Nu vaststaat dat de verdachte tot een bedrag van
+
+€ 750,- aansprakelijk is voor de schade die door het onder 2 bewezenverklaarde is toegebracht, zal het hof aan de verdachte de hoofdelijke verplichting opleggen dat bedrag aan de Staat te betalen ten behoeve van het slachtoffer [B], eveneens te vermeerderen met de wettelijke rente.
+
+Vordering van de benadeelde partij [D]
+
+In het onderhavige strafproces heeft [D] zich als benadeelde partij gevoegd en een vordering ingediend tot vergoeding voor geleden immateriële schade en materiële schade van een bedrag van respectievelijk
+
+€ 2.500,- en € 11.361,10.
+
+In hoger beroep is deze vordering weer aan de orde tot deze in eerste aanleg gevorderde bedragen.
+
+De advocaat-generaal heeft geconcludeerd tot toewijzing van de vordering zoals door de rechter in eerste aanleg is toegewezen.
+
+Het hof is van oordeel dat de behandeling van de vordering van de benadeelde partij ter zake van immateriële schade een onevenredige belasting van het strafgeding oplevert.
+
+Het hof zal dan ook bepalen dat de benadeelde partij in zoverre niet-ontvankelijk is en dat deze vordering in zoverre bij de burgerlijke rechter kan worden aangebracht.
+
+Voor wat betreft de materiële schade is het hof van oordeel dat de reis- en parkeerkosten (€ 27,10) niet voor vergoeding in aanmerking komen nu de benadeelde partij een gemachtigd advocaat had.
+
+Voorts is het hof van oordeel dat de benadeelde partij niet-ontvankelijk moet worden verklaard voor wat betreft de verhuiskosten en gederfde inkomsten (€ 6.334,- en € 5.000,-). Deze schade is niet het rechtstreeks gevolg van het onder 2 bewezenverklaarde nu de verdachte niet op het adres Josephstraat 110 te Rotterdam woonde. Dit geldt eveneens voor de gederfde inkomsten (het stopzetten van zijn uitkering op basis van de Participatiewet), nu dit kennelijk ook verband houdt met het kwijtraken van zijn eigen woning.
+
+Kostenveroordeling
+
+Gelet op het voorgaande dient de benadeelde partij
+
+[D] te worden veroordeeld in de kosten die de verdachte tot aan deze uitspraak in verband met zijn verdediging tegen de vordering heeft gemaakt, welke kosten het hof vooralsnog begroot op nihil, en in de kosten die de verdachte ten behoeve van de tenuitvoerlegging nog moet maken.
+
+Voor wat betreft de overige benadeelde partijen dient de verdachte te worden veroordeeld in de kosten die die benadeelde partijen tot aan deze uitspraak in verband met hun vorderingen hebben gemaakt, welke kosten het hof
+
+vooralsnog begroot op nihil, en in de kosten die de benadeelde partijen ten behoeve van de tenuitvoerlegging nog moet maken.
+
+Vordering tenuitvoerlegging
+
+Bij vonnis van de politierechter in de rechtbank Midden-Nederland van 25 oktober 2019 onder parketnummer 16141776-19 is de verdachte veroordeeld tot een gevangenisstraf van twee weken, met bevel dat die gevangenisstraf niet ten uitvoer zal worden gelegd onder de algemene voorwaarde dat de verdachte zich vóór het einde van de proeftijd van twee jaren niet schuldig maakt aan een strafbaar feit.
+
+De advocaat-generaal heeft ter terechtzitting in hoger beroep gepersisteerd bij de in eerste aanleg ingediende vordering van het Openbaar Ministerie tot tenuitvoer-legging van die niet tenuitvoergelegde straf, op grond dat de verdachte de hiervoor bedoelde algemene voorwaarde niet heeft nageleefd.
+
+In hoger beroep is komen vast te staan dat de verdachte de genoemde algemene voorwaarde niet heeft nageleefd. De verdachte heeft immers het in de onderhavige strafzaak bewezenverklaarde feit begaan terwijl de hiervoor bedoelde proeftijd nog niet was verstreken. De vordering is derhalve gegrond.
+
+Echter, de tijd die de verdachte in de onderhavige zaak in voorlopige hechtenis heeft doorgebracht heeft de duur van de aan hem in deze zaak op te leggen gevangenisstraf ruimschoots overschreden. Het hof ziet in deze omstandig-heid aanleiding de gevorderde tenuitvoerlegging af te wijzen.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 36f, 47, 57 en 285 van het Wetboek van Strafrecht, zoals zij rechtens gelden dan wel golden.
+
+BESLISSING
+
+Het hof:
+
+Verklaart de verdachte niet-ontvankelijk in het hoger beroep ter zake van de onder 1 gegeven vrijspraak voor zover dat zou zijn begaan tegen [D].
+
+Vernietigt het vonnis waarvan beroep voor zover aan het oordeel van het hof onderworpen en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het onder 1 tenlastegelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 2 tenlastegelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het onder 2 bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 24 (vierentwintig) maanden.
+
+Beveelt dat de tijd die door de verdachte vóór de tenuit-voerlegging van deze uitspraak in enige in artikel 27, eerste lid, van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Vordering van de benadeelde partij [C]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [C] ter zake van het onder
+
+2 bewezenverklaarde tot het bedrag van
+
+€ 750,00 (zevenhonderdvijftig euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [C], ter zake van het onder 2 bewezenverklaarde een bedrag te betalen van € 750,00 (zevenhonderdvijftig euro) als vergoeding voor immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 15 (vijftien) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente voor de immateriële schade op 23 juni 2021.
+
+Vordering van de benadeelde partij [A]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [A] ter zake van het onder
+
+2 bewezenverklaarde tot het bedrag van
+
+€ 2.560,- (tweeduizend vijfhonderdzestig euro bestaande uit € 60,- (zestig euro) materiële schade en € 2.500,- (tweeduizend vijfhonderd euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Wijst de vordering af voor een bedrag van € 236,86.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [A], ter zake van het onder 2 bewezenverklaarde een bedrag te betalen van € 2.560,- (tweeduizend vijfhonderdzestig euro bestaande uit € 60,- (zestig euro) materiële schade en € 2.500,- (tweeduizend vijfhonderd euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 35 (vijfendertig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente voor de materiële en de immateriële schade op 23 juni 2021.
+
+Vordering van de benadeelde partij [B]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [B] ter zake van het onder
+
+2 bewezenverklaarde tot het bedrag van € 750,00 (zevenhonderdvijftig euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [B], ter zake van het onder 2 bewezenverklaarde een bedrag te betalen van € 750,00 (zevenhonderdvijftig euro) als vergoeding voor immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 15 (vijftien) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente voor de immateriële schade op 23 juni 2021.
+
+Vordering van de benadeelde partij [D]
+
+Wijst de vordering tot schadevergoeding ter zake van materiële schade van de benadeelde partij [D] af tot een bedrag van € 27,10.
+
+Verklaart de benadeelde partij voor het overige in de vordering ter zake van materiële schade en in de vordering ter zake van immateriële schade niet-ontvankelijk en bepaalt dat de benadeelde partij deze in zoverre slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Veroordeelt de benadeelde partij in de door verdachte gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Wijst af de vordering van de officier van justitie van het Parket OVJ Rotterdam van 5 november 2021, strekkende tot tenuitvoerlegging van de bij vonnis van de politierechter in de rechtbank Midden-Nederland van 25 oktober 2019, parketnummer 16-141776-19, voorwaardelijk opgelegde gevangenisstraf voor de duur van twee weken.
+
+Dit arrest is gewezen door mr. G. Knobbout,
+
+mr. C.H.M. Royakkers en mr. B.P. de Boer,
+
+in bijzijn van de griffier mr. E. Mulder.
+
+Het is uitgesproken op de openbare terechtzitting
+
+van het hof van 30 juni 2023.
+
+Mr. C.H.M. Royakkers is buiten staat dit arrest te ondertekenen.
