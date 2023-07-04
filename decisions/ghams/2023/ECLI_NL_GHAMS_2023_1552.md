@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:1552"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0149"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0149", "PR-Updates.nl 2023-0149"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:3986"]]
 ---
 
