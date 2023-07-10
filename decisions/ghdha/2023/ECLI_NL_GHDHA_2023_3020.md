@@ -33,7 +33,7 @@ TEGENSPRAAK
 
 Uitspraak van mr. F.P. Geelhoed van 10 juli 2023 in de zaak tegen de verdachte:
 
-naam: GONESH,
+naam: [achternaam] ,
 
 voornamen: [verdachte] ,
 
