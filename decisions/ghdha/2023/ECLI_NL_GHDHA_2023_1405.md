@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1405"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/1844", "NDFR Nieuws 2023/1171", "NLF 2023/1893", "NTFR 2023/1482 met annotatie van mr. A.J.C. Perdaems", "V-N 2023/48.1.7", "Viditax (FutD) 2023081002", "FutD 2023-2131"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1296"]]
 ---
 
 # ECLI:NL:GHDHA:2023:1405 Gerechtshof Den Haag , 11-07-2023 / BK-23/00001
