@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:2395"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0147"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0147", "PR-Updates.nl 2023-0147"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2019:2051"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2020:44"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2020:743"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:1632"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:2551"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:3436"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:402"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2021:989"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2023:635"]]
 ---
 
