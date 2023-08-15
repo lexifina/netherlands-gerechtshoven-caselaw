@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2014"
-published_in: ["Rechtspraak.nl", "PJ 2023/109", "PR-Updates.nl PR-2023-0183"]
+published_in: ["Rechtspraak.nl", "PJ 2023/109", "PR-Updates.nl PR-2023-0183", "PR-Updates.nl 2023-0183"]
 ---
 
 # ECLI:NL:GHAMS:2023:2014 Gerechtshof Amsterdam , 15-08-2023 / 200.307.336/01
