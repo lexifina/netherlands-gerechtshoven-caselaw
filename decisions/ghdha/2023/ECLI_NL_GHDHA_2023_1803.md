@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1803"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1258", "PJ 2023/122", "PR-Updates.nl PR-2023-0194", "VAAN-AR-Updates.nl 2023-1258"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1258", "PJ 2023/122", "PR-Updates.nl PR-2023-0194", "VAAN-AR-Updates.nl 2023-1258", "PR-Updates.nl 2023-0194"]
 relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2022:1860"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2024:464"]]
 ---
 
