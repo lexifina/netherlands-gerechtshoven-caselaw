@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:7628"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1134", "PJ 2023/111", "PR-Updates.nl PR-2023-0180", "VAAN-AR-Updates.nl 2023-1134"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1134", "PJ 2023/111", "PR-Updates.nl PR-2023-0180", "VAAN-AR-Updates.nl 2023-1134", "PR-Updates.nl 2023-0180"]
 ---
 
 # ECLI:NL:GHARL:2023:7628 Gerechtshof Arnhem-Leeuwarden , 12-09-2023 / 200.312.726
