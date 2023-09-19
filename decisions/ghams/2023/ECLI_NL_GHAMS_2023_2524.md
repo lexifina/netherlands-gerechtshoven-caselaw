@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2524"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1288", "PJ 2023/123", "PR-Updates.nl PR-2023-0193", "JAR 2023/300", "VAAN-AR-Updates.nl 2023-1288"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1288", "PJ 2023/123", "PR-Updates.nl PR-2023-0193", "JAR 2023/300", "VAAN-AR-Updates.nl 2023-1288", "PR-Updates.nl 2023-0193"]
 ---
 
 # ECLI:NL:GHAMS:2023:2524 Gerechtshof Amsterdam , 19-09-2023 / 200.303.598/01
