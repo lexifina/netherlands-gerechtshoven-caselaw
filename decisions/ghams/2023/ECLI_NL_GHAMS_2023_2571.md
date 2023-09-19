@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2571"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:243"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:293"]]
 ---
 
 # ECLI:NL:GHAMS:2023:2571 Gerechtshof Amsterdam , 19-09-2023 / 200.301.892/01 en 200.301.895/01
