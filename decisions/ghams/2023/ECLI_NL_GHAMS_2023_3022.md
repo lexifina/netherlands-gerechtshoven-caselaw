@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:3022"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/153", "NLF 2024/0294", "NTFR 2024/272 met annotatie van mr. E.J.M. Bohnen", "Viditax (FutD) 2024011803", "FutD 2024-0213"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1727"]]
 ---
 
 # ECLI:NL:GHAMS:2023:3022 Gerechtshof Amsterdam , 19-09-2023 / 22/00412
