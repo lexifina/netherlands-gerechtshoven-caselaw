@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2523"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0092", "NJF 2024/2", "JBPr 2024/35 met annotatie van prof. mr. G. van Rijssen"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0092", "NJF 2024/2", "JBPr 2024/35 met annotatie van prof. mr. G. van Rijssen", "BPR-Updates.nl 2023-0092"]
 ---
 
 # ECLI:NL:GHAMS:2023:2523 Gerechtshof Amsterdam , 19-09-2023 / 200.311.729/01
