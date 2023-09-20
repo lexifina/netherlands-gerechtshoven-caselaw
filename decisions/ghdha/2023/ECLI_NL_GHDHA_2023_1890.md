@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:1890"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0199"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0199", "PR-Updates.nl 2023-0199"]
 ---
 
 # ECLI:NL:GHDHA:2023:1890 Gerechtshof Den Haag , 20-09-2023 / 200.326.170/01 en 200.326.170/02
