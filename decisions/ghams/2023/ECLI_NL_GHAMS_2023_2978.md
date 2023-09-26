@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2978"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2980", "NDFR Nieuws 2023/1843", "NLF 2023/2868", "V-N 2024/3.16 met annotatie van Redactie", "NTFR 2024/184 met annotatie van mr. S. El Oiskhiri", "Douanerechtspraak 2023/158"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2980", "NDFR Nieuws 2023/1843", "NLF 2023/2868", "V-N 2024/3.16", "NTFR 2024/184 met annotatie van mr. S. El Oiskhiri", "Douanerechtspraak 2023/158"]
 ---
 
 # ECLI:NL:GHAMS:2023:2978 Gerechtshof Amsterdam , 26-09-2023 / 20/00353 en 20/00372
