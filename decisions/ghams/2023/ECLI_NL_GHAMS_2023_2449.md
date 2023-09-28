@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2449"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2530", "NLF 2023/2490", "Sdu Nieuws Belastingzaken 2023/1059"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:9975, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:9975, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1565"]]
 ---
 
 # ECLI:NL:GHAMS:2023:2449 Gerechtshof Amsterdam , 28-09-2023 / 21/1772
