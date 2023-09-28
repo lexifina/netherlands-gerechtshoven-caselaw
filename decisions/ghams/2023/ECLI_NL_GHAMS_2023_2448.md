@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2448"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2559", "NLF 2023/2489", "NDFR Nieuws 2023/1547", "NTFR 2023/2187 met annotatie van Mr. drs. R. Steenman", "V-N 2024/6.19.27", "Viditax (FutD) 2023102504", "FutD 2023-2803"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:9976, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:9976, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1566"]]
 ---
 
 # ECLI:NL:GHAMS:2023:2448 Gerechtshof Amsterdam , 28-09-2023 / 21/1773
