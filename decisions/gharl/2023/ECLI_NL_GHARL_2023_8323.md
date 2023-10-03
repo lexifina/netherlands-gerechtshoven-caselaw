@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:8323"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0093"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0093", "BPR-Updates.nl 2023-0093"]
 ---
 
 # ECLI:NL:GHARL:2023:8323 Gerechtshof Arnhem-Leeuwarden , 03-10-2023 / 200.316.944
