@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:3289"
-published_in: ["Rechtspraak.nl", "NLF 2024/0292", "V-N Vandaag 2024/305", "V-N 2024/22.17 met annotatie van Redactie", "Viditax (FutD) 2024012508", "FutD 2024-0270"]
+published_in: ["Rechtspraak.nl", "NLF 2024/0292", "V-N Vandaag 2024/305", "V-N 2024/22.17", "Viditax (FutD) 2024012508", "FutD 2024-0270"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5509, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-op-belastingen-van-rechtsverkeer/art-015.md"]
 ---
