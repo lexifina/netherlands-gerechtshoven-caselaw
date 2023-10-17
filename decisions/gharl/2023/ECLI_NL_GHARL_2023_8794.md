@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:8794"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2598", "NLF 2023/2541", "V-N 2024/12.1.3"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:15, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:15, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1338"]]
 ---
 
 # ECLI:NL:GHARL:2023:8794 Gerechtshof Arnhem-Leeuwarden , 17-10-2023 / 22/466
