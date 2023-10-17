@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:8799"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2572", "NLF 2023/2535", "NDFR Nieuws 2023/1610", "NTFR 2023/2133 met annotatie van Mr. F.C. van der Bogt", "Belastingblad 2023/415 met annotatie van R.T. Wiegerink", "V-N 2024/8.19 met annotatie van Redactie", "Viditax (FutD) 2023102707", "FutD 2023-2853"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2572", "NLF 2023/2535", "NDFR Nieuws 2023/1610", "NTFR 2023/2133 met annotatie van Mr. F.C. van der Bogt", "Belastingblad 2023/415 met annotatie van R.T. Wiegerink", "V-N 2024/8.19", "Viditax (FutD) 2023102707", "FutD 2023-2853"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2022:1687, Bekrachtiging/bevestiging"]]
 ---
 
