@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2112"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2023/1240", "NDFR Nieuws 2023/1764", "V-N Vandaag 2023/2949", "NLF 2024/0088 met annotatie van Michel van Dun", "NTFR 2024/128 met annotatie van mr. A.M. Blaakman", "V-N 2024/6.1.3", "Viditax (FutD) 2023120707", "FutD 2023-3188"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:15110, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2023/1240", "NDFR Nieuws 2023/1764", "V-N Vandaag 2023/2949", "NLF 2024/0088 met annotatie van dr. mr. M. van Dun", "NTFR 2024/128 met annotatie van mr. A.M. Blaakman", "V-N 2024/6.1.3", "Viditax (FutD) 2023120707", "FutD 2023-3188"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:15110, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:857"]]
 ---
 
 # ECLI:NL:GHDHA:2023:2112 Gerechtshof Den Haag , 25-10-2023 / BK-22/00017 tot en met BK-22/00021
