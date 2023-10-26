@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2274"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/42", "NLF 2024/0128", "V-N 2024/5.14 met annotatie van Redactie", "Viditax (FutD) 2024010905", "FutD 2024-0168"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/42", "NLF 2024/0128", "V-N 2024/5.14", "Viditax (FutD) 2024010905", "FutD 2024-0168"]
 ---
 
 # ECLI:NL:GHDHA:2023:2274 Gerechtshof Den Haag , 26-10-2023 / nummers BK-22/001260 tot en met BK-22/001262 en BK-22/001267 tot en met BK 22/001269
