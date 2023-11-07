@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2727"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/465", "Sdu Nieuws Belastingzaken 2024/220", "NLF 2024/0595", "NDFR Nieuws 2024/431", "NTFR 2024/589 met annotatie van mr. F. van Horzen", "V-N 2024/16.1.1", "V-N 2024/20.5 met annotatie van Redactie", "Viditax (FutD) 2024022802", "FutD 2024-0594"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/465", "Sdu Nieuws Belastingzaken 2024/220", "NLF 2024/0595", "NDFR Nieuws 2024/431", "NTFR 2024/589 met annotatie van mr. F. van Horzen", "V-N 2024/16.1.1", "V-N 2024/20.5", "Viditax (FutD) 2024022802", "FutD 2024-0594"]
 ---
 
 # ECLI:NL:GHDHA:2023:2727 Gerechtshof Den Haag , 07-11-2023 / BK-23/00020
