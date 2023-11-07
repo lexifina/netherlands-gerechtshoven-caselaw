@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:3998"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/35", "NLF 2024/0153", "Viditax (FutD) 2024011101", "FutD 2024-0131"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:5291, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:5291, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1677"]]
 ---
 
 # ECLI:NL:GHSHE:2023:3998 Gerechtshof 's-Hertogenbosch , 07-11-2023 / BK-21/01187
