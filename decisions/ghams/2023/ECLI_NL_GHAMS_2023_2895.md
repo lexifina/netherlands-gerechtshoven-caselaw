@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:2895"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2933", "V-N 2024/14.15 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2933", "V-N 2024/14.15"]
 ---
 
 # ECLI:NL:GHAMS:2023:2895 Gerechtshof Amsterdam , 09-11-2023 / 22/47
