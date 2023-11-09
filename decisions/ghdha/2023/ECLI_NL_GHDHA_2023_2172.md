@@ -1,0 +1,189 @@
+---
+ecli: "ECLI:NL:GHDHA:2023:2172"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "22-002199-20"
+decided: "2023-11-09"
+published: "2023-11-09"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2172"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHDHA:2023:2172 Gerechtshof Den Haag , 09-11-2023 / 22-002199-20
+
+## Inhoudsindicatie
+
+Mega Watercypres. Accijnsfraude door handel in illegale sigaretten. Reikwijdte “voorhanden hebben” als bedoeld in artikel 5 lid 1 onder a van de Wet op de Accijns. Vrijspraak criminele organisatie. Strafmaat.
+
+## Uitspraak
+
+Rolnummer:		22-002199-20
+
+Parketnummer:	     10-996675-17
+
+Datum uitspraak:	9 november 2023
+
+TEGENSPRAAK
+
+Gerechtshof Den Haag
+
+meervoudige kamer voor strafzaken
+
+Arrest
+
+gewezen op het hoger beroep tegen het vonnis van de rechtbank Rotterdam van 10 augustus 2020 in de strafzaak tegen de verdachte:
+
+[verdachte],
+
+geboren te [geboorteplaats] op [geboortedatum] 1983,
+
+adres: [adres].
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek ter terechtzitting in eerste aanleg en het onderzoek ter terechtzitting in hoger beroep van dit hof.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen door en namens de verdachte naar voren is gebracht.
+
+Procesgang
+
+In eerste aanleg is de verdachte van het onder 3 tenlastegelegde vrijgesproken en ter zake van het onder 1 en 2 tenlastegelegde veroordeeld tot een gevangenisstraf voor de duur van 11 maanden waarvan 4 maanden voorwaardelijk met aftrek van het voorarrest en een proeftijd van 1 jaar. Voorts is een beslissing genomen op de inbeslaggenomen en nog niet teruggegeven voorwerpen, zoals nader omschreven in het vonnis waarvan beroep.
+
+Namens de verdachte is tegen het vonnis hoger beroep ingesteld.
+
+Ontvankelijkheid van de verdachte in hoger beroep
+
+De verdachte is door de meervoudige kamer voor strafzaken in de rechtbank Rotterdam vrijgesproken van hetgeen aan hem onder 3 is tenlastegelegd. Het hoger beroep is door de verdachte onbeperkt ingesteld en is derhalve mede gericht tegen de in eerste aanleg gegeven beslissing tot vrijspraak. Gelet op hetgeen is bepaald in artikel 404, vijfde lid, van het Wetboek van Strafvordering staat voor de verdachte tegen deze beslissing geen hoger beroep open. Het hof zal de verdachte daarom niet-ontvankelijk verklaren in het ingestelde hoger beroep, voor zover dat is gericht tegen de in het vonnis waarvan beroep gegeven vrijspraak.
+
+Tenlastelegging
+
+Aan de verdachte is – voor zover inhoudelijk aan het oordeel van het hof onderworpen - tenlastegelegd dat:
+
+1.hij in of omstreeks de periode vanaf 1 oktober 2017 tot en met 5 april 2018 te 's-Gravenhage, in elk geval in Nederland, heeft deelgenomen aan een organisatie, welke organisatie werd gevormd door een samenwerkingsverband van meerdere natuurlijke personen en/of rechtspersonen, te weten hij, verdachte en/of [medeverdachte 1] en/of [medeverdachte 2] en/of [medeverdachte 3] en/of [medeverdachte 4] en/of [medeverdachte 5] en/of [medeverdachte 6] en/of [medeverdachte 7] en/of [medeverdachte 8] en/of een of meer andere (rechts)perso(o)n(en), welke organisatie tot oogmerk had het plegen van misdrijven, namelijk
+
+- het voorhanden hebben van accijnsgoederen (te weten sigaretten) die niet volgens de bepalingen van de Wet op de Accijns in de heffing zijn betrokken (artikel 5 lid 1 onder b juncto 97 Wet op de Accijns); en/of
+
+- het invoeren en/of doorvoeren en/of uitvoeren en/of verkopen en/of te koop aanbieden en/of afleveren en/of uitdelen en/of in voorraad hebben van vervalste en/of wederrechtelijk vervaardigde waren (te weten sigaretten);
+
+2.hij in of omstreeks de periode van 1 oktober 2017 tot en met 5 april 2018 te 's-Gravenhage, althans in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, meermalen, althans eenmaal, opzettelijk (een) accijnsgoed(eren), te weten (circa) 18.200 stuks sigaretten (AMB-076) en/of meerdere (grote) partijen sigaretten (verhandeld met [medeverdachte 1] (AMB-102) en/of met [medeverdachte 3] (7-OPV, p. 16 e.v.; Dossier blz 565 e.v.) en/of met [medeverdachte 2] (7-OPV, p. 24 e.v.; Dossier blz 573 e.v.) en/of [medeverdachte 9] (7-OPV, p. 30 e.v.; Dossier blz 579 e.v.)), in elk geval (telkens) (een) (grote) hoeveelhe(i)d(en) sigaretten voorhanden heeft gehad, terwijl die sigaretten niet overeenkomstig de bepalingen van de Wet op de Accijns in de heffing waren betrokken.
+
+Vordering van de advocaat-generaal
+
+De advocaat-generaal heeft gevorderd dat het vonnis waarvan beroep zal worden vernietigd en dat de verdachte ter zake van het onder 1 en 2 zal worden veroordeeld tot een taakstraf voor de duur van 240 uren, subsidiair 120 dagen vervangende hechtenis, alsmede een geheel voorwaardelijke gevangenisstraf voor de duur van 5 maanden met een proeftijd van 1 jaar. Voorts heeft de advocaat-generaal gevorderd dat de inbeslaggenomen en nog niet teruggegeven voorwerpen genoemd op de beslaglijst worden onttrokken aan het verkeer.
+
+Het vonnis waarvan beroep
+
+Het vonnis waarvan beroep kan – voor zover aan het oordeel van het hof onderworpen - niet in stand blijven omdat het hof zich daarmee niet verenigt.
+
+Vrijspraak criminele organisatie
+
+Het hof acht niet wettig en overtuigend bewezen dat de verdachte het onder feit 1 tenlastegelegde heeft begaan en zal de verdachte hiervan vrijspreken.
+
+Bij de beoordeling van de vraag of de verdachte heeft deelgenomen aan een criminele organisatie, dient eerst vast komen te staan dat er sprake is van een dergelijke organisatie. Volgens vaste jurisprudentie moet onder een criminele organisatie zoals bedoeld in artikel 140 van het Wetboek van Strafrecht (hierna: Sr) worden verstaan een samenwerkingsverband, met een zekere duurzaamheid en structuur, tussen de verdachte en ten minste één andere persoon, waarbij het oogmerk van de organisatie gericht is op het plegen van misdrijven. De inhoud van het dossier wijst er zonder meer op dat de verdachte enige tijd samen met anderen strafbare feiten heeft gepleegd. Evenwel had deze interactie de vorm van een handelsrelatie waarbij de ene persoon optrad als koper en de andere als verkoper. Zo werden er bestellingen geplaatst en werd er onderling onderhandeld over de prijs en hoeveelheid sigaretten die geleverd zou worden. Hierbij waren koper en verkoper niet aan elkaar gebonden en werd er door de koper bij verschillende verkopers gekocht en verkocht verkoper andersom ook aan verschillende kopers. Een hoge mate van willekeurigheid in het “wie met wie zaken deed” is kenmerkend voor de wijze van interactie tussen de verschillende verdachten. Het hof acht deze vorm van samenwerken onvoldoende om te kunnen spreken van een samenwerkingsverband als hiervoor bedoeld. Te meer nu ook niet is gebleken van andere aanwijzingen die erop duiden dat de verdachte met zijn medeverdachten een samenwerkingsverband vormde zoals bedoeld in artikel 140 Sr. De verdachte zal dan ook worden vrijgesproken van feit 1.
+
+Voorhanden hebben van onveraccijnsde sigaretten
+
+Voor een bewezenverklaring van het tenlastegelegde voorhanden hebben van onveraccijnsde sigaretten is vereist dat de verdachte feitelijke beschikkingsmacht had over de betreffende onveraccijnsde sigaretten. Volgens vaste jurisprudentie (zie Hoge Raad 14 mei 2004, ECLI:HR:2004:AO9493) is hiervan sprake als een persoon de hoedanigheid van de goederen kent, daadwerkelijk toegang heeft tot die goederen en tevens weet of redelijkerwijze moet weten dat de goederen niet overeenkomstig de bepalingen van de Wet op de accijns in Nederland in de heffing zijn betrokken. Het vervoeren of het doen vervoeren dan wel opslaan of doen opslaan in opdracht van derden levert onder die omstandigheden eveneens voorhanden hebben op in de zin van de Wet op de accijns. Het betoog van de verdediging dat volgens het arrest van de Hoge Raad van 29 april 2022 (ECLI:NL:HR:2022:659) het begrip voorhanden hebben zo strict uitgelegd moet worden dat vast moet komen te staan dat de verdachte feitelijk “met zijn vingers aan de goederen kan zitten” faalt. Naar het oordeel van het hof berust dit op een onjuiste toepassing en lezing van het arrest waarin immers een andere casuïstiek dan de onderhavige aan de orde is; te weten onder welke voorwaarden een werkgever en niet zijn werknemer, in dit geval een schipper, ter zake van het voorhanden hebben van de accijnsgoederen schuldenaar is voor de accijns. Strekking is bovendien dat juist een ruime kring van personen is aangewezen als schuldenaar van de accijnsschuld ook indien de goederen toebehoren aan de werkgever of een derde.
+
+Uit zijn eigen verklaring leidt het hof af dat de verdachte weet dat sigaretten van een Nederlands accijnszegel voorzien moeten zijn. De verdachte heeft voorts verklaard dat de in zijn woning aangetroffen onveraccijnsde sigaretten bestemd waren voor de verkoop in zijn eigen winkel. Het voorhanden hebben van die onveraccijnsde sigaretten is wettig en overtuigend bewezen.
+
+Ook ten aanzien van de in de tenlastelegging vermelde grote hoeveelheden onveraccijnsde sigaretten die tussen de verdachte en de medeverdachten [medeverdachte 1] en [medeverdachte 3] zijn verhandeld, is sprake geweest van feitelijke beschikkingsmacht van de verdachte. De verdachte heeft verklaard dat hij telefoongesprekken over sigaretten heeft gevoerd en dat verschillende personen aan hem leverden. Uit de zich in het dossier bevindende tapgesprekken volgt dat de verdachte veelvuldig onveraccijnsde sigaretten van de medeverdachten [medeverdachte 1] en [medeverdachte 3] afnam en soms ook als leverancier optrad. De verdachte heeft vanwege de verkoop in zijn winkel van onveraccijnsde sigaretten eerder boetes opgelegd gekregen en komt over de tap als ervaren handelaar als hij advies geeft hoe douane controle te verstoren door het strooien van zwarte peper voor de douanehond. Het verweer van de raadsman dat steunbewijs voor de daadwerkelijke levering van de sigaretten ontbreekt, wordt gepasseerd. In die gevallen waarin observaties hebben plaatsgevonden, zijn overdrachten waargenomen en waar sigaretten in beslag werden genomen, bleken die onveraccijnsd te zijn. Dit bleek onder andere ten aanzien van de inbeslaggenomen partij in een loods aan de [adres] te Noordwijkerhout, die gezien de inhoud van de tapgesprekken kort ervoor, mede een bestelling van de verdachte betrof. Dat de verdachte daarnaast nog gelijksoortige gesprekken heeft gevoerd — inclusief afspraken om elkaar te ontmoeten en over betalingen — die tot niets zouden hebben geleid, vindt het hof onaannemelijk.
+
+De conclusie is dat de verdachte in de tenlastegelegde periode over partijen onveraccijnsde sigaretten feitelijke beschikkingsmacht heeft gehad en die daarmee voorhanden heeft gehad in de zin van de Wet op de accijns.
+
+Voorwaardelijk verzoek tot het horen van [medeverdachte 3]
+
+De advocaat-generaal heeft ter terechtzitting in hoger beroep bij requisitoir de verklaring van [medeverdachte 3] als mogelijk bewijsmiddel voorgesteld in geval van een bewezenverklaring van feit 1 en/of feit 2. De raadsman van de verdachte heeft ter terechtzitting in hoger beroep, overeenkomstig zijn overgelegde pleitnota, het voorwaardelijke verzoek gedaan om [medeverdachte 3] als getuige te horen in het geval dat het hof de verklaring van [medeverdachte 3], zoals door de advocaat-generaal voorgesteld, tot het bewijs bezigt.
+
+Gelet op de beslissing van het hof dat de verdachte van het hem onder feit 1 tenlastegelegde zal worden vrijgesproken en het hof de verklaring van [medeverdachte 3] tevens niet als bewijs bezigt ten aanzien van feit 2, is niet aan de voorwaarde van het verzoek voldaan en komt het hof aan de beoordeling daarvan niet toe. Ook overigens heeft de verdachte daar geen belang meer bij.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het onder 2 tenlastegelegde heeft begaan, met dien verstande dat:
+
+2.hij in of omstreeks de periode van 1 oktober 2017 tot en met 5 april 2018 te 's-Gravenhage, althans in Nederland, tezamen en in vereniging met (een) ander(en), althans alleen, meermalen, althans eenmaal, opzettelijk (een) accijnsgoed(eren), te weten (circa) 18.200 stuks sigaretten (AMB-076) en/of meerdere (grote) partijen sigaretten (verhandeld met [medeverdachte 1] (AMB-102) en/of met [medeverdachte 3] (7-OPV, p. 16 e.v.; Dossier blz 565 e.v.) en/of met [medeverdachte 2] (7-OPV, p. 24 e.v.; Dossier blz 573 e.v.) en/of [medeverdachte 9] (7-OPV, p. 30 e.v.; Dossier blz 579 e.v.)), in elk geval (telkens) (een) (grote) hoeveelhe(i)d(en) sigaretten voorhanden heeft gehad, terwijl die sigaretten niet overeenkomstig de bepalingen van de Wet op de Accijns in de heffing waren betrokken.
+
+Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet daarvan worden vrijgesproken.
+
+Bewijsvoering
+
+Het hof grondt zijn overtuiging dat de verdachte het bewezenverklaarde heeft begaan op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat en die reden geven tot de bewezenverklaring.
+
+In die gevallen waarin de wet aanvulling van het arrest vereist met de bewijsmiddelen dan wel, voor zover artikel 359, derde lid, tweede volzin, van het Wetboek van Strafvordering wordt toegepast, met een opgave daarvan, zal zulks plaatsvinden in een aanvulling die als bijlage aan dit arrest zal worden gehecht.
+
+Strafbaarheid van het bewezenverklaarde
+
+Het onder 2 bewezenverklaarde levert op:
+
+medeplegen van opzettelijke overtreding van een in artikel 5 van de Wet op de accijns opgenomen verbod, meermalen gepleegd.
+
+Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte uitsluit. De verdachte is dus strafbaar.
+
+Strafmotivering
+
+Het hof heeft de op te leggen straffen bepaald op grond van de ernst van het feit en de omstandigheden waaronder dit is begaan en op grond van de persoon en de persoonlijke omstandigheden van de verdachte, zoals daarvan is gebleken uit het onderzoek ter terechtzitting.
+
+Daarbij heeft het hof in het bijzonder het volgende in aanmerking genomen.
+
+Uit het opsporingsonderzoek van de FIOD onder de naam Watercypres is naar voren gekomen dat in 2017 en 2018 grote partijen sigaretten zonder afdracht van Nederlandse accijns vanuit het buitenland naar Nederland werden gesmokkeld. Deze onveraccijnsde sigaretten werden veelal opgeslagen in loodsen en van daaruit ver beneden de reguliere prijs verhandeld dan wel direct doorverkocht aan supermarkten, waar de sigaretten aan de consument werden verkocht. Door deze illegale handel werd de accijnsverplichting ontdoken en is de Nederlandse Staat voor een aanzienlijk bedrag benadeeld.
+
+Daarnaast ondermijnt de illegale handel in sigaretten het met de accijnsheffing beoogde doel om roken te ontmoedigen en is voorts sprake van oneerlijke concurrentie ten opzichte van bonafide handelaren en bedrijven die wel voldoen aan de verplichtingen in het kader van de accijnsheffingen.
+
+De verdachte heeft met het opzettelijk voorhanden hebben van grote hoeveelheden van deze sigaretten een bijdrage geleverd aan de illegale handel daarin en daarmee de overheid en de samenleving benadeeld.
+
+Dit rechtvaardigt daarom in beginsel de oplegging van een onvoorwaardelijke gevangenisstraf. Het hof ziet echter aanleiding te kiezen voor een andere, lichtere strafmodaliteit en overweegt daartoe als volgt.
+
+Het hof neemt daarbij in aanmerking dat de behandeling van de zaak niet heeft plaatsgevonden binnen een redelijke termijn van berechting in de zin van artikel 6, eerste lid, van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden, nu deze termijn in eerste aanleg met 4 maanden en in hoger beroep met ruim 14 maanden is overschreden. Het hof zal deze overschrijding verdisconteren in de hoogte van de op te leggen straf als nader aan te geven.
+
+Het hof heeft voorts acht geslagen op een de verdachte betreffend uittreksel Justitiële Documentatie d.d. 9 oktober 2023, waaruit blijkt dat de verdachte behoudens enkele verkeersboetes niet eerder is veroordeeld voor het plegen van strafbare feiten.
+
+Gezien ten slotte de door de verdachte in hoger beroep naar voren gebrachte overige persoonlijke omstandigheden, acht het hof niet passend dat de verdachte in het kader van deze strafzaak opnieuw wordt gedetineerd. Alles afwegende is het hof van oordeel dat een geheel onvoorwaardelijke taakstraf voor de duur van 220 uren alsmede een geheel voorwaardelijke gevangenisstraf van na te melden duur een passende en geboden reactie vormen. Daarmee wordt enerzijds de ernst van het bewezenverklaarde tot uitdrukking gebracht en wordt anderzijds de strafoplegging dienstbaar gemaakt aan het voorkomen van nieuwe strafbare feiten. De overschrijding van de redelijke termijn is in deze straf in die zin verdisconteerd dat zonder de overschrijding van de redelijke termijn een taakstraf zou zijn opgelegd voor de duur van 240 uren.
+
+De in hoger beroep op te leggen straf valt daarmee aanzienlijk lager uit dan de straf die de rechtbank heeft opgelegd. Daarbij dient te worden bedacht dat het hof de verdachte vrijspreekt van deelneming aan een criminele organisatie en daarmee substantieel minder bewezen verklaart dan de rechtbank heeft gedaan en de advocaat-generaal heeft gevorderd.
+
+Beslag
+
+Het hof zal ten aanzien van de inbeslaggenomen en nog niet teruggegeven voorwerpen genoemd onder 2 tot en met 11 op de beslaglijst – te weten sigaretten – de onttrekking aan het verkeer gelasten, nu het bewezenverklaarde met betrekking tot voornoemde voorwerpen is begaan en het ongecontroleerde bezit daarvan in strijd is met de wet.
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 9, 14a, 14b, 14c, 22c, 22d, 36b, 36c, 47, 57 en 63 van het Wetboek van Strafrecht en de artikelen 5 en 97 van de Wet op de accijns, zoals zij rechtens gelden dan wel golden.
+
+BESLISSING
+
+Het hof:
+
+Verklaart de verdachte niet-ontvankelijk in het hoger beroep, voor zover gericht tegen de beslissing ter zake van het onder 3 tenlastegelegde.
+
+Vernietigt het vonnis waarvan beroep, voor zover aan het oordeel van het hof onderworpen, en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het onder 1 tenlastegelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 2 tenlastegelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het onder 2 bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 4 (vier) maanden.
+
+Bepaalt dat de gevangenisstraf niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat de verdachte zich voor het einde van een proeftijd van 2 (twee) jaren aan een strafbaar feit heeft schuldig gemaakt.
+
+Veroordeelt de verdachte tot een taakstraf voor de duur van 220 (tweehonderdtwintig) uren, indien niet naar behoren verricht te vervangen door 110 (honderdtien) dagen hechtenis.
+
+Beveelt dat de tijd die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in enige in artikel 27, eerste lid, van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde taakstraf in mindering zal worden gebracht, volgens de maatstaf van twee uren taakstraf per in voorarrest doorgebrachte dag, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Beveelt de onttrekking aan het verkeer van de in beslag genomen, nog niet teruggegeven voorwerpen, te weten:
+
+sigaretten.
+
+Dit arrest is gewezen door mr. T.J. Sleeswijk Visser,
+
+mr. A.L. Frenkel en mr. J. Candido, in bijzijn van de griffier mr. S. Roos.
+
+Het is uitgesproken op de openbare terechtzitting van het hof van 9 november 2023.
