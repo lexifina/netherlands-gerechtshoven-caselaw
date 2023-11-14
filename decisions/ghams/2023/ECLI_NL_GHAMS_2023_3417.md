@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:3417"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/9", "NLF 2024/0063", "Belastingblad 2024/45", "V-N 2024/22.21 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/9", "NLF 2024/0063", "Belastingblad 2024/45", "V-N 2024/22.21"]
 ---
 
 # ECLI:NL:GHAMS:2023:3417 Gerechtshof Amsterdam , 14-11-2023 / 22/02530 tot en met 22/02533
