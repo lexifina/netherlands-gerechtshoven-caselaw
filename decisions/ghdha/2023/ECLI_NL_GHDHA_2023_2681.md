@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2681"
 published_in: ["Rechtspraak.nl", "Module Aanbesteding 2024/2264", "SEW 2024/58, p. 185"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2020:12395, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2020:12395, Overig"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2989"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2025:310"], ["Formele relatie", "Prejudiciële vraag aan: ECLI:EU:C:2026:4"]]
 ---
 
 # ECLI:NL:GHDHA:2023:2681 Gerechtshof Den Haag , 14-11-2023 / 200.290.736/01
