@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2196"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1490", "PR-Updates.nl PR-2024-0009", "PJ 2024/3", "VAAN-AR-Updates.nl 2023-1490"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1490", "PR-Updates.nl PR-2024-0009", "PJ 2024/3", "VAAN-AR-Updates.nl 2023-1490", "PR-Updates.nl 2024-0009"]
 ---
 
 # ECLI:NL:GHDHA:2023:2196 Gerechtshof Den Haag , 14-11-2023 / 200.299.70701
