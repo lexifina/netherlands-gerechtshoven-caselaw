@@ -17,7 +17,7 @@ relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2023:2191"], ["For
 
 ## Inhoudsindicatie
 
-Execution of a prisoner of war in Syria. Prison sentence of 23.5 years. War crime in a non-international armed conflict (Article 6 WIM). Participation in a terrorist organisation in Syria (Article 140a Sr.). Jurisdiction based on Article 6 Sr. and Article 4(2) of the Decree on International Obligations regarding Extraterritorial Jurisdiction.
+Judgment of the national Dutch Court of Appeal in The Hague. Execution of a prisoner of war in Syria. Prison sentence of 23.5 years. War crime in a non-international armed conflict (Article 6 WIM). Participation in a terrorist organisation in Syria (Article 140a Sr.). Jurisdiction based on Article 6 Sr. and Article 4(2) of the Decree on International Obligations regarding Extraterritorial Jurisdiction.
 
 ## Uitspraak
 
