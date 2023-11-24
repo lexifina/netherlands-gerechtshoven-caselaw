@@ -1,0 +1,310 @@
+---
+ecli: "ECLI:NL:GHDHA:2023:2317"
+court: "Gerechtshof Den Haag"
+court_code: "GHDHA"
+docket: "BK-22/00931 tot en met BK-22/00938"
+decided: "2023-11-24"
+published: "2023-12-01"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Bestuursrecht; Belastingrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2317"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:4531, Bekrachtiging/bevestiging"]]
+---
+
+# ECLI:NL:GHDHA:2023:2317 Gerechtshof Den Haag , 24-11-2023 / BK-22/00931 tot en met BK-22/00938
+
+## Inhoudsindicatie
+
+Artikel 17, lid 2, Wet WOZ. De Heffingsambtenaar heeft aannemelijk gemaakt dat de waarden van de woningen niet te hoog zijn vastgesteld. Geen vergoeding van immateriële schade. Uit de machtiging volgt dat het belang van belanghebbende niet rechtstreeks is betrokken bij het verzoek om vergoeding van immateriële schade. Belanghebbende kan de in de machtiging vervatte cessie van de vordering van het recht op vergoeding van proceskosten en immateriële schade niet eenzijdig ongedaan maken. Art. 3:94, lid 1, BW.
+
+## Uitspraak
+
+GERECHTSHOF DEN HAAG
+
+Team Belastingrecht
+
+meervoudige kamer
+
+nummers BK-22/00931 tot en met BK-22/00938
+
+Uitspraak van 24 november 2023
+
+in het geding tussen:
+
+[X] te [Z] , belanghebbende,
+(gemachtigde: D.A.N. Bartels)
+
+en
+
+de heffingsambtenaar van de gemeente Noordwijk, de Heffingsambtenaar,
+(vertegenwoordiger: […] )
+
+op het hoger beroep van belanghebbende tegen de uitspraak van de Rechtbank Den Haag (de Rechtbank) van 17 mei 2022, nummers SGR 21/2107, SGR 21/2111, SGR 21/2113, SGR 21/2116, SGR 21/2118, SGR 21/2120, SGR 21/2123 en SGR 21/2125.
+
+Procesverloop
+
+1.1.
+
+De Heffingsambtenaar heeft bij beschikkingen op grond van artikel 22 van de Wet waardering onroerende zaken (Wet WOZ) de waarden van de woningen gelegen aan [adressen 1 t/m 8] in [woonplaats] voor het kalenderjaar 2020 naar de waardepeildatum 1 januari 2019 (de waardepeildatum) vastgesteld. Met de beschikkingen zijn in één geschrift bekendgemaakt en verenigd de aan belanghebbende voor het jaar 2020 opgelegde aanslagen in de onroerendezaakbelastingen (de aanslagen). De waarden zijn als volgt vastgesteld:
+
+[adres 1] : € 50.000;
+
+[adres 2] : € 50.000;
+
+[adres 3] : € 50.000;
+
+[adres 4] : € 50.000;
+
+[adres 5] : € 54.000;
+
+[adres 6] : € 48.000;
+
+[adres 7] : € 56.000;
+
+[adres 8] : € 41.000.
+
+1.2.
+
+De Heffingsambtenaar heeft bij uitspraken op bezwaar het bezwaar tegen de beschikkingen en de aanslagen ongegrond verklaard.
+
+1.3.
+
+Belanghebbende heeft tegen de uitspraken op bezwaar beroep ingesteld bij de Rechtbank. Ter zake hiervan is een griffierecht geheven van € 0. De Rechtbank heeft het beroep ongegrond verklaard en het verzoek om vergoeding van immateriële schade afgewezen.
+
+1.4.
+
+Belanghebbende heeft tegen de uitspraak van de Rechtbank hoger beroep ingesteld. Ter zake hiervan is een griffierecht geheven van € 136. De Heffingsambtenaar heeft een verweerschrift ingediend. De Heffingsambtenaar heeft op 13 september 2023 een nader stuk ingediend. Belanghebbende heeft op 14 september 2023 een nader stuk ingediend.
+
+1.5.
+
+De mondelinge behandeling van de zaken heeft plaatsgehad ter zitting van 17 oktober 2023. Partijen zijn verschenen. Van het verhandelde ter zitting is een proces-verbaal opgemaakt.
+
+Feiten
+
+2.1.
+
+Belanghebbende is eigenaar van de onder 1.1 vermelde woningen. Voor de woningen gelden de volgende kenmerken:
+
+Object
+
+Type object
+
+Bouwjaar
+
+Inhoud/opp.
+
+[adres 1]
+
+Appartement
+
+1932
+
+65 m³
+
+[adres 2]
+
+Appartement
+
+1932
+
+65 m³
+
+[adres 3]
+
+Appartement
+
+1932
+
+65 m³
+
+[adres 4]
+
+Appartement
+
+1932
+
+65 m³
+
+[adres 5]
+
+Appartement
+
+1932
+
+72 m³
+
+[adres 6]
+
+Appartement
+
+1932
+
+62 m³
+
+[adres 7]
+
+Appartement
+
+1932
+
+74 m³
+
+[adres 8]
+
+Appartement
+
+1932
+
+52 m³
+
+2.2.
+
+Belanghebbende heeft een tot de stukken van het geding behorende volmacht aan de gemachtigde verstrekt:
+
+“Deze volmacht wordt door mij verstrekt en ondertekend om [naam kantoor gemachtigde] in de persoon van Mr. [naam gemachtigde] (…) de mogelijkheid én toestemming te geven om voor de belangen op te komen van alle door mij gecontroleerde rechtspersonen (…) en van mijzelf (…).
+
+Onder deze machtiging wordt ook uitdrukkelijk geschaard de bevoegdheid om de van de gemeente c.q. het fiscale samenwerkingsverband (waarbij de gemeente is aangesloten) bij (gedeeltelijke) gegrondverklaring te ontvangen bijdrage c.q. tegemoetkoming in de door mij noodzakelijkerwijs te maken proceskosten te laten storten op IBAN (…) t.n.v. [naam kantoor gemachtigde] (…). Ondergetekende draagt al zijn/haar bestaande en toekomstige vorderingen uit hoofde van proceskostenvergoedingen als bedoeld in de artikelen 7:15 en 8:75 Awb waarbij [naam kantoor gemachtigde] is opgetreden als gemachtigde over aan [naam kantoor gemachtigde] en gelast hierbij de gemeente c.q. het fiscale samenwerkingsverband c.q. de Ministerie van Justitie en Veiligheid om de proceskostenvergoeding rechtstreeks over te maken aan [naam kantoor gemachtigde] op voormeld IBAN. Mutatis mutandis geldt dat ook voor alle andere daarmee gelijk te stellen (proces)kostenvergoedingen, waaronder de immateriële vanwege onredelijke termijnoverschrijdingen. (…)
+
+(…).”
+
+Oordeel van de Rechtbank
+
+3. De Rechtbank heeft, voor zover in hoger beroep van belang, geoordeeld, waarbij belanghebbende is aangeduid als eiser en de Heffingsambtenaar als verweerder:
+
+“5. Ingevolge artikel 17, tweede lid, van de Wet WOZ wordt de waarde van de onroerende zaken bepaald op de waarde die aan de onroerende zaken dient te worden toegekend, indien de volle en onbezwaarde eigendom daarvan zou kunnen worden overgedragen en de verkrijger de zaak in de staat waarin die zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen. Deze waarde is naar de bedoeling van de wetgever "de prijs welke door de meestbiedende koper besteed zou worden bij aanbieding ten verkoop op de voor de zaak meest geschikte wijze na de beste voorbereiding" (Kamerstukken II 1992/93, 22 885, nr. 3, blz. 44).
+
+6. Verweerder dient aannemelijk te maken dat hij de waardes van de onroerende zaken niet op te hoge bedragen heeft vastgesteld. Naar het oordeel van de rechtbank is verweerder, gelet op de door hem overgelegde matrices en hetgeen hij overigens heeft aangevoerd, hierin geslaagd. Naar volgt uit de matrices zijn de waardes van de onroerende zaken bepaald met behulp van een methode van systematische vergelijking met woningen waarvan marktgegevens beschikbaar zijn. Verweerder heeft de WOZ-waardes van de onroerende zaken aan de [adressen 1 t/m 8] onderbouwd met de verkoopgegevens van een bovenwoning aan de [adres 9] te [woonplaats] . Naast dit vergelijkingsobject bevat de taxatiematrix ter zake van de [adressen 1 t/m 8] gegevens van drie extra onderbouwingen, te weten bovenwoningen aan de [adres 10] , [adres 11] en [adres 12] te [woonplaats] . Eiser heeft ter zitting gesteld dat de in de matrix vermelde vergelijkingsobjecten niet vergelijkbaar zijn met de onroerende zaken aan de [adressen 1 t/m 8] . Verweerder heeft ter zitting toegelicht dat er geen andere objecten in aanmerking kwamen ter onderbouwing van de waardes van de [adressen 1 t/m 8] en dat de best vergelijkbare panden zijn gebruikt. De rechtbank is van oordeel dat de gehanteerde vergelijkingsobjecten kunnen worden gebruikt ter onderbouwing van de waardes van de [adressen 1 t/m 8] . De uit de verkoopprijs herleide m³-prijs voor het vergelijkingsobject aan de [adres 9] , gecorrigeerd naar dezelfde staat als de onroerende zaken aan de [adressen 1 t/m 8] , bedraagt € 499,50. Voor de onroerende zaken aan de [adressen 1 t/m 8] hanteert verweerder eveneens een m³-prijs van € 499,50. (…) Met de matrices en hetgeen overigens door verweerder is aangevoerd, maakt verweerder aannemelijk dat bij de herleiding van de aan de onroerende zaken toegekende waardes uit de bij de verkoop van de vergelijkingsobjecten behaalde verkoopprijzen, in voldoende mate rekening is gehouden met de verschillen tussen de vergelijkingsobjecten en de onroerende zaken. Gelet op het voorgaande kan niet worden gezegd dat de vastgestelde waardes in een onjuiste verhouding staan tot de verkoopprijzen van de vergelijkingsobjecten.
+
+7. Gelet op wat hiervoor is overwogen, heeft verweerder naar het oordeel van de rechtbank aannemelijk gemaakt dat de vastgestelde waardes niet te hoog zijn vastgesteld.
+
+8. Hetgeen eiser heeft aangevoerd, leidt niet tot een ander oordeel. Eiser heeft ter zitting gesteld dat de onderhavige onroerende zaken een slechtere ligging hebben dan waar verweerder van uit is gegaan. Verweerder is voor de onroerende zaken aan de [adressen 1 t/m 8] uitgegaan van een gemiddelde ligging (…). Naar het oordeel van de rechtbank heeft eiser niet aannemelijk gemaakt dat de ligging van de onroerende zaken aan de [adressen 1 t/m 8] slecht is (…). Daar komt bij dat verweerder ter zitting heeft toegelicht dat de onroerende zaken aan de [adressen 1 t/m 8] een vrij en mooi uitzicht hebben en hij daarom is uitgegaan van een gemiddelde ligging. (…). Eiser heeft verder ter zitting nog gesteld dat verweerder onvoldoende rekening heeft gehouden met de staat van de onroerende zaken aan de [adressen 1 t/m 8] . Verweerder is in de matrix uitgegaan van een gemiddelde staat. Eiser heeft niet aannemelijk gemaakt dat de toegepaste vlokcodering onvoldoende is om de staat van die onroerende zaken tot uitdrukking te brengen. (…).
+
+9. Naast het verhandelde ter zitting heeft eiser in zijn beroepschrift bijna uitsluitend algemene en niet concreet op de onroerende zaken zelf betrekking hebbende aspecten genoemd, zoals bodemdaling, palenpest en windmolens. Eiser heeft niet aangegeven – als een en ander al aan de orde zou zijn – welke invloed deze aspecten hebben op de waardebepaling van de onroerende zaken. De rechtbank zal daarom aan deze stellingen voorbijgaan. De gestelde gebrekkige onderhoudssituatie, lokale verpaupering/verloedering en andere omgevingsfactoren heeft eiser eveneens op geen enkele wijze toegelicht of gespecificeerd, zodat hieraan ook wordt voorbijgegaan. Met betrekking tot eiser zijn stelling dat bij de waardebepaling ten onrechte geen rekening is gehouden met de gevolgen van de coronacrisis, overweegt de rechtbank dat de waardepeildatum in deze zaken 1 januari 2019 is. Op dat moment was in Nederland nog geen sprake van een uitbraak van het coronavirus en dus ook niet van de gevolgen daarvan.
+
+(…)
+
+13. Eiser heeft verzocht om een vergoeding voor immateriële schade wegens overschrijding van de redelijke termijn. Daarbij heeft als uitgangspunt te gelden dat, behoudens bijzondere omstandigheden, een periode van twee jaar voor de bezwaar- en beroepsfase gezamenlijk als redelijk wordt beschouwd. De rechtbank ziet echter aanleiding om de termijn in dit geval wegens bijzondere omstandigheden te verlengen met vier maanden. Naar het oordeel van de rechtbank is de coronacrisis een uitzonderlijke en onvoorzienbare situatie die voldoende reden geeft om een langere redelijke termijn dan een termijn van twee jaar te hanteren. De termijn hiervoor vangt aan op het moment waarop verweerder het bezwaarschrift ontvangt. De rechtbank gaat uit van de door verweerder gestelde ontvangstdatum, te weten 26 maart 2020. De rechtbank doet uitspraak op 17 mei 2022, zodat de redelijke termijn, rekening houdend met de verlenging als gevolg van de coronacrisis, niet wordt overschreden. De rechtbank wijst het verzoek om schadevergoeding dan ook af.
+
+14. Gelet op wat hiervoor is overwogen, zijn de waardes van de onroerende zaken en de aanslagen niet te hoog vastgesteld. De beroepen zijn daarom ongegrond verklaard.”
+
+Geschil in hoger beroep en conclusies van partijen
+
+4.1.1.
+
+De gemachtigde heeft in het hoger beroepschrift en het nader stuk (door hem onder meer “pinpoint brief” genoemd) volstaan met het aanvoeren van algemeen geformuleerde vragen en grieven waarvan vele niet van toepassing zijn in de onderhavige zaken. Daarom is de gemachtigde ter zitting gevraagd welke gronden in hoger beroep hij concreet in dit geschil aanvoert en verder of hij ermee instemt dat al het andere wat hij in de gedingstukken aanvoert, niet in de beoordeling van het geschil wordt betrokken. Daarop heeft de gemachtigde verklaard dat het geschil uitsluitend betrekking heeft op de hierna onder 4.1.2 genoemde punten.
+
+4.1.2.
+
+In hoger beroep is in geschil of:
+
+(i) de vastgestelde waarden van de woningen gelegen aan [adressen 1 t/m 8] te hoog zijn;
+
+(ii) belanghebbende in aanmerking komt voor een vergoeding van immateriële schade vanwege overschrijding van de redelijke termijn.
+
+Belanghebbende beantwoordt deze vragen bevestigend, de Heffingsambtenaar ontkennend.
+
+4.2.
+
+Belanghebbende concludeert in hoger beroep tot vernietiging van de uitspraak van de Rechtbank en de uitspraken op bezwaar voor wat betreft de woningen gelegen aan [adressen 1 t/m 8] , tot vermindering van de beschikkingen, tot dienovereenkomstige vermindering van de aanslagen en tot een vergoeding van immateriële schade. Voorts verzoekt belanghebbende om een proceskostenvergoeding.
+
+4.3.
+
+De Heffingsambtenaar concludeert tot bevestiging van de uitspraak van de Rechtbank.
+
+Beoordeling van het hoger beroep
+
+WOZ-waarde
+
+5.1.
+
+De waarde van een onroerende zaak wordt ingevolge artikel 17, lid 2, van de Wet WOZ bepaald op de waarde die daaraan dient te worden toegekend, indien de volle en onbezwaarde eigendom van de onroerende zaak zou kunnen worden overgedragen en de verkrijger de onroerende zaak in de staat waarin deze zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen. Deze waarde is naar de bedoeling van de wetgever "de prijs welke door de meestbiedende koper besteed zou worden bij aanbieding ten verkoop op de voor de zaak meest geschikte wijze na de beste voorbereiding" (Kamerstukken II 1992/93, 22 885, nr. 3, blz. 44).
+
+5.2.
+
+De Heffingsambtenaar dient aannemelijk te maken dat hij de waarden van de woningen niet op een te hoog bedrag heeft vastgesteld.
+
+5.3.
+
+Bij de beoordeling wordt vooropgesteld dat het elke partij vrijstaat om ter voldoening aan haar bewijslast al dan niet gebruik te maken van een waarderingsmethode en, indien zij gebruikmaakt van een waarderingsmethode, eveneens vrij is in de keuze van de door haar gebruikte waarderingsmethode en wat zij daartoe ter onderbouwing aandraagt. Waarderingsmethoden zijn niet meer dan hulpmiddelen bij de waardebepaling. De rechter toetst uitsluitend of de door de Heffingsambtenaar voorgestane waarde en, indien de rechter aan de toetsing van de door belanghebbende verdedigde waarde toekomt, de door belanghebbende verdedigde waarde, de toetsing aan het wettelijke waardebegrip doorstaan (vgl. HR 29 november 2000, ECLI:NL:HR:2000:AA8610).
+
+5.4.
+
+De Rechtbank heeft op goede gronden, opgenomen in de onderdelen 5 tot en met 9 van haar uitspraak, geoordeeld dat de Heffingsambtenaar aan de op hem rustende bewijslast heeft voldaan. Hetgeen belanghebbende in hoger beroep heeft aangevoerd, werpt niet een ander of nieuw licht op de zaak en leidt niet tot een andersluidende beslissing dan door de Rechtbank genomen.
+
+Vergoeding van immateriële schade
+
+5.5.
+
+Op grond van vaste jurisprudentie van de Hoge Raad geldt als uitgangspunt dat, behoudens bijzondere omstandigheden, de berechting van een zaak in de bezwaar- en de beroepsfase niet binnen een redelijke termijn geschiedt indien de rechtbank niet binnen twee jaar nadat die termijn is aangevangen, uitspraak doet. De termijn vangt in beginsel aan op het moment waarop de Heffingsambtenaar het bezwaarschrift ontvangt en eindigt op het moment waarop de rechter uitspraak doet (HR 19 februari 2016, ECLI:NL:HR:2016:252, BNB 2016/140).
+
+5.6.
+
+Het bezwaarschrift is door de Heffingsambtenaar ontvangen op 26 maart 2020. De Rechtbank heeft uitspraak gedaan op 17 mei 2022. Vanaf de datum van ontvangst van het bezwaarschrift door de Heffingsambtenaar tot en met de datum waarop de Rechtbank uitspraak doet, zijn twee jaar en (afgerond) twee maanden verstreken. De redelijke termijn is aldus met twee maanden overschreden.
+
+5.7.
+
+De Rechtbank heeft geen vergoeding van immateriële schade toegekend, omdat zij de maatregelen die met ingang van 17 maart 2020 zijn getroffen naar aanleiding van de uitbraak van het coronavirus heeft aangemerkt als bijzondere omstandigheid die de redelijke termijn verlengt. Belanghebbende is daartegen opgekomen.
+
+5.8.
+
+Dienaangaande geldt dat de uitbraak van het coronavirus in 2020 niet in algemene zin kan worden aangemerkt als een bijzondere omstandigheid die een verlenging van de redelijke termijn rechtvaardigt. De uitbraak van het coronavirus vormt alleen een bijzondere omstandigheid indien partijen waren uitgenodigd voor een onderzoek ter zitting in de periode waarin de gerechtsgebouwen in verband met de uitbraak van dit virus waren gesloten, te weten van 17 maart 2020 tot en met 10 mei 2020 en het onderzoek ter zitting daarom opnieuw moest worden gepland (vgl. HR 27 mei 2022, ECLI:NL:HR:2022:752, BNB 2022/106).
+
+5.9.
+
+Uit het correspondentiedossier van de Rechtbank blijkt dat partijen bij brief van 8 maart 2022 voor het eerst zijn uitgenodigd voor een onderzoek ter zitting op 3 mei 2022. Gelet op hetgeen onder 5.8 is overwogen, betekent dit dat de uitbraak van het coronavirus in deze zaak geen bijzondere omstandigheid vormt die een verlenging van de redelijke termijn rechtvaardigt. Dit brengt mee dat de redelijke termijn met twee maanden is overschreden. Het hoger beroep is in zoverre gegrond, maar leidt gelet op het navolgende niet tot vernietiging van de uitspraak van de Rechtbank.
+
+5.10.
+
+Het Hof overweegt dat bij overschrijding van de redelijke termijn in beginsel spanning en frustratie bij belanghebbende worden verondersteld. Voor de bepaling van de hoogte van de toe te kennen vergoeding van immateriële schade is de mate waarin belanghebbende daadwerkelijk spanning en frustratie heeft ondervonden in beginsel niet van belang, behoudens bijzondere omstandigheden (HR 10 juni 2011, ECLI:NL:HR:2011:BO5046, BNB 2011/232 en HR 20 juni 2014, ECLI:NL:HR:2014:1461, BNB 2014/200).
+
+5.11.
+
+Gelet op de onder 2.2 weergegeven passages in de volmacht zou inwilliging van het door de gemachtigde ingediende verzoek tot veroordeling van de Heffingsambtenaar tot vergoeding van de door belanghebbende geleden immateriële schade wegens overschrijding van de redelijke termijn, niet ertoe leiden dat belanghebbende wordt gecompenseerd voor de door haar geleden immateriële schade in de vorm van spanning en frustratie als gevolg van het uitblijven van een beslissing op zijn beroep binnen een redelijke termijn, maar zou wat als compensatie van spanning en frustratie van belanghebbende is bedoeld, in werkelijkheid winst voor de BV van gemachtigde vormen. Het door de gemachtigde ingediende verzoek om schadevergoeding dient dus niet het belang van belanghebbende. Het verzoek van belanghebbende om vergoeding van immateriële schade wordt daarom afgewezen.
+
+5.12.
+
+De door de gemachtigde van belanghebbende ter zitting afgelegde verklaring dat hij afstand doet van de in de volmacht opgenomen cessie van vorderingsrechten met betrekking tot (proces)kostenvergoedingen en vergoedingen van immateriële schade, heeft geen rechtsgevolg. Veronderstellenderwijs ervan uitgaand dat sprake is van een rechtsgeldige cessie is het niet mogelijk om daarvan eenzijdig afstand te doen. Dit betekent dat de gemachtigde de cessie alleen ongedaan kan maken door de verkregen vorderingsrechten terug te leveren aan belanghebbende. Gelet op de aan de levering van vorderingsrechten in artikel 3:94, lid 1, van het Burgerlijk Wetboek gestelde vormvereisten, waarbij is vereist dat de levering plaatsvindt door een daartoe bestemde akte en mededeling daarvan aan de schuldenaar, is de enkele verklaring van de gemachtigde ter zitting daartoe onvoldoende.
+
+5.13.
+
+Het Hof verklaart het hoger beroep ongegrond.
+
+Proceskosten
+
+Er is geen aanleiding voor een veroordeling in de proceskosten.
+
+Beslissing
+
+Het Gerechtshof bevestigt de uitspraak van de Rechtbank.
+
+Deze uitspraak is vastgesteld door T.A. de Hek, Chr.Th.P.M. Zandhuis en R.M. Hermans, in tegenwoordigheid van de griffier M.G. Kastelein. De beslissing is op 24 november 2023 in het openbaar uitgesproken. Bij afwezigheid van de voorzitter is deze uitspraak ondertekend door Chr.Th.P.M. Zandhuis.
+
+aangetekend aan
+
+partijen verzonden:
+
+Tegen deze uitspraak kunnen beide partijen binnen zes weken na de verzenddatum beroep in cassatie instellen bij
+de Hoge Raad der Nederlanden via het webportaal van de Hoge Raad www.hogeraad.nl.
+
+Bepaalde personen die niet worden vertegenwoordigd door een gemachtigde die beroepsmatig rechtsbijstand verleent, mogen per post beroep in cassatie instellen. Dit zijn natuurlijke personen en verenigingen waarvan de statuten niet zijn opgenomen in een notariële akte. Als zij geen gebruik willen maken van digitaal procederen kunnen deze personen het beroepschrift in cassatie sturen aan
+de Hoge Raad der Nederlanden (belastingkamer), Postbus 20303, 2500 EH Den Haag.
+
+Alle andere personen en gemachtigden die beroepsmatig rechtsbijstand verlenen, zijn in beginsel verplicht digitaal te procederen (zie www.hogeraad.nl).
+
+Bij het instellen van beroep in cassatie moet het volgende in acht worden genomen:
+
+1 - bij het beroepschrift wordt een afschrift van deze uitspraak gevoegd;
+2 - (alleen bij procederen op papier) het beroepschrift moet ondertekend zijn;
+3 - het beroepschrift moet ten minste het volgende vermelden:
+
+a. - de naam en het adres van de indiener;
+
+b. - de dagtekening;
+
+c. - de vermelding van de uitspraak waartegen het beroep in cassatie is gericht;
+
+d. - de gronden van het beroep in cassatie.
+
+Voor het instellen van beroep in cassatie is griffierecht verschuldigd. Na het instellen van beroep in cassatie ontvangt de indiener een nota griffierecht van de griffier van de Hoge Raad. In het cassatieberoepschrift kan de Hoge Raad verzocht worden om de wederpartij te veroordelen in de proceskosten.
