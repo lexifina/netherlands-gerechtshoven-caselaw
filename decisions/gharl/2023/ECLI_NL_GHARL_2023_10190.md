@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:10190"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2977", "NLF 2023/2823", "NDFR Nieuws 2024/31", "NTFR 2024/212 met annotatie van MR. E. ALINK", "V-N 2024/15.1.1", "Viditax (FutD) 2023120811", "FutD 2023-3114"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:723"]]
 ---
 
 # ECLI:NL:GHARL:2023:10190 Gerechtshof Arnhem-Leeuwarden , 28-11-2023 / 22/706
