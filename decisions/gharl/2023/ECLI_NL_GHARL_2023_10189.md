@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:10189"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2926", "NLF 2023/2841", "V-N 2024/13.16 met annotatie van Redactie", "Viditax (FutD) 2023120809", "FutD 2023-3135"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2023/2926", "NLF 2023/2841", "V-N 2024/13.16", "Viditax (FutD) 2023120809", "FutD 2023-3135"]
 ---
 
 # ECLI:NL:GHARL:2023:10189 Gerechtshof Arnhem-Leeuwarden , 28-11-2023 / 22/596
