@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2301"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0215", "JAR 2024/10 met annotatie van prof. mr. drs. M. Heemskerk", "PJ 2024/18 met annotatie van S.H. Kuiper, P. Jansen"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0215", "JAR 2024/10 met annotatie van prof. mr. drs. M. Heemskerk", "PJ 2024/18 met annotatie van P. Jansen\t\t, S.H. Kuiper", "PR-Updates.nl 2023-0215"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:3851, Bekrachtiging/bevestiging"]]
 ---
 
