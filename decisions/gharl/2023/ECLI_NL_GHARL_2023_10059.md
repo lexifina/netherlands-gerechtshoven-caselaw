@@ -1,0 +1,554 @@
+---
+ecli: "ECLI:NL:GHARL:2023:10059"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "21-002005-21"
+decided: "2023-11-29"
+published: "2023-11-27"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:10059"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:GHARL:2023:10059 Gerechtshof Arnhem-Leeuwarden , 29-11-2023 / 21-002005-21
+
+## Inhoudsindicatie
+
+Het hof heeft verdachte veroordeeld tot een taakstraf van 200 uur en een (deels) voorwaardelijke gevangenisstraf. Verdachte heeft als feitelijke leidinggever honderden pluimveestallen ontsmet met een bestrijdingsmiddel waar het verboden en schadelijke fipronil in zat. Hiermee heeft hij het belang van voedselveiligheid verwaarloosd en heeft hij gezorgd voor gezondheidsrisico’s, milieuschade en (enorme) economische schade.
+
+## Uitspraak
+
+Afdeling strafrecht
+
+Parketnummer:	21-002005-21
+
+Uitspraak d.d.:	29 november 2023
+
+TEGENSPRAAK
+
+Verkort arrest van de meervoudige kamer voor strafzaken van het gerechtshof Arnhem-Leeuwarden, zittingsplaats Arnhem,
+
+gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Overijssel van 12 april 2021 met parketnummer 08-997504-17 in de strafzaak tegen
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] op [geboortedag] 1993,
+
+wonende te [woonplaats]
+
+Het hoger beroep
+
+De verdachte en de officier van justitie hebben tegen het hiervoor genoemde vonnis hoger beroep ingesteld.
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzitting van het hof van 15 november 2023 en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzitting in eerste aanleg.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal. Deze vordering is na voorlezing aan het hof overgelegd. Het hof heeft verder kennisgenomen van hetgeen door verdachte en zijn raadsman, mr. W. Hendrickx, naar voren is gebracht.
+
+Het vonnis waarvan beroep
+
+Het hof zal het vonnis waarvan beroep vernietigen omdat het tot een andere strafoplegging komt en daarom opnieuw recht doen.
+
+De tenlastelegging
+
+Aan verdachte is tenlastegelegd dat:
+
+1
+primair:[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode vanaf 1 januari 2015 tot en met 12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), een waar/waren, te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast, (telkens) bevattende de werkzame stof Fipronil,
+
+heeft/hebben verkocht en/of te koop heeft/hebben aangeboden en/of heeft/hebben afgeleverd,
+
+wetende dat (een of meer van) die waar/waren voor het leven of de gezondheid schadelijk is/zijn,
+
+terwijl die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s) (telkens) dat schadelijk karakter hebben/heeft verzwegen,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+1
+subsidiair:[medeverdachte 1] en/of [medeverdachte 2]
+
+in of omstreeks de periode vanaf 1 januari 2015 tot en met 12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+opzettelijk niet aan haar verplichting heeft voldaan om op zorgvuldige wijze om te gaan met biociden en/of de daarbij behorende werkzame stoffen,
+
+immers heeft/hebben zij en/of haar mededader(s)
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast, bevattende (telkens) de werkzame stof Fipronil, op de markt gebracht en/of gebruikt en/of verkocht en/of te koop aangeboden en/of afgeleverd,
+
+waardoor zij en/of haar mededader(s) wist(en), dan wel redelijkerwijs had(den) kunnen vermoeden, dat door dit handelen en/of nalaten gevaar ontstond en/of kon ontstaan voor een mens en/of voor een dier en/of voor de bodem en/of voor het water,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+2:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode vanaf 1 januari 2015 tot en met
+
+12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, een of meer biocide(n), te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast en/of
+
+- Miteclean
+
+voorhanden of in voorraad heeft gehad,
+
+terwijl (telkens) dat/die biocide(n) niet ingevolge de Wet gewasbeschermingsmiddelen en biociden was/waren toegelaten,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+3:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode vanaf 1 januari 2015 tot en met
+
+12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland,
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, een of meer biocide(n), te weten
+
+- Formaline en/of
+
+- Kilcox en/of
+
+- Envirex en/of Virex en/of
+
+- Neporex en/of
+
+- Fatal en/of
+
+- Lurectron,
+
+voorhanden of in voorraad heeft gehad,
+
+terwijl (telkens) dat/die biocide(n) niet ingevolge de Wet gewasbeschermingsmiddelen en biociden was/waren toegelaten,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+4:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode vanaf 1 januari 2015 tot en met 12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, heeft/hebben gehandeld in strijd met artikel 17, eerste, vijfde en/of zesde lid van verordening (EU) nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen,
+
+immers heeft/hebben die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s)
+
+een of meer biocide(n), te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast en/of
+
+- Miteclean
+
+op de markt aangeboden en/of gebruikt,
+
+terwijl (telkens) voor die biocide(n) geen toelating overeenkomstig die verordening was verleend,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+5:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode vanaf 1 januari 2015 tot en met 12 februari 2018, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland,
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal
+
+(telkens), opzettelijk, heeft/hebben gehandeld in strijd met artikel 17, eerste, vijfde en/of zesde lid van verordening (EU) nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen,
+
+immers heeft/hebben die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s)
+
+een of meer biocide(n), te weten
+
+- Formaline en/of
+
+- Kilcox en/of
+
+- Envirex en/of Virex en/of
+
+- Neporex en/of
+
+- Fatal en/of
+
+- Lurectron,
+
+op de markt aangeboden en/of gebruikt,
+
+terwijl (telkens) voor die biocide(n) geen toelating overeenkomstig die verordening was verleend,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijk leiding heeft gegeven aan bovenomschreven verboden gedraging(en).
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. De verdachte is daardoor niet geschaad in de verdediging.
+
+Bewijsoverwegingen
+
+Standpunt van het openbaar ministerie
+
+De advocaat-generaal heeft gerekwireerd tot bewezenverklaring van de onder 1 primair, 2, 3, 4 en 5 tenlastegelegde feiten. Volgens de advocaat-generaal kan het vonnis van de rechtbank voor wat betreft de bewezenverklaring worden bevestigd, waarbij de verklaringen van [getuige] als bewijsmiddel moeten worden toegevoegd.
+
+Standpunt van de verdediging
+
+De raadsman heeft vrijspraak bepleit van alle tenlastegelegde feiten. Hij heeft daartoe - kort gezegd - het volgende aangevoerd.
+
+Voor wat betreft het onder 1 tenlastegelegde feit heeft de verdediging in de eerste plaats
+
+de schadelijkheid in de zin van artikel 174 van het Wetboek van Strafrecht betwist. Uit de bewijsmiddelen blijkt niet dat de effecten van de door verdachte toegepaste bloedluisbehandeling schadelijk waren voor het leven of de gezondheid. Niet met voldoende zekerheid kan worden vastgesteld dat schadelijke gevolgen kunnen optreden voor het leven of de gezondheid als gevolg van elk gebruik waarmee redelijkerwijs rekening moest worden gehouden. Het uitrijden van mest is geen gebruik waarmee redelijkerwijs rekening had moeten worden gehouden, aldus de verdediging.
+
+De verdediging heeft ook betoogd dat verdachte niet wist en niet had hoeven weten dat Dega16 fipronil bevatte en dat dit een niet-toegelaten biocide was. Bovendien wist verdachte niet dat deze stof schadelijk was voor de volksgezondheid. Dit had hij ook niet kunnen weten. Voor een bewezenverklaring van het tenlastegelegde onderdeel ‘wetende dat’ is voorwaardelijk opzet onvoldoende, aldus de verdediging. Vol opzet aan de zijde van verdachte kan in elk geval niet worden bewezen. Als het hof meent dat voorwaardelijk opzet voldoende is, geldt dat ook dit niet bewezen kan worden. Verdachte mocht immers vertrouwen op de inlichtingen van [getuige] over Dega16, die hem had verzekerd dat dit een legaal product was en dat het toegepast mocht en kon worden bij de bloedluisbestrijding. Gelet op de deskundigheid van [getuige] - hij was onder meer dierenarts en toxicoloog in opleiding - was er voor verdachte geen enkele reden om aan hem te twijfelen.
+
+Ten aanzien van de onder 2 tot en met 5 tenlastegelegde feiten heeft de raadsman vrijspraak bepleit omdat uit de bewijsmiddelen niet blijkt dat verdachte wist of had moeten weten dat de in de tenlastelegging genoemde producten niet-toegelaten biociden waren. Daarom kan niet bewezen worden dat sprake is van (voorwaardelijk) opzet. Nu in de tenlastelegging van deze feiten niet is opgenomen ‘al dan niet opzettelijk’, blijft er geen overtreding over als het opzet niet bewezen is en moet dus integrale vrijspraak volgen van voornoemde feiten.
+
+Oordeel van het hof
+
+Het hof acht de tenlastegelegde feiten bewezen, voor zover hieronder bewezen verklaard. Het hof is van oordeel dat de namens verdachte gevoerde verweren strekkende tot vrijspraak van de tenlastegelegde feiten worden weerlegd door de gebezigde bewijsmiddelen, zoals deze later in de eventueel op te maken aanvulling op dit arrest zullen worden opgenomen. Het hof heeft geen reden om aan de juistheid en betrouwbaarheid van de inhoud van die bewijsmiddelen te twijfelen.
+
+In het bijzonder overweegt het hof het volgende.
+
+Inleiding
+
+In juli 2017 heeft de NVWA een bedrijfsinspectie uitgevoerd bij [medeverdachte 2] . Dit gebeurde nadat er bij een Belgisch bedrijf, dat door [medeverdachte 2] met een product genaamd Dega16 was behandeld tegen bloedluis, fipronil in de eieren was aangetroffen. Uit onderzoeken die vervolgens door de NVWA zijn gedaan bij diverse (Nederlandse) opdrachtgevers van [medeverdachte 2] is gebleken dat het fipronilgehalte in de eieren van deze opdrachtgevers hoger was dan de norm die de NVWA hanteerde.
+
+Biociden
+
+Voor de beoordeling van de tenlastegelegde feiten is het van belang wat onder de term ‘biocide’ wordt verstaan. Zoals de rechtbank ook heeft overwogen, vallen biociden onder de reikwijdte van de Wet gewasbeschermingsmiddelen en biociden en de Biocidenverordening (ofwel de BPR-verordening EU 528/2012, hierna: BPR-verordening). De toepassing van biociden in Nederland (en ook binnen Europa) is strikt gereguleerd en biociden mogen alleen voorhanden zijn en op de markt worden aangeboden als ze overeenkomstig de BPRverordening zijn toegelaten.
+
+Wil er sprake zijn van een biocide, dan moet het middel - kort gezegd - bestaan uit een werkzame stof en het doel hebben om een schadelijk organisme te vernietigen of af te schrikken of te bestrijden op een andere dan op fysieke of mechanische wijze (zie: artikel 3 lid 1 onder a van de BPR-verordening).
+
+Een werkzame stof is ‘een stof of micro-organisme met een werking op of tegen schadelijke organismen’ (zie: artikel 3 lid 1 onder c van de BPR-verordening). Met andere woorden: de stof moet een beoogd effect bewerkstelligen.
+
+Het hof leidt uit de bewijsmiddelen af dat alle in de tenlastelegging bedoelde middelen biociden waren in voornoemde zin. Dat is ook niet ter discussie gesteld door de verdediging.
+
+Algemene vaststellingen
+
+Vast staat dat verdachten in de tenlastegelegde periode gebruik hebben gemaakt van het middel Dega16 (en de andere middelen die in de tenlastelegging zijn genoemd) bij de bestrijding van bloedluis in pluimveestallen. De werkzame stof van dit middel was fipronil. Dega16 is een biocide in de zin van voornoemde regelgeving. Zoals gezegd, zijn er na voornoemde behandeling met Dega16 bij verschillende opdrachtgevers van [medeverdachte 2] eieren aangetroffen met een te hoog fipronilgehalte. Ook is er op verschillende plekken in de bedrijfsvoertuigen van [medeverdachte 1] en [medeverdachte 2] fipronil aangetroffen. Ook in de rugspuit, waarmee [medeverdachte 3] en [verdachte] de ontsmettingsbehandeling uitvoerden in de stallen, bleek fipronil te zitten.
+
+Ten aanzien van het onder 1 primair tenlastegelegde
+
+De eerste vraag die het hof zal beantwoorden, is of de middelen die zijn genoemd in het onder 1 tenlastegelegde feit schadelijk zijn voor het leven of de gezondheid in de zin van artikel 174 van het Wetboek van Strafrecht. Hierover overweegt het hof - grotendeels met de rechtbank - als volgt.
+
+Uit vaste jurisprudentie van de Hoge Raad volgt dat voor vaststelling van het schadelijk karakter niet is vereist dat de schade optreedt bij ieder (normaal) gebruik door elke mogelijke consument. Voldoende is dat vastgesteld wordt dat schade kan optreden als gevolg van elk gebruik waarmee redelijkerwijs rekening moet worden gehouden (vgl. 18 maart 2003, ECLI:NL:HR:2003:AF0732). Naar het oordeel van het hof brengt een redelijke uitleg van “schadelijk voor het leven of de gezondheid” mee, gezien ook de afhankelijkheid van de gezondheid van de mens van de gezondheid van dieren en planten, dat het leven en de gezondheid van mensen, dieren en planten daaronder vallen.
+
+Het gebruik van biociden is aan strikte Europese en nationale regelgeving onderworpen. Biociden mogen slechts in beperkte situaties en onder strikte voorwaarden worden gebruikt. Uit overweging 1 van de BPR-verordening volgt dat dit onder andere zo is omdat door de intrinsieke eigenschappen en de bijpassende gebruikspatronen biociden gevaren kunnen inhouden voor mensen, dieren en het milieu. Fipronil is niet opgenomen in bijlage 1 van de Verordening (EU) nr. 37/2010, wat betekent dat het niet is toegelaten dit middel toe te passen bij voedselproducerende dieren, vanwege de gevaarlijke eigenschappen van het middel. Dit is al een sterke indicatie dat dit middel schadelijk kan zijn voor het leven of de gezondheid in de zin van artikel 174 van het Wetboek van Strafrecht. Door middelen die de werkzame stof fipronil bevatten toch te gebruiken, heeft verdachte in strijd gehandeld met een strikt wettelijk kader, waardoor sprake was van een ongecontroleerd gebruik van een gevaarlijke stof bij voedselproducerende bedrijven.
+
+Het toegepaste gebruik door [medeverdachte 1] en [medeverdachte 2] bestond eruit dat de middelen Dega, Dega16, Dega P, Fyprorein, Fyproclean en Mentho-boast, alle met de werkzame stof fipronil, werden gespoten in stallen met en zonder kippen ter bestrijding van bloedluis. Door biociden op deze manier te gebruiken, is te verwachten dat deze middelen ook op het voer, de mest, de kip en in het ei terechtkomen. Het gaat dan (ook) om kippen en eieren die gegeten worden door mensen en mest die onder meer op landbouwgrond wordt uitgereden. Uit onderzoek aan eieren en genomen monsters van mest van bedrijven waar verdachten bloedluisbestrijding hebben gedaan, is ook daadwerkelijk gebleken dat fipronil in de kippen, eieren en mest terecht is gekomen. Verschillende pluimveehouders hebben verklaard dat zij hun mest uitrijden over hun eigen landbouwgrond dan wel dat het via derden wordt uitgereden over landbouwgronden, zodat niet alleen het consumeren van kippen en eieren maar ook bemesting geldt als een gebruik waarmee redelijkerwijs rekening moet worden gehouden.
+
+Uit het NFI-rapport van 31 juli 2019 blijkt - onder meer - het volgende over de stof fipronil en de gevaren van het gebruik ervan in kippenstallen. Fipronil is een acuut toxische stof na inademing en huidblootstelling. In het milieu breekt fipronil slecht af. De stoffen die bij afbraak gevormd worden (metabolieten genoemd) hebben een vergelijkbare toxiciteit als de uitgangsstof fipronil en zijn op hun beurt eveneens slecht afbreekbaar. Bij een ongecontroleerd gebruik van de stof fipronil in kippenstallen kan een langdurige contaminatie van de kippen, eieren en de mest optreden. Er is ook een risico voor een ongecontroleerde blootstelling van de boeren en een risico op verspreiding buiten de stallen met langdurige negatieve effecten op het milieu, bijvoorbeeld door het verspreiden van verontreinigde mest. Er bestaan ook risico’s voor bijen en het aquatisch milieu.
+
+Het NFI heeft ook onderzocht of Dega16 in dit concrete geval gevaarlijk kon zijn. Gelet op de toepassing van dit middel door verdachten is in het rapport onderscheid gemaakt tussen schadelijkheid voor leven of gezondheid van mensen bij de toepassing van de biociden door middel van verneveling in de pluimveestal, schadelijkheid voor leven of gezondheid van mensen door het eten van besmette eieren en gevaar voor leven of de gezondheid van mensen en dieren door het uitrijden van met fipronil besmette mest.
+
+Uit voornoemd NFI-rapport blijkt dat de AOEL (Acceptable Operator Exposure Level) kan zijn overschreden indien de pluimveehouder via een onbeschermde huid of via nat geworden werkkleding in contact is geweest met de nevel. Pluimveehouders hebben verklaard dat zij geen beschermende kleding of maskers hoefden te dragen als zij direct na de bloedluisbehandeling de stal in gingen. Zo verklaarde [pluimveehouder 1] : “Het middel was niet slecht voor je. De boer kon gewoon vijf minuten later de stal weer in als het rustig in de stal was”. [pluimveehouder 2] heeft verklaard: “Ook als ik naar achteren liep, dus in de volle nevel, werd ik niet gewaarschuwd. Sterker nog: ze zeiden dat ik er zo in kon lopen”.
+
+Het hof is - met de rechtbank - van oordeel dat er dus een reële kans bestond dat er gevaar voor de gezondheid kon optreden voor de pluimveehouders die na de bloedluisbehandeling weer in de stallen kwamen.
+
+Met betrekking tot de aangetroffen fipronil in eieren concludeert het NFI op basis van de vastgestelde waardes - zoals de aanvaardbare dagelijkse inname (ADI) - dat de risico’s op gevolgen voor de lange termijn zeer klein zijn. Dat er in het concrete geval geen gezondheidsschade voor mensen te verwachten is, betekent niet dat er nooit gezondheidsschade voor mensen kan optreden. Bij de ongecontroleerde toepassing van de biociden zoals door verdachten is gedaan, is niet uitgesloten dat zodanige fipronilwaardes gemeten worden dat daadwerkelijke gezondheidsschade voor mensen, met name jonge kinderen, kan optreden. Zoals hiervoor al is overwogen, is voor een bewezenverklaring van artikel 174 van het Wetboek van Strafrecht voldoende als dergelijke schade kan optreden.
+
+Tot slot volgt uit het NFI-rapport dat er schadelijke effecten verwacht kunnen worden voor bodemdieren en het aquatisch milieu bij de concentraties fipronil zoals deze in dit geval in de mest zijn aangetroffen.
+
+Gelet op dit alles - in onderling verband en samenhang bezien - is het hof van oordeel dat de door verdachten gebruikte middelen die de werkzame stof fipronil bevatten schadelijk kunnen zijn voor het leven of de gezondheid in de zin van artikel 174 van het Wetboek van Strafrecht. De omstandigheid dat later is gebleken dat er niet daadwerkelijk (grote) gezondheids- of milieuschade is opgetreden, doet niet af aan de mogelijke schadelijkheid in voornoemde zin. Het verweer van de verdediging op dit punt wordt verworpen.
+
+Het hof zal vervolgens de vraag moeten beantwoorden of verdachten wisten dat de in de tenlastelegging bedoelde middelen (waaronder Dega16) schadelijk zijn. Het in de tenlastelegging opgenomen bestanddeel ‘wetende dat’ ziet op het gegeven dat de verdachte met de schadelijke aard van de waren bekend is en is een uitdrukking van opzet die ook het voorwaardelijk opzet omvat (vgl. HR 19 januari 1993, ECLI:NL:HR:1993:AD1812, NJ 1993, 491).
+
+De verdediging heeft in dit verband aangevoerd dat verdachte niet wist en niet hoefde te weten dat de middelen schadelijk waren en dat hij mocht vertrouwen op de inlichtingen van [getuige] over de middelen.
+
+Het hof is van oordeel dat verdachten wel degelijk op zijn minst voorwaardelijk opzet hadden op de schadelijkheid van de gebruikte middelen in de zin van artikel 174 van het Wetboek van Strafrecht en overweegt het volgende.
+
+Het hof stelt in dit verband voorop dat [medeverdachte 1] en [medeverdachte 2] professionele marktdeelnemers waren die hun diensten aanboden en verrichtten op het speelveld van professionele pluimveehouderijen. De bedrijven presenteerden zichzelf ook als professioneel gebruiker naar de buitenwereld. De door de verdediging gemaakte vergelijking met een particuliere consument die in een tuincentrum middelen koopt ter bestrijding van onkruid of ongedierte, gaat alleen al om deze reden mank.
+
+Het hof stelt verder voorop dat verdachten op de hoogte waren van de effectieve werking van de door hen gebruikte middelen met het oog op de bestrijding van bloedluizen welke voldoet aan de definitie van een biocide.
+
+Biociden zijn streng gereguleerd en zijn schadelijk voor het leven of de gezondheid van mens en/of milieu. In dit geval hebben verdachten een niet-toegelaten (maar zeer effectief gebleken) biocide (bevattende fipronil) gebruikt bij dieren die bestemd waren voor de voedselketen, zonder enig onderzoek te (laten) doen naar de mogelijke gevolgen daarvan. Als professionele bloedluisbestrijders hadden zij dit onderzoek wel moeten doen. Dit geldt te meer nu [medeverdachte 3] en [verdachte] naar eigen zeggen bekend waren met de pluimveesector en zij wisten dat bloedluis daar een groot probleem was. Het is vaste rechtspraak dat van professionele spelers op de (commerciële) markt deskundigheid mag worden verwacht van het terrein waarop zij zich begeven en dat zij op de hoogte zijn of zich op de hoogte stellen van de specifieke regelgeving die van toepassing is op hun activiteiten.
+
+Daar komt in dit geval nog bij dat [getuige] heeft verklaard dat verdachten er van meet af aan van op de hoogte waren dat er fipronil in de bedoelde middelen zat en dat de door hem geleverde middelen niet bij de bevoegde autoriteiten geregistreerd waren. [getuige] heeft ook verklaard dat hij van [medeverdachte 2] middelen zonder etiket moest leveren. Het hof trekt hieruit de conclusie dat niet bekend mocht worden wat er in de middelen zat. Voorts heeft [getuige] verklaard dat hij nooit heeft stil gestaan bij de legaliteit van de middelen. Ook onder al deze omstandigheden hadden verdachten nader onderzoek moeten doen naar de door [getuige] geleverde middelen en hadden zij er niet zonder meer op mogen vertrouwen dat de middelen - die dus niet waren toegelaten - niet schadelijk konden zijn. Dat [getuige] op enige wijze zodanige juridische kennis zou hebben of dat aan hem zodanig gezag valt toe te kennen dat verdachten in goed vertrouwen op hem zouden kunnen vertrouwen, is bovendien geenszins gebleken.
+
+Door onder al deze omstandigheden bewust geen nader onderzoek te doen naar de schadelijkheid van de gebruikte middelen hebben verdachten minst genomen willens en wetens de aanmerkelijke kans aanvaard dat er door de toepassing van deze middelen gevaar zou kunnen ontstaan voor het leven of de gezondheid zoals bedoeld in de tenlastelegging.
+
+Met andere woorden: verdachten hebben voorwaardelijk opzet gehad op de verboden gedraging zoals omschreven onder 1 primair. Nu bovendien uit de bewijsmiddelen volgt dat [medeverdachte 3] en [verdachte] niets over het schadelijke karakter van de middelen hebben gezegd tegen de afnemers en er eerder aanwijzingen zijn dat zij hebben gezegd dat het niet schadelijk was, verklaart het hof - gelet op al het voorgaande - de onder 1 primair tenlastegelegde feiten bewezen.
+
+Het hof acht bewezen dat [medeverdachte 2] en [medeverdachte 1] deze feiten hebben begaan. De onder 1 primair tenlastegelegde gedragingen, die de normale bedrijfsvoering of taakuitoefening van [medeverdachte 2] en [medeverdachte 1] vormden, hebben plaatsgevonden dan wel zijn verricht in de sfeer van deze rechtspersonen en kunnen daarom aan [medeverdachte 2] en [medeverdachte 1] worden toegerekend. [medeverdachte 3] en [verdachte] hebben in gezamenlijk overleg het bedrijfsbeleid en de bedrijfsvoering van [medeverdachte 2] en [medeverdachte 1] bepaald en de bloedluisbestrijding vaak ook samen uitgevoerd. Daarom acht het hof bewezen dat [medeverdachte 3] en [verdachte] tezamen en in vereniging feitelijke leiding hebben gegeven aan de tenlastegelegde verboden gedragingen van [medeverdachte 2] en [medeverdachte 1] .
+
+Uit de bewijsmiddelen volgt dat de onder 1 primair tenlastegelegde feiten zich in elk geval hebben afgespeeld in de periode van 1 januari 2015 tot en met 10 augustus 2017. Het hof ziet geen aanleiding om deze periode - die ook door de rechtbank bewezen is verklaard - verder in te korten. In dit verband wijst het hof nogmaals op de verklaring van [getuige] , inhoudende dat verdachten er van meet af aan van op de hoogte waren dat er fipronil in de middelen zat en dat de middelen niet waren geregistreerd.
+
+Ten aanzien van de onder 2, 3, 4 en 5 tenlastegelegde feiten
+
+Vast staat dat verdachten de in de onder 2 en 3 tenlastegelegde feiten genoemde producten voorhanden hebben gehad in de periode van 1 januari 2015 tot en met 10 augustus 2017. Ook staat vast dat zij de producten die zijn genoemd in de onder 4 en 5 tenlastegelegde feiten hebben gebruikt in deze periode. De producten zoals bedoeld in de onder 2 en 3 tenlastegelegde feiten zijn biociden die niet zijn toegelaten ingevolge de Wet gewasbeschermingsmiddelen en biociden. De in de onder 4 en 5 tenlastegelegde feiten bedoelde producten zijn biociden waarvoor geen toelating was verleend overeenkomstig de BPR-verordening. Door de verdediging is dit ook niet ter discussie gesteld. Wel is bestreden dat verdachten wisten of hadden moeten weten dat al deze producten niet-toegelaten biociden waren. Van (voorwaardelijk) opzet op de verboden gedragingen is volgens de verdediging geen sprake.
+
+Gelet op de wijze van ten laste leggen van voornoemde feiten moet het opzet van verdachten zijn gericht op het voorhanden of in voorraad hebben dan wel op het op de markt aanbieden en gebruiken van biociden die niet zijn toegelaten. Uit de bewijsmiddelen blijkt dat de in de tenlastelegging bedoelde biociden door verdachten zijn gebruikt bij de bestrijding van bloedluis bij kippen en bij de ontsmetting van kippenstallen. Gebleken is ook dat deze biociden - naar verdachten wisten - zeer effectief waren bij de bloedluisbestrijding en ontsmetting van de stallen. Voordat verdachten deze biociden gingen gebruiken, hebben zij desondanks op geen enkele manier onderzocht of deze stoffen wel waren toegelaten of niet. Zoals hierboven al overwogen, is het hof van oordeel dat zij als professionele bloedluisbestrijders dit onderzoek wel hadden moeten doen. Dit geldt te meer nu [medeverdachte 3] en [verdachte] naar eigen zeggen bekend waren met de pluimveesector en wisten dat bloedluis daar een groot probleem was. Zoals eveneens hierboven overwogen mag van professionele spelers op de (commerciële) markt worden verwacht dat zij deskundig zijn op het terrein waarop zij zich begeven en dat zij op de hoogte zijn of zich op de hoogte stellen van de specifieke regelgeving die van toepassing is op hun activiteiten. Door op geen enkele manier te onderzoeken of de in de tenlastelegging bedoelde stoffen wel waren toegelaten, hebben verdachten naar het oordeel van het hof welbewust de aanmerkelijke kans aanvaard dat zij niet-toegelaten biociden in voorraad hadden en hebben gebruikt. Het hof wijst in dit verband ook op de verklaring van [getuige] , zoals deze hiervoor bij de bespreking van feit 1 is weergegeven. Door de genoemde biociden voorhanden te hebben en te gebruiken bij de bloedluisbestrijding en de ontsmetting van de kippenstallen hebben verdachten dus voorwaardelijk opzet gehad op de verboden gedragingen zoals omschreven in de onder 2, 3, 4 en 5 tenlastegelegde feiten.
+
+Het hof acht bewezen dat [medeverdachte 2] en [medeverdachte 1] deze feiten hebben begaan. De onder 2, 3, 4 en 5 tenlastegelegde gedragingen, die net zoals de gedragingen onder 1 primair de normale bedrijfsvoering of taakuitoefening van [medeverdachte 2] en [medeverdachte 1] vormden, hebben plaatsgevonden dan wel zijn verricht in de sfeer van deze rechtspersonen en kunnen daarom aan [medeverdachte 2] en [medeverdachte 1] worden toegerekend. [medeverdachte 3] en [verdachte] hebben in gezamenlijk overleg het bedrijfsbeleid en de bedrijfsvoering van [medeverdachte 2] en [medeverdachte 1] bepaald en de ontsmetting en de bloedluisbestrijding vaak ook samen uitgevoerd. Daarom acht het hof bewezen dat [medeverdachte 3] en [verdachte] tezamen en in vereniging feitelijke leiding hebben gegeven aan de tenlastegelegde verboden gedragingen van [medeverdachte 2] en [medeverdachte 1] .
+
+Het hof verklaart de onder 2, 3, 4 en 5 tenlastegelegde feiten bewezen.
+
+Bewezenverklaring
+
+Door wettige bewijsmiddelen, waarbij de inhoud van elk bewijsmiddel - ook in onderdelen - slechts wordt gebezigd tot het bewijs van dat tenlastegelegde feit waarop het blijkens de inhoud kennelijk betrekking heeft, en waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt, acht het hof wettig en overtuigend bewezen dat verdachte het onder 1 primair, 2, 3, 4 en 5 tenlastegelegde heeft begaan, met dien verstande, dat:
+
+1 primair:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode van 1 januari 2015 tot en met 10 augustus 2017, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), een waar/waren, te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast, (telkens) bevattende de werkzame stof Fipronil,
+
+heeft/hebben verkocht en/of te koop heeft/hebben aangeboden en/of heeft/hebben afgeleverd,
+
+wetende dat (een of meer van) die waar/waren voor het leven of de gezondheid schadelijk is/zijn,
+
+terwijl die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s) (telkens) dat schadelijk karakter hebben/heeft verzwegen,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijke leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+2:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode van 1 januari 2015 tot en met
+
+10 augustus 2017, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland, en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, een of meer biocide(n), te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast en/of
+
+- Miteclean
+
+voorhanden of in voorraad heeft/hebben gehad,
+
+terwijl (telkens) dat/die biocide(n) niet ingevolge de Wet gewasbeschermingsmiddelen en biociden was/waren toegelaten,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijke leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+3:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode van 1 januari 2015 tot en met
+
+10 augustus 2017, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland,
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, een of meer biocide(n), te weten
+
+- Formaline en/of
+
+- Kilcox en/of
+
+- Envirex en/of Virex en/of
+
+- Neporex en/of
+
+- Fatal en/of
+
+- Lurectron,
+
+voorhanden of in voorraad heeft gehad,
+
+terwijl (telkens) dat/die biocide(n) niet ingevolge de Wet gewasbeschermingsmiddelen en biociden was/waren toegelaten,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijke leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+4:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode van 1 januari 2015 tot en met 10 augustus 2017, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland en/of België
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal,
+
+(telkens), opzettelijk, heeft/hebben gehandeld in strijd met artikel 17, eerste, vijfde en/of zesde lid van verordening (EU) nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen,
+
+immers heeft/hebben die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s)
+
+een of meer biocide(n), te weten
+
+- Dega en/of Dega16 en/of Dega P en/of Fyprorein en/of Fyproclean en/of Mentho-boast en/of
+
+- Miteclean
+
+op de markt aangeboden en/of gebruikt,
+
+terwijl (telkens) voor die biocide(n) geen toelating overeenkomstig die verordening was verleend,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijke leiding heeft gegeven aan bovenomschreven verboden gedraging(en);
+
+5:
+
+[medeverdachte 1] en/of [medeverdachte 2]
+
+op één of meer tijdstippen in of omstreeks de periode van 1 januari 2015 tot en met 10 augustus 2017, te [plaats 1] en/of [plaats 2] en/of [plaats 3] en/of [plaats 4] en/of elders in Nederland,
+
+tezamen en in vereniging met (een) ander(en), althans alleen
+
+meermalen, maar in ieder geval eenmaal
+
+(telkens), opzettelijk, heeft/hebben gehandeld in strijd met artikel 17, eerste, vijfde en/of zesde lid van verordening (EU) nr. 528/2012 of de ter uitvoering daarvan vastgestelde verordeningen,
+
+immers heeft/hebben die [medeverdachte 1] en/of die [medeverdachte 2] en/of hun mededader(s)
+
+een of meer biocide(n), te weten
+
+- Formaline en/of
+
+- Kilcox en/of
+
+- Envirex en/of Virex en/of
+
+- Neporex en/of
+
+- Fatal en/of
+
+- Lurectron,
+
+op de markt aangeboden en/of gebruikt,
+
+terwijl (telkens) voor die biocide(n) geen toelating overeenkomstig die verordening was verleend,
+
+zulks terwijl hij, verdachte, al dan niet tezamen en in vereniging met [medeverdachte 3] , tot bovenomschreven feit opdracht heeft gegeven en/of feitelijke leiding heeft gegeven aan bovenomschreven verboden gedraging(en).
+
+Het hof acht niet bewezen hetgeen verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard, zodat deze daarvan behoort te worden vrijgesproken.
+
+Strafbaarheid van het bewezenverklaarde
+
+Het onder 1 primair bewezenverklaarde levert op:
+
+medeplegen van feitelijke leiding geven aan medeplegen van waren verkopen, te koop aanbieden of afleveren, wetende dat zij voor het leven of de gezondheid schadelijk zijn en dat schadelijk karakter verzwijgende, begaan door een rechtspersoon, meermalen gepleegd.
+
+Het onder 2 en 3 bewezenverklaarde levert op telkens:
+
+medeplegen van feitelijke leiding geven aan medeplegen van overtreding van een voorschrift gesteld krachtens artikel 43, derde lid, van de Wet gewasbeschermingsmiddelen en biociden, opzettelijk begaan door een rechtspersoon, meermalen gepleegd.
+
+Het onder 4 en 5 bewezenverklaarde levert op telkens:
+
+medeplegen van feitelijke leiding geven aan medeplegen van overtreding van een voorschrift gesteld krachtens artikel 43, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden, opzettelijk begaan door een rechtspersoon, meermalen gepleegd.
+
+Strafbaarheid van de verdachte
+
+Verdachte is strafbaar aangezien geen omstandigheid is gebleken of aannemelijk geworden die verdachte niet strafbaar zou doen zijn.
+
+Oplegging van straf en/of maatregel
+
+De rechtbank heeft verdachte voor de onder 1 primair, 2, 3, 4 en 5 tenlastegelegde feiten veroordeeld tot een gevangenisstraf van 12 maanden (met aftrek van voorarrest).
+
+De advocaat-generaal heeft geëist dat verdachte voor de onder 1 primair, 2, 3, 4 en 5 tenlastegelegde feiten wordt veroordeeld tot een gevangenisstraf van 2 jaar waarvan 6 maanden voorwaardelijk, met een proeftijd van 3 jaar (en voorts met aftrek van voorarrest).
+
+De raadsman heeft het hof verzocht om een gevangenisstraf op te leggen gelijk aan de duur van het voorarrest, eventueel gecombineerd met een taakstraf. Hij heeft in dit verband gewezen op de overschrijding van de redelijke termijn en de impact die de vele media-aandacht voor deze zaak op verdachte heeft gehad. Ook heeft de raadsman aangevoerd dat uiteindelijk is gebleken dat er geen schadelijke gevolgen voor de volksgezondheid zijn opgetreden door het handelen van verdachte.
+
+De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de persoon van verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken.
+
+Het hof heeft bij de straftoemeting in het bijzonder de volgende omstandigheden in aanmerking genomen en vindt daarin de redenen die tot de keuze van een deels onvoorwaardelijke vrijheidsstraf van de hierna aan te geven duur leiden.
+
+Verdachte heeft zich samen met zijn compagnon als feitelijk leidinggever schuldig gemaakt aan het op de markt brengen van fipronil, waarvan hij wist of moest weten dat dit schadelijk was voor het leven of de gezondheid, terwijl hij dit schadelijke karakter verzweeg voor de afnemers. Verdachte heeft ook enkele andere verboden biociden in voorraad gehad en gebruikt. Op nationaal en Europees niveau is strenge regelgeving ontwikkeld. Alleen die biociden die uitgebreid onderzocht zijn, kunnen worden toegelaten en geregistreerd. Verdachte heeft geen verzoek tot toelating van de Dega-middelen - die de werkzame stof fipronil bevatten - gedaan. Door dit middel zomaar op de Nederlandse markt te brengen, heeft verdachte het doel dat met de nationale en Europese regelgeving op het gebied van de gezondheid van mensen en dieren en van het milieu wordt gediend, doorkruist. Het op de markt brengen van dergelijke middelen is streng gereguleerd met een goede reden: het kan schadelijke gevolgen hebben voor mensen, dieren en het milieu. In dit geval heeft het handelen van verdachte grote maatschappelijke gevolgen gehad. In 2016 en 2017 hebben ongeveer 283 pluimveehouders hun stallen met Dega16 laten reinigen door [medeverdachte 1] en [medeverdachte 2] . Als gevolg van de daarin vervatte verboden werkzame stof fipronil moesten uiteindelijk miljoenen kippen worden gedood en zijn tientallen miljoenen eieren vernietigd. Honderden bedrijven hebben langere tijd hun productie stil moeten leggen en de economische schade is voor velen van hen enorm geweest. Het hof rekent het verdachte aan dat hij veel te makkelijk voorbij is gegaan aan de gevaren en risico’s van het product Dega16 voor mens, dier en milieu. Verdachte heeft dit product als bestrijdingsmiddel tegen bloedluis toegepast bij voedselproducerende bedrijven, waarbij kon worden verwacht dat de verboden biocide fipronil op enigerlei wijze in de voedselketen en het milieu terecht zou komen. Dat rekent het hof de verdachte zwaar aan. Voedselveiligheid is een groot goed en van eminent belang voor de volksgezondheid, waarmee zeer zorgvuldig moet worden omgegaan, in het bijzonder door degenen die direct of indirect in de voedselproductie werkzaam zijn. Verdachte heeft dit belang ernstig veronachtzaamd en daarmee gezondheidsrisico’s in het leven geroepen en milieuschade en enorme economische schade veroorzaakt.
+
+Het hof heeft kennisgenomen van een verdachte betreffend uittreksel uit de justitiële documentatie van 9 oktober 2023, waaruit blijkt dat hij niet eerder is veroordeeld voor een soortgelijk strafbaar feit. Dit werkt derhalve niet strafverhogend of -verlagend.
+
+Het hof houdt in het voordeel van verdachte rekening met de grote negatieve gevolgen die de vervolging en de media-aandacht voor deze zaak voor hem hebben gehad. Ook houdt het hof in zijn voordeel rekening met de omstandigheid dat uiteindelijk niet is gebleken dat er daadwerkelijk schadelijke gevolgen zijn opgetreden voor de volksgezondheid.
+
+Gelet op de aard, ernst en omvang van de strafbare feiten dient naar het oordeel van het hof echter wel een forse straf opgelegd te worden, waaronder een deels onvoorwaardelijke gevangenisstraf. Deze straf zal lager zijn dan de straf die door de rechtbank is opgelegd. Anders dan de rechtbank heeft gedaan, zal het hof wel in het voordeel van verdachte rekening houden met de (forse) overschrijding van de redelijke termijn (zowel in eerste aanleg als in hoger beroep). Mede gelet op die overschrijding, maar ook gelet op de vele media-aandacht voor deze zaak en de nadelige gevolgen daarvan voor verdachte, is het hof van oordeel dat hij nu niet meer naar de gevangenis hoeft. In de gegeven omstandigheden acht het hof de oplegging van een gevangenisstraf van 180 dagen waarvan 117 dagen voorwaardelijk (met een proeftijd van één jaar en voorts met aftrek van voorarrest) passend en geboden. Omdat verdachte 63 dagen in verzekering en voorlopige hechtenis heeft doorgebracht, betekent dit dat hij - nu de duur van het onvoorwaardelijk deel van de gevangenisstraf overeen komt met de verdachte in voorarrest doorgebrachte tijd - niet meer de gevangenis in hoeft. Gelet op het forse tijdsverloop en het blanco strafblad van verdachte ziet het hof aanleiding om ten aanzien van het voorwaardelijk deel van de gevangenisstraf te volstaan met een proeftijd van één jaar. Naast voornoemde (deels voorwaardelijke) gevangenisstraf zou het hof zonder de schending van de redelijke termijn ook aan verdachte hebben opgelegd een taakstraf van 240 uur, maar gelet op de overschrijding van de redelijke termijn volstaat het hof met de oplegging van een taakstraf van 200 uur (te vervangen door 100 dagen hechtenis).
+
+Toepasselijke wettelijke voorschriften
+
+Het hof heeft gelet op de artikelen 9, 14a, 14b, 14c, 22c, 22d, 57, 63 en 174 van het Wetboek van Strafrecht, de artikelen 1a, 2 en 6 van de Wet op de economische delicten en artikel 43 van de Wet gewasbeschermingsmiddelen en biociden.
+
+Deze voorschriften zijn toegepast, zoals zij golden ten tijde van het bewezenverklaarde.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het onder 1 primair, 2, 3, 4 en 5 tenlastegelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het onder 1 primair, 2, 3, 4 en 5 bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een gevangenisstraf voor de duur van 180 (honderdtachtig) dagen.
+
+Bepaalt dat een gedeelte van de gevangenisstraf, groot 117 (honderdzeventien) dagen, niet ten uitvoer zal worden gelegd, tenzij de rechter later anders mocht gelasten omdat de verdachte zich voor het einde van een proeftijd van 1 (één) jaar aan een strafbaar feit heeft schuldig gemaakt.
+
+Beveelt dat de tijd die door de verdachte vóór de tenuitvoerlegging van deze uitspraak in enige in artikel 27, eerste lid, van het Wetboek van Strafrecht bedoelde vorm van voorarrest is doorgebracht, bij de uitvoering van de opgelegde gevangenisstraf in mindering zal worden gebracht, voor zover die tijd niet reeds op een andere straf in mindering is gebracht.
+
+Veroordeelt de verdachte tot een taakstraf voor de duur van 200 (tweehonderd) uren, indien niet naar behoren verricht te vervangen door 100 (honderd) dagen hechtenis.
+
+Gelast de teruggave aan de verdachte van het in beslag genomen, nog niet teruggegeven voorwerp, te weten: een aanhangwagen.
+
+Aldus gewezen door
+
+mr. J.A.W. Lensing, voorzitter,
+
+mr. N.C. van Lookeren Campagne en mr. L.E.M. Hendriks, raadsheren,
+
+in tegenwoordigheid van mr. R. Jansen, griffier,
+
+en op 29 november 2023 ter openbare terechtzitting uitgesproken.
+
+Mr. L.E.M. Hendriks is buiten staat dit arrest mede te ondertekenen.
+
+Proces-verbaal van het in dezelfde zaak voorgevallene ter openbare terechtzitting van het gerechtshof van 29 november 2023.
+
+Tegenwoordig:
+
+mr. J.A.W. Lensing, voorzitter,
+
+mr. W. Gerretschen, advocaat-generaal,
+
+mr. M.A.J.H. Muurmans, griffier.
+
+De voorzitter doet de zaak uitroepen.
+
+De verdachte is niet in de zaal van de terechtzitting aanwezig.
+
+De voorzitter spreekt het arrest uit.
+
+Waarvan is opgemaakt dit proces-verbaal, dat door de voorzitter en de griffier is vastgesteld en ondertekend.
+
+Verordening (EU) nr. 582/2012 van het Europees Parlement en de Raad van 22 mei 2012 betreffende het op de markt aanbieden en het gebruik van biociden.
