@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:4097"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:1254, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:1254, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:767"]]
 ---
 
 # ECLI:NL:GHSHE:2023:4097 Gerechtshof 's-Hertogenbosch , 06-12-2023 / 20-000625-23
