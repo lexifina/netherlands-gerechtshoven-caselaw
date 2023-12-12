@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2023:3115"
-published_in: ["Rechtspraak.nl", "PJ 2024/20 met annotatie van C. Beltman", "PR-Updates.nl PR-2024-0051"]
+published_in: ["Rechtspraak.nl", "PJ 2024/20 met annotatie van C. Beltman", "PR-Updates.nl PR-2024-0051", "PR-Updates.nl 2024-0051"]
 ---
 
 # ECLI:NL:GHAMS:2023:3115 Gerechtshof Amsterdam , 12-12-2023 / 200.295.884/01
