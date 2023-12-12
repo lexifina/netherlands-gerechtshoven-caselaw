@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2323"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1536", "PR-Updates.nl PR-2024-0006", "PJ 2024/4 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2023-1536"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1536", "PR-Updates.nl PR-2024-0006", "PJ 2024/4 met annotatie van B. Degelink", "VAAN-AR-Updates.nl 2023-1536", "PR-Updates.nl 2024-0006"]
 ---
 
 # ECLI:NL:GHDHA:2023:2323 Gerechtshof Den Haag , 12-12-2023 / 200.317.355/01
