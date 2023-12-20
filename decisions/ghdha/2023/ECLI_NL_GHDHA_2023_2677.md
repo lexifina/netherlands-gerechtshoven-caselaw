@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2023:2677"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/57", "PR-Updates.nl PR-2024-0031"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/57", "PR-Updates.nl PR-2024-0031", "PR-Updates.nl 2024-0031"]
 ---
 
 # ECLI:NL:GHDHA:2023:2677 Gerechtshof Den Haag , 20-12-2023 / 200.318.576/01 en 200.318.578/01
