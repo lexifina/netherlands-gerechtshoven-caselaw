@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:4256"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/498", "NDFR Nieuws 2024/426", "NLF 2024/0655", "NTFR 2024/590 met annotatie van mr. drs. J. Bierman BA", "V-N 2024/22.12 met annotatie van Redactie", "Viditax (FutD) 2024030120", "FutD 2024-0548"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/498", "NDFR Nieuws 2024/426", "NLF 2024/0655", "NTFR 2024/590 met annotatie van mr. drs. J. Bierman BA", "V-N 2024/22.12", "Viditax (FutD) 2024030120", "FutD 2024-0548"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:3675, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
