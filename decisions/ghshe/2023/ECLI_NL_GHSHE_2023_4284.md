@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2023:4284"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0002", "JBPr 2024/26 met annotatie van prof. mr. A. Hammerstein"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2024-0002", "JBPr 2024/26 met annotatie van prof. mr. A. Hammerstein", "BPR-Updates.nl 2024-0002"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-081.md"]
 ---
 
