@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2023:11009"
 published_in: ["Rechtspraak.nl", "NJFS 2024/65", "AB 2024/117 met annotatie van T.N. Sanders"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1146"]]
 ---
 
 # ECLI:NL:GHARL:2023:11009 Gerechtshof Arnhem-Leeuwarden , 29-12-2023 / 21-002261-22
