@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:171"
-published_in: ["Rechtspraak.nl", "Notamail 2024/23", "V-N Vandaag 2024/257", "V-N 2024/13.11 met annotatie van Redactie", "S&S 2024/49", "RVR 2024/43", "TvC 2025/4, p. 31 met annotatie van mr. E.M. Huisman"]
+published_in: ["Rechtspraak.nl", "Notamail 2024/23", "V-N Vandaag 2024/257", "V-N 2024/13.11", "S&S 2024/49", "RVR 2024/43", "TvC 2025/4, p. 31 met annotatie van mr. E.M. Huisman"]
 ---
 
 # ECLI:NL:GHARL:2024:171 Gerechtshof Arnhem-Leeuwarden , 09-01-2024 / 200.325.324
