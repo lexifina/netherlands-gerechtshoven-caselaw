@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:17"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0049", "AR-Updates.nl 2024-0097", "Sdu Nieuws Arbeidsrecht 2024/41", "PR-Updates.nl PR-2024-0030", "VAAN-AR-Updates.nl 2024-0097"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0049", "AR-Updates.nl 2024-0097", "Sdu Nieuws Arbeidsrecht 2024/41", "PR-Updates.nl PR-2024-0030", "VAAN-AR-Updates.nl 2024-0097", "PR-Updates.nl 2024-0030"]
 ---
 
 # ECLI:NL:GHDHA:2024:17 Gerechtshof Den Haag , 09-01-2024 / 200.308.559/01
