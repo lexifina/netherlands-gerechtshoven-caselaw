@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Rekestprocedure"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:47"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0029"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0029", "PR-Updates.nl 2024-0029"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-186.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-202.md"]
 ---
 
