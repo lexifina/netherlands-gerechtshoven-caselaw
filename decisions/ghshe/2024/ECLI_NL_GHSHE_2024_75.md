@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:75"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2024/29", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/54", "Sdu Nieuws Insolventierecht 2024/28", "PR-Updates.nl PR-2024-0025", "ERF-Updates.nl 2024-0080", "PJ 2024/27", "RFR 2024/56", "OR-Updates.nl 2024-0090", "JOR 2024/135 met annotatie van Prof. dr. S. Perrick", "JONDR 2024/454"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2024/29", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/54", "Sdu Nieuws Insolventierecht 2024/28", "PR-Updates.nl PR-2024-0025", "ERF-Updates.nl 2024-0080", "PJ 2024/27", "RFR 2024/56", "OR-Updates.nl 2024-0090", "JOR 2024/135 met annotatie van Prof. dr. S. Perrick", "JONDR 2024/454", "PR-Updates.nl 2024-0025"]
 ---
 
 # ECLI:NL:GHSHE:2024:75 Gerechtshof 's-Hertogenbosch , 16-01-2024 / 200.309.560_01
