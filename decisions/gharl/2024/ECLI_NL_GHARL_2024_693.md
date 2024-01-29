@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:693"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0193", "OR-Updates.nl 2024-0032", "PR-Updates.nl PR-2024-0053", "VAAN-AR-Updates.nl 2024-0193"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0193", "OR-Updates.nl 2024-0032", "PR-Updates.nl PR-2024-0053", "VAAN-AR-Updates.nl 2024-0193", "PR-Updates.nl 2024-0053"]
 ---
 
 # ECLI:NL:GHARL:2024:693 Gerechtshof Arnhem-Leeuwarden , 29-01-2024 / 200.329.903
