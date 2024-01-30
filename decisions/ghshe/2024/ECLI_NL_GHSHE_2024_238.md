@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:238"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0203", "Burgerlijk procesrecht.nl BPR-2024-0020", "VAAN-AR-Updates.nl 2024-0203"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0203", "Burgerlijk procesrecht.nl BPR-2024-0020", "VAAN-AR-Updates.nl 2024-0203", "BPR-Updates.nl 2024-0020"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2025:1471"]]
 ---
 
 # ECLI:NL:GHSHE:2024:238 Gerechtshof 's-Hertogenbosch , 30-01-2024 / 200.294.183_01
