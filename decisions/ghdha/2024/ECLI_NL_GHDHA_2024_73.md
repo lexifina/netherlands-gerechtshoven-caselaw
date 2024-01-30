@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:73"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0156", "Sdu Nieuws Arbeidsrecht 2024/58", "PR-Updates.nl PR-2024-0022", "PJ 2024/22 met annotatie van L.A.J. Kuijpers, R.C. Akkermans", "VAAN-AR-Updates.nl 2024-0156"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2024-0156", "Sdu Nieuws Arbeidsrecht 2024/58", "PR-Updates.nl PR-2024-0022", "PJ 2024/22 met annotatie van L.A.J. Kuijpers, R.C. Akkermans", "VAAN-AR-Updates.nl 2024-0156", "PR-Updates.nl 2024-0022"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2021:527"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:423"]]
 ---
 
