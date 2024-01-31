@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:114"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/228", "V-N Vandaag 2024/339", "NLF 2024/0382 met annotatie van Peter van der Muur", "NTFR 2024/376 met annotatie van mr. B.S. Kats", "Belastingblad 2024/83 met annotatie van J.A. MONSMA", "V-N 2024/18.1.5", "Viditax (FutD) 2024013103", "FutD 2024-0339"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:7037, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:7037, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1385"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1834"]]
 ---
 
 # ECLI:NL:GHDHA:2024:114 Gerechtshof Den Haag , 31-01-2024 / BK-22/909 tm BK-22/913
