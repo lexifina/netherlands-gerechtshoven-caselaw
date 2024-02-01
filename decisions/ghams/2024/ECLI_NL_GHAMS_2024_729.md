@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:729"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/699", "NLF 2024/0770", "NDFR Nieuws 2024/605", "NTFR 2024/987 met annotatie van dr. R.W.G. Rouwers", "V-N 2024/27.15 met annotatie van Redactie", "Viditax (FutD) 2024032013", "FutD 2024-0731"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/699", "NLF 2024/0770", "NDFR Nieuws 2024/605", "NTFR 2024/987 met annotatie van dr. R.W.G. Rouwers", "V-N 2024/27.15", "Viditax (FutD) 2024032013", "FutD 2024-0731"]
 ---
 
 # ECLI:NL:GHAMS:2024:729 Gerechtshof Amsterdam , 01-02-2024 / 23/470
