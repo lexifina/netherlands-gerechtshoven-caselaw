@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:285"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/115", "Burgerlijk procesrecht.nl BPR-2024-0021", "RFR 2024/69"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2024/115", "Burgerlijk procesrecht.nl BPR-2024-0021", "RFR 2024/69", "BPR-Updates.nl 2024-0021"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-021.md"]
 ---
 
