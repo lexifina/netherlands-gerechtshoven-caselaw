@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:888"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/356", "Sdu Nieuws Belastingzaken 2024/170", "NLF 2024/0414", "V-N 2024/29.10 met annotatie van Redactie", "Viditax (FutD) 2024021202", "FutD 2024-0422"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/356", "Sdu Nieuws Belastingzaken 2024/170", "NLF 2024/0414", "V-N 2024/29.10", "Viditax (FutD) 2024021202", "FutD 2024-0422"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2022:266, Bekrachtiging/bevestiging"]]
 ---
 
