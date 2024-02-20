@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:1232"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0128"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0128", "JA 2026/79"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHARL:2026:2455"]]
 ---
 
 # ECLI:NL:GHARL:2024:1232 Gerechtshof Arnhem-Leeuwarden , 20-02-2024 / 200.316.457/01
