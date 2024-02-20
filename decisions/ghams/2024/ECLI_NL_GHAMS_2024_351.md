@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:351"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/66", "Sdu Nieuws Insolventierecht 2024/34", "Burgerlijk procesrecht.nl BPR-2024-0018", "NJF 2024/154", "NTHR 2024/20, p. 65", "TVA 2024/33", "JBPr 2024/37 met annotatie van mr. W.J.L. de Clerck"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/66", "Sdu Nieuws Insolventierecht 2024/34", "Burgerlijk procesrecht.nl BPR-2024-0018", "NJF 2024/154", "NTHR 2024/20, p. 65", "TVA 2024/33", "JBPr 2024/37 met annotatie van mr. W.J.L. de Clerck", "BPR-Updates.nl 2024-0018"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1569"]]
 ---
 
 # ECLI:NL:GHAMS:2024:351 Gerechtshof Amsterdam , 20-02-2024 / 200.303.103/01
