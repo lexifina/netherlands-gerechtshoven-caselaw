@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:515"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/354", "NDFR Nieuws 2024/609", "NLF 2024/0789 met annotatie van Theo Hoogwout", "V-N Vandaag 2024/784", "NDFR Nieuws 2024/642", "NTFR 2024/725 met annotatie van Mr. A.A. Fase", "Vp-bulletin 2024/21 met annotatie van Redactie", "Belastingadvies 2024/11-12.2", "V-N 2024/31.1.1", "Viditax (FutD) 2024032702", "FutD 2024-0822"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:1070, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/354", "NDFR Nieuws 2024/609", "NLF 2024/0789 met annotatie van mr. T.C. Hoogwout", "V-N Vandaag 2024/784", "NDFR Nieuws 2024/642", "NTFR 2024/725 met annotatie van Mr. A.A. Fase", "Vp-bulletin 2024/21", "Belastingadvies 2024/11-12.2", "V-N 2024/31.1.1", "Viditax (FutD) 2024032702", "FutD 2024-0822"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:1070, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:913"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-02-017.md"]
 ---
 
