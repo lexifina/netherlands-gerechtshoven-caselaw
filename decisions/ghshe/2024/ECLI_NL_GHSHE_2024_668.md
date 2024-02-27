@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:668"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/471", "Sdu Nieuws Belastingzaken 2024/224", "Sdu Nieuws Personen- en familierecht 2024/138", "ERF-Updates.nl 2024-0093", "V-N 2024/16.22 met annotatie van Redactie", "Viditax (FutD) 2024030115", "FutD 2024-0565"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/471", "Sdu Nieuws Belastingzaken 2024/224", "Sdu Nieuws Personen- en familierecht 2024/138", "ERF-Updates.nl 2024-0093", "V-N 2024/16.22", "Viditax (FutD) 2024030115", "FutD 2024-0565"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2021:5668, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
