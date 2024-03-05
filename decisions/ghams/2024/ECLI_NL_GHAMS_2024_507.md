@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:507"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2024-0134", "NLF 2024/1417 met annotatie van Ton Tekstra", "Viditax (FutD) 2024060406", "FutD 2024-1302"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2024-0134", "NLF 2024/1417 met annotatie van Ton Tekstra", "Viditax (FutD) 2024060406", "FutD 2024-1302", "NJF 2025/224"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:817"]]
 ---
 
 # ECLI:NL:GHAMS:2024:507 Gerechtshof Amsterdam , 05-03-2024 / 200.304.445/01
