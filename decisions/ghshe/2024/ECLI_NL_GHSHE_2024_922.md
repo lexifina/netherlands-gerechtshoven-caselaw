@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:922"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2025:2829"]]
 ---
 
 # ECLI:NL:GHSHE:2024:922 Gerechtshof 's-Hertogenbosch , 19-03-2024 / 200.318.702_01
