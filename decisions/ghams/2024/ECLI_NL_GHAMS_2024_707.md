@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:707"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2024/151", "VEAN-ERF-Updates.nl 2024-0170", "ERF-Updates.nl 2024-0170", "JERF 2024/97 met annotatie van Mr. drs. J.H. Lieber"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2024/151", "VEAN-ERF-Updates.nl 2024-0170", "ERF-Updates.nl 2024-0170", "JERF 2024/97 met annotatie van Mr. drs. J.H. Lieber", "FJR 2026/55.25"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:662"]]
 ---
 
