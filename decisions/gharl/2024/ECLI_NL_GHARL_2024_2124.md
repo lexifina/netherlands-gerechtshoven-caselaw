@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:2124"
-published_in: ["Rechtspraak.nl", "PJ 2024/58", "PR-Updates.nl PR-2024-0092"]
+published_in: ["Rechtspraak.nl", "PJ 2024/58", "PR-Updates.nl PR-2024-0092", "PR-Updates.nl 2024-0092"]
 ---
 
 # ECLI:NL:GHARL:2024:2124 Gerechtshof Arnhem-Leeuwarden , 26-03-2024 / 200.317.914
