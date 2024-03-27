@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:534"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/494", "V-N Vandaag 2024/992", "NLF 2024/1098", "NDFR Nieuws 2024/850", "NTFR 2024/950 met annotatie van mr. P.R.M. Bierlaagh", "V-N 2024/32.3 met annotatie van Redactie", "Belastingadvies 2024/17.1", "Viditax (FutD) 2024043005", "FutD 2024-1043"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/494", "V-N Vandaag 2024/992", "NLF 2024/1098", "NDFR Nieuws 2024/850", "NTFR 2024/950 met annotatie van mr. P.R.M. Bierlaagh", "V-N 2024/32.3", "Belastingadvies 2024/17.1", "Viditax (FutD) 2024043005", "FutD 2024-1043"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2019:1354, Bekrachtiging/bevestiging"]]
 ---
 
