@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1158"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2024:1820"]]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2024:1820"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2024:3099"]]
 ---
 
 # ECLI:NL:GHSHE:2024:1158 Gerechtshof 's-Hertogenbosch , 03-04-2024 / 200.336.725_01
