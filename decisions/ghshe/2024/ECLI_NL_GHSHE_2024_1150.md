@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1150"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/895", "V-N 2024/32.16 met annotatie van Redactie", "NLF 2024/1933 met annotatie van Ton Tekstra", "Viditax (FutD) 2024041809", "FutD 2024-0971"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/895", "V-N 2024/32.16", "NLF 2024/1933 met annotatie van Ton Tekstra", "Viditax (FutD) 2024041809", "FutD 2024-0971"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:2661, Niet ontvankelijk"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-027.md"]
 ---
