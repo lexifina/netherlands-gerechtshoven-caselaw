@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:490"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/129", "PR-Updates.nl PR-2024-0089", "JOR 2024/200 met annotatie van mr. dr. A.M.M. Menken", "OR-Updates.nl 2024-0167"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2024/129", "PR-Updates.nl PR-2024-0089", "JOR 2024/200 met annotatie van mr. dr. A.M.M. Menken", "OR-Updates.nl 2024-0167", "PR-Updates.nl 2024-0089"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2021:10377, Bekrachtiging/bevestiging"]]
 ---
 
