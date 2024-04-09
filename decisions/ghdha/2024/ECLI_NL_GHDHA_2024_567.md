@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:567"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/515", "V-N Vandaag 2024/1018", "NDFR Nieuws 2024/865", "NLF 2024/1149", "NTFR 2024/978 met annotatie van mr. J. Kastelein", "V-N 2024/37.1.1", "Viditax (FutD) 2024050702", "FutD 2024-1089"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1391"]]
 ---
 
 # ECLI:NL:GHDHA:2024:567 Gerechtshof Den Haag , 09-04-2024 / BK-23/224 en BK-23/225, BK-23/236 tot en met BK-23/239, BK-24/250 en BK-24/251
