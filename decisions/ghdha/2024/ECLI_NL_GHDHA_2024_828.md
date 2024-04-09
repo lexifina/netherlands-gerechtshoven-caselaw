@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:828"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1189", "Sdu Nieuws Belastingzaken 2024/636", "NLF 2024/1304", "NTFR 2024/1057 met annotatie van Mr. A.A. Fase", "V-N 2024/30.5 met annotatie van Redactie", "Viditax (FutD) 2024052902", "FutD 2024-1235"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:4587, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:4587, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1339"]]
 ---
 
 # ECLI:NL:GHDHA:2024:828 Gerechtshof Den Haag , 09-04-2024 / BK-23/440 en BK-23/441
