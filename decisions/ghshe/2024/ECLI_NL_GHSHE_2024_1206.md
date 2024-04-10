@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1206"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/943", "Belastingblad 2024/262 met annotatie van Redactie", "V-N 2024/34.25 met annotatie van Redactie", "Viditax (FutD) 2024050107", "FutD 2024-1114"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/943", "Belastingblad 2024/262", "V-N 2024/34.25", "Viditax (FutD) 2024050107", "FutD 2024-1114"]
 cites_law: ["netherlands/national/acts/waterschapswet/art-131.md"]
 ---
 
