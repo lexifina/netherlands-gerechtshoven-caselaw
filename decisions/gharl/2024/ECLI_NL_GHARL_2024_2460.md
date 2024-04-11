@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:2460"
-published_in: ["Rechtspraak.nl", "Notamail 2024/91", "Sdu Nieuws Personen- en familierecht 2024/247", "JERF Actueel 2024/176", "VEAN-ERF-Updates.nl 2024-0247", "ERF-Updates.nl 2024-0247", "JERF 2024/104", "FJR 2025/32.12"]
+published_in: ["Rechtspraak.nl", "Notamail 2024/91", "Sdu Nieuws Personen- en familierecht 2024/247", "JERF Actueel 2024/176", "VEAN-ERF-Updates.nl 2024-0247", "ERF-Updates.nl 2024-0247", "JERF 2024/104", "FJR 2025/32.12", "FJR 2026/55.29"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:7325"]]
 ---
 
