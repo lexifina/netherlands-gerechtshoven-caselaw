@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1385"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1133", "NLF 2024/1266", "NDFR Nieuws 2024/964", "NTFR 2024/1072 met annotatie van drs. M.T.M. Hennevelt", "V-N 2024/36.1.2", "Viditax (FutD) 2024052205", "FutD 2024-1180"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1642"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1385 Gerechtshof Amsterdam , 16-04-2024 / 22/440
