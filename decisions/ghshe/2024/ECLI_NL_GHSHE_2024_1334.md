@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1334"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/919", "NLF 2024/1058", "Belastingblad 2024/201 met annotatie van R.T. Wiegerink", "Viditax (FutD) 2024050207", "FutD 2024-1062"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:6348, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2021:6348, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1027"]]
 ---
 
 # ECLI:NL:GHSHE:2024:1334 Gerechtshof 's-Hertogenbosch , 17-04-2024 / 22/00082
