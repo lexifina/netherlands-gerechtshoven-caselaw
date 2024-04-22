@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1378"
 published_in: ["Rechtspraak.nl", "NLF 2024/1084 met annotatie van Roel Kerckhoffs", "NDFR Nieuws 2024/886", "NTFR 2024/886 met annotatie van mr. R.B.H. Beune", "V-N Vandaag 2024/1199", "V-N 2024/31.30 met annotatie van Redactie", "Viditax (FutD) 2024042307", "FutD 2024-0984"]
-relations: [["Formele relatie", "Na terugverwijzing door: ECLI:NL:HR:2022:1364"]]
+relations: [["Formele relatie", "Na terugverwijzing door: ECLI:NL:HR:2022:1364"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1578"]]
 cites_law: ["netherlands/national/acts/awr/art-069a.md"]
 ---
 
