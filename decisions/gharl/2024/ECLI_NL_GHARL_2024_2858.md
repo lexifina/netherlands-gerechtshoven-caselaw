@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:2858"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/507", "V-N Vandaag 2024/1004", "Notamail 2024/113", "Notamail 2024/114", "NLF 2024/1214", "RN 2024/48", "V-N 2024/34.15 met annotatie van Redactie", "Viditax (FutD) 2024050301", "FutD 2024-1090"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2024/507", "V-N Vandaag 2024/1004", "Notamail 2024/113", "Notamail 2024/114", "NLF 2024/1214", "RN 2024/48", "V-N 2024/34.15", "Viditax (FutD) 2024050301", "FutD 2024-1090"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2022:4869, Bekrachtiging/bevestiging"]]
 ---
 
@@ -210,7 +210,7 @@ Het Hof begrijpt de stelling van belanghebbende zo, dat belanghebbende meent dat
 
 4.12
 
-Bij de totstandkoming van artikel 4 van de WBR is in de Memorie van Toelichting onder meer het volgende vermeld (MvT, Kamerstukken II 1999/2000, 27 030, nr. 3 (https://zoek.officielebekendmakingen.nl/kst-27030-3.html?idp=LegalIntelligence), p. 8, 14):
+Bij de totstandkoming van artikel 4 van de WBR is in de Memorie van Toelichting onder meer het volgende vermeld (MvT, Kamerstukken II 1999/2000, 27 030, nr. 3 (https://zoek.officielebekendmakingen.nl/kst-27030-3.html), p. 8, 14):
 
 “Met de nieuwe opzet van artikel WBR wordt beoogd de mogelijkheden in te perken om doel en strekking van de regeling te ontgaan en interpretatieverschillen in de toekomst te voorkomen. Voor lichamen met een in aandelen verdeeld kapitaal die het verkrijgen, exploiteren en vervreemden van onroerende zaken (mede) als doel hebben, worden nieuwe criteria voorgesteld wanneer zij een onroerende-zaaklichaam zijnen wanneer niet. De zogenoemde oppompconstructies en de constructies met 'dubbeldekkers' worden bestreden door inbouw van een referentieperiode in de definitie van de onroerende-zaaklichaam en door het toerekenen van bezittingen en schulden van de dochtermaatschappij aan de moedermaatschappij (consolidatie).
 
