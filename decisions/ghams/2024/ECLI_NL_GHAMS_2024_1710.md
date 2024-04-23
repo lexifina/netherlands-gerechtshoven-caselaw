@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1710"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1441", "NDFR Nieuws 2024/1174", "NLF 2024/1585", "NTFR 2024/1174 met annotatie van mr. F.W. Wiggers", "V-N 2024/35.1.3", "Viditax (FutD) 2024062603", "FutD 2024-1459"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:6799, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:6799, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:82"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1710 Gerechtshof Amsterdam , 23-04-2024 / 23/485
