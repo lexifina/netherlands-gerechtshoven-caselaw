@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1161"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2024-0948", "AR-Updates.nl 2024-0948", "Sdu Nieuws Arbeidsrecht 2024/300", "JAR 2024/229"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1171"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1161 Gerechtshof Amsterdam , 30-04-2024 / 200.332.200/01
