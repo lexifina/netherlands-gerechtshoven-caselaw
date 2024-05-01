@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:3109"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1188"]]
 ---
 
 # ECLI:NL:GHARL:2024:3109 Gerechtshof Arnhem-Leeuwarden , 01-05-2024 / 21-001039-19
