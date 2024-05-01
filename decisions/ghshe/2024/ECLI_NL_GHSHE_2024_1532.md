@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1532"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1121", "NLF 2024/1269", "V-N 2024/34.22 met annotatie van Redactie", "Viditax (FutD) 2024052301", "FutD 2024-1188"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1121", "NLF 2024/1269", "V-N 2024/34.22", "Viditax (FutD) 2024052301", "FutD 2024-1188"]
 ---
 
 # ECLI:NL:GHSHE:2024:1532 Gerechtshof 's-Hertogenbosch , 01-05-2024 / 22/01570
