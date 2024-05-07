@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1920"
-published_in: ["Rechtspraak.nl", "NLF 2024/1797 met annotatie van Fred van Horzen", "Viditax (FutD) 2024071702"]
+published_in: ["Rechtspraak.nl", "NLF 2024/1797 met annotatie van Fred van Horzen", "Viditax (FutD) 2024071702", "FutD 2024-1603"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2022:3890, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
