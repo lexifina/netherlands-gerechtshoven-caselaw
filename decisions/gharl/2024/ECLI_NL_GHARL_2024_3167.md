@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:3167"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2024/2324", "JOM 2024/287", "JAAN 2024/96 met annotatie van Mr. dr. P. Heijnsbroek"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2024/2324", "JOM 2024/287", "JAAN 2024/96 met annotatie van Mr. dr. P. Heijnsbroek", "TvAR 2025/8223 met annotatie van J.W.A. Rheinfeld", "Module Pacht en landelijk gebied 2026/666"]
 ---
 
 # ECLI:NL:GHARL:2024:3167 Gerechtshof Arnhem-Leeuwarden , 07-05-2024 / 200.325.528
