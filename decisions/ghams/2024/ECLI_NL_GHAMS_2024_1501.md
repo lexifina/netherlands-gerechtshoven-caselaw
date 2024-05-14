@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1501"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1249", "NLF 2024/1384", "NDFR Nieuws 2024/1072", "NTFR 2024/1155 met annotatie van mr. drs. A.J. Meijer", "Sdu Nieuws Omgevingsrecht 2024/153", "V-N 2024/33.1.5", "JOM 2024/327", "JOM 2024/331", "Viditax (FutD) 2024060610", "FutD 2024-1294"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:2977, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:2977, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:451"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1501 Gerechtshof Amsterdam , 14-05-2024 / 23/333
