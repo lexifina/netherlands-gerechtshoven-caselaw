@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1459"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:731"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1153"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1459 Gerechtshof Amsterdam , 14-05-2024 / 23/785
