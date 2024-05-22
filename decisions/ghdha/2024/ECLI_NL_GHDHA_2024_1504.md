@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1504"
 published_in: ["Rechtspraak.nl", "Notamail 2024/220", "Sdu Nieuws Personen- en familierecht 2024/528", "JERF Actueel 2024/422", "ERF-Updates.nl 2024-0486", "VEAN-ERF-Updates.nl 2024-0486", "JERF 2024/160 met annotatie van Mr. drs. J.H. Lieber"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:844"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1504 Gerechtshof Den Haag , 22-05-2024 / 200.313.490/01 en 200.313.813/01
