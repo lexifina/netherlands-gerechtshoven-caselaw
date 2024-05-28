@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:3659"
 published_in: ["Rechtspraak.nl", "Belastingblad 2024/358 met annotatie van J.C. Scherff"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:848"]]
 ---
 
 # ECLI:NL:GHARL:2024:3659 Gerechtshof Arnhem-Leeuwarden , 28-05-2024 / 23/2319
