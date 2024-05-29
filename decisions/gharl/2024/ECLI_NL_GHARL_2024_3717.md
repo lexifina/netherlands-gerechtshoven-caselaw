@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:3717"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1250", "NLF 2024/1445", "V-N 2024/39.18 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1250", "NLF 2024/1445", "V-N 2024/39.18"]
 ---
 
 # ECLI:NL:GHARL:2024:3717 Gerechtshof Arnhem-Leeuwarden , 29-05-2024 / 200.339.960/01 en 200.339.961/02 (22/611 en 22/614)
