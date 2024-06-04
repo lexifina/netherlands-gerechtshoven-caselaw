@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1524"
 published_in: ["Rechtspraak.nl", "NLF 2024/1388", "Belastingblad 2024/246 met annotatie van G. GROENEWEGEN"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1031"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1524 Gerechtshof Amsterdam , 04-06-2024 / 23/771
