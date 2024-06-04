@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-art. 533 Sv - Gronden van billijkeheid
+art. 533 Sv -Gronden van billijkheid
 
 ## Uitspraak
 
