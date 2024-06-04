@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:3792"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1329", "NLF 2024/1430", "V-N 2024/46.16 met annotatie van Redactie", "Viditax (FutD) 2024061415", "FutD 2024-1415"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1329", "NLF 2024/1430", "V-N 2024/46.16", "Viditax (FutD) 2024061415", "FutD 2024-1415"]
 ---
 
 # ECLI:NL:GHARL:2024:3792 Gerechtshof Arnhem-Leeuwarden , 04-06-2024 / 23/2587 en 23/2588
