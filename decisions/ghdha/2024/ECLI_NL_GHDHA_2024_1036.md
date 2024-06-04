@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1036"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1543", "NLF 2024/1712", "NDFR Nieuws 2024/1302", "NTFR 2024/1335 met annotatie van mr. drs. S. Oosterbaan", "V-N 2024/41.1.1", "Viditax (FutD) 2024071703", "FutD 2024-1629"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1162"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1036 Gerechtshof Den Haag , 04-06-2024 / BK-23/420 en BK-23/422 tot en met BK-23/424
