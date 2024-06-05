@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1862"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Herstelde arrest: ECLI:NL:GHSHE:2020:3407"], ["Formele relatie", "Na terugverwijzing door: ECLI:NL:HR:2022:107"]]
+relations: [["Formele relatie", "Herstelde arrest: ECLI:NL:GHSHE:2020:3407"], ["Formele relatie", "Na terugverwijzing door: ECLI:NL:HR:2022:107"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1593"]]
 ---
 
 # ECLI:NL:GHSHE:2024:1862 Gerechtshof 's-Hertogenbosch , 05-06-2024 / 20-000221-22
