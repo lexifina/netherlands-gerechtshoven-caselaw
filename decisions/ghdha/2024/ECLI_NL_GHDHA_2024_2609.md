@@ -17,9 +17,7 @@ relations: [["Formele relatie", "Tussenuitspraak: ECLI:NL:GHDHA:2024:934"]]
 
 ## Inhoudsindicatie
 
-Chevron investigation. Suspicion of war crimes by xxx in a prison in Afghanistan in the 1980s. Appeal for inadmissibility of the Public Prosecution Service due to violation of the principle of legality dismissed.
-
-Conflict in Afghanistan was a non-international armed conflict. Acquittal for war crimes due to lack of nexus.
+Judgment of the national Dutch Court of Appeal in The Hague. Chevron investigation. Suspicion of war crimes by xxx in a prison in Afghanistan in the 1980s. Appeal for inadmissibility of the Public Prosecution Service due to violation of the principle of legality dismissed. Conflict in Afghanistan was a non-international armed conflict. Acquittal for war crimes due to lack of nexus.
 
 ## Uitspraak
 
