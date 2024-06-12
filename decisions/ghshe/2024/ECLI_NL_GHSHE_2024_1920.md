@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:1920"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1335", "NLF 2024/1496", "V-N 2024/40.8 met annotatie van Redactie", "Viditax (FutD) 2024061904", "FutD 2024-1400"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1335", "NLF 2024/1496", "V-N 2024/40.8", "Viditax (FutD) 2024061904", "FutD 2024-1400"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2019:1870, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
