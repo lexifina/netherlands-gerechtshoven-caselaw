@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:4138"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1290"]]
 ---
 
 # ECLI:NL:GHARL:2024:4138 Gerechtshof Arnhem-Leeuwarden , 18-06-2024 / 22/2268
