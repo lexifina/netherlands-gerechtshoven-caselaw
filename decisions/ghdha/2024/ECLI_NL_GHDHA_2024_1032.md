@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1032"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1519", "NDFR Nieuws 2024/1288", "NLF 2024/1741", "NTFR 2024/1340 met annotatie van mr. dr. B.M.M. Didden", "V-N 2024/41.7 met annotatie van Redactie", "Viditax (FutD) 2024071112", "FutD 2024-1579"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:18807, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:18807, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:709"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1032 Gerechtshof Den Haag , 19-06-2024 / BK-23/1187
