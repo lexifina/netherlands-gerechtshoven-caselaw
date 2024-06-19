@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2008"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1372", "NLF 2024/1494", "V-N 2024/40.7 met annotatie van Redactie", "Belastingadvies 2024/18.3", "V-N 2024/44.1.2", "Viditax (FutD) 2024062012", "FutD 2024-1407"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1372", "NLF 2024/1494", "V-N 2024/40.7", "Belastingadvies 2024/18.3", "V-N 2024/44.1.2", "Viditax (FutD) 2024062012", "FutD 2024-1407"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:4116, Bekrachtiging/bevestiging"]]
 ---
 
