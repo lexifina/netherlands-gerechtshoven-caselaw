@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:1947"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1294", "NLF 2024/1785", "NTFR 2024/1366 met annotatie van mr. E.J.M. Bohnen", "Belastingblad 2024/315 met annotatie van R.T. Wiegerink", "Viditax (FutD) 2024071808", "FutD 2024-1635"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:916"]]
 ---
 
 # ECLI:NL:GHAMS:2024:1947 Gerechtshof Amsterdam , 20-06-2024 / 22/2434
