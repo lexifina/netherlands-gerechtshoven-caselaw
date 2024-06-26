@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2076"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1502", "Sdu Nieuws Belastingzaken 2024/810", "NLF 2024/1796 met annotatie van Frank Werger", "V-N 2024/45.1.2", "Viditax (FutD) 2024071006", "FutD 2024-1610", "V-N 2024/55.5 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1502", "Sdu Nieuws Belastingzaken 2024/810", "NLF 2024/1796 met annotatie van Frank Werger", "V-N 2024/45.1.2", "Viditax (FutD) 2024071006", "FutD 2024-1610", "V-N 2024/55.5"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:1573, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-032d.md"]
 ---
