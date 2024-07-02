@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2140"
 published_in: ["Rechtspraak.nl", "NLF 2024/1658", "NTFR 2024/1318 met annotatie van mr. R.B.H. Beune", "Douanerechtspraak 2024/94", "Viditax (FutD) 2024070303", "FutD 2024-1535"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1619"]]
 cites_law: ["netherlands/national/acts/wet-op-de-accijns/art-005.md"]
 ---
 
