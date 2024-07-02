@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2168"
 published_in: ["Rechtspraak.nl", "NLF 2024/1746", "Viditax (FutD) 2024070806", "FutD 2024-1583"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1626"]]
 ---
 
 # ECLI:NL:GHSHE:2024:2168 Gerechtshof 's-Hertogenbosch , 02-07-2024 / 20-000277-23
