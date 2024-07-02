@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1546"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1029"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1546 Gerechtshof Den Haag , 02-07-2024 / 22-003200-23
@@ -42,7 +43,7 @@ geboren te [geboorteplaats] op [geboortedatum] 1995,
 
 adres: [woonadres] [woonplaats],
 
-ten tijde van de behandeling ter terechtzitting in hoger beroep uit anderen hoofde gedetineerd in P.I. Krimpen aan den IJssel.
+ten tijde van de behandeling ter terechtzitting in hoger beroep uit anderen hoofde gedetineerd in [verblijfplaats].
 
 Onderzoek van de zaak
 
@@ -106,7 +107,7 @@ Voorts vergt het voorhanden hebben van een wapen of munitie dat de verdachte fei
 
 Feiten
 
-Op 3 april 2023 heeft de politie op grond van de Wet Wapens en Munitie een woning aan de Noordersingel 60 in Barendrecht (hierna: de woning) doorzocht. Tijdens die doorzoeking werd in de woonkamer op de eettafel, onder twee petjes, een vuurwapen van het merk Glock met daarin
+Op 3 april 2023 heeft de politie op grond van de Wet Wapens en Munitie een woning aan de [adres]in Barendrecht (hierna: de woning) doorzocht. Tijdens die doorzoeking werd in de woonkamer op de eettafel, onder twee petjes, een vuurwapen van het merk Glock met daarin
 
 een patroonhouder gevuld met vijf stuks scherpe munitie aangetroffen. De woning werd gehuurd door [naam]. Zowel [naam] als de verdachte waren ten tijde van de doorzoeking in de woning aanwezig. Op de ruwe delen en/of de trekker van het vuurwapen en op het patroonmagazijn, alsmede mogelijk op (één of meer van) de vijf kogelpatronen, is DNA-materiaal aangetroffen dat — kort gezegd — overeenkomt met het DNA-profiel van de verdachte.
 
