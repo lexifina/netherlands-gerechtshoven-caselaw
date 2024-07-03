@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2141"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1574", "NLF 2024/1765", "V-N 2024/44.1.4", "FutD 2024-1615"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:3214, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:3214, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1138"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-092.md"]
 ---
 
