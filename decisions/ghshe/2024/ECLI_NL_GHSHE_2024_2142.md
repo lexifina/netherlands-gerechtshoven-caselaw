@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2142"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1566", "NLF 2024/1714", "Belastingblad 2024/326 met annotatie van J.C. Scherff", "V-N 2024/50.3 met annotatie van Redactie", "Viditax (FutD) 2024071802", "FutD 2024-1613"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1566", "NLF 2024/1714", "Belastingblad 2024/326 met annotatie van J.C. Scherff", "V-N 2024/50.3", "Viditax (FutD) 2024071802", "FutD 2024-1613"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:4689, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-03-045.md"]
 ---
