@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:4613"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1562", "NLF 2024/1749 met annotatie van Charlie Bruijsten", "NDFR Nieuws 2024/1335", "NTFR 2024/1380 met annotatie van mr. T.J. Droog", "VFP 2024/115", "V-N 2024/48.3 met annotatie van Redactie", "Viditax (FutD) 2024071908", "FutD 2024-1608"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1562", "NLF 2024/1749 met annotatie van Charlie Bruijsten", "NDFR Nieuws 2024/1335", "NTFR 2024/1380 met annotatie van mr. T.J. Droog", "VFP 2024/115", "V-N 2024/48.3", "Viditax (FutD) 2024071908", "FutD 2024-1608"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2022:2836, Overig"]]
 ---
 
