@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1775"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2225", "V-N 2024/55.1.3", "Belastingblad 2025/11 met annotatie van L.J. Boone"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:4774, (Gedeeltelijke) vernietiging met terugwijzen"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:4774, (Gedeeltelijke) vernietiging met terugwijzen"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1061"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1775 Gerechtshof Den Haag , 10-07-2024 / BK-23/664 tot en met BK-23/667
