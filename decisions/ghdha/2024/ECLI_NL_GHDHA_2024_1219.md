@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1219"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0362", "NJFS 2024/269"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2024-0362", "NJFS 2024/269", "VR 2025/80"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:1619"], ["Formele relatie", "Herstelarrest: ECLI:NL:GHDHA:2026:2238"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1219 Gerechtshof Den Haag , 16-07-2024 / 2200297322
