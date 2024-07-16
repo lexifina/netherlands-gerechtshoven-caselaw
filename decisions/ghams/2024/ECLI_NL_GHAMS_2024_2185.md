@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2185"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2067", "NLF 2024/2319", "NDFR Nieuws 2024/1746", "V-N 2024/48.1.6", "Viditax (FutD) 2024100905", "FutD 2024-2159", "NTFR 2024/1994 met annotatie van mr. drs. A.J. Meijer"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1570"]]
 ---
 
 # ECLI:NL:GHAMS:2024:2185 Gerechtshof Amsterdam , 16-07-2024 / 23/257
