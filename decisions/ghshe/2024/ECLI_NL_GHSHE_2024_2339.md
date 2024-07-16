@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2339"
-published_in: ["Rechtspraak.nl", "PJ 2024/114 met annotatie van S.H. Kuiper, C.J. Gerritsen", "PR-Updates.nl PR-2024-0149"]
+published_in: ["Rechtspraak.nl", "PJ 2024/114 met annotatie van C.J. Gerritsen, S.H. Kuiper", "PR-Updates.nl PR-2024-0149", "PR-Updates.nl 2024-0149"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:795"]]
 ---
 
 # ECLI:NL:GHSHE:2024:2339 Gerechtshof 's-Hertogenbosch , 16-07-2024 / 200.329.055_01
