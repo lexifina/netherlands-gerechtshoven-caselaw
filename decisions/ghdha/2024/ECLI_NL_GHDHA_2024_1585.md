@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1585"
 published_in: ["Rechtspraak.nl", "NLF 2024/2454 met annotatie van Angelique Perdaems"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1243"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1585 Gerechtshof Den Haag , 17-07-2024 / BK-23/201
