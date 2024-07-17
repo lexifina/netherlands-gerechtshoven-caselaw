@@ -9,14 +9,15 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1587"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2086", "V-N 2024/48.1.3", "NLF 2024/2455 met annotatie van Angelique Perdaems", "Viditax (FutD) 2024101603", "FutD 2024-2207"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2086", "V-N 2024/48.1.3", "NLF 2024/2455 met annotatie van mr. A.J.C. Perdaems", "Viditax (FutD) 2024101603", "FutD 2024-2207"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1261"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1587 Gerechtshof Den Haag , 17-07-2024 / BK-23/171 en BK-23/172
 
 ## Inhoudsindicatie
 
-Verhuurderheffing. Voor het op verschillende wijze in de heffing betrekken van enig-eigenaren en mede-eigenaren bestond een objectieve rechtvaardiging, zodat het gelijkheidsbeginsel (discriminatieverbod) voor het heffingsjaar 2019 niet is geschonden. Dat geldt ook voor het gelijkheidsbeginsel als algemeen beginsel van behoorlijk bestuur. De terugwerkende kracht van de reparatiewet voor het heffingsjaar 2020 is niet in strijd met artikel 1 EP en het rechtzekerheidsbeginsel.
+Verhuurderheffing. Voor het op verschillende wijze in de heffing betrekken van enig-eigenaren en mede-eigenaren bestond een objectieve rechtvaardiging, zodat het gelijkheidsbeginsel (discriminatieverbod) voor het heffingsjaar 2019 niet is geschonden. Dat geldt ook voor het gelijkheidsbeginsel als algemeen beginsel van behoorlijk bestuur. De terugwerkende kracht van de reparatiewet voor het heffingsjaar 2020 is niet in strijd met artikel 1 EP en het rechtzekerheidsbeginsel. Gelijkluidende beslissing in de zaken met zaaknummers: BK-23/175&176, BK-23/184&185, BK-23/187&188, BK-23/189&190, BK-23/191&192, BK-23/193&194, BK-23/196&197, BK-23/202&203, BK-23/204&205, BK-23/206&207, BK-23/208&209, BK-23/210&211, BK-23/212&213, BK-23/214&215, BK-23/216&217, BK23/218&219 en BK-23/222&223.
 
 ## Uitspraak
 
