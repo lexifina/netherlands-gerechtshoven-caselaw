@@ -10,14 +10,14 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1586"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2084", "V-N 2024/48.1.4", "NLF 2024/2491", "NDFR Nieuws 2024/1871", "NTFR 2024/1990 met annotatie van mr. B.S. Kats"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:436, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:436, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1270"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1586 Gerechtshof Den Haag , 17-07-2024 / BK-23/174
 
 ## Inhoudsindicatie
 
-Verhuurderheffing. De terugwerkende kracht van de reparatiewet voor het heffingsjaar 2020 is niet in strijd met artikel 1 EP en het rechtzekerheidsbeginsel.
+Verhuurderheffing. De terugwerkende kracht van de reparatiewet voor het heffingsjaar 2020 is niet in strijd met artikel 1 EP en het rechtzekerheidsbeginsel. Gelijkluidende beslissing in de zaak met zaaknummer: BK-23/180.
 
 ## Uitspraak
 
