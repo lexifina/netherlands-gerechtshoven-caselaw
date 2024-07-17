@@ -10,13 +10,14 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1588"
 published_in: ["Rechtspraak.nl", "NDFR Nieuws 2024/1861", "NLF 2024/2456 met annotatie van Angelique Perdaems", "NTFR 2024/2041 met annotatie van A. Oosters Bec"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1019"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1588 Gerechtshof Den Haag , 17-07-2024 / BK-23/177
 
 ## Inhoudsindicatie
 
-Verhuurderheffing. Voor het op verschillende wijze in de heffing betrekken van enig-eigenaren en mede-eigenaren bestond een objectieve rechtvaardiging, zodat het gelijkheidsbeginsel (discriminatieverbod) voor het heffingsjaar 2019 niet is geschonden. Dat geldt ook voor het gelijkheidsbeginsel als algemeen beginsel van behoorlijk bestuur.
+Verhuurderheffing. Voor het op verschillende wijze in de heffing betrekken van enig-eigenaren en mede-eigenaren bestond een objectieve rechtvaardiging, zodat het gelijkheidsbeginsel (discriminatieverbod) voor het heffingsjaar 2019 niet is geschonden. Dat geldt ook voor het gelijkheidsbeginsel als algemeen beginsel van behoorlijk bestuur. Gelijkluidende beslissing in de zaken met zaaknummers: BK-23/178, BK-23/179, BK-23/183, BK-23/186, BK-23/195, BK-23/199 en BK-23/200.
 
 ## Uitspraak
 
