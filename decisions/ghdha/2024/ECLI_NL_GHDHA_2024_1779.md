@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1779"
-published_in: ["Rechtspraak.nl", "NLF 2024/2523", "V-N Vandaag 2024/2297", "Viditax (FutD) 2024110502", "FutD 2024-2369", "V-N 2025/6.20 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NLF 2024/2523", "V-N Vandaag 2024/2297", "Viditax (FutD) 2024110502", "FutD 2024-2369", "V-N 2025/6.20"]
 ---
 
 # ECLI:NL:GHDHA:2024:1779 Gerechtshof Den Haag , 24-07-2024 / BK-23/520
