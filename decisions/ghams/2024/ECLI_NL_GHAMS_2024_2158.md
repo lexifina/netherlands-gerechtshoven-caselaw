@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2158"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1639", "NLF 2024/1824", "V-N 2024/36.16 met annotatie van Redactie", "Belastingblad 2024/311 met annotatie van Y. POSTEMA-VAN DER KOOGH", "Viditax (FutD) 2024080107", "FutD 2024-1718"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1639", "NLF 2024/1824", "V-N 2024/36.16", "Belastingblad 2024/311 met annotatie van Y. POSTEMA-VAN DER KOOGH", "Viditax (FutD) 2024080107", "FutD 2024-1718"]
 ---
 
 # ECLI:NL:GHAMS:2024:2158 Gerechtshof Amsterdam , 01-08-2024 / 24/35, 24/36 en 24/37
