@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2433"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/48", "V-N 2025/9.22 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/48", "V-N 2025/9.22"]
 ---
 
 # ECLI:NL:GHAMS:2024:2433 Gerechtshof Amsterdam , 06-08-2024 / 200.301.285/01
