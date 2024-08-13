@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2296"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1780", "JBO 2024/35 met annotatie van Redactie", "V-N 2024/50.1.6", "Viditax (FutD) 2024090304", "FutD 2024-1908", "FutD 2024-1907"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1780", "JBO 2024/35", "V-N 2024/50.1.6", "Viditax (FutD) 2024090304", "FutD 2024-1908", "FutD 2024-1907"]
 relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2025:461"]]
 ---
 
