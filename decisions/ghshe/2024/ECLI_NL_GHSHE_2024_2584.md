@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2584"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2155", "NLF 2024/2428", "V-N 2024/48.1.2", "VFP 2024/169", "Viditax (FutD) 2024102413", "FutD 2024-2258"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6307, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6307, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:742"]]
 ---
 
 # ECLI:NL:GHSHE:2024:2584 Gerechtshof 's-Hertogenbosch , 14-08-2024 / 22/2324
