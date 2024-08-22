@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:2656"
 published_in: ["Rechtspraak.nl", "JERF Actueel 2024/437", "ERF-Updates.nl 2024-0491", "VEAN-ERF-Updates.nl 2024-0491", "RN 2024/73"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHSHE:2024:3952"]]
 ---
 
 # ECLI:NL:GHSHE:2024:2656 Gerechtshof 's-Hertogenbosch , 22-08-2024 / 200.336.970_01
