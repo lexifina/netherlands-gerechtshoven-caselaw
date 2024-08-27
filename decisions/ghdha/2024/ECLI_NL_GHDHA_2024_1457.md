@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1457"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2645"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1457 Gerechtshof Den Haag , 27-08-2024 / 200.337.212/01
