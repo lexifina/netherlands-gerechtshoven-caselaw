@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:5436"
 published_in: ["Rechtspraak.nl", "JERF Actueel 2024/402", "JERF 2024/168"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2026:5801"]]
 ---
 
 # ECLI:NL:GHARL:2024:5436 Gerechtshof Arnhem-Leeuwarden , 27-08-2024 / 200.304.790
