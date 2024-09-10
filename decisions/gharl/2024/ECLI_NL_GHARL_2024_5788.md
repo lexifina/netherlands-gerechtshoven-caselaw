@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:5788"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1898", "NLF 2024/2193", "Viditax (FutD) 2024092001", "FutD 2024-1994", "V-N 2025/6.18 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/1898", "NLF 2024/2193", "Viditax (FutD) 2024092001", "FutD 2024-1994", "V-N 2025/6.18"]
 ---
 
 # ECLI:NL:GHARL:2024:5788 Gerechtshof Arnhem-Leeuwarden , 10-09-2024 / W200.345.075/01
