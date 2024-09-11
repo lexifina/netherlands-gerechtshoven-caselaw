@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1616"
 published_in: ["Rechtspraak.nl", "NLF 2024/2381", "NDFR Nieuws 2024/1839", "Belastingblad 2024/380 met annotatie van L.J. Boone", "NTFR 2024/1828 met annotatie van mr. drs. C.M. Dijkstra", "Viditax (FutD) 2024101601", "FutD 2024-2212"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:957"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1616 Gerechtshof Den Haag , 11-09-2024 / BK-23/719
