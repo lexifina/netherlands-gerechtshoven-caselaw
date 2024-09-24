@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2661"
 published_in: ["Rechtspraak.nl", "NJF 2024/448"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1198"]]
 ---
 
 # ECLI:NL:GHAMS:2024:2661 Gerechtshof Amsterdam , 24-09-2024 / 200.308.490/01
