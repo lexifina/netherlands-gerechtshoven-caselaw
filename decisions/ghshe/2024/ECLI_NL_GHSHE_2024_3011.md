@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:3011"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/141", "Viditax (FutD) 2025012905", "FutD 2025-0251", "NLF 2025/0301", "Belastingblad 2025/91 met annotatie van B.S. Kats", "V-N 2025/14.24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/141", "Viditax (FutD) 2025012905", "FutD 2025-0251", "NLF 2025/0301", "Belastingblad 2025/91 met annotatie van B.S. Kats", "V-N 2025/14.24"]
 ---
 
 # ECLI:NL:GHSHE:2024:3011 Gerechtshof 's-Hertogenbosch , 25-09-2024 / 23/6
