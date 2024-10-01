@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:1665"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:842"]]
 ---
 
 # ECLI:NL:GHDHA:2024:1665 Gerechtshof Den Haag , 01-10-2024 / 200.330.505/01
