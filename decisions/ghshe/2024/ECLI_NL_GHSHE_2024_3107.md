@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:3107"
 published_in: ["Rechtspraak.nl", "JM 2024/142 met annotatie van S. Pieters", "JAF 2024/11"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1111"]]
 ---
 
 # ECLI:NL:GHSHE:2024:3107 Gerechtshof 's-Hertogenbosch , 04-10-2024 / 20-000066-23
