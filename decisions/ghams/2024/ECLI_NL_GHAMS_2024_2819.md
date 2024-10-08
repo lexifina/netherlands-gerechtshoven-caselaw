@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2819"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0002", "RO 2025/19", "JONDR 2025/277"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0002", "RO 2025/19", "JONDR 2025/277", "JOR 2025/176 met annotatie van mr. F.J. Verhagen"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:912"]]
 ---
 
 # ECLI:NL:GHAMS:2024:2819 Gerechtshof Amsterdam , 08-10-2024 / 200.323.828/01
