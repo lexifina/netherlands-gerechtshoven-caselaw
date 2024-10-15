@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:2876"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0250"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0250", "PR-Updates.nl 2024-0250"]
 ---
 
 # ECLI:NL:GHAMS:2024:2876 Gerechtshof Amsterdam , 15-10-2024 / 200.330.402/01
