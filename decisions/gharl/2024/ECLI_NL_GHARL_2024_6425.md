@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6425"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2149", "NLF 2024/2480", "Belastingblad 2024/393 met annotatie van J.K. Lanser", "Viditax (FutD) 2024103111", "FutD 2024-2324", "V-N 2025/10.24 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2149", "NLF 2024/2480", "Belastingblad 2024/393 met annotatie van J.K. Lanser", "Viditax (FutD) 2024103111", "FutD 2024-2324", "V-N 2025/10.24"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:1895, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
