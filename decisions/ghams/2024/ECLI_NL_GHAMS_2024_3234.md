@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:3234"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024112702", "FutD 2024-2508", "V-N Vandaag 2024/2412", "NLF 2024/2713", "NDFR Nieuws 2024/1997", "NTFR 2025/53 met annotatie van mr. R.J. de Jong"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1687"]]
 ---
 
 # ECLI:NL:GHAMS:2024:3234 Gerechtshof Amsterdam , 17-10-2024 / 23/797
