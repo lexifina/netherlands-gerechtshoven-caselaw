@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:3133"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2325", "V-N 2024/57.1.1"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:14241, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:14241, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:855"]]
 ---
 
 # ECLI:NL:GHAMS:2024:3133 Gerechtshof Amsterdam , 22-10-2024 / 23/705 en 23/706
