@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:3310"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/168 met annotatie van R.J. Kunst"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:972"]]
 ---
 
 # ECLI:NL:GHSHE:2024:3310 Gerechtshof 's-Hertogenbosch , 23-10-2024 / 22/2329
