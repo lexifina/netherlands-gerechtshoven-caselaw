@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:6695"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2276", "Viditax (FutD) 2024110812", "FutD 2024-2361", "NLF 2025/0131 met annotatie van Arne de Beer,  Arlene de Leeuw-Schoneveld", "V-N 2025/8.1.2"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:1688, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2024/2276", "Viditax (FutD) 2024110812", "FutD 2024-2361", "NLF 2025/0131 met annotatie van drs. A.W. de Beer RB", "V-N 2025/8.1.2"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:1688, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1812"]]
 ---
 
 # ECLI:NL:GHARL:2024:6695 Gerechtshof Arnhem-Leeuwarden , 29-10-2024 / 23/2186 en 23/2187
