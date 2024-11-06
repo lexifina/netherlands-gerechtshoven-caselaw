@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:3582"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/156 met annotatie van Redactie"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1645"]]
 cites_law: ["netherlands/national/acts/awb/art-08-111.md"]
 ---
 
