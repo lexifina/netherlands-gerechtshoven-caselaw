@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:3483"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:5250, Niet ontvankelijk"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2022:5250, Niet ontvankelijk"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1646"]]
 cites_law: ["netherlands/national/acts/awb/art-08-111.md"]
 ---
 
