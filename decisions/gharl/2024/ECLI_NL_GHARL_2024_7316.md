@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:7316"
 published_in: ["Rechtspraak.nl", "JOR 2025/72 met annotatie van Mr. L.J.J. Kerstens"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1164"]]
 ---
 
 # ECLI:NL:GHARL:2024:7316 Gerechtshof Arnhem-Leeuwarden , 26-11-2024 / 200.314.767
