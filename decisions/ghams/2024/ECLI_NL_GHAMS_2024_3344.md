@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:3344"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0019", "RO 2025/8", "JOR 2025/56 met annotatie van mr. D.H. Tilanus", "JONDR 2025/198", "ARO 2024/165"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2025-0019", "RO 2025/8", "JOR 2025/56 met annotatie van mr. D.H. Tilanus", "JONDR 2025/198", "ARO 2024/165", "TvA 2025/31"]
 ---
 
 # ECLI:NL:GHAMS:2024:3344 Gerechtshof Amsterdam , 26-11-2024 / 200.337.820/01OK
