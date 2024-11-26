@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:7346"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024120605", "FutD 2024-2554", "V-N Vandaag 2024/2524", "NDFR Nieuws 2025/8", "NTFR 2025/153 met annotatie van mr. G.C.A. de Wit", "V-N 2025/10.1.5"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1445"]]
 ---
 
 # ECLI:NL:GHARL:2024:7346 Gerechtshof Arnhem-Leeuwarden , 26-11-2024 / 23/15
