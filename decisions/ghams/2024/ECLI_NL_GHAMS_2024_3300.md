@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:3300"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024121112", "V-N Vandaag 2024/2517", "FutD 2024-2648", "NDFR Nieuws 2025/22", "NTFR 2025/178 met annotatie van mr. I. van Wijk", "NLF 2025/0294", "V-N 2025/12.1.6", "V-N 2025/13.1.7"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:7485, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2021:7485, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1533"]]
 ---
 
 # ECLI:NL:GHAMS:2024:3300 Gerechtshof Amsterdam , 28-11-2024 / 21/1663
