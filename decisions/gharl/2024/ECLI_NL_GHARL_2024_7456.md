@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:7456"
-published_in: ["Rechtspraak.nl", "PJ 2025/15 met annotatie van T. Huijg", "PR-Updates.nl PR-2025-0002"]
+published_in: ["Rechtspraak.nl", "PJ 2025/15 met annotatie van T. Huijg", "PR-Updates.nl PR-2025-0002", "PR-Updates.nl 2025-0002"]
 ---
 
 # ECLI:NL:GHARL:2024:7456 Gerechtshof Arnhem-Leeuwarden , 03-12-2024 / 200.331.737
