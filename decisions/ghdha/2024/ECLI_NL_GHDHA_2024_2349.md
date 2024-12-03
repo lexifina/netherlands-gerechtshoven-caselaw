@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2349"
 published_in: ["Rechtspraak.nl", "Notamail 2025/9", "Sdu Nieuws Personen- en familierecht 2025/35", "JERF Actueel 2025/38", "ERF-Updates.nl 2025-0075", "VEAN-ERF-Updates.nl 2025-0075", "JERF 2025/34 met annotatie van mr. dr. R.E. Brinkman"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:813"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2349 Gerechtshof Den Haag , 03-12-2024 / 200.336.589/01
