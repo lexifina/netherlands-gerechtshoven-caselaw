@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2382"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012709", "V-N Vandaag 2025/146", "FutD 2025-0236", "NLF 2025/0260", "Belastingadvies 2025/5.1", "V-N 2025/16.1.2"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:4572, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:4572, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:924"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2382 Gerechtshof Den Haag , 03-12-2024 / BK-24/433
