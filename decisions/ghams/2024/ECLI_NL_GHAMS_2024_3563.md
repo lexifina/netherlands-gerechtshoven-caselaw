@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2024:3563"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025021902", "V-N Vandaag 2025/347", "FutD 2025-0401", "NLF 2025/0429", "NDFR Nieuws 2025/359", "NTFR 2025/438 met annotatie van mr. E.D. Postema", "V-N 2025/13.1.8"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:783, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2023:783, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1772"]]
 ---
 
 # ECLI:NL:GHAMS:2024:3563 Gerechtshof Amsterdam , 05-12-2024 / 23/256
