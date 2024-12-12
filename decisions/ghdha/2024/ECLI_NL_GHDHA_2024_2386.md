@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2386"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/199"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21819, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21819, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1678"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2386 Gerechtshof Den Haag , 12-12-2024 / BK-23/1262
