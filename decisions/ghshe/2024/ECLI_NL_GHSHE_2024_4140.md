@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:4140"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025010604", "V-N Vandaag 2025/6", "Sdu Nieuws Belastingzaken 2025/8", "FutD 2025-0078", "NLF 2025/0127", "V-N 2025/7.25.35", "NTFR 2025/374 met annotatie van mr. R.B.H. Beune", "NDFR Nieuws 2025/361"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2019:3459, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2019:3459, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1128"]]
 ---
 
 # ECLI:NL:GHSHE:2024:4140 Gerechtshof 's-Hertogenbosch , 17-12-2024 / 20-002537-19
