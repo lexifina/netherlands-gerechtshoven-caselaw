@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:4059"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:3581"]]
+published_in: ["Rechtspraak.nl", "NJ 2026/288"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:3581"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:402"]]
 ---
 
 # ECLI:NL:GHSHE:2024:4059 Gerechtshof 's-Hertogenbosch , 17-12-2024 / 200.334.143_01
