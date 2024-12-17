@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2384"
-published_in: ["Rechtspraak.nl", "RBP 2025/34"]
+published_in: ["Rechtspraak.nl", "RBP 2025/34", "TVA 2025/33", "NJ 2026/287"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:363"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2384 Gerechtshof Den Haag , 17-12-2024 / 200.332.942/01
