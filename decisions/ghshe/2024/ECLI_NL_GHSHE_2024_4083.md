@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:4083"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040302", "V-N Vandaag 2025/699", "FutD 2025-0724", "NLF 2025/0854 met annotatie van Tom Noë", "V-N 2025/21.1.6"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5757, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040302", "V-N Vandaag 2025/699", "FutD 2025-0724", "NLF 2025/0854 met annotatie van mr. T.H.A. Noë", "V-N 2025/21.1.6"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5757, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1123"]]
 ---
 
 # ECLI:NL:GHSHE:2024:4083 Gerechtshof 's-Hertogenbosch , 18-12-2024 / 22/2298 tot en met 22/2305
