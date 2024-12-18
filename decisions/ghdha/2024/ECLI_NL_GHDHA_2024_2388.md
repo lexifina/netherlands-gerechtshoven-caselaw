@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2388"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1005"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2388 Gerechtshof Den Haag , 18-12-2024 / 22-000349-23
