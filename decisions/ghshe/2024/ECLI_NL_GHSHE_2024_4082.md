@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2024:4082"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040302", "FutD 2025-0724", "NLF 2025/0887"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5756, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:5756, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1234"]]
 cites_law: ["netherlands/national/acts/awr/art-047.md", "netherlands/national/acts/awr/art-052a.md"]
 ---
 
