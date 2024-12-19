@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2024:2608"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:3964, Overig"]]
+published_in: ["Rechtspraak.nl", "NJFS 2025/155"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:3964, Overig"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1362"]]
 ---
 
 # ECLI:NL:GHDHA:2024:2608 Gerechtshof Den Haag , 19-12-2024 / 22-001190-24
