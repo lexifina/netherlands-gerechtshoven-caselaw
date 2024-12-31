@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2024:7984"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:4351"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHARL:2025:864"]]
+published_in: ["Rechtspraak.nl", "TvAR 2025/8231 met annotatie van E.H.M. Harbers"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:4351"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHARL:2025:864"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHARL:2025:865"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:918"]]
 ---
 
 # ECLI:NL:GHARL:2024:7984 Gerechtshof Arnhem-Leeuwarden , 31-12-2024 / 200.319.145 en 200.321.203
