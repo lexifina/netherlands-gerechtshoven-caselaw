@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/260", "Viditax (FutD) 2025021006", "NLF 2025/0362", "FutD 2025-0360", "V-N 2025/15.1.4"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21833, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21833, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:726"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1 Gerechtshof Den Haag , 09-01-2025 / BK-24/51
