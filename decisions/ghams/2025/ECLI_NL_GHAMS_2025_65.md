@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:65"
-published_in: ["Rechtspraak.nl", "JOR 2025/121 met annotatie van mr. M. Broeders"]
+published_in: ["Rechtspraak.nl", "JOR 2025/121 met annotatie van mr. M.A. Broeders"]
 ---
 
 # ECLI:NL:GHAMS:2025:65 Gerechtshof Amsterdam , 14-01-2025 / 200.336.432/01
