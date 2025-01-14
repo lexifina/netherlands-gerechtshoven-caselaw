@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:156"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025012404", "FutD 2025-0190", "V-N Vandaag 2025/123", "NLF 2025/0239", "Belastingblad 2025/90 met annotatie van J.C. Scherff", "V-N 2025/20.1.4"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:2818, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:2818, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1629"]]
 ---
 
 # ECLI:NL:GHARL:2025:156 Gerechtshof Arnhem-Leeuwarden , 14-01-2025 / 23/2546
