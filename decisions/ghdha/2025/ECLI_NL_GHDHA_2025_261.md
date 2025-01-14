@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:261"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21823, Niet ontvankelijk"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21823, Niet ontvankelijk"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1446"]]
 ---
 
 # ECLI:NL:GHDHA:2025:261 Gerechtshof Den Haag , 14-01-2025 / BK-24/114
