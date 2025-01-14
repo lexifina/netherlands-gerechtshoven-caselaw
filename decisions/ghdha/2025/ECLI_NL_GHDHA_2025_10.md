@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:10"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2025/196 met annotatie van N.W. Arnold"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1295"]]
 ---
 
 # ECLI:NL:GHDHA:2025:10 Gerechtshof Den Haag , 14-01-2025 / 200.330.304/01
