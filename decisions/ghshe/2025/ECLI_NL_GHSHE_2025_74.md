@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:74"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025020503", "FutD 2025-0315", "NLF 2025/0353", "V-N Vandaag 2025/290", "Belastingblad 2025/116 met annotatie van Redactie"]
-relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2024:1299, Prejudiciële beslissing"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2024:699"]]
+relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2024:1299, Prejudiciële beslissing"], ["Formele relatie", "Tussenuitspraak: ECLI:NL:GHSHE:2024:699"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:946"]]
 cites_law: ["netherlands/national/acts/wet-waardering-onroerende-zaken/art-040.md"]
 ---
 
