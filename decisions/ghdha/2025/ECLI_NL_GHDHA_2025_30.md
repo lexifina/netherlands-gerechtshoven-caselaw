@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:30"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:11463, Meerdere afhandelingswijzen"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:11463, Meerdere afhandelingswijzen"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1238"]]
 ---
 
 # ECLI:NL:GHDHA:2025:30 Gerechtshof Den Haag , 21-01-2025 / 200.324.365/01
