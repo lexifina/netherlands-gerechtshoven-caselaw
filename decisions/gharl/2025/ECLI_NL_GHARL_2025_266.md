@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:266"
 published_in: ["Rechtspraak.nl", "JPF 2025/45 met annotatie van A.J.I. Mullenders"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1278"]]
 ---
 
 # ECLI:NL:GHARL:2025:266 Gerechtshof Arnhem-Leeuwarden , 21-01-2025 / 200.335.444/01
