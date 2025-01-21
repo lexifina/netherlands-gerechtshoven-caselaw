@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:127"
-published_in: ["Rechtspraak.nl", "NJF 2025/137"]
+published_in: ["Rechtspraak.nl", "NJF 2025/137", "PJ 2025/94 met annotatie van E. Lutjens", "PR-Updates.nl 2025-0030"]
 ---
 
 # ECLI:NL:GHAMS:2025:127 Gerechtshof Amsterdam , 21-01-2025 /  200.327.503/01
