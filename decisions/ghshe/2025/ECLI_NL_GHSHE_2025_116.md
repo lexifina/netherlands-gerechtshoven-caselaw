@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:116"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6969"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6969"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1147"]]
 ---
 
 # ECLI:NL:GHSHE:2025:116 Gerechtshof 's-Hertogenbosch , 21-01-2025 / 200.323.565_01
