@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:117"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6971"]]
+published_in: ["Rechtspraak.nl", "JOR 2025/165 met annotatie van mr. J.J. Rekker", "NJF 2025/285"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:6971"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1148"]]
 ---
 
 # ECLI:NL:GHSHE:2025:117 Gerechtshof 's-Hertogenbosch , 21-01-2025 / 200.323.708_01
