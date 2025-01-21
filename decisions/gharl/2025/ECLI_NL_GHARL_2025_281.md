@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:281"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0074", "AR-Updates.nl 2025-0149", "VAAN-AR-Updates.nl 2025-0149", "JAR 2025/67", "Prg. 2025/101"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0074", "AR-Updates.nl 2025-0149", "VAAN-AR-Updates.nl 2025-0149", "JAR 2025/67", "Prg. 2025/101", "Jurisprudentie HSE 2025/8"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:910"]]
 ---
 
 # ECLI:NL:GHARL:2025:281 Gerechtshof Arnhem-Leeuwarden , 21-01-2025 / 200.329.278
