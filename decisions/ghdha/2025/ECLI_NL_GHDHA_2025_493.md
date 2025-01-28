@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:493"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025041502", "FutD 2025-0833", "NDFR Nieuws 2025/716", "NLF 2025/0862", "V-N 2025/22.1.1", "V-N Vandaag 2025/794"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025041502", "FutD 2025-0833", "NDFR Nieuws 2025/716", "NLF 2025/0862", "V-N 2025/22.1.1", "V-N Vandaag 2025/794", "NTFR 2025/867 met annotatie van dr. E.A.P. Schouten CPC"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1487"]]
 ---
 
 # ECLI:NL:GHDHA:2025:493 Gerechtshof Den Haag , 28-01-2025 / BK-23/865
