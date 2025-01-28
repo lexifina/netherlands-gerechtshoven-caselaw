@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:205"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:6397"]]
+published_in: ["Rechtspraak.nl", "NJF 2025/220"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:6397"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1549"]]
 ---
 
 # ECLI:NL:GHSHE:2025:205 Gerechtshof 's-Hertogenbosch , 28-01-2025 / 200.333.210_01
