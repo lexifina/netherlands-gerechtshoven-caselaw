@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:637"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2025/66", "FJR 2026/40.38"]
 ---
 
 # ECLI:NL:GHDHA:2025:637 Gerechtshof Den Haag , 29-01-2025 / 200.346.604/01 en 200.346.604/02
