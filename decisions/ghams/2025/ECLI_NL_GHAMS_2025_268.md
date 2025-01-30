@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:268"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1759"]]
 ---
 
 # ECLI:NL:GHAMS:2025:268 Gerechtshof Amsterdam , 30-01-2025 / 23-001260-22
