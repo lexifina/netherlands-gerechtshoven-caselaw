@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:263"
 published_in: ["Rechtspraak.nl", "NJF 2025/322", "Jurisprudentie Grondzaken 2025/54 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2023:5508"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2023:5508"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:806"]]
 ---
 
 # ECLI:NL:GHSHE:2025:263 Gerechtshof 's-Hertogenbosch , 04-02-2025 / 200.336.231_01
