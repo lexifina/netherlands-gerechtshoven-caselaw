@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:601"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025021001", "FutD 2025-0363", "V-N Vandaag 2025/327", "V-N 2025/12.17 met annotatie van Redactie", "NTFR 2025/546 met annotatie van mr. M. van Leeuwen"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025021001", "FutD 2025-0363", "V-N Vandaag 2025/327", "V-N 2025/12.17", "NTFR 2025/546 met annotatie van mr. M. van Leeuwen"]
 ---
 
 # ECLI:NL:GHARL:2025:601 Gerechtshof Arnhem-Leeuwarden , 05-02-2025 / 21-003889-18
