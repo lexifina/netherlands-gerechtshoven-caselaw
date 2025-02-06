@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:407"
 published_in: ["Rechtspraak.nl", "FutD 2025-0331", "NLF 2025/0390", "V-N Vandaag 2025/340", "NDFR Nieuws 2025/353", "NTFR 2025/620 met annotatie van mr. drs. G. Benning", "Belastingadvies 2025/9.4", "V-N 2025/19.1.2"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:6877, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:6877, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1688"]]
 ---
 
 # ECLI:NL:GHAMS:2025:407 Gerechtshof Amsterdam , 06-02-2025 / 24/3392
