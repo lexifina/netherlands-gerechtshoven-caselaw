@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:842"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-0259", "VAAN-AR-Updates.nl 2025-0259", "TAR 2025/16"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1160"]]
 ---
 
 # ECLI:NL:GHARL:2025:842 Gerechtshof Arnhem-Leeuwarden , 11-02-2025 / 200.340.202/01
@@ -309,7 +310,7 @@ met betrekking tot werkdruk
 
 4.25
 
-Voldoende duidelijk is geworden dat [appellante] vaak op maandag en vrijdag werkte. Dat is echter begrijpelijk omdat zij fulltime werkte. Wel stond zij, als het gaat om loketdienst, er met name op vrijdagen meer dan eens alleen voor door personeelsgebrek. Dat die (loket)diensten haar zwaar vielen, is begrijpelijk. Dat dit onwenselijk was, werd door de gemeente ook onderkend. Met welke frequentie en gedurende welke periode [appellante] er alleen voor stond, is echter niet duidelijk geworden. Wel kan uit door [appellante] overgelegde correspondentie worden afgeleid dat het in ieder geval in 2016 nog voorkwam. Volgens een verklaring van Tollenaar, leidinggevende van [appellante] sinds 2016, op de zitting in hoger beroep schakelde hij echter al spoedig uitzendkrachten in om dit te ondervangen. Dat het ook na 2017 nog regelmatig voorkwam, is verder niet gebleken. Andere omstandigheden die zouden kunnen leiden tot het oordeel dat sprake was van een onaanvaardbaar hoge werkdruk, zijn niet gesteld of gebleken. Dat daarmee de werkzaamheden vanwege het aspect van werkdruk ook buitensporig waren, is het hof niet gebleken.
+Voldoende duidelijk is geworden dat [appellante] vaak op maandag en vrijdag werkte. Dat is echter begrijpelijk omdat zij fulltime werkte. Wel stond zij, als het gaat om loketdienst, er met name op vrijdagen meer dan eens alleen voor door personeelsgebrek. Dat die (loket)diensten haar zwaar vielen, is begrijpelijk. Dat dit onwenselijk was, werd door de gemeente ook onderkend. Met welke frequentie en gedurende welke periode [appellante] er alleen voor stond, is echter niet duidelijk geworden. Wel kan uit door [appellante] overgelegde correspondentie worden afgeleid dat het in ieder geval in 2016 nog voorkwam. Volgens een verklaring van [naam4] , leidinggevende van [appellante] sinds 2016, op de zitting in hoger beroep schakelde hij echter al spoedig uitzendkrachten in om dit te ondervangen. Dat het ook na 2017 nog regelmatig voorkwam, is verder niet gebleken. Andere omstandigheden die zouden kunnen leiden tot het oordeel dat sprake was van een onaanvaardbaar hoge werkdruk, zijn niet gesteld of gebleken. Dat daarmee de werkzaamheden vanwege het aspect van werkdruk ook buitensporig waren, is het hof niet gebleken.
 
 met betrekking tot bedreigingen/racistische uitlatingen door klanten
 
