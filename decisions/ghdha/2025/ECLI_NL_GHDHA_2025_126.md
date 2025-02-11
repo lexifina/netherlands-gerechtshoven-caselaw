@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:126"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025030406", "Sdu Nieuws Belastingzaken 2025/277", "FutD 2025-0520", "AR-Updates.nl 2025-0284", "VAAN-AR-Updates.nl 2025-0284", "Sdu Nieuws Arbeidsrecht 2025/102", "V-N Vandaag 2025/597", "V-N 2025/16.26", "JAR 2025/106", "NLF 2025/0957 met annotatie van Frank Werger", "NTFR 2025/822 met annotatie van mr. E. Swaving Dijkstra"]
-relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2023:1276"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025030406", "Sdu Nieuws Belastingzaken 2025/277", "FutD 2025-0520", "AR-Updates.nl 2025-0284", "VAAN-AR-Updates.nl 2025-0284", "Sdu Nieuws Arbeidsrecht 2025/102", "V-N Vandaag 2025/597", "V-N 2025/16.26 met annotatie van Redactie", "JAR 2025/106", "NLF 2025/0957 met annotatie van Frank Werger", "NTFR 2025/822 met annotatie van mr. E. Swaving Dijkstra"]
+relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2023:1276"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:794"]]
 ---
 
 # ECLI:NL:GHDHA:2025:126 Gerechtshof Den Haag , 11-02-2025 / 200.333.425/01
