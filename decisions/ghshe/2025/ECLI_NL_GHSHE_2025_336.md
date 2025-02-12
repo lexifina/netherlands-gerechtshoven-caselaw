@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:336"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040903", "V-N Vandaag 2025/733", "FutD 2025-0791", "Belastingblad 2025/184 met annotatie van A.P. Monsma"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1131, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1131, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1346"]]
 ---
 
 # ECLI:NL:GHSHE:2025:336 Gerechtshof 's-Hertogenbosch , 12-02-2025 / 23/681 tot en met 23/683
