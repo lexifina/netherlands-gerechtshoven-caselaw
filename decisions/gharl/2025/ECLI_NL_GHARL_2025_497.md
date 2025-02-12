@@ -1,0 +1,3246 @@
+---
+ecli: "ECLI:NL:GHARL:2025:497"
+court: "Gerechtshof Arnhem-Leeuwarden"
+court_code: "GHARL"
+docket: "21-003038-22"
+decided: "2025-02-12"
+published: "2025-01-30"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht; Strafprocesrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:497"
+published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:2562"]]
+---
+
+# ECLI:NL:GHARL:2025:497 Gerechtshof Arnhem-Leeuwarden , 12-02-2025 / 21-003038-22
+
+## Inhoudsindicatie
+
+Eris betreft een onderzoek naar het (in opdracht van anderen) uitvoeren van liquidaties, pogingen daartoe en voorbereiding daarvan, die zijn gepleegd in een crimineel samenwerkingsverband. In hoger beroep staan negentien verdachten terecht.
+
+Het hof acht bewezen dat de verdachte zich als leider van de criminele organisatie heeft schuldig gemaakt aan het medeplegen van (pogingen tot) het uitlokken van meerdere liquidaties. Net als de rechtbank veroordeelt het hof de verdachte hiervoor tot een levenslange gevangenisstraf.
+
+In het arrest zijn – naast de bewijsoverwegingen – onder andere overwegingen opgenomen over:
+
+-	De kroongetuige;
+
+-	Het onderzoek aan gegevensdragers en locatiegegevens;
+
+-	De straftoemeting en de verhouding van de levenslange gevangenisstraf tot artikel 3 EVRM;
+
+-	De civiele vorderingen en schokschade.
+
+## Uitspraak
+
+Afdeling strafrecht
+
+Parketnummer:	21-003038-22
+
+Uitspraakdatum: 12 februari 2025
+
+TEGENSPRAAK
+
+Arrest van de meervoudige kamer voor strafzaken van het gerechtshof
+
+Arnhem-Leeuwarden, zittingsplaats Arnhem, zittingslocatie Badhoevedorp, gewezen op het hoger beroep, ingesteld tegen het vonnis van de rechtbank Midden-Nederland, zittingsplaats Utrecht, van 5 juli 2022 in de in eerste aanleg gevoegde strafzaken met parketnummers
+
+16-659137-19, 16-659027-20, 16-659033-20 en 16-706595-19 tegen
+
+[verdachte]
+,
+
+geboren in [geboorteplaats] op [geboortedag] 1983,
+
+momenteel verblijvende in [PI] .
+
+1
+INLEIDING
+
+1.1.
+
+De loop van het onderzoek
+
+Op 7 juli 2017 is [slachtoffer 21] van het leven beroofd bij NS-station Breukelen (deelonderzoek Breuk). De politie kwam al snel op het spoor van twee verdachten, [kroongetuige] en [naam 24] . [kroongetuige] werd in oktober 2017 aangehouden in Spanje; [naam 24] in Nederland. [kroongetuige] heeft als verdachte vrijwel direct een bekennende verklaring afgelegd. Vervolgens werd duidelijk dat hij in staat en bereid was om meer te verklaren over mededaders en opdrachtgevers in het onderzoek Breuk, en ook over andere ernstige strafbare feiten. Hij heeft diverse kluisverklaringen afgelegd en uiteindelijk is met hem in november 2018 een overeenkomst als kroongetuige gesloten. Zijn verklaringen hebben nieuwe aanknopingspunten gegeven voor liquidatie-onderzoeken die waren vastgelopen en er is zicht gekregen op een groep personen die zich bezig leek te houden met het plegen van liquidaties en andere strafbare feiten die daarmee verband houden. Op 21 november 2018 is een landelijke actiedag gehouden, waarop vele aanhoudingen zijn verricht en een zeer groot aantal gegevensdragers in beslag is genomen. Het onderzoek naar deze criminele organisatie en de feiten die in dat kader zijn gepleegd, heeft de naam Eris gekregen.
+
+1.2.
+
+Het onderzoek Eris
+
+Het onderzoek Eris heeft betrekking op 21 verdachten, die ervan worden beschuldigd samen met anderen, al dan niet in wisselende samenstelling, betrokken te zijn geweest bij een of meer liquidaties, pogingen daartoe of voorbereiding daarvan. Zeventien verdachten worden beschuldigd van het vormen van een criminele organisatie gericht op liquidaties, voorbereidingen daartoe en wapendelicten. Daarnaast worden enkele verdachten beschuldigd van andere strafbare feiten. Bij negentien verdachten is uiteindelijk hoger beroep ingesteld en gehandhaafd. In de zaak van de kroongetuige is het door het openbaar ministerie ingestelde hoger beroep ingetrokken. Bij een van de verdachten in de zaak Breuk is geen hoger beroep ingesteld.
+
+In dit arrest zijn de beslissingen van het hof opgenomen die in de strafzaak tegen de hierboven genoemde verdachte zijn genomen en de overwegingen die daartoe hebben geleid.
+
+Het procesdossier Eris bestaat uit een groot aantal deelonderzoeken, die voor een groot deel onderling met elkaar zijn verweven, al is het maar door de daarop gebaseerde verdenking van deelname aan de criminele organisatie. Deze verwevenheid maakt dat het hof net als de rechtbank niet alleen op de verweren van de betreffende verdachte zal ingaan, maar waar nodig ook op wat in andere zaken is aangevoerd.
+
+Voor de leesbaarheid van het arrest gebruikt het hof in plaats van de termen ‘(mede)verdachte’ de namen van de (mede)verdachten: [medeverdachte 14] , [verdachte] , [medeverdachte 4] , [medeverdachte 18] , [medeverdachte 17] , [medeverdachte 11] , [medeverdachte 5] , [medeverdachte 7] , [medeverdachte 12] , [medeverdachte 3] , [medeverdachte 6] , [medeverdachte 1] , [kroongetuige] , [naam 24] , [medeverdachte 13] , [medeverdachte 16] , [medeverdachte 15] , [medeverdachte 10] , [medeverdachte 9] , [medeverdachte 8] en [medeverdachte 19] . Het hof gebruikt een voorletter in die gevallen waarin meerdere personen in het dossier dezelfde achternaam hebben. Waar het hof de naam
+
+‘ [kroongetuige] ’ noemt, gaat het om [kroongetuige] ; zijn vader wordt steeds aangeduid als
+
+[getuige 4] .
+
+[kroongetuige] heeft verklaard dat [medeverdachte 14] hem heeft verteld dat ene [naam 45] de opdrachtgever van een aantal liquidaties was. Die naam wordt ook genoemd in een van de door [medeverdachte 14] vastgelegde PGPgesprekken. De officier van justitie heeft in eerste aanleg toegelicht dat [naam 45] ook daadwerkelijk als verdachte wordt beschouwd: hij zou de persoon zijn die aan de organisatie van [medeverdachte 14] liquidatieopdrachten heeft gegeven. Meer in het bijzonder zou zijn gebleken dat [medeverdachte 14] communiceerde met een of meer personen met de volgende gebruikersnamen:
+
+‘Sir’;
+
+‘ENEMY FOR ALL MOTHERFUCKER(S)’;
+
+‘TICKET TO HELL MOTHERFUCKERS’;
+
+‘LAST MAN STANDING’.
+
+In het dossier van het onderzoek Eris wordt verwezen naar conclusies waarop de politie baseert dat achter deze PGP-namen de persoon van [naam 45] schuilgaat. De onderliggende onderzoeksbevindingen zijn deels afkomstig uit het onderzoek in de strafzaak Marengo, maar die zijn grotendeels niet gevoegd in het Erisdossier. Omdat [naam 45] in het onderzoek Marengo wordt vervolgd, heeft het openbaar ministerie ervoor gekozen om hem niet ook in het onderzoek Eris te dagvaarden. Dit heeft tot gevolg dat [naam 45] zich in dit proces niet heeft kunnen verweren en dat de rechtbank en het hof hem ook niet hebben kunnen confronteren met aanwijzingen dat hij achter de genoemde PGP-namen schuilgaat. Daarnaast is het voor het beoordelen van de rol van de verdachten in Eris ook niet van belang welke persoon of personen schuilgaan achter de hierboven genoemde gebruikersnamen. Het hof zal daarom spreken van ‘de opdrachtgever’, tenzij de verklaringen van [kroongetuige] of de inhoud van andere bewijsmiddelen wordt weergegeven waarin de naam [naam 45] wordt genoemd.
+
+1.3.
+
+Het Eris-dossier
+
+De verschillende deelonderzoeken van het onderzoek Eris zijn in chronologische volgorde:
+
+Charon, de moord op [slachtoffer 11] op 31 januari 2017;
+
+Eend, het beramen van de moord op [slachtoffer 15] in de periode van
+
+2 februari 2017 tot en met 10 januari 2018;
+
+3. Kraai, het beramen van de moord op [slachtoffer 1] en [slachtoffer 2] op 18 februari 2017;
+
+4. Spreeuw, het beramen van de moord op [slachtoffer 22] op 18 februari 2017;
+
+5. Mus, het beramen van de moord op [slachtoffer 3] op 18 februari 2017;
+
+6. Duif, het beramen van de moord op [slachtoffer 12] en [slachtoffer 17] op
+
+18 februari 2017;
+
+7. Barbera, de poging tot/voorbereiding van de moord op [slachtoffer 10] op 9 maart 2017;
+
+8. Arford, de poging tot/voorbereiding van de moord op [slachtoffer 14] , [slachtoffer 5] ,
+
+[slachtoffer 13] en [slachtoffer 20] op 17 maart 2017;
+
+9. Charlie17, de moord op [slachtoffer 18] op 17 april 2017;
+
+10. Gezicht, de poging om met een raketwerper een granaat af te schieten op een woning in Doorn op 28 juni 2017 en het schieten met een automatisch vuurwapen op een woning in Doorn op 29 juni 2017;
+
+11. Breuk, de voorbereiding van de moord op [slachtoffer 21] op 5 juli 2017 en de moord op [slachtoffer 21] op 7 juli 2017;
+
+12. Langenhorst, de moord op [slachtoffer 23] op 26 juli 2017;
+
+13. Lis, de moord op [slachtoffer 4] op 21 september 2017;
+
+14. Goudvink, de voorbereiding van de moord op [slachtoffer 6] in de periode van
+
+juli 2018 tot en met 24 september 2018;
+
+15. Art. 140 Sr, deelname aan de criminele organisatie in de periode van januari 2017 tot en met 21 november 2018.
+
+Daarnaast maken de volgende deelonderzoeken deel uit van het onderzoek Eris:
+
+16. Waterspin, de afpersing en poging tot afpersing van [slachtoffer 19] en [slachtoffer 8] in de periode van 2017-2018 (verdachten [medeverdachte 13] en [medeverdachte 19] );
+
+17. Amarone, het bezit van en de handel in vuurwapens van 15 augustus 2017 tot en met 16 april 2019 (verdachte [medeverdachte 1] );
+
+18. Brunello, de mishandeling van [slachtoffer 16] op 7 februari 2019 en het bezit van een vuurwapen op 25 oktober 2016 (verdachte [medeverdachte 6] ).
+
+De rechtbank heeft over de samenstelling van de dossiers het volgende overwogen:
+
+In de strafdossiers van iedere verdachte zijn, behalve het gehele zogeheten Eris-dossier (bovengenoemde achttien deelonderzoeken), tevens gevoegd:
+
+alle processen-verbaal van de terechtzittingen van de rechtbank tegen ieder van de Eris-verdachten, met uitzondering van de processen-verbaal over de persoonlijke omstandigheden van de verdachten;
+
+alle processen-verbaal van (getuigen)verhoor door de rechter-commissaris die in de zaken van één of meer van de verdachten zijn opgemaakt, met uitzondering van enkele getuigenverklaringen in de zaak Waterspin die alleen in de zaken van verdachten [medeverdachte 13] en [medeverdachte 19] zijn opgenomen;
+
+documenten en bescheiden die, op initiatief van de verdediging of anderszins, gedurende de procedure zijn toegevoegd aan het dossier in de zaak tegen één of meer verdachten.
+
+Hoewel de meeste verdachten al dan niet op verzoek van een medeverdachte op zitting als getuige zijn gehoord, zijn daarnaast alle processen-verbaal van de zittingen in alle dossiers gevoegd vóórdat het requisitoir en de pleidooien zijn gehouden. Daardoor maken alle verklaringen van alle verdachten zoals afgelegd op de zittingen in bijzijn van hun advocaat deel uit van het procesdossier, dus niet alleen de verklaringen die zij daar als getuige hebben afgelegd, maar ook de verklaringen die zij in hun eigen zaak hebben afgelegd. Dit maakt dat het dossier voor elke verdachte gelijkluidend is.
+
+Anders dan in eerste aanleg zijn de processen-verbaal van de behandeling ter zitting in hoger beroep in de zaken van de medeverdachten niet in het dossier van elke verdachte gevoegd. Wel zijn de aanvullingen op de diverse zaakdossiers in het dossier van elke verdachte gevoegd. Daarnaast is het proces-verbaal van het verhoor als getuige van een verdachte in een zaak van een medeverdachte ook gevoegd in het dossier van die verdachte.
+
+1.4.
+
+De opbouw van de arresten
+
+De arresten zijn in beginsel als volgt opgebouwd:
+
+Hoofdstuk 1: 	Inleiding
+
+Hoofdstuk 2: 	Het vonnis van de rechtbank
+
+Hoofdstuk 3: 	Het hoger beroep
+
+Hoofdstuk 4:	De verkorte weergave van de tenlastelegging
+
+Hoofdstuk 5:	De voorvragen, overwegingen en algemene conclusies over de kroongetuige en overwegingen over het onderzoek aan gegevensdragers en locatiegegevens
+
+Hoofdstuk 6: 	De waardering van het bewijs en de conclusies van de veredelingen
+
+Hoofdstuk 7: 	De bewezenverklaring
+
+Hoofdstuk 8: 	De strafbaarheid van de feiten
+
+Hoofdstuk 9: 	De strafbaarheid van de verdachte
+
+Hoofdstuk 10: 	De strafmaat
+
+Hoofdstuk 11: 	Het beslag
+
+Hoofdstuk 12: 	De vorderingen van de benadeelde partijen
+
+Hoofdstuk 13: 	De toepasselijke wettelijke voorschriften
+
+Hoofdstuk 14: 	De beslissing
+
+Bijlage 1: 	De zittingsdagen in eerste aanleg en in hoger beroep per verdachte
+
+Bijlage 2: 	De tenlastelegging per verdachte
+
+Bijlage 3: 	De door het hof vastgestelde veredelingen en identificaties
+
+Bijlage 4: 	De door het hof gebruikte (andere) bewijsmiddelen
+
+In bijlage 3 bij dit arrest heeft het hof de gebruikers van diverse PGP-accounts, telefoons, en andere gegevensdragers veredeld en geïdentificeerd. Waar het hof in het arrest overweegt dat een gebruiker is veredeld/geïdentificeerd, verwijst het hof daarvoor naar de bewijsmiddelen en conclusies in deze bijlage 3.
+
+In bijlage 4 heeft het hof per deelonderzoek de bewijsmiddelen opgenomen die het voor het bewijs in dat deelonderzoek gebruikt. In een aantal deelonderzoeken verwijst het hof op grond van de onderlinge verwevenheid daarbij naar bewijsmiddelen die in andere deelonderzoeken zijn gebruikt, voor zover zij in dat deelonderzoek voor het bewijs ook redengevend zijn.
+
+Gelet op de onderlinge verwevenheid van de deelonderzoeken, inclusief het deelonderzoek over de criminele organisatie waarbinnen het merendeel van de vermoedelijke strafbare feiten is gepleegd, zijn in geval van een bewezenverklaring de bijlagen 3 en 4 voor alle verdachten grotendeels gelijkluidend. Dit geldt niet voor de deelonderzoeken Waterspin, Amarone en Brunello. De feiten van die deelonderzoeken zouden niet in het verband van de criminele organisatie zijn gepleegd. De bewijsmiddelen van de feiten van die deelonderzoeken zijn bij een bewezenverklaring daarom alleen in een bijlage bij het vonnis van de verdachten in die deelonderzoeken opgenomen.
+
+2
+HET VONNIS VAN DE RECHTBANK
+
+De rechtbank Midden-Nederland heeft [verdachte] bij vonnis van 5 juli 2022 veroordeeld voor de volgende strafbare feiten:
+
+het medeplegen van uitlokking van het medeplegen van moord op [slachtoffer 11] (deelonderzoek Charon);
+
+het medeplegen van poging tot uitlokking van het medeplegen van moord op
+
+[slachtoffer 15] , [slachtoffer 22] , [slachtoffer 3] en [slachtoffer 10] (deelonderzoeken Eend,  Spreeuw, Mus en Barbera);
+
+- het medeplegen van poging tot uitlokking van het medeplegen van moord op
+
+[slachtoffer 1] en [slachtoffer 2] , [slachtoffer 12] en [slachtoffer 17] en [slachtoffer 14] en
+
+[slachtoffer 5] (deelonderzoeken Kraai, Duif en Arford);
+
+- het als leider deelnemen aan een criminele organisatie die tot oogmerk heeft het plegen van misdrijven.
+
+De rechtbank heeft aan [verdachte] een levenslange gevangenisstraf opgelegd.
+
+[verdachte] heeft tegen dit vonnis hoger beroep ingesteld.
+
+Het hof zal het vonnis van de rechtbank vernietigen. Voor zover het hof zich kan vinden in de overwegingen van de rechtbank, neemt het die voor een deel over.
+
+3
+HET HOGER BEROEP
+
+3.1.
+
+Het onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek op de terechtzittingen van het hof  en, overeenkomstig het bepaalde bij artikel 422 van het Wetboek van Strafvordering, het onderzoek op de terechtzittingen in eerste aanleg. Een overzicht van de zittingsdagen in eerste aanleg en in hoger beroep is opgenomen in bijlage 1.
+
+Dit arrest wordt op tegenspraak gewezen. Na voorbereidende zittingen is op
+
+1 december 2023 de inhoudelijke behandeling begonnen en zijn meerdere zittingsdagen gevolgd. Op verscheidene dagen is de kroongetuige op zitting gehoord en zijn de deelonderzoeken en vorderingen van de benadeelde partijen behandeld.
+
+Het hof heeft kennisgenomen van de vordering en standpunten van de advocaten-generaal in het onderzoek Eris en van wat [verdachte] en zijn raadslieden, mrs. L.E. Versluis,
+
+G.N. Weski en F.M.H. van Mullekom, naar voren hebben gebracht. Ook heeft het hof kennisgenomen van de vorderingen van de benadeelde partijen en hun eventuele toelichting op die vorderingen. Dit betreft in de onderhavige zaak de volgende personen:
+
+[benadeelde partij 1] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 7] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 8] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 10] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 12] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 11] , bijgestaan door mr. F.J.M. Hamers;
+
+[benadeelde partij 9] , bijgestaan door mr. S .Tromp.
+
+3.2.
+
+Het verzoek tot het horen van de getuige [getuige 6]
+
+Op 22 november 2023 is verzocht om het horen als getuige van [getuige 6] . De belangrijkste reden om deze persoon te horen is gelegen in de verklaring van [medeverdachte 14] dat hij via [getuige 6] in contact is gekomen met een zekere [getuige 5] . [getuige 6] zou het contact van [medeverdachte 14] met [getuige 5] kunnen bevestigen en daarmee ook het bestaan van [getuige 5] . Het hof heeft het verzoek toegewezen op 8 december 2023 en daarbij bepaald dat de getuige in alle zaken diende te worden gehoord.
+
+Van de getuige is geen verblijfplaats bekend geworden. Hij is uitgeschreven uit de Basisregistratie Personen onder vermelding van ‘vertrek naar het buitenland’, zonder dat bekend is naar welk land hij is vertrokken. Het raadplegen van de politiesystemen heeft niet geleid tot aanknopingspunten voor een verblijfplaats van de getuige. De verdediging heeft geen informatie verschaft en ook anderszins is geen informatie naar voren gekomen waaruit zou kunnen blijken dat de niet te traceren getuige binnen een aanvaardbare termijn kan worden gehoord. Het hof heeft daarom van de oproeping van de niet verschenen getuige afgezien op de grond dat het onaannemelijk is dat de getuige binnen een aanvaardbare termijn (ter terechtzitting) zal verschijnen als bedoeld in artikel 288, eerste lid, aanhef en onder a, van het Wetboek van Strafvordering.
+
+Voordat het hof uitspraak doet heeft het zich ervan vergewist dat de procedure in haar geheel voldoet aan het door artikel 6 EVRM gewaarborgde recht op een eerlijk proces ondanks dat [getuige 6] niet als getuige is gehoord. De getuige is een zogenoemde ‘defence witness’ en geen getuige die al een voor [verdachte] belastende verklaring heeft afgelegd die het hof eventueel voor het bewijs zou kunnen gebruiken. Er is bovendien een goede reden dat de verdediging de getuige niet heeft kunnen bevragen: hij bleek ondanks de nodige inspanningen vanaf 8 december 2023 van de autoriteiten niet te traceren. Daarbij komt dat er geen aanwijzingen zijn dat de getuige uit eigen wetenschap iets zou kunnen verklaren over de aan [verdachte] ten laste gelegde feiten.
+
+4
+DE TENLASTELEGGING
+
+De tenlastelegging is op de zitting in eerste aanleg gewijzigd. De gewijzigde tenlastelegging is als bijlage 2 aan dit arrest gehecht.
+
+De verdenking komt er kort, feitelijk en chronologisch weergegeven op neer dat [verdachte] :
+
+Ten aanzien van het deelonderzoek Charon (16-706595-19)
+
+Primair:	op 31 januari 2017 in Amsterdam met een ander of anderen [slachtoffer 11] heeft vermoord;
+
+Subsidiair:	in de periode van 12 januari tot en met 31 januari 2017 in Amsterdam met een ander of anderen de moord op [slachtoffer 11] heeft uitgelokt;
+
+Meer subsidiair:	in de periode van 12 januari tot en met 31 januari 2017 in Amsterdam en/of Rotterdam met een ander of anderen medeplichtig is geweest aan de moord op [slachtoffer 11] ;
+
+Meest subsidiair:	in de periode van 12 januari tot en met 31 januari 2017 in Nederland met een ander of anderen voorbereidingshandelingen voor de moord op [slachtoffer 11] heeft verricht;
+
+Ten aanzien van het deelonderzoek Eend (16-659027-20)
+
+Primair:	in de periode van 2 februari 2017 tot en met 10 januari 2018 in Nederland met een ander of anderen de moord op
+
+[slachtoffer 15] heeft geprobeerd uit te lokken;
+
+Subsidiair:	op 26 februari 2017 in Nederland medeplichtig is geweest aan de poging tot het uitlokken van de moord op [slachtoffer 15] ;
+
+Meer subsidiair:	in de periode van 2 februari 2017 tot en met 10 januari 2018 in Nederland met een ander of anderen voorbereidingshandelingen voor de moord op [slachtoffer 15] heeft verricht;
+
+Ten aanzien van de deelonderzoeken Mus, Kraai, Duif, Spreeuw, Barbera en Arford
+
+(16-659137-19)
+
+Feit 1, primair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen heeft geprobeerd
+
+[slachtoffer 3] te vermoorden;
+
+Feit 1, subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen de poging om
+
+[slachtoffer 3] te vermoorden heeft uitgelokt;
+
+Feit 1, meer subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen medeplichtig is geweest aan de poging om [slachtoffer 3] te vermoorden;
+
+Feit 1, nog meer subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen heeft geprobeerd de moord op [slachtoffer 3] uit te lokken;
+
+Feit 1, nog meer meer 	in de periode van 17 februari tot en met 19 februari 2017 in
+
+subsidiair:	Nederland met een ander of anderen de voorbereiding van de moord op [slachtoffer 3] heeft uitgelokt;
+
+Feit 1, meest subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen voorbereidingshandelingen voor de moord op [slachtoffer 3] heeft verricht;
+
+Feit 2, primair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen heeft geprobeerd de moorden op [slachtoffer 1] en [slachtoffer 2] uit te lokken;
+
+Feit 2, subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen voorbereidingshandelingen voor de moorden op [slachtoffer 1] en [slachtoffer 2] heeft verricht;
+
+Feit 3, primair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen heeft geprobeerd de moorden op [slachtoffer 12] en [slachtoffer 17] uit te lokken;
+
+Feit 3, subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen voorbereidingshandelingen voor de moorden op [slachtoffer 12] en [slachtoffer 17] heeft verricht;
+
+Feit 4, primair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen heeft geprobeerd de moord op [slachtoffer 22] uit te lokken;
+
+Feit 4, subsidiair:	in de periode van 17 februari tot en met 19 februari 2017 in Nederland met een ander of anderen voorbereidingshandelingen voor de moord op [slachtoffer 22] heeft verricht;
+
+Feit 5, primair:	op 9 maart 2017 in Spijkenisse met een ander of anderen heeft geprobeerd [slachtoffer 10] te vermoorden;
+
+Feit 5, subsidiair:	in de periode van januari tot en met 9 maart 2017 in Spijkenisse en/of Nieuwegein met een ander of anderen de poging om [slachtoffer 10] te vermoorden heeft uitgelokt;
+
+Feit 5, meer subsidiair:	in de periode van januari tot en met 9 maart 2017 in Nieuwegein met een ander of anderen heeft geprobeerd de moord op [slachtoffer 10] uit te lokken;
+
+Feit 5, nog meer subsidiair:	in de periode van januari 2017 tot en met 9 maart 2017 in Spijkenisse met een ander of anderen de voorbereiding van de moord op [slachtoffer 10] heeft uitgelokt;
+
+Feit 5, meest subsidiair:	in de periode van januari tot en met 9 maart 2017 in Spijkenisse met een ander of anderen voorbereidingshandelingen voor de moord op [slachtoffer 10] heeft verricht;
+
+Feit 6, primair:	op 17 maart 2017 in Amsterdam met een ander of anderen heeft geprobeerd [slachtoffer 14] , [slachtoffer 13] ,
+
+[slachtoffer 20] en/of [slachtoffer 5] te vermoorden;
+
+Feit 6, subsidiair:	in de periode van januari tot en met 17 maart 2017 in Amsterdam en/of Nieuwegein met een ander of anderen de poging om [slachtoffer 14] , [slachtoffer 13] , [slachtoffer 20] en/of [slachtoffer 5] te vermoorden heeft uitgelokt;
+
+Feit 6, meer subsidiair:	in de periode van januari tot en met 17 maart 2017 in Nieuwegein met een ander of anderen heeft geprobeerd de moorden op [slachtoffer 14] , [slachtoffer 13] ,
+
+[slachtoffer 20] en/of [slachtoffer 5] uit te lokken;
+
+Feit 6, nog meer subsidiair:	in de periode van januari 2017 tot en met 17 maart 2017 in Amsterdam met een ander of anderen de voorbereiding van de moorden op [slachtoffer 14] , [slachtoffer 13] ,
+
+[slachtoffer 20] en/of [slachtoffer 5] heeft uitgelokt;
+
+Feit 6, meest subsidiair:	in de periode van januari tot en met 17 maart 2017 in Amsterdam met een ander of anderen voorbereidingshandelingen voor de moorden op
+
+[slachtoffer 14] , [slachtoffer 13] , [slachtoffer 20] en/of
+
+[slachtoffer 5] heeft verricht;
+
+Ten aanzien van het deelonderzoek Criminele organisatie (16-659033-20)
+
+in de periode van 1 januari 2017 tot en met
+
+21 november 2018 in Den Haag, Leiden, Almere, Rotterdam, Spijkenisse, Breukelen, Mijdrecht, Zoetermeer en/of Doorn heeft deelgenomen aan een criminele organisatie die als oogmerk het plegen van levensdelicten, de voorbereiding daarvan en het voorhanden hebben van wapens en munitie had.
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zijn deze in de bewezenverklaring verbeterd. [verdachte] is daardoor niet geschaad in de verdediging.
+
+5
+DE VOORVRAGEN, OVERWEGINGEN EN ALGEMENE CONCLUSIES  OVER DE KROONGETUIGE EN OVERWEGINGEN OVER HET ONDERZOEK AAN GEGEVENSDRAGERS EN LOCATIEGEGEVENS
+
+De dagvaarding is geldig, het hof is bevoegd tot kennisneming van het tenlastegelegde, het openbaar ministerie is ontvankelijk in de vervolging van [verdachte] en er zijn geen redenen voor schorsing van de vervolging. Het debat dat is gevoerd over de ontvankelijkheid van het openbaar ministerie in de vervolging heeft zich toegespitst op het inzetten van de kroongetuige in het Eris-proces.
+
+5.1.
+
+De kroongetuige
+
+De rechtbank heeft uitgebreide overwegingen gewijd aan de kroongetuige en de betrouwbaarheid van de door hem afgelegde verklaringen. Het hof kan zich grotendeels vinden in de overwegingen van de rechtbank over de kroongetuige en neemt deze daarom voor een groot deel over. Op enkele onderdelen wijkt het hof ervan af.
+
+5.1.1.
+
+Algemeen
+
+De kerntaak van de feitenrechter met betrekking tot een kroongetuige is tweeledig. De feitenrechter beoordeelt de betrouwbaarheid van diens verklaringen en de rechtmatigheid van de overeenkomst die met de kroongetuige is gesloten, voor zover de rechtmatigheid daarvan is betwist.
+
+Als eerste zal het hof de totstandkoming van de overeenkomst met [kroongetuige] schetsen. Daarna zal het de verweren bespreken die de rechtmatigheid van de overeenkomst betreffen en de daaraan te verbinden gevolgen. Vervolgens komen de verweren die de betrouwbaarheid van de verklaringen van de kroongetuige betwisten aan bod. Hoewel niet alle raadslieden zich (concreet) bij alle verweren hebben aangesloten, of zelfs expliciet hebben aangegeven een verweer niet te voeren, zal het hof deze verweren ambtshalve bespreken in alle arresten waarin de verklaringen van [kroongetuige] van belang zijn.
+
+Bij de beoordeling heeft het hof rekening gehouden met de artikelen 226g e.v. van het Wetboek van Strafvordering die zien op de kroongetuigeregeling, met artikel 359a van het Wetboek van Strafvordering en met artikel 6 van het Europees Verdrag tot bescherming van de rechten van de mens en de fundamentele vrijheden (EVRM). Ook heeft het hof acht geslagen op de voorafgaande beschouwing over het gebruik van verklaringen van kroongetuigen in HR 23 april 2019, ECLI:NL:HR:2019:602 (Passageproces), onder 3.
+
+5.1.2.
+
+De totstandkoming van de overeenkomst
+
+Op 13 oktober 2017 is [kroongetuige] aangehouden op verdenking van de moord op [slachtoffer 21] , gepleegd op 7 juli 2017 in Breukelen. Hij heeft als verdachte in die zaak een bekennende verklaring afgelegd. In november 2017 heeft [kroongetuige] kenbaar gemaakt dat hij bereid en in staat is om over meer dan alleen zijn eigen rol in deze zaak verklaringen af te leggen in ruil voor bescherming, omdat hij vreesde voor zijn leven. Tussen januari 2018 tot en met
+
+mei 2018 heeft [kroongetuige] in totaal 25 zogenoemde kluisverklaringen afgelegd tegenover het team Bijzondere Getuigen. Op 12 november 2018 heeft de rechter-commissaris in strafzaken de voorgenomen overeenkomst tussen de Staat en [kroongetuige] getoetst en rechtmatig bevonden. Op 13 november 2018 heeft de Staat met [kroongetuige] een overeenkomst gesloten. Daarbij heeft [kroongetuige] zich verbonden om als getuige zonder voorbehoud, volledig en naar waarheid verklaringen af te leggen over een aantal in de overeenkomst genoemde misdrijven (de zogenoemde ‘dealfeiten’) en afstand gedaan van zijn verschoningsrecht als verdachte [het hof begrijpt: in zijn hoedanigheid van getuige]. De officier van justitie verbond zich om bij volledige nakoming door [kroongetuige] van de overeenkomst de strafeis voor zijn aandeel in de dealfeiten op twaalf jaren gevangenisstraf te stellen. Daarbij werd opgemerkt dat de strafeis tegen een verdachte die geen kroongetuige is, bij gelijke omstandigheden een gevangenisstraf van 24 jaren zou bedragen (de basisstrafeis). De strafvervolging van [kroongetuige] zou zich, behoudens bij gewijzigde omstandigheden, uitstrekken tot het medeplegen van de moord op [slachtoffer 21] , het medeplegen van het voorhanden hebben van twee vuurwapens, het medeplegen van opzetheling van twee personenauto’s, het medeplegen van opzettelijk gebruikmaken van een valse kentekenplaat, en ook – bij voldoende bewijs – het medeplegen van poging doodslag dan wel bedreiging en vernieling op 28 en 29 juni 2017 in Doorn en tot deelname aan een criminele organisatie.
+
+5.1.3.
+
+De rechtmatigheid van de overeenkomst
+
+Er zijn meerdere verweren gevoerd die strekken tot niet-ontvankelijkheid van het
+
+openbaar ministerie of tot bewijsuitsluiting van de verklaringen van [kroongetuige] , omdat de overeenkomst met [kroongetuige] niet rechtmatig zou zijn.
+
+Er is onder meer aangevoerd dat het onmogelijk is om te toetsen of de inhoud van de verklaringen van [kroongetuige] is beïnvloed door eventuele verboden toezeggingen in het kader van de met [kroongetuige] gesloten beschermingsovereenkomst, omdat deze laatste niet toetsbaar of controleerbaar is. Verder zou de uiteindelijke nettostrafeis van acht jaren in de overeenkomst disproportioneel laag zijn en zou het openbaar ministerie op ongerechtvaardigde en onbegrijpelijke gronden hebben afgezien van vervolging van
+
+[kroongetuige] in het deelonderzoek Langenhorst. Ook is aangevoerd dat in de overeenkomst verboden beloningen zijn ingebouwd, met name omdat het openbaar ministerie geen ontnemingsvordering indient voor onder meer het door [kroongetuige] wederrechtelijk verkregen voordeel van € 10.000,- voor de moord op [slachtoffer 21] , omdat [kroongetuige] een miljoenenschuld die hij aan derden heeft niet meer zal hoeven te betalen omdat hij straks in de anonimiteit verdwijnt en omdat de vader van [kroongetuige] niet wordt vervolgd. Deze beloningen zouden niet openlijk zijn gedeeld met de rechter en de verdediging.
+
+Het hof beantwoordt aan de hand van de feiten en omstandigheden die ten tijde van het tot stand komen van de overeenkomst met [kroongetuige] aan de orde waren, de vraag of deze overeenkomst binnen de grenzen van het recht is gebleven. Het hof bespreekt dit aan de hand van de hieronder genoemde onderwerpen.
+
+Overeenkomst met kroongetuige in dit geval mogelijk?
+Het hof beoordeelt allereerst of de overeenkomst met [kroongetuige] dringend noodzakelijk was om de opsporing, voorkoming of beëindiging van feiten mogelijk te maken die anders niet of niet tijdig zou plaatsvinden, of er een redelijke verhouding was tussen het belang van de te verkrijgen informatie en de te leveren tegenprestatie en of de overeenkomst ook overigens binnen de grenzen van het recht is gebleven.
+
+Het hof stelt vast dat de verklaringen van [kroongetuige] betrekking hebben op misdrijven als bedoeld in artikel 226g, eerste lid, van het Wetboek van Strafvordering. Het hof is van oordeel dat het openbaar ministerie het op goede gronden dringend noodzakelijk heeft geacht om tot een overeenkomst met [kroongetuige] te komen. [kroongetuige] kon verklaren over een aantal voltooide levensdelicten waarvan de opsporing op een dood spoor was beland en zonder zijn verklaringen niet binnen afzienbare tijd tot resultaat had geleid. Zijn verklaringen betroffen niet alleen vermeende uitvoerders, maar ook vermeende opdrachtgevers. Door de verklaringen van [kroongetuige] is zicht gekregen op een criminele organisatie die als oogmerk had het plegen van liquidaties in opdracht van anderen voor geld en die tot dan toe onder de radar was gebleven. Zijn verklaringen boden veel aanknopingspunten voor nader onderzoek in lopende onderzoeken en voor onderzoek naar zaken die op dat moment nog niet bekend waren bij de politie.
+
+Beïnvloeding door beschermingsovereenkomst?
+
+Het openbaar ministerie heeft aangevoerd dat vóór het sluiten van de overeenkomst niet over de details van een getuigenbeschermingsovereenkomst met de kroongetuige wordt gesproken. Er wordt alleen toegezegd dat kroongetuigen hulp en steun krijgen om na afloop van de detentie elders een veilig bestaan op te bouwen. De details en de financiële aspecten komen pas aan de orde als de (fictieve) datum van invrijheidstelling van de kroongetuige in zicht komt. Omdat de verklaringen al lang daarvoor zijn afgelegd, kunnen die niet beïnvloed zijn door de beschermingsovereenkomst, aldus het openbaar ministerie.
+
+Het hof bespreekt het verweer over de beschermingsovereenkomst in het licht van de zorgplicht die wordt ontleend aan de positieve verplichtingen van het EVRM, aan het burgerlijk recht en aan de in artikel 226l van het Wetboek van Strafvordering neergelegde bepaling. Aan deze zorgplicht wordt in voorkomende gevallen uitvoering gegeven door het maken van afspraken over getuigenbescherming met kroongetuigen. De Staat neemt ook een gedeelte van de verantwoordelijkheid voor de veiligheid van deze persoon op zich door zijn medewerking aan de opsporing te vragen.
+
+Uit het samenstel van de wettelijke regeling en de toepasselijke beleidsregels volgt dat ten aanzien van de rechtmatigheid en de doelmatigheid van maatregelen van getuigenbescherming in de strafvorderlijke context aan de strafrechter geen toetsende rol is toebedeeld. De totstandkoming van de afspraak in de zin van artikel 226g, eerste lid, van het Wetboek van Strafvordering en de specifieke maatregelen voor de bescherming van de getuige zijn juridisch twee verschillende trajecten. Hoewel in de afgelopen jaren soms duidelijk is geworden dat er in de praktijk wel degelijk verstrengeling kan bestaan tussen de kroongetuigenovereenkomst en de beschermingsovereenkomst, in die zin dat hoe de kroongetuige de specifieke maatregelen voor zijn feitelijke bescherming ervaart en de bereidheid om te verklaren elkaar kunnen beïnvloeden, en in de literatuur regelmatig wordt gepleit voor een vorm van externe, rechterlijke, toetsing van de beschermingsovereenkomst, biedt de wet hiervoor ook nu nog geen grond. Het openbaar ministerie is niet gehouden de processenverbaal en/of andere voorwerpen betreffende toezeggingen die zijn gedaan in verband met de feitelijke bescherming van de getuige op enig moment bij de processtukken te voegen. Zo een verplichting zou – temeer omdat de huidige wet geen specifieke regeling kent met betrekking tot de afscherming van processtukken in het belang van de veiligheid van de kroongetuige – onverenigbaar zijn met het doel van de bescherming van de getuige en de aard van de daartoe strekkende maatregelen. Het hof wijst er overigens in dit verband op dat [kroongetuige] de kluisverklaringen al heeft afgelegd voordat met hem de in artikel 226g, eerste lid, van het Wetboek van Strafvordering bedoelde afspraak is gemaakt, dus zonder dat hij wist of de afspraak zou worden gemaakt en, zo ja, onder welke voorwaarden, terwijl de details van de toegezegde feitelijke maatregelen voor de bescherming van [kroongetuige] nóg later, pas kort voor het aflopen van de gevangenisstraf worden bepaald. Er is dus geen aanwijzing dat er sprake is van verboden toezeggingen in het kader van de beschermingsovereenkomst, laat staan dat onder invloed van verboden toezeggingen in strijd met de waarheid zou zijn verklaard.
+
+Ook overigens is niet gebleken van verboden toezeggingen.
+
+Overeenkomst proportioneel?
+
+Het hof zal achtereenvolgens ingaan op de omvang van de vervolging van [kroongetuige] en het afzien van vervolging van de vader van [kroongetuige] , de basisstrafeis, de eis en het achterwege laten van een ontnemingsvordering en het feit dat [kroongetuige] een schuld aan derden niet meer zou hoeven te betalen.
+
+Bij requisitoir heeft het openbaar ministerie uitgebreid toegelicht dat de beslissing om
+
+[kroongetuige] niet te vervolgen in het deelonderzoek Langenhorst ruim na het sluiten van de overeenkomst door de zaaksofficieren naar aanleiding van de resultaten van het opsporingsonderzoek is genomen en dat daarbij niet het opportuniteitsbeginsel is toegepast, maar dat is beslist dat een vervolging in de ogen van het openbaar ministerie geen kans van slagen had. Deze beslissing was volgens het openbaar ministerie gelegen in het gegeven dat [kroongetuige] – in tegenstelling tot de andere verdachten – heeft duidelijk gemaakt dat hij de moord helemaal niet wilde plegen en ook tijdig is gestopt. Zijn verklaringen hierover acht het openbaar ministerie betrouwbaar en in lijn met andere onderzoeksbevindingen.
+
+In de Aanwijzing toezeggingen aan getuigen in strafzaken (hierna: de Aanwijzing) zijn beleidsregels geformuleerd over de toepassing van de artikelen 226g tot en met 226l van het Wetboek van Strafvordering. In de Aanwijzing is geregeld welke toezeggingen aan getuigen toelaatbaar zijn en welke toezeggingen niet. Punt 5.1 van de Aanwijzing bevat een verbod om toezeggingen te doen met betrekking tot de inhoud van de tenlastelegging (bijvoorbeeld het aantal feiten op de tenlastelegging en de zwaarte daarvan). Punt 5.2 bevat een verbod om in afwijking van het geldende opsporings- en vervolgingsbeleid af te zien van actieve opsporing of vervolging van strafbare feiten.
+
+Bij de beoordeling door het openbaar ministerie of vervolging van een verdachte voor een bepaald strafbaar feit opportuun is, spelen in ieder geval de aard van het feit, de bewijsbaarheid van het feit en het algemeen belang een rol. Ook in geval van een potentiële kroongetuige is de afweging daarvan bij uitstek een taak van het openbaar ministerie. De rechter die de overeenkomst met een kroongetuige toetst, dient deze afweging in beginsel te eerbiedigen. Het is niet de taak van die rechter om zelf te bepalen voor welke feiten de kroongetuige zou moeten worden vervolgd en welke strafeis bij die vervolging zou passen. Wel dient de rechter, gelet op de geldende wet- en regelgeving, te toetsen of er geen sprake is geweest van onderhandelingen met de getuige over het aantal ten laste te leggen feiten en de kwalificatie daarvan en of niet in afwijking van het geldende opsporings- en vervolgingsbeleid aan de getuige is toegezegd af te zien van vervolging voor bepaalde feiten. In dat geval zou er sprake kunnen zijn van een niet toelaatbare toezegging in de zin van de Aanwijzing.
+
+Het hof stelt vast dat is gesteld noch gebleken dat [kroongetuige] en het openbaar ministerie hebben onderhandeld over de ten laste te leggen feiten. Het openbaar ministerie heeft aangegeven dat de vervolgingsbeslissing in het deelonderzoek Langenhorst het resultaat was van intern overleg tussen de zaaksofficieren ruim ná het sluiten van de overeenkomst en dat het resultaat daarvan aan [kroongetuige] is meegedeeld.
+
+Ook is niet gebleken dat het achterwege laten van vervolging van [kroongetuige] voor zijn handelingen in het deelonderzoek Langenhorst is te duiden als een niet toelaatbare toezegging. Artikel 226g, tweede lid, van het Wetboek van Strafvordering schrijft voor dat in de op schrift gestelde afspraak met de kroongetuige wordt vastgelegd voor welke strafbare feiten de getuige zelf zal worden vervolgd. Dat betekent dat het openbaar ministerie de strafbaarheid van het feit, de kans op een veroordeling en aspecten van algemeen belang naar de stand van zaken van dat moment moet inschatten. Vanuit een oogpunt van algemeen belang is het niet onbegrijpelijk dat het openbaar ministerie de vervolging van de potentiële kroongetuige beperkt tot feiten waarvoor op dat moment al voldoende bewijs voorhanden lijkt te zijn of waarvoor in ieder geval geldt dat de mogelijkheid van voldoende bewijs na verder onderzoek reëel is. Als het openbaar ministerie een kroongetuige ook zou moeten vervolgen voor feiten waarin de bewijspositie dubieus is of vervolging zeer weinig kans van slagen heeft, zouden de te verwachten veroordeling en de straf(eis) uiterst onzeker worden. Het nuttig effect van de kroongetuigenregeling zou volgens die interpretatie ernstig worden aangetast.
+
+Het openbaar ministerie heeft na de totstandkoming van de overeenkomst geoordeeld dat de slagingskans van een vervolging van [kroongetuige] in de zaak Langenhorst te klein was, omdat
+
+– kort gezegd – bewijs voor het vereiste opzet op de moord bij [kroongetuige] ontbrak. Het hof constateert dat ook medeverdachte [naam 24] niet is vervolgd in de zaak Langenhorst en dat er aanwijzingen zijn dat [naam 24] en [kroongetuige] zich in aanloop naar de liquidatie hebben teruggetrokken. Men kan er over twisten of daardoor het opzet niet is te bewijzen of dat er sprake is van vrijwillige terugtred, maar het hof acht de beoordeling van de slagingskans van een vervolging van [kroongetuige] in de zaak Langenhorst niet onbegrijpelijk. Er is geen sprake van een situatie waarin het niet anders kan dan dat in afwijking van het geldende opsporings- en vervolgingsbeleid aan de getuige is toegezegd van vervolging voor bepaalde feiten af te zien en het achterwege laten van vervolging, achteraf moet worden opgevat als een verkapte verboden toezegging voor het afleggen van verklaringen.
+
+Tijdens de behandeling in hoger beroep heeft het openbaar ministerie besloten dat de vader van de kroongetuige, [getuige 4] , niet zal worden vervolgd voor mogelijke betrokkenheid bij strafbare feiten in het dossier Eris. Maar voor een toezegging aan [kroongetuige] dat zijn vader niet zal worden vervolgd voor strafbare feiten in Eris, is geen aanwijzing gevonden.
+
+Netto strafeis disproportioneel?
+Het openbaar ministerie heeft gesteld dat de strafeis niet disproportioneel laag is. Het openbaar ministerie heeft in de overeenkomst de basisstrafeis bepaald op 24 jaren en, bij nakoming van de verplichtingen door [kroongetuige] , toegezegd om 50% hiervan, dus twaalf jaren gevangenisstraf, als straf te eisen.
+
+Ook voor de tegen een kroongetuige te formuleren basisstrafeis geldt dat het openbaar ministerie een ruime beoordelingsvrijheid heeft die de rechter heeft te eerbiedigen. Op voorhand kan echter niet worden uitgesloten dat een toegezegde basisstrafeis zo onbegrijpelijk laag is dat het verschil met een reguliere strafeis niet anders kan worden opgevat dan als tegenprestatie voor de door de kroongetuige af te leggen verklaringen. De rechter dient in verband daarmee te toetsen of het openbaar ministerie, gelet op alle omstandigheden van het geval en met inachtneming van zijn ruime beoordelingsvrijheid, in redelijkheid tot de toegezegde basisstrafeis heeft kunnen komen.
+
+Het hof kan de rechtmatigheid van de basisstrafeis slechts afmeten aan de feiten die aan [kroongetuige] zijn ten laste gelegd. Zoals gezegd, gaat het om het medeplegen van moord, het voorhanden hebben van wapens, de heling van auto’s en het voorhanden hebben van een valse kentekenplaat. Daarbij zijn ook de feiten in het deelonderzoek Gezicht en deelname aan een criminele organisatie betrokken. Gelet op de ten laste gelegde feiten en de andere omstandigheden van het geval en in aanmerking genomen zijn ruime beoordelingsvrijheid, heeft het openbaar ministerie in redelijkheid tot de toegezegde basisstrafeis kunnen komen. Die basisstrafeis, van 24 jaren gevangenisstraf, is niet zo laag dat deze niet anders kan worden verklaard dan als een verkapte tegenprestatie voor het afleggen van verklaringen. Daarom acht het hof de overeenkomst met [kroongetuige] ook op dit punt niet onrechtmatig.
+
+Bij aanvang van de inhoudelijke behandeling in eerste aanleg heeft het openbaar ministerie aangekondigd bij requisitoir een lagere straf te eisen dan in de overeenkomst is toegezegd. Dat is ook gebeurd. De reden was dat sinds de inwerkingtreding van de Wet straffen en beschermen op 1 juli 2021 de periode waarover voorwaardelijke invrijheidstelling wordt verleend niet langer kan zijn dan twee jaren. Ten tijde van het sluiten van de overeenkomst zou een gevangenisstraf van twaalf jaren in beginsel nog een nettostraf van acht jaren betekenen. Daar mocht [kroongetuige] bij het sluiten van de overeenkomst van uitgaan, aldus het openbaar ministerie. Uitgaande van de nieuwe wet betekent een gevangenisstraf van twaalf jaren in beginsel een nettostraf van tien jaren. De inhoud van de overeenkomst bood volgens het openbaar ministerie ruimte om een zodanige gevangenisstraf te eisen dat de kroongetuige netto acht jaren moet zitten. In eerste aanleg is daarom niet 24 jaren gevangenisstraf als uitgangspunt genomen, maar twintig jaren gevangenisstraf, die met 50% is verminderd tot de uiteindelijke eis van tien jaren (in plaats van twaalf jaren) gevangenisstraf.
+
+Het hof stelt vast dat het openbaar ministerie in afwijking van de tekst van de overeenkomst met de kroongetuige een gevangenisstraf van tien jaren in plaats van twaalf jaren heeft gevorderd. Er zijn geen aanwijzingen dat die lagere strafeis eerder aan de kroongetuige was toegezegd. Het openbaar ministerie heeft de afwijking van de in de overeenkomst genoemde bruto-eis gemotiveerd en de rechtbank heeft die motivering beoordeeld en de strafeis overgenomen. Het hof vindt in deze gang van zaken geen aanleiding de overeenkomst met de kroongetuige of de uitvoering daarvan onrechtmatig te achten. Er is geen reden om aan te nemen dat door deze gang van zaken de verklaringen van de kroongetuige zijn beïnvloed of dat op een andere manier rechtens te respecteren belangen van verdachten zijn geschaad.
+
+Ontoelaatbare toezegging inzake ontneming?
+Als het openbaar ministerie los van een eventuele overeenkomst niet tot vordering van het wederrechtelijk verkregen voordeel zou zijn overgegaan, hoeft het dat bij een getuige met wie een overeenkomst is gesloten ook niet te doen. Het openbaar ministerie kan dan eenzijdig beslissen van ontneming af te zien, zonder dat van een toezegging in de zin van de Aanwijzing sprake is. Ook op dit punt komt aan het openbaar ministerie een zekere beoordelingsvrijheid toe. Wel zal uit de motivering van het besluit om volledig van een ontnemingsvordering af te zien, moeten blijken dat geen sprake is van een verkapte financiële beloning voor het afleggen van verklaringen.
+
+Volgens het openbaar ministerie is geen sprake geweest van een toezegging aan [kroongetuige] dat tegen hem geen ontnemingsvordering zal worden ingediend. Uit de processtukken blijkt niet dat hierover is gesproken tussen de officier van justitie van het team Bijzondere Getuigen en [kroongetuige] en zijn raadsman. Hoewel dit had gekund, is daarover geen afspraak gemaakt. Het openbaar ministerie heeft verder aangevoerd dat [kroongetuige] na afloop van zijn detentie elders, vermoedelijk in een ander land, een veilig nieuw bestaan zal moeten opbouwen. Financieel gezien begint hij bij nul. Hij zal in het begin een redelijke tegemoetkoming van het Team Getuigenbescherming ontvangen. Uitgangspunt voor de hoogte van die tegemoetkoming is dat iemand gezien de nieuwe leefomstandigheden een redelijk bestaan moet kunnen opbouwen. Een eventuele ontneming zou dus in feite ook door het Team Getuigenbescherming moeten worden betaald. Dat is volgens het openbaar ministerie geen werkelijke ontneming en uit het oogpunt van de Staat een
+
+vestzak-broekzakaangelegenheid. Om die reden dient het openbaar ministerie geen vordering ter ontneming van wederrechtelijk verkregen voordeel in tegen [kroongetuige] .
+
+Nog los van het feit dat niet gebleken is van een toezegging aan de kroongetuige over ontneming van wederrechtelijk verkregen voordeel is het hof van oordeel dat het openbaar ministerie voldoende reden heeft kunnen zien om het aanhangig maken van een ontnemingsvordering niet opportuun te achten. Het hof betrekt hierbij ook dat bij geen van de andere verdachten in het Eris-dossier een ontnemingsvordering is ingediend (of is aangekondigd) en de hoogte van het bedrag dat [kroongetuige] voor zijn rol in de moord op [slachtoffer 21] betaald heeft gekregen (€ 10.000,-). Van een zo onbegrijpelijke beslissing dat er in feite slechts sprake kan zijn van een verkapte financiële beloning is geen sprake.
+
+De verdediging heeft nog aangevoerd dat [kroongetuige] in het criminele circuit een miljoenenschuld heeft aan derden en dat deze schuld hem feitelijk is kwijtgescholden omdat hij door het aangaan van de overeenkomst onvindbaar is geworden voor zijn schuldeisers. Voor zover de verdediging daarmee heeft bedoeld te betogen dat op dit punt sprake is van een (verkapte) financiële beloning en daarmee van een niet toelaatbare toezegging, kan dit betoog niet slagen. Niet is gebleken dat de kroongetuige een juridisch afdwingbare (miljoenen)schuld heeft bij derden. Bovendien is niet gebleken van enige toezegging door het openbaar ministerie dat deze eventuele schulden niet meer zouden hoeven te worden betaald.
+
+Samenvatting en conclusie
+
+De overeenkomst met [kroongetuige] heeft betrekking op feiten als bedoeld in artikel 226g van het Wetboek van Strafvordering. Het openbaar ministerie heeft het sluiten van de overeenkomst op goede gronden dringend noodzakelijk geacht. Uit de omvang van de vervolging, de strafeis en evenmin uit het achterwege laten van een ontnemingsvordering kan worden afgeleid dat aan [kroongetuige] verboden toezeggingen zijn gedaan in ruil voor het afleggen van verklaringen. Ook in onderling verband en samenhang bezien is bij de met [kroongetuige] gemaakte afspraak als bedoeld in artikel 226g van het Wetboek van Strafvordering geen sprake van een overschrijding van de grenzen van proportionaliteit en subsidiariteit. De verweren strekkende tot niet-ontvankelijkheid van het openbaar ministerie in de vervolging van de verdachte of het uitsluiten van de verklaringen van [kroongetuige] van het gebruik voor het bewijs, slagen dus niet.
+
+5.1.4.
+
+De betrouwbaarheid van de verklaringen van de kroongetuige
+
+Meerdere raadslieden hebben gewezen op de onbetrouwbaarheid van de kroongetuige. Aangevoerd is dat [kroongetuige] al sinds jonge leeftijd op meerdere terreinen strafbare feiten pleegt, zoals handel in drugs en oplichting. Omdat hij al zijn hele leven liegt en bedriegt, is het zeer riskant om zijn verklaringen te gebruiken voor het bewijs, zeker nu [kroongetuige] een duidelijk eigen belang heeft bij het afleggen van zijn verklaringen, aldus de raadslieden.
+
+Bijna alle raadslieden hebben daarnaast op inhoudelijke gronden de bruikbaarheid en de betrouwbaarheid van (een deel van) de verklaringen van [kroongetuige] betwist. In de zaak van [medeverdachte 13] is dit punt – in eerste aanleg en herhaald in hoger beroep – als volgt verwoord:
+
+De kroongetuige heeft veel vermoedens, invullingen, veronderstellingen en gevoelens en verkeerde ten tijde van de feiten waarover hij verklaart niet zelden onder invloed van verdovende middelen. Hij is na talloze verhoren door de politie, bij de rechter-commissaris en op de zitting nauwelijks meer in staat om onderscheid te maken tussen wat hij daadwerkelijk heeft meegemaakt, wat hij van derden heeft gehoord en wat hij later heeft opgepikt uit de media. De primaire bron is uiteindelijk vaak [medeverdachte 14] , die ooit iets tegen hem gezegd zou hebben, al weet hij niet meer waar, wanneer, in welke bewoordingen en in welke context.
+
+Andere raadslieden hebben daaraan nog toegevoegd dat de verklaringen bewust of onbewust onbetrouwbaar zijn te achten: door het toepassen van Neuro Linguïstisch Programmeren (NLP) tijdens het verhoren van [kroongetuige] , het bestaan van valse herinneringen en het voeden met informatie door politie en justitie. De verklaringen kunnen daarom niet worden gebruikt voor het bewijs. In ieder geval is het volgens de raadslieden noodzakelijk om deze verklaringen met grote voorzichtigheid te benaderen.
+
+Voorwaardelijk is verzocht om nader deskundigenonderzoek te gelasten over geheugentraining en de werking van het geheugen, of om een deskundige ter zitting daarover te bevragen.
+
+Het openbaar ministerie heeft het volgende aangevoerd. [kroongetuige] heeft in zijn kluisverklaringen uitsluitend uit zijn eigen geheugen geput. In de vele tactische verklaringen die [kroongetuige] bij de verhoorders in het onderzoek Eris heeft afgelegd, heeft hij over een onderwerp globaal telkens hetzelfde verhaal als tijdens de kluisverklaringen verteld, maar vooral méér dan in zijn kluisverklaringen. Nergens is hij teruggekomen op zijn eerder afgelegde kluisverklaringen in de zin dat deze bewust onjuist zouden zijn geweest. De tactische verklaringen bevatten naar aanleiding van verhelderende vragen vooral meer details dan de kluisverklaringen. Uiteindelijk is [kroongetuige] geconfronteerd met de onderzoeksresultaten. Dat gebeurde soms om uit te leggen hoe zijn verklaringen passen in het beeld dat met (objectieve) onderzoeksbevindingen tot stand is gekomen, maar ook om zaken die hij zich kennelijk niet goed herinnerde helder te krijgen. Dat ging vaak om het verduidelijken van tijd en plaats. Zo heeft [kroongetuige] zich vergist in de plaats waar een van zijn vele ontmoetingen met [medeverdachte 14] is geweest (Leiden of Zoetermeer) en heeft hij grote moeite gehad om bepaalde gebeurtenissen goed in de tijd te plaatsen. Het openbaar ministerie heeft in dit verband tot slot opgemerkt dat in elk geval helder is hoe de verklaringen van [kroongetuige] tot stand zijn gekomen en dat controle voor de bruikbaarheid van zijn verklaringen goed uit te voeren is, als gevolg van de zeer getrapte manier van verhoren van [kroongetuige] en de woordelijke uitwerking van zijn verhoren.
+
+Het hof stelt in dit verband voorop dat het niet de betrouwbaarheid van de persoon van
+
+[kroongetuige] maar die van zijn verklaringen dient te toetsen. Het feit dat een kroongetuige in het verleden ook bij andere misdrijven betrokken is geweest en/of dat hij in het verleden mogelijk onbetrouwbaar is gebleken wat betreft zijn verklaringen over niet in de afspraak als bedoeld in artikel 226g van het Wetboek van Strafvordering opgenomen misdrijven, is op zich geen reden om geen waarde te hechten aan zijn als kroongetuige afgelegde verklaringen. Uiteindelijk gaat het erom of de verklaringen van de kroongetuige over de aan de verdachten ten laste gelegde feiten betrouwbaar zijn.
+
+Een kritische benadering van de verklaringen van [kroongetuige] ligt voor de hand, nu hij deze heeft afgelegd als kroongetuige en aan hem strafvermindering en bescherming in het vooruitzicht zijn gesteld in ruil voor informatie over misdrijven. Het gaat dan meestal om informatie die zonder de verklaring van de kroongetuige niet, of zeer moeilijk, door de opsporingsinstanties is te verkrijgen. De van de kroongetuige te verkrijgen informatie moet voor de opsporingsautoriteiten een meerwaarde hebben. Daarin kan een motief zijn gelegen om informatie te verschaffen die niet op waarheid berust. Om die reden is het van belang dat de door de kroongetuige gegeven informatie zoveel mogelijk wordt getoetst in het opsporingsonderzoek en bij de berechting. Om diezelfde reden dienen zijn verklaringen met extra behoedzaamheid te worden beoordeeld, zoals ook tot uitdrukking komt in de motiveringseis van artikel 360, tweede lid, van het Wetboek van Strafvordering en de bewijsminimumregel dat het bewijs dat de verdachte het ten laste gelegde feit heeft begaan niet uitsluitend op de verklaring van één getuige mag worden aangenomen.
+
+De eis van behoedzaamheid geldt in het bijzonder waar het gaat om de verklaringen die zien op informatie die [kroongetuige] stelt van [medeverdachte 14] te hebben verkregen. Zowel [kroongetuige] als [medeverdachte 3] heeft verklaard dat [medeverdachte 14] informatie wel eens aandikte of dat hij met desinformatie strooide.
+
+Uitgangspunt is dat een verklaring van een getuige over wat hij van een andere persoon heeft gehoord in beginsel bruikbaar is voor het bewijs, maar dat de verdediging wel de gelegenheid moet hebben gehad om de getuige, het liefst ter terechtzitting, te horen. Vastgesteld kan worden dat de verdediging [kroongetuige] zowel bij de rechter-commissaris als ter terechtzitting in eerste aanleg en hoger beroep aan vele indringende verhoren heeft onderworpen, waarbij het aspect dat hij iets van [medeverdachte 14] heeft gehoord uitvoerig aan de orde is geweest. Het zou dan ook te ver gaan om aan de verklaringen van [kroongetuige] om die reden op voorhand slechts de waarde van steunbewijs toe te kennen, zeker omdat de beweerde bron van dergelijke verklaringen, [medeverdachte 14] , zich hoofdzakelijk heeft beperkt tot het ontkennen van de beweringen van [kroongetuige] en het presenteren van een ongeloofwaardig alternatief scenario.
+
+De van de kroongetuige verkregen informatie is divers van aard. Zo heeft hij niet alleen verklaard over gebeurtenissen die hij zelf heeft meegemaakt, maar ook over wat hij van anderen, met name [medeverdachte 14] , heeft gehoord. Ten slotte heeft hij ook verklaard over de algemene gang van zaken bij Caloh Wagoh, waarvan hij [medeverdachte 4] heeft uitgemaakt.
+
+Als informatie die de kroongetuige zegt te hebben verkregen van derden niet past bij de overige onderzoeksresultaten, kan maar hoeft dat niet te duiden op onbetrouwbaarheid van de kroongetuige. In dat geval is het ook mogelijk dat de kroongetuige naar waarheid heeft verklaard over wat hij heeft gehoord maar van die derde niet de juiste informatie heeft gekregen. Als voorbeeld noemt het hof een voorval in het deelonderzoek Breuk. De kroongetuige heeft verklaard dat zijn opdrachtgever hem op 5 juli 2017 heeft bericht dat het beoogde slachtoffer vanwege een file later zou komen. Dat het beoogde slachtoffer die dag na zijn vertrek uit Rotterdam om ongeveer 19.00 uur door een file is opgehouden, acht het hof niet waarschijnlijk. Voor deze ogenschijnlijke onjuistheid zijn meerdere verklaringen mogelijk: de kroongetuige kan de file hebben verzonnen, maar hij kan ook naar waarheid hebben verklaard over onjuiste informatie die hij van de opdrachtgever had gekregen, waarbij de opdrachtgever op zijn beurt deze onjuiste informatie van derden kan hebben ontvangen.
+
+Van belang is of onderdelen van de verklaring van de kroongetuige steun vinden in ander bewijsmateriaal en passen bij de overige bevindingen van het onderzoek. De verdediging heeft gewezen op de mogelijkheid van beïnvloeding van de kroongetuige door de politie. In dat verband is van belang of en, zo ja, hoe en wanneer de informatie van de kroongetuige in het onderzoek is bevestigd. Hierbij is een aantal situaties te onderscheiden:
+
+De informatie van de kroongetuige is geheel nieuw en wordt pas later in het onderzoek bevestigd door gegevens waarvan de kroongetuige niet op de hoogte kon zijn;
+
+De informatie kan worden bevestigd met zich al in het dossier bevindende onderzoeksresultaten of andere gegevens waarvan de kroongetuige op de hoogte kon zijn;
+
+De informatie wordt verkregen naar aanleiding van aan de kroongetuige voorgehouden onderzoeksresultaten.
+
+Het is duidelijk dat de mogelijkheid van beïnvloeding in de als eerste vermelde situatie het kleinst en in de laatste situatie het grootst is.
+
+Ook op het hof komt [kroongetuige] in zijn manier van verklaren bij de politie en de
+
+rechter-commissaris, maar ook ter terechtzitting over als een getuige die duidelijk en in grote lijnen consistent en zonder te aarzelen verklaart. Van belang is ook dat [kroongetuige] ook heeft verklaard over zijn rol in zaken waarin hij tot op dat moment bij het openbaar ministerie niet in beeld was gekomen en dat zijn op punten gedetailleerde verklaringen voor een belangrijk deel bevestiging vinden in objectieve onderzoeksbevindingen zoals die in het verificatie/falsificatiedossier. Veel verklaringen van [kroongetuige] vinden bevestiging in opnames van PGP- en whatsappgesprekken die pas later onder [medeverdachte 14] zijn aangetroffen. Van de aanwezigheid van die opnames waren [kroongetuige] en de politie niet op de hoogte op het moment dat de kluisverklaringen werden afgelegd. Het hof geeft daarvan enkele voorbeelden:
+
+De verklaring van de kroongetuige dat een zekere “ [naam gelijkend op naam 45] ” opdrachtgever voor een aantal liquidaties was, komt overeen met een PGP-gesprek tussen [medeverdachte 14] en ‘The wizzard’ waarin “ [naam gelijkend op naam 45] ” als opdrachtgever wordt genoemd;
+
+De kroongetuige heeft verklaard dat [medeverdachte 14] hem een A4’tje met een foto van
+
+[slachtoffer 23] op een bruiloft heeft laten zien. Op die foto was het hoofd van
+
+[slachtoffer 23] omcirkeld. Op gegevensdragers van [medeverdachte 14] is een foto gevonden van een A4’tje met een foto van [slachtoffer 23] met zijn hoofd omcirkeld die ook verder aan de beschrijving van de kroongetuige voldoet;
+
+[medeverdachte 14] zou opdracht hebben gegeven voor de beschieting van een woning aan de [adres] in Doorn. Op gegevensdragers van [medeverdachte 14] is een beeldopname van een PGP-gesprek aangetroffen waarin wordt gesproken over een donkere straat met bomen bij de afslag Maarn (Doorn) van de A12. Ook is op die gegevensdrager een afbeelding van een printje van een routebeschrijving van Google Maps van ‘Mijn locatie’ naar de [adres] in Doorn gevonden;
+
+[medeverdachte 14] zou zijn benaderd door [medeverdachte 18] omdat zijn zoon in de problemen was gekomen door een vergismoord. Onder [medeverdachte 14] zijn beeldopnames van whatsappgesprekken en PGPgesprekken tussen beiden van ongeveer twee weken na de betreffende vergismoord over de zoon van [medeverdachte 18] aangetroffen;
+
+Het geld voor de moord op [slachtoffer 21] zou op de dag na de moord door een motorrijder zijn opgehaald. Op gegevensdragers van [medeverdachte 14] is de volgende chat van
+
+8 juli 2017 aangetroffen: “Ok ik stuur hem, hij komt op de motor”.
+
+Ook op veel andere onderdelen worden de verklaringen van de kroongetuige bevestigd door die bij [medeverdachte 14] aangetroffen opnames. Het hof komt daar bij de bespreking van de zaakdossiers op terug.
+
+De conclusie is dat de verklaringen van de kroongetuige in de kern en op hoofdlijnen als betrouwbaar kunnen worden aangemerkt. Wel is duidelijk gebleken dat [kroongetuige] moeite heeft met het plaatsen van gebeurtenissen in de tijd en dat hij bepaalde feitelijkheden (nader) heeft ingevuld en met elkaar heeft verward, zoals in de deelonderzoeken Lis en Barbera, waar hij het heeft over het Belgische slachtoffer. Ook heeft [kroongetuige] zijn verklaringen gedurende het proces op punten moeten nuanceren, daar waar hij eerder al dan niet ingegeven door zijn eigen overtuiging in al te concluderende zin had verklaard. Sommige ongerijmdheden in de verklaringen van [kroongetuige] zijn niet geheel opgehelderd of op andere wijze verklaarbaar gebleken. Hiervan is bijvoorbeeld sprake in de deelonderzoeken Charlie17 en Langenhorst, daar waar het de gang van zaken in aanloop naar de moord en de rol van [kroongetuige] zelf betreft.
+
+Een aantal raadslieden heeft ook terecht erop gewezen dat het geheugen alleen al door het tijdsverloop beïnvloedbaar is en dat informatie die naderhand is verkregen, vermengd kan worden met wat een getuige zelf heeft waargenomen. Het hof komt niet tot de conclusie dat [kroongetuige] bewust niet volledig naar waarheid heeft verklaard. Dat neemt niet weg dat de verklaringen van [kroongetuige] slechts bruikbaar zijn voor het bewijs als het hof oordeelt dat zij betrouwbaar zijn en conform de waarheid zijn afgelegd.
+
+Ondanks de kanttekeningen die op onderdelen bij de verklaringen van [kroongetuige] kunnen worden geplaatst, blijft tegen de achtergrond van het totaal van zijn vele verklaringen en in het licht van de overige onderzoeksbevindingen het beeld van [kroongetuige] als een overwegend betrouwbaar verklarende getuige in stand. Uit de woordelijk uitgewerkte verhoren van
+
+[kroongetuige] is van het toepassen van NLP, van het opwekken van valse herinneringen of het voeden van informatie in de verhoren door de politie niet gebleken. Ook verder zijn hiervoor geen aanwijzingen te vinden. Het hof ziet geen noodzaak om in dit verband nader deskundigenonderzoek te laten doen of een deskundige te bevragen, zodat het (voorwaardelijke) verzoek daartoe wordt afgewezen.
+
+Bewijsminimum
+
+Een aantal raadslieden heeft aangevoerd dat de strafrechtelijke betrokkenheid van een verdachte niet enkel of in beslissende mate kan worden gegrond op de verklaring van een kroongetuige. Er moet voldoende ander bewijs zijn voor de strafrechtelijke betrokkenheid van de verdachte.
+
+Naar het oordeel van het hof is deze opvatting onjuist. Het tweede lid van artikel 342 van het Wetboek van Strafvordering bepaalt dat het bewijs dat de verdachte het ten laste gelegde feit heeft begaan door de rechter niet uitsluitend kan worden aangenomen op de verklaring van één getuige. Deze bepaling heeft betrekking op de tenlastelegging in haar geheel en niet op een onderdeel daarvan. Zij beoogt de deugdelijkheid van de bewijsbeslissing te waarborgen, in die zin dat artikel 342, tweede lid, van het Wetboek van Strafvordering de rechter verbiedt tot een bewezenverklaring te komen als de door één getuige naar voren gebrachte feiten en omstandigheden op zichzelf staan en onvoldoende steun vinden in ander bewijsmateriaal (HR 13 juli 2010, ECLI:NL:HR:2010:BM2452, rov. 2.4). De beslissing tot de bewezenverklaring van een ten laste gelegd feit moet naast de eventuele verklaring van de kroongetuige ook op een of meer andere bewijsmiddelen zijn gebaseerd. Die andere bewijsmiddelen mogen volgens artikel 344a van het Wetboek van Strafvordering niet slechts bestaan uit verklaringen van andere kroongetuigen. Dat neemt niet weg dat de wettelijke regeling van de kroongetuige inclusief artikel 344a, vierde lid, van het Wetboek van Strafvordering en de bewijsminimumregel van artikel 342, tweede lid, van het Wetboek van Strafvordering zich niet ertegen verzetten dat de bewezenverklaring van het tenlastegelegde in overwegende mate steunt op verklaringen van een getuige met wie door de officier van justitie een afspraak is gemaakt op grond van artikel 226h, derde lid, van het Wetboek van Strafvordering (zie HR 23 april 2019, ECLI:NL:HR:2019:601, rov. 8.4). Dat het gebruik van een verklaring van een kroongetuige voor de bewezenverklaring van het tenlastegelegde niet is onderworpen aan een verdere wettelijke beperking dan die van artikel 344a, vierde lid, en artikel 342, tweede lid, van het Wetboek van Strafvordering, laat onverlet dat het hof bij de beoordeling van de betrouwbaarheid en de waardering van de bewijswaarde van de verklaringen van de kroongetuige, zoals hiervoor al is overwogen, behoedzaam te werk gaat.
+
+5.2.
+
+Het onderzoek aan gegevensdragers en locatiegegevens
+
+In het onderzoek Eris zijn diverse mobiele telefoons, computers en andere elektronische gegevensdragers inbeslaggenomen. De politie heeft zich toegang verschaft tot die gegevensdragers en onderzoek gedaan naar de gegevens die daarin zijn opgeslagen of anderszins zijn te vinden. Daarnaast heeft de officier van justitie in het onderzoek Eris verkeers- en locatiegegevens gevorderd, hebben telecomaanbieders toegang verleend tot dergelijke gegevens en heeft de politie ook daarnaar onderzoek gedaan.
+
+Naar aanleiding van de rechtspraak van het Hof van Justitie van de Europese Unie (HvJ EU) en de Hoge Raad ziet het hof aanleiding ambtshalve het volgende te overwegen over het onderzoek aan de gegevens in mobiele telefoons, computers en andere gegevensdragers en over het onderzoek aan de verkeers- en locatiegegevens.
+
+Het HvJ EU heeft geoordeeld dat een onderzoek naar de gegevens die beschikbaar zijn in een elektronische gegevensdrager, zoals een smartphone, valt onder de reikwijdte van de Richtlijn gegevensbescherming opsporing en vervolging (EU) 2016/680. Deze richtlijn diende uiterlijk op 6 mei 2018 in nationale wetgeving te zijn omgezet. Met de wetgeving waarmee Nederland uitvoering heeft gegeven aan Richtlijn (EU) 2016/680 zijn geen wijzigingen doorgevoerd van het Wetboek van Strafvordering ten aanzien van de regeling van de inbeslagneming van een gegevensdrager en het onderzoek van de gegevens die op of in een (mobiele) gegevensdrager zijn te vinden. In HvJ EU 4 oktober 2024, zaak C-548/21, ECLI:EU:C:2024:830 (Landeck) heeft het hof geoordeeld dat voor het verkrijgen van toegang tot dergelijke gegevens voorafgaande toestemming nodig is van een rechterlijke instantie of een onafhankelijk, niet bij de opsporing betrokken, bestuursorgaan indien er een kans is dat die toegang het mogelijk maakt nauwkeurige conclusies over iemands privéleven te trekken.
+
+Richtlijn 2002/85/EG geeft regels over privacy en elektronische communicatie en bepaalt (in artikel 5) dat de lidstaten het vertrouwelijke karakter van elektronische communicatie en daarmee verband houdende persoonsgegevens in de vorm van (historische) verkeers- en locatiegegevens garanderen. Richtlijn 2002/85/EG biedt de lidstaten de mogelijkheid die vertrouwelijkheid te doorbreken voor de bestrijding, opsporing en vervolging van strafbare feiten (zie artikel 15). Daarvoor gelden voorwaarden. De richtlijn betreffende privacy en elektronische communicatie is in Nederland geïmplementeerd in de Telecommunicatiewet. Telecomaanbieders mogen op grond van de Telecommunicatiewet de vertrouwelijkheid van de door hen verzamelde gegevens doorbreken als dit noodzakelijk is in het belang van de voorkoming, opsporing en vervolging van strafbare feiten. In een arrest van 2 maart 2021 heeft het HvJ EU de voorwaarden voor toegang tot bewaarde verkeers- en locatiegegevens verduidelijkt en aangescherpt. De toegang tot historische verkeersgegevens, waaruit (nauwkeurige) conclusies kunnen worden getrokken over de persoonlijke levenssfeer van de gebruiker, moet zijn onderworpen aan een voorafgaande toetsing door een rechterlijke instantie of een onafhankelijk bestuursorgaan.
+
+Naar aanleiding van HvJ EU 2 maart 2021, C-746/18, ECLI:EU:C:2021:152 (Prokuratuur) is de Hoge Raad tot het oordeel gekomen dat de onder andere in artikel 126n van het Wetboek van Strafvordering neergelegde bevoegdheden tot het vorderen van verkeers- en locatiegegevens niet in overeenstemming is met de eisen die Richtlijn 2002/58/EG stelt, als de toepassing van de betreffende bevoegdheid meebrengt dat sprake is van een ernstige inmenging in het recht op bescherming van het privéleven en de beslissing tot de toepassing van die bevoegdheid wordt genomen door de officier van justitie. Vereist is in een dergelijk geval – behalve in spoedeisende situaties – dat voorafgaand toezicht door een rechterlijke instantie of door een onafhankelijke bestuurlijke entiteit plaatsvindt. Dit voorafgaande toezicht is niet vereist wanneer het uitsluitend gaat om het verlenen van toegang tot gegevens aan de hand waarvan de betrokken gebruiker kan worden geïdentificeerd, zonder dat de gegevens in verband kunnen worden gebracht met informatie over de tot stand gebrachte communicatie. De Hoge Raad heeft in het arrest HvJ EU 2 maart 2021, C-746/18, ECLI:EU:C:2021:152 (Prokuratuur) aanleiding gezien te bepalen dat als de officier van justitie verkeers- en locatiegegevens wil verkrijgen die meer omvatten dan uitsluitend identificerende gegevens, hij gehouden is een schriftelijke machtiging van de rechter-commissaris te vorderen voor het vorderen van die gegevens.
+
+Het hof constateert dat uit de procestukken niet ten aanzien van elke gegevensdrager duidelijk wordt of de rechter-commissaris, de officier van justitie of een andere opsporingsambtenaar deze in beslag heeft genomen. Waar een mobiele telefoon of een andere elektronische gegevensdrager in beslag is genomen door de rechter-commissaris kan er – behoudens aanwijzingen voor het tegendeel – van worden uitgegaan dat met de inbeslagneming is beoogd onderzoek naar de inhoud van deze gegevensdrager te laten doen door de politie en andere door politie en justitie ingeschakelde personen zoals deskundigen van het NFI. De bevoegdheid van de rechter-commissaris tot inbeslagneming biedt in een dergelijk geval de grondslag voor het verrichten van onderzoek aan het inbeslaggenomen voorwerp, ook als dat een meer dan beperkte inbreuk op de persoonlijke levenssfeer meebrengt. Omdat de processtukken niet ten aanzien van elke gegevensdrager duidelijk maken door wie deze in beslag is genomen, moet ermee rekening worden gehouden dat niet alleen de rechtercommissaris maar ook de officier van justitie en andere opsporingsambtenaren elektronische gegevensdragers in beslag hebben genomen. Het hof kan bovendien aan de hand van de processtukken niet vaststellen of de rechter-commissaris – een rechterlijke instantie volgens de rechtspraak van het HvJ EU – per afzonderlijke gegevensdrager toestemming heeft gegeven voor onderzoek aan de daarin beschikbare gegevens, ook als er een kans is dat die toegang het mogelijk maakt nauwkeurige conclusies over iemands privéleven te trekken.
+
+Daarnaast moet het hof op grond van de processtukken ervan uitgaan dat de politie zonder voorafgaand toezicht door een rechterlijke instantie of een onafhankelijke bestuurlijke entiteit onderzoek heeft gedaan aan gevorderde verkeers- en locatiegegevens (anders dan uitsluitend identificerende gegevens).
+
+In het geval dat voorafgaande toestemming (in de vorm van een schriftelijke machtiging) van de rechter-commissaris ontbreekt, is er in de zojuist bedoelde gevallen waarin een elektronische gegevensdrager bij het voorbereidend onderzoek tegen de verdachte door de officier van justitie of een andere opsporingsambtenaar in beslag is genomen en onderzoek is gedaan naar de daarin beschikbare gegevens, waarbij er een kans bestaat dat nauwkeurige conclusies over iemands privéleven worden getrokken, en in de gevallen waarin onderzoek is gedaan aan door de officier van justitie gevorderde verkeers- en locatiegegevens (anders dan uitsluitend identificerende gegevens), sprake van een onherstelbaar vormverzuim in het voorbereidend onderzoek tegen de verdachte.
+
+De omstandigheid dat de officier van justitie bij het voorbereidend onderzoek tegen de verdachte een vordering heeft gedaan tot het verstrekken van verkeers- of locatiegegevens (anders dan uitsluitend identificerende gegevens) zonder dat van tevoren een machtiging van de rechter-commissaris is verkregen, terwijl die machtiging wel was vereist, levert als zodanig geen grond op voor bewijsuitsluiting (zie HR 5 april 2022, ECLI:NL:HR:2022:475, rov. 6.12.4).
+
+Naar het oordeel van het hof heeft hetzelfde te gelden ten aanzien van het vormverzuim dat zonder voorafgaande toestemming van de rechter-commissaris onderzoek is gedaan aan in een gegevensdrager beschikbare gegevens als er een kans is om nauwkeurige conclusies over iemands privéleven te trekken. Van belang hierbij is dat het uitsluiten van de resultaten van dergelijk onderzoek van het gebruik voor het bewijs niet noodzakelijk is om een schending van het recht op een eerlijk proces zoals gewaarborgd door artikel 6 EVRM – en het daarmee overeenkomende artikel 47, tweede lid, van het Handvest van de grondrechten van de Europese Unie – te voorkomen, tenzij door een of meer van de vormverzuimen in het verloop van de strafprocedure complicaties zijn opgetreden die het voeren van de verdediging ernstig hebben bemoeilijkt en die vormverzuimen vervolgens niet in voldoende mate zijn hersteld om het proces als geheel eerlijk te laten verlopen.
+
+Dergelijke complicaties zijn door de verdediging niet gesteld en ook overigens niet gebleken.
+
+Voor de toepassing van strafvermindering is vereist dat de verdachte door het vormverzuim daadwerkelijk nadeel heeft ondervonden en dat strafvermindering ook in het licht van het belang van het geschonden voorschrift en de ernst van het verzuim is gerechtvaardigd. Strafvermindering laat zich als rechtsgevolg dat geschikt is voor compensatie van door de verdachte ondervonden nadeel, verbinden aan onder meer vormverzuimen waardoor inbreuk is gemaakt op de persoonlijke levenssfeer van de verdachte. De vraag of, en de mate waarin de persoonlijke levenssfeer van de verdachte is geschonden, is daarbij mede bepalend voor de ernst van het verzuim en het door het verzuim daadwerkelijk geleden nadeel. Voor de toepassing van strafvermindering moet het gaan om een voldoende ernstig vormverzuim dat concreet de belangen van de verdachte in de strafzaak heeft aangetast. Als door het vormverzuim in niet meer dan geringe mate inbreuk is gemaakt op het recht op bescherming van de persoonlijke levenssfeer, kan de rechter volstaan met de enkele constatering van dat vormverzuim.
+
+(HR 1 december 2020, ECLI:NL:HR:2020:1889, rov. 2.3.2 en 2.3.4.)
+
+In het onderzoek Eris gaat het om de verdenking van zeer ernstige strafbare feiten. Het onderzoek is gericht tegen een criminele organisatie die zich zou hebben beziggehouden met het plegen van liquidaties en daarbij gebruikmaakte van PGP-telefoons. Het onderzoeken van de inhoud van inbeslaggenomen gegevensdragers was noodzakelijk. Minder ingrijpende, maar even effectieve mogelijkheden, waren niet voorhanden. De inbreuk op het privéleven van de verdachte verschilt per gegevensdrager. In het geval van gegevens in PGP-telefoons gaat het – als deze bewaard zijn gebleven – voornamelijk om communicatie over de voorbereiding en de uitvoering van ernstige misdrijven en was ook van tevoren duidelijk dat het gebruik van PGP-telefoons alleen diende om criminele activiteiten te verhullen. De kans om dan nauwkeurige conclusies over iemands privéleven te trekken is gering. Bij het onderzoek aan gegevens in andere gegevensdragers dan PGP-telefoons is in het onderzoek Eris, naast talloze gegevens over criminele gedragingen, ook toegang verkregen tot gegevens die niet met criminele activiteiten te maken hebben. Daarbij is de privacy van de verdachte en personen uit zijn directe omgeving zoals gezinsleden (wel) in het geding.
+
+Niet is gebleken dat de politie toegang heeft verkregen tot gegevens van grote aantallen willekeurige derden, zoals het geval kan zijn bij het zich toegang verschaffen tot de op een server beschikbare gegevens, in welk geval het nemen van maatregelen ter bescherming van de privacy van derden kan zijn geboden. De gegevens waartoe in het onderzoek Eris toegang is verkregen, betreffen voornamelijk de verdachten zelf en personen uit hun omgeving.
+
+Dat door het onderzoek aan de gegevens die in de (onder de verdachte) inbeslaggenomen gegevensdragers beschikbaar zijn en door het onderzoek aan de verkeers- en locatiegegevens inzicht is verkregen in aspecten van het privéleven van de verdachte en eventueel degenen waarmee de verdachte contact had, is onontkoombaar. Het hof is van oordeel dat de ernst van de feiten die in het onderzoek Eris centraal staan het rechtvaardigt dat dit onderzoek is verricht en dat het belang daarvan opweegt tegen de daarmee gepaard gaande schending van de privacy van de verdachte en een beperkt aantal derden. Het hof gaat er dan ook van uit dat, gelet vooral op de aard en ernst van de verdenkingen, de rechter-commissaris voor dit onderzoek voorafgaande toestemming zou hebben verleend als de officier van justitie deze had gevorderd.
+
+De verdachte heeft geen verweer gevoerd over de hier door het hof ambtshalve aan de orde gestelde vormverzuimen in het voorbereidend onderzoek tegen de verdachte, die (mogelijk) een inbreuk hebben gemaakt op het recht op eerbiediging van de persoonlijke levenssfeer van de verdachte. De verdediging heeft niet gesteld dat de belangen van de verdachte in de strafzaak door een of meer van de bedoelde vormverzuimen concreet zijn aangetast.
+
+Het hof volstaat mede daarom met de enkele constatering dat in het voorbereidend onderzoek tegen de verdachte een of meerdere van de door het hof aan de orde gestelde vormverzuimen zijn begaan.
+
+6
+DE WAARDERING VAN HET BEWIJS EN DE CONCLUSIES VAN DE VEREDELINGEN
+
+6.1.
+
+De vordering van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat wettig en overtuigend kan worden bewezen dat [verdachte] het in het deelonderzoek Charon primair tenlastegelegde (medeplegen van moord) heeft begaan. Verder zijn zij van oordeel dat ten aanzien van de deelonderzoeken Eend, Mus, Kraai, Duif, Spreeuw, Barbera en Arford (telkens) het medeplegen van poging tot uitlokking van moord kan worden bewezen. Tot slot achten de advocaten-generaal te bewijzen dat [verdachte] als leider heeft deelgenomen aan een criminele organisatie. Zij verwijzen daartoe naar de zich in het dossier bevindende bewijsmiddelen.
+
+6.2.
+
+Het standpunt van de verdediging
+
+De verdediging van [verdachte] heeft verzocht hem van alle ten laste gelegde feiten vrij te spreken. De daartoe gevoerde verweren komen, voor zover van belang voor de bewijswaardering, aan de orde in de overwegingen van het hof.
+
+6.3.
+
+Het oordeel van het hof
+
+6.3.1.
+
+Conclusies veredelingen en identificaties
+
+Het hof heeft op basis van de bewijsmiddelen en conclusies die zijn opgenomen in bijlage 3 onder meer de volgende veredelingen van PGP-namen en bijnamen vastgesteld.
+
+[verdachte]
+
+is degene die schuilgaat achter de PGP-accountnaam ‘The wizzard’. In het chatgesprek tussen [medeverdachte 14] (onder de naam ‘C murder’) en ‘The wizzard’ van 22 februari 2017 maken ‘C murder’ en ‘The wizzard’ als het ware kennis met elkaar, althans zij tasten elkaars werkelijke identiteit af. [medeverdachte 14] stelt daarbij expliciet dat hij “ [bijnaam medeverdachte 14] ” is, baas van [groep] en een grote motorclub. ‘The wizzard’ zegt dat hij “ [bijnaam verdachte] ” is, op dat moment 34 jaar oud. Hij bevestigt dat hij “West is”, dat hij een “rover” is en hij noemt een groot aantal familienamen en namen van personen met wie “hij is”. In het berichtenverkeer met ‘C murder’ somt
+
+‘The wizzard’ veel familienamen op. Op grond daarvan gaat het hof ervan uit dat het begrip “familie” ruim moet worden begrepen en dat het begrip zich in dit verband niet alleen beperkt tot personen die naar burgerlijk recht als bloed- of aanverwant kunnen worden beschouwd. Bij nagenoeg elke in de chat genoemde naam heeft de politie een relatie met [verdachte] of diens directe familie kunnen vaststellen.
+
+Deze omstandigheden zijn – zoals uit de bewijsmiddelen volgt – in overtuigende mate passend bij, maar ook onderscheidend voor [verdachte] . Dit geldt ook voor de omstandigheid dat ‘The wizzard’ stelt dat hij in de periode oktober 2016 in Suriname was. Het hof ziet verdere ondersteuning in de omstandigheid dat [medeverdachte 14] en [medeverdachte 4] (met de accountnaam ‘B.I.G’) spreken over “Wizz”, die blijkbaar in Spanje verblijft op dat moment, terwijl [verdachte] in Spanje is aangehouden, en de omstandigheid dat getuige [getuige 13] verklaart dat [verdachte] bekendstaat als ‘ [bijnaam verdachte] ’.
+
+De verdediging van [verdachte] heeft zich op het standpunt gesteld dat de in de bewijsmiddelen weergegeven chatgesprekken niet tot het bewijs kunnen bijdragen, omdat niet zou vaststaan dat het gefilmde PGP-chatgesprekken zijn en dat ook de mogelijkheid bestaat dat de beelden op allerlei manieren zijn gemanipuleerd. Dit betoog gaat echter voorbij aan wat uit de bewijsmiddelen voortvloeit. Vaststaat dat [medeverdachte 14] met een mobiel telefoontoestel foto’s maar ook (bewegende) filmbeelden heeft gemaakt van op dat moment, of kort daarvoor, via een PGP-dienst gevoerde chats. Hieruit volgt al dat daadwerkelijk via PGP-toestellen gevoerde correspondentie door [medeverdachte 14] in beeld is gebracht en door [medeverdachte 14] is bewaard. Dat het hier niet om fictieve chatgesprekken gaat, leidt het hof af uit de omstandigheid dat er daadwerkelijk mensen zijn geliquideerd, waarbij de omstandigheden van deze liquidaties aansluiten bij de gevoerde chatgesprekken. Dat aan de toestellen waarmee deze correspondentie is gevoerd geen nader (contra-)onderzoek meer kan worden verricht, doet hier niets aan af. Ook de omstandigheid dat slechts een beperkt deel van waarschijnlijk uitvoerigere communicatie op deze manier bewaard is gebleven, brengt nog niet mee dat het bewijs als zodanig niet bruikbaar is.
+
+Voor zover de verdediging betoogt dat niet voldoende vaststaat dat [verdachte] schuilgaat achter het account van ‘The wizzard’, geldt dat uit de bewijsmiddelen juist het tegendeel volgt.
+
+Overige verdachten
+
+Het hof concludeert ten aanzien van de andere verdachten het volgende:
+
+- [medeverdachte 14] is de gebruiker van de PGP-accounts ‘CB1D45’ (tussen 18 en
+
+20 februari 2017), ‘C murder/971817’, ‘C MURDAH’, ‘C40’ en NN2 (deelonderzoek Goudvink);
+
+[medeverdachte 4] is de gebruiker van de PGP-accounts ‘B.I.G’, ‘Keyser soze’ en ‘Keyser soze0’;
+
+[medeverdachte 6] is de gebruiker van het PGP-account ‘Max Payne’ en [medeverdachte 6] heeft de bijnamen ‘ [bijnaam medeverdachte 6] ’ en ‘Max’;
+
+[medeverdachte 3] is van 22 tot en met 24 februari 2017 de gebruiker van het PGP-account ‘CB1D45’ en [medeverdachte 3] heeft de bijnamen ‘ [bijnaam medeverdachte 3] ’;
+
+[medeverdachte 7] is van 14 maart 2017 tot en met 17 maart 2017 de gebruiker van het
+
+PGP-account ‘CB1D45’ en [medeverdachte 7] heeft de bijnaam ‘ [bijnaam medeverdachte 7] ’;
+
+- [medeverdachte 10] heeft de bijnaam ‘ [bijnaam medeverdachte 10] ’;
+
+[medeverdachte 18] heeft de bijnaam ‘ [bijnaam medeverdachte 18] ’;
+
+[medeverdachte 17] is de gebruiker van het PGP-account ‘Storing’.
+
+6.3.2.
+
+CHARON
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+6.3.2.1.  De liquidatie van [slachtoffer 11]
+
+Op 31 januari 2017 omstreeks 22.30 uur is [slachtoffer 11] in Amsterdam neergeschoten en als gevolg daarvan diezelfde dag overleden. Het onderzoek in deze zaak onder de naam 13Penseel leidde niet tot vervolging van verdachten en werd afgesloten. Nadat [kroongetuige] verklaringen had afgelegd als kroongetuige is het onderzoek voortgezet.
+
+6.3.2.2.  De verklaringen van [kroongetuige]
+
+In de verklaringen van [kroongetuige] komt meerdere keren terug dat hij weet dat er een vergismoord in Utrecht heeft plaatsgevonden. Samengevat komen deze verklaringen erop neer dat de zoon van [bijnaam medeverdachte 18] betrokken was bij die vergismoord en problemen had. [bijnaam medeverdachte 18] heeft [medeverdachte 14] vervolgens om hulp gevraagd, om ervoor te zorgen dat zijn zoon niets zou overkomen. Daarvoor moest [medeverdachte 14] een represaille uitvoeren. Als die was geslaagd, zou [medeverdachte 14] het stokje overnemen van de zoon van [bijnaam medeverdachte 18] .
+
+Een van de personen die betrokken waren bij de vergismoord is vervolgens daadwerkelijk geliquideerd, aldus de verklaring van [kroongetuige] . [medeverdachte 14] zou dat hebben geregeld in opdracht van de organisatie die ook achter de vergismoord zat. Hij zou zich daarmee hebben bewezen tegenover die organisatie. Aanvankelijk stond de zoon van [bijnaam medeverdachte 18] in rechtstreeks contact met die organisatie en voerde hij werkzaamheden voor die organisatie uit. Na de geslaagde represaille mocht [medeverdachte 14] het werk overnemen van de zoon van [bijnaam medeverdachte 18] .
+
+Het hof acht de verklaringen van [kroongetuige] over wat hij van [medeverdachte 14] heeft vernomen over de gang van zaken betrouwbaar, omdat die verklaringen voor een groot deel bevestiging vinden in de door [medeverdachte 14] vastgelegde PGP-gesprekken en ander bewijsmateriaal.
+
+Op basis van de inhoud van deze verklaringen, in samenhang bezien met het vonnis en arrest in de zaak over onderzoek Roos/Doorn en de bewijsmiddelen uit het onderzoek Charon, concludeert het hof dat [kroongetuige] doelt op de vergismoord van [naam 13] in Utrecht en dat de represaille de liquidatie van het slachtoffer [slachtoffer 11] is.
+
+Het staat vast dat [medeverdachte 14] in opdracht van een andere organisatie de liquidatie van [slachtoffer 11] heeft georganiseerd. Dat blijkt uit de verklaringen van [kroongetuige] , PGP-gesprekken, het feit dat [medeverdachte 12] in opdracht van [medeverdachte 14] de vluchtauto in brand heeft gestoken en uit de contacten met de opdrachtgevers. Daarom kan ook worden aangenomen dat alle hierna beschreven activiteiten van [medeverdachte 14] verband houden met de moord op [slachtoffer 11] .
+
+6.3.2.3. Tijdlijn
+
+Het hof zal hierna aan de hand van een tijdlijn vaststellen welke gebeurtenissen hebben plaatsgevonden in de periode van 12 januari 2017 tot en met 23 februari 2017. Daarbij zal het zoveel mogelijk duiding geven aan de verschillende gebeurtenissen. Het vaststellen van de tijdlijn acht het hof van belang voor de beoordeling van de ten laste gelegde feiten.
+
+Donderdag 12 januari 2017
+
+Zoals hiervoor overwogen, neemt het hof als uitgangspunt dat [medeverdachte 17] en [medeverdachte 11] enerzijds en [slachtoffer 11] anderzijds op 12 januari 2017 als respectievelijk schutters en bestuurder betrokken zijn geweest bij de liquidatie van [naam 13] , de zogenoemde vergismoord in Utrecht. Het beoogde doelwit van deze liquidatie bleek [naam 20] te zijn.
+
+[medeverdachte 17] en [medeverdachte 11] zijn onherroepelijk veroordeeld voor deze liquidatie.
+
+Vrijdag 13 januari 2017
+
+Op 13 januari 2017 treffen [medeverdachte 17] en [medeverdachte 11] voorbereidingen om het beoogde doelwit [naam 20] alsnog te vermoorden. [slachtoffer 11] is daar opnieuw bij betrokken. Tijdens de verkenning van de plek waar de beoogde liquidatie moet plaatsvinden, zit ook getuige [getuige 12] in de auto.
+
+Het hof stelt aan de hand van de verklaring van getuige [getuige 12] vast dat [slachtoffer 11] zich tijdens de voorbereiding voor de beoogde moord op [naam 20] heeft teruggetrokken. Op enig moment was er een discussie met [slachtoffer 11] en toen is hij weggelopen. Dat er een discussie met [slachtoffer 11] heeft plaatsgevonden, vindt steun in de verklaring van [benadeelde partij 1] . Hij heeft verklaard dat hij van [slachtoffer 11] heeft gehoord dat hij niet meer wilde meedoen aan de liquidatie van [naam 20] . Als [slachtoffer 11] niet meer mee zou gaan, zou het ophouden voor hem, zo heeft hij kennelijk aan [benadeelde partij 1] verteld.
+
+Zaterdag 14 januari 2017
+
+Met het telefoonnummer *0028, dat in gebruik is bij [verdachte] , wordt contact gezocht met de telefoonnummers van [naam 25] en [medeverdachte 11] . Ook in de periode vóór 14 januari 2017 is er regelmatig contact tussen de telefoonnummers van [verdachte] en [medeverdachte 11] .
+
+Vrijdag 20 januari 2017
+
+[benadeelde partij 1] heeft verklaard dat [slachtoffer 11] hem op vrijdag 20 januari 2017 heeft verteld dat hij samen met [medeverdachte 17] en [medeverdachte 11] betrokken is geweest bij de liquidatie in Utrecht waarbij de verkeerde was neergeschoten. Volgens [benadeelde partij 1] zou [slachtoffer 11] met meer mensen hebben gesproken over de vergismoord.
+
+Woensdag 25 januari 2017
+
+Op 25 januari 2017 vindt er een ontmoeting plaats tussen [medeverdachte 14] en ‘ [bijnaam medeverdachte 18] ’. Dat blijkt uit een chat tussen beiden van die dag. Het hof concludeert op basis van de bewijsmiddelen dat [bijnaam medeverdachte 18] (net als [bijnaam medeverdachte 18] ) een bijnaam is van [medeverdachte 18] , de vader van
+
+[medeverdachte 17] . Dat er op 25 januari 2017 een ontmoeting heeft plaatsgevonden tussen hem en [medeverdachte 14] , past bij de verklaring van [kroongetuige] dat [bijnaam medeverdachte 18] in de periode na de vergismoord naar [medeverdachte 14] is gegaan om hulp te vragen.
+
+Donderdag 26 januari 2017
+
+Op 26 januari 2017 vindt er een ontmoeting plaats tussen [medeverdachte 18] en [medeverdachte 14] , waarbij ook [medeverdachte 17] aanwezig is.
+
+Vrijdag 27 januari 2017
+
+Op vrijdag 27 januari 2017 vindt er weer een ontmoeting plaats tussen [medeverdachte 14] en
+
+[medeverdachte 17] . Uit de inhoud van de chats, in combinatie met de historische verkeersgegevens van de telefoon van [medeverdachte 17] , volgt dat er in Rotterdam rond 22.00 uur wordt afgesproken, waarna [medeverdachte 17] rond 23.30 uur met de trein vanaf Den Haag Centraal richting Amsterdam reist.
+
+Zaterdag 28 januari 2017
+
+Op 28 januari 2017 vinden er meerdere chats plaats tussen [medeverdachte 14] en [medeverdachte 18] . Deze chats kunnen niet anders worden uitgelegd dan dat [medeverdachte 17] en [medeverdachte 11] die dag op zoek zijn geweest naar [slachtoffer 11] en dat [medeverdachte 17] daarover communiceerde met zijn vader, die de informatie vervolgens doorgaf aan [medeverdachte 14] .
+
+[medeverdachte 17] en [medeverdachte 11] zijn op zoek naar hem langs zowel de moeder als de vriendin van [slachtoffer 11] gegaan. Uiteindelijk vinden ze hem ’s avonds bij zijn vader, [benadeelde partij 1] . Tijdens dit bezoek is er kennelijk gesproken over iets nieuws dat [slachtoffer 11] moest gaan doen. Daarvoor moest hij ook telefonisch bereikbaar zijn. [benadeelde partij 1] heeft daarom een Lyca-kaartje voor een telefoon van het merk Alcatel aan [slachtoffer 11] gegeven.
+
+De informatie over de zoektocht naar, en vervolgens het bezoek aan, [slachtoffer 11] is kennelijk relevant voor [medeverdachte 14] , nu dit direct met hem wordt gedeeld. In de berichten wordt gezegd dat [medeverdachte 14] “paraat was en dat hij het even moet cancelen”, wat erop duidt dat er iets stond te gebeuren dat niet door kon gaan.
+
+[medeverdachte 14] wordt niet alleen direct geïnformeerd over de zoektocht naar, en uiteindelijk het vinden van, [slachtoffer 11] , maar na afloop van het bezoek geeft [medeverdachte 17] via
+
+[medeverdachte 18] ook aan snel contact met [medeverdachte 14] te willen. Direct daarop maken
+
+[medeverdachte 17] en [medeverdachte 14] onderling een afspraak om elkaar de volgende dag te treffen in Amsterdam.
+
+Zondag 29 januari 2017
+
+Op 29 januari 2017 stuurt [medeverdachte 17] even na middernacht een bericht naar [medeverdachte 14] . Kennelijk wil [medeverdachte 17] hem die dag voor 12.00 uur ontmoeten, wat wordt bevestigd in een whatsappgesprek tussen [medeverdachte 18] en [medeverdachte 14] diezelfde nacht.
+
+Uit het vervolg van het whatsappgesprek tussen [medeverdachte 18] en [medeverdachte 14] blijkt dat er daadwerkelijk rond 12.00 uur een afspraak heeft plaatsgevonden tussen (wederom) [medeverdachte 17] en [medeverdachte 14] in Amsterdam aan de [adres] .
+
+Even voor 13.00 uur vindt een whatsappgesprek plaats tussen [medeverdachte 18] en [medeverdachte 14] . [medeverdachte 18] laat aan [medeverdachte 14] weten dat “dat ding vandaag geregeld moet worden” en dat die mannen druk zetten. Ook zegt hij: “Morgen heeft het gevolgen voor die mannen”. [medeverdachte 14] maakt duidelijk dat vandaag niet kan en dat hij “die man heeft uitgelegd” dat hij één dag moet hebben, omdat “wij” anders fouten maken.
+
+Dat “het gevolgen kan hebben voor die mannen” past bij de verklaring van [kroongetuige] dat [bijnaam medeverdachte 18] hulp heeft gezocht bij [medeverdachte 14] om ervoor te zorgen dat zijn zoon, die in de problemen zat door de vergismoord, niets zou overkomen. Het hof concludeert op basis van deze gesprekken dat er kennelijk druk werd uitgeoefend op (het team van) [medeverdachte 14] .
+
+Uit de verklaring van [benadeelde partij 1] volgt dat dezelfde dag ook een ontmoeting heeft plaatsgevonden tussen [medeverdachte 17] , [medeverdachte 11] en [slachtoffer 11] . [slachtoffer 11] moest zich in Amsterdam in de middag melden om 15.00 uur of 17.00 uur. Dit is na de ontmoeting tussen [medeverdachte 17] en [medeverdachte 14] , die rond 12.00 uur plaatsvond. [slachtoffer 11] was over deze ontmoeting gebeld op het telefoonnummer behorend bij zijn Lycakaartje. [slachtoffer 11] had aan [benadeelde partij 1] verteld dat het om dezelfde jongens ging. Dit vindt bevestiging in de verklaring van [medeverdachte 11] , die heeft verklaard dat ze voor die dag via het telefoonnummer behorend bij het Lyca-kaartje een afspraak met [slachtoffer 11] hadden gemaakt en dat [slachtoffer 11] rond 16.00 uur naar de lounge in Amsterdam is gekomen. [slachtoffer 11] is na ongeveer twee uren weggegaan, wat past bij de verklaring van [benadeelde partij 1] dat hij rond 19.30 uur weer thuiskwam. [medeverdachte 17] en [medeverdachte 11] zijn in de lounge gebleven.
+
+Maandag 30 januari 2017
+
+De dag begint om 00.07 uur met een chat tussen [medeverdachte 18] en [medeverdachte 14] , waarin [medeverdachte 18] aangeeft dat die jongen een manier heeft gevonden om dat ding uit te stellen tot morgen. Het hof concludeert dat met “die jongen” wederom [medeverdachte 17] wordt bedoeld. Dat volgt uit de rest van de chat. Daarin wordt afgesproken dat [medeverdachte 14] hem de dag erna op dezelfde plek als “vandaag” zal ontmoeten. Zoals hiervoor vastgesteld, heeft op 29 januari 2017 rond 12.00 uur een ontmoeting plaatsgevonden tussen [medeverdachte 14] en
+
+[medeverdachte 17] aan de [adres] in Amsterdam. Gelet op het tijdstip van de chat in combinatie met de inhoud gaat het hof ervan uit dat met “vandaag” 29 januari 2017 wordt bedoeld. Op basis van het vervolg van het gesprek stelt het hof vast dat op 30 januari 2017 uiteindelijk rond kwart voor twee ’s middags er opnieuw een afspraak tussen
+
+[medeverdachte 17] en [medeverdachte 14] aan de [adres] in Amsterdam is geweest.
+
+In de middag van 30 januari 2017 is er weer een ontmoeting in Amsterdam tussen [medeverdachte 17] , [medeverdachte 11] en [slachtoffer 11] . Dat volgt niet alleen uit de verklaring van [benadeelde partij 1] , maar ook uit de verklaring van [medeverdachte 11] . Deze ontmoeting gaat in de avond en nacht door. Vanaf ongeveer 18.00 uur tot 20.00 uur en vanaf ongeveer 22.30 uur heeft het nummer eindigend op *7682, dat zoals blijkt uit de bewijsmiddelen aan
+
+[medeverdachte 17] kan worden toegeschreven, zendmasten aangestraald in de buurt van café [cafe] in Amsterdam. Het hof leidt hieruit en ook uit de verklaring van [medeverdachte 11] af dat de ontmoeting opnieuw in dat loungecafé heeft plaatsgevonden.
+
+Tussen [medeverdachte 17] , [medeverdachte 11] en [slachtoffer 11] is die dag afgesproken dat ze elkaar de volgende dag, 31 januari 2017, weer zullen ontmoeten.
+
+Uit een whatsappgesprek tussen [medeverdachte 18] en [medeverdachte 14] volgt dat er die avond ook nog een ontmoeting heeft plaatsgevonden tussen [medeverdachte 14] en [medeverdachte 17] . Om
+
+20.18
+
+uur stuurt [medeverdachte 18] aan [medeverdachte 14] : “Same place”. Om 20.23 uur zegt hij: “3 à 4 min is hij er”. Zo lijken [medeverdachte 14] en [medeverdachte 17] elkaar rond 20.26 à 20.27 uur te zien. De historische gegevens van de telefoon van [medeverdachte 17] laten zien dat zijn toestel die avond in ieder geval om 21.12.31 uur een zendmast heeft aangestraald in de directe omgeving van de [adres] te Amsterdam, waar [medeverdachte 14] en [medeverdachte 17] elkaar twee keer eerder hebben ontmoet. Dat duidt erop dat [medeverdachte 17] zijn ontmoeting met [slachtoffer 11] in [cafe] die avond heeft onderbroken voor wederom een ontmoeting met [medeverdachte 14] .
+
+De telefoons van [naam 1] en [naam 3] stralen vanaf 19.32 uur aan in Amsterdam. In ieder geval [naam 3] kan worden gerekend tot de organisatie van de opdrachtgever. Om 20.10 uur wordt de Renault Clio met het valse kenteken [kenteken] geregistreerd door een camera op de A10 Noord. Van deze gestolen auto zijn het originele kenteken en kentekenbewijs in februari 2017 aangetroffen in een loods in Landsmeer die ook in gebruik was bij de organisatie van de opdrachtgever. Hetzelfde voertuig wordt op 4 februari 2017 uitgebrand gevonden bij De Zilk.
+
+Opvallend is dat de contactnaam ‘The wizzard’, die op basis van de processen-verbaal van veredeling aan [verdachte] kan worden toegeschreven, die avond om 20.29 uur in een
+
+PGP-toestel is geplaatst met een nummer eindigend op *9768. Dit PGP-toestel heeft die dag een reisbeweging gemaakt van Utrecht naar Amsterdam. Bij het eerste gebruik straalde deze PGP een zendmast aan in de directe omgeving van de woning van [naam 3] in Utrecht. Bij hem thuis is administratie aangetroffen van meerdere simkaarten van PGP-toestellen, die onder meer te relateren zijn aan [medeverdachte 14] en de accounts ‘The wizzard’ en ‘B.I.G’. Het eerste deel van de reisbeweging van Utrecht naar Amsterdam heeft de PGP ook samen met [naam 3] gemaakt. Dat blijkt uit de zendmasten die de telefoon van [naam 3] tijdens die reisbeweging heeft aangestraald. Op enig moment, vanaf 20.21 uur, lopen de reisbeweging van [naam 3] enerzijds en die van de PGP anderzijds uiteen. Dat betekent dat een overdracht van de PGP aan een ander heeft plaatsgevonden.
+
+Het moment dat de contactnaam ‘The wizzard’ in het PGP-toestel werd gezet, is rondom het moment van de ontmoeting tussen [medeverdachte 17] en [medeverdachte 14] die avond in Amsterdam aan de [adres] . Het hof leidt uit de bewijsmiddelen af dat tijdens deze ontmoeting het PGP-toestel met daarin de naam ‘The wizzard’ aan [medeverdachte 14] moet zijn overgedragen. Dat vindt bevestiging in de chat tussen [medeverdachte 14] en [medeverdachte 18] van 31 januari 2017, waarin [medeverdachte 14] om 11.34 uur zegt: “Ik ga zo op dat ding” in combinatie met de datasessie van dit PGP-toestel om 12.41 uur. Dat [medeverdachte 17] betrokken is bij de overdracht van deze PGP blijkt uit het bericht om 17.11 uur van [medeverdachte 18] aan [medeverdachte 14] : “Hij zei dat hij je een nieuwe telefoon heeft gegeven”, “hij zegt dat die mannen zien dat je leest maar dat je niet reageert op zijn berichten” en “dat vragen ze aan hem waarom jij niet reageert”. Ook wordt [medeverdachte 17] er kennelijk op aangesproken als [medeverdachte 14] niet reageert op berichten op dit PGP-toestel. Dat met “hij” in de chats [medeverdachte 17] wordt bedoeld, leidt het hof af uit het vervolg van datzelfde gesprek waarin [medeverdachte 14] laat weten: “die jongen van jou moet veel leren”.
+
+Ongeveer een uur na de ontmoeting tussen [medeverdachte 14] en [medeverdachte 17] op 30 januari 2017 beginnen er whatsappgesprekken tussen [medeverdachte 14] en [medeverdachte 7] en [medeverdachte 14] en [naam 35] . [medeverdachte 14] zegt dan onder meer dat hij in de [restaurant] in de Meern is. Het PGP-toestel met nummer *9768 straalt op dat moment aan op een zendlocatie in De Meern. Het hof ziet hierin bevestiging dat het PGP-toestel met nummer *9768 die avond aan [medeverdachte 14] is overgedragen.
+
+Dinsdag 31 januari 2017
+
+Op 31 januari 2017 om 01.02 uur straalt de telefoon van [medeverdachte 7] een mast aan de A12 in de buurt van Harmelen aan. Dit past bij aanwezigheid van [medeverdachte 7] vlak daarvóór in De Meern. Ook vindt vanaf ongeveer 01.00 uur opnieuw contact plaats tussen [medeverdachte 14] en [naam 35] . [medeverdachte 14] geeft aan [naam 35] [huisnummer] en het adres [adres] door. Dat is het adres van een vriendin van [medeverdachte 14] met de bijnaam Widow. Rond 01.30 uur meldt [naam 35] dat hij er is. [medeverdachte 14] is daar op dat moment blijkbaar ook aanwezig en vraagt [naam 35] om boven te komen.
+
+Dezelfde nacht, om 04.19 uur, komt [slachtoffer 11] terug van zijn ontmoeting met in ieder geval [medeverdachte 17] en [medeverdachte 11] . [medeverdachte 17] kwam die ochtend ook pas rond 05.00 uur thuis, zo blijkt uit een gesprek tussen [medeverdachte 14] en [medeverdachte 18] rond
+
+11.30
+
+uur. Ook [medeverdachte 11] heeft verklaard dat zij op 31 januari 2017 tot vroeg in de ochtend in Amsterdam zijn geweest.
+
+[slachtoffer 11] laat bij thuiskomst aan [benadeelde partij 1] zien dat hij een PGP-telefoon heeft gekregen. Gelet op het feit dat hij de PGP-telefoon meteen na thuiskomst laat zien, na een lange ontmoeting met in ieder geval [medeverdachte 17] en [medeverdachte 11] , concludeert het hof dat [slachtoffer 11] die PGP tijdens die ontmoeting heeft ontvangen.
+
+Later die ochtend vertelt [slachtoffer 11] aan [benadeelde partij 1] dat er die avond iets gaat gebeuren. Hij moet een laatste klusje doen. Uit zijn gebaar met zijn hand langs zijn keel maakt [benadeelde partij 1] op dat er iemand dood moest. Het hof concludeert dat het voor [slachtoffer 11] duidelijk moet zijn geweest dat er die avond nog een liquidatie zou plaatsvinden. Dat hij een PGP heeft ontvangen, past daarbij.
+
+Rond 16.00 uur vindt er weer chatcontact plaats tussen [medeverdachte 18] en [medeverdachte 14] .
+
+[medeverdachte 18] bericht: “Hoe laat vraagt ie” en “zou je op zijn schrijven kunnen reageren”.
+
+[slachtoffer 11] vertrekt rond 17.00 uur die dag richting Amsterdam. Hij ontmoet
+
+[medeverdachte 17] , [medeverdachte 11] en een vierde man op station Amsterdam Lelylaan.
+
+[medeverdachte 17] , [medeverdachte 11] en die vierde man waren daarvóór al samen in de stad geweest. In de buurt van [school] lopen ze vervolgens met zijn vieren rond. Daarna gaan zijn ze enige tijd uit elkaar. [slachtoffer 11] en de vierde man gaan de ene kant op en [medeverdachte 17] en [medeverdachte 11] de andere kant (naar huis). [medeverdachte 17] heeft zich toen omgekleed. Dat was tussen 20.00 uur en 21.00 uur. In die tussentijd, om
+
+20.35
+
+uur, bericht [medeverdachte 18] aan [medeverdachte 14] dat hij moet texten, want die jongen wacht op hem. Het hof concludeert dat [medeverdachte 17] op dat moment wacht op een bericht van [medeverdachte 14] .
+
+Eerder die avond, om 18.55 uur, laat [naam 35] in een chat aan [medeverdachte 14] weten dat hij die dag niet mee kan. Dezelfde avond stuurt [medeverdachte 14] aan Widow de volgende berichten: “Heb je doek en tas voor dat”, “Regel dat voor me. En schoon. Dus oppassen” en “Doe je tomtom erbij”.
+
+Kort daarop vraagt [medeverdachte 14] aan [naam 38] , zijn broer, of hij nog met [bijnaam medeverdachte 7] is. Ook vraagt hij of ze [bijnaam medeverdachte 5] halen. “ [bijnaam medeverdachte 7] weet. Ze moeten iets daar ophalen. Bij sport. Daarna Widow en dan kom ik naar sport”, zegt hij erbij. Met “sport” wordt de sportschool van [medeverdachte 14] broer [naam 38] in Den Haag bedoeld.
+
+Om 20.30 uur appt [medeverdachte 14] aan Widow: “kom maar brengen. Ben er”. Widow antwoordt: “ik kom. Achter”.
+
+Het hof duidt de activiteiten en contacten in het kader van de voorbereiding van de liquidatie. In die contacten gaat het erom dat men iets moet ophalen bij “sport” en wordt ook Widow genoemd. In het licht van de overige bewijsmiddelen gaat het hof ervan uit dat met “schoon” wordt bedoeld vrij van sporen en dat bij Widow het moordwapen was gestald. Uit latere PGP-gesprekken die [medeverdachte 14] heeft gevoerd met ‘The wizzard’ en ‘B.I.G’ blijkt dat de organisatie van de opdrachtgever doorgaans zorgde voor “yzers en fietsen”, oftewel wapens en auto’s. De conclusie van het hof is dat rond 30 januari 2017 een of meer PGP-telefoons, auto’s en wapens zijn overgedragen vanuit de organisatie van de opdrachtgever aan [medeverdachte 14] en anderen die nauw met hem in contact stonden.
+
+[medeverdachte 17] , [medeverdachte 11] , de vierde man en [slachtoffer 11] treffen elkaar later die avond weer op de [adres] . Na wat rondlopen komen ze op het pleintje van de [adres] . [slachtoffer 11] loopt op dat moment voorop. [medeverdachte 17] loopt daarachter en [medeverdachte 11] en de vierde man lopen daar weer achter. [medeverdachte 17] ziet op dat moment een man op hen afkomen en hij hoort schoten. Hij rent weg, maar ziet bij het omkijken nog dat [slachtoffer 11] in elkaar zakt. [slachtoffer 11] is doodgeschoten.
+
+In de directe omgeving van [slachtoffer 11] worden meerdere hulzen aangetroffen. Op drie daarvan wordt DNA aangetroffen met dezelfde kenmerken als het DNA-profiel van [medeverdachte 7] (bijnaam: [bijnaam medeverdachte 7] ).
+
+De telefoon van [medeverdachte 7] straalde om 18.29 uur een mast in Leiden aan en om 19.53 uur een mast in Den Haag. De eerstvolgende geregistreerde verbinding van de telefoon van [medeverdachte 7] is na de liquidatie om ongeveer 00.34 uur (op woensdag 1 februari 2017). Rond hetzelfde tijdstip wordt een aan [medeverdachte 3] toegeschreven telefoon geregistreerd. De door beide toestellen daarbij gebruikte masten staan aan of in de buurt van de [adres] in Den Haag. Verder is gebleken dat een contact van [medeverdachte 7] geprobeerd heeft hem te bereiken maar dat er geen verbinding tot stand kwam. Dat kan erop wijzen dat het toestel geen bereik had of uitgeschakeld is geweest.
+
+Van het op 30 januari 2017 aan [medeverdachte 14] overhandigde PGPtoestel *9768 zijn mastgegevens geregistreerd. Het toestel straalde om 17.42 uur een mast bij de woning van [medeverdachte 14] in Zoetermeer aan. Later op de avond werd er met het toestel een datasessie gestart. Daarbij wordt in ieder geval om de twee uren een mast geregistreerd. Dat is een mast die in de twee uur vóór de registratie binnen bereik is geweest van het toestel. Daaruit blijkt dat het toestel is gesignaleerd op een mast nabij de snelweg bij Hoofddorp en later (tussen 22.16 uur en 00.16 uur op 1 februari 2017) op een mast bij Vijfhuizen. Dat past bij een rit van Den Haag naar de plaats van de liquidatie in AmsterdamOsdorp en bij een rit van AmsterdamOsdorp naar de plek waar de vluchtauto later uitgebrand is aangetroffen. Het PGPtoestel *9768 is op 30 januari 2017 aan [medeverdachte 14] overhandigd, maar dat wil nog niet zeggen dat het toestel ook in de nabijheid van [medeverdachte 14] is geweest gedurende die nacht. Uit het dossier blijkt dat het toestel met dit nummer diverse keren door anderen is gebruikt. Zo is het toestel begin februari 2017 in gebruik geweest bij [medeverdachte 3] en op 17 maart 2017 onder [medeverdachte 7] aangetroffen bij de aanhouding van [medeverdachte 7] , [medeverdachte 12] en [medeverdachte 3] in Amsterdam (onderzoek Arford).
+
+Woensdag 1 februari 2017
+
+Om 03.39 uur zoekt [medeverdachte 14] op zijn telefoon naar berichten over de liquidatie in Amsterdam. Op 1 februari 2017 chatten [medeverdachte 14] en [medeverdachte 18] weer over “die jongen”.
+
+[medeverdachte 18] kan hem kennelijk niet bereiken. Om 20.52 uur zegt
+
+[medeverdachte 18] tegen [medeverdachte 14] dat hij kan komen. [medeverdachte 14] noemt het adres [adres] . Om 22.10 uur zegt [medeverdachte 18] dat hij voor het hotel staat.
+
+Uit een uitnodiging van [medeverdachte 5] volgt dat hij die avond een feest geeft in een restaurant aan de [adres] in Den Haag. Gelet op het gesprek tussen [medeverdachte 14] en [medeverdachte 18] concludeert het hof dat [medeverdachte 18] en [medeverdachte 14] elkaar bij het restaurant waar het feest werd gehouden, hebben ontmoet.
+
+Op een telefoon van [medeverdachte 7] zijn diverse foto’s aangetroffen. Op een van de foto’s zijn onder andere [naam 35] , [medeverdachte 12] en [medeverdachte 7] te zien. Die foto is genomen op de locatie van het feest, zodat het hof concludeert dat de hiervoor genoemde personen ook op het feest in het restaurant aan de [adres] in Den Haag aanwezig waren.
+
+Op een andere foto die op de telefoon van [medeverdachte 7] is gevonden, is een stapel bankbiljetten in een toiletruimte te zien. De foto is genomen of verzonden op 1 februari 2017 om
+
+23.36.57
+
+uur. Gelet op het tijdstip van de foto concludeert het hof dat deze foto ook tijdens hetzelfde feest is genomen. Kennelijk beschikte [medeverdachte 7] op dat moment over een grote hoeveelheid contant geld.
+
+Vrijdag 3 februari 2017
+
+Op vrijdag 3 februari 2017 is er chatcontact tussen [medeverdachte 17] en zijn vader, [medeverdachte 18] . Op de vraag van zijn vader hoe het met hem gaat, antwoordt [medeverdachte 17] : “Ja relaxed ff”. [medeverdachte 18] vraagt in de chat of
+
+[medeverdachte 17] al voor hem heeft wat hij hem zou geven: “a djing djing”. “Nog niet”, reageert [medeverdachte 17] , maar “komt goed”.
+
+Zaterdag 4 februari 2017
+
+Op 4 februari 2017 vindt om 01.27 uur een PGP-chat plaats tussen de gebruiker van PIN ‘971817’ en het account ‘The wizzard’, in gebruik bij [verdachte] . Op basis van de
+
+processen-verbaal van veredeling kan PIN ‘971817’, dat is gekoppeld aan de gebruikersnaam ‘C murder’, worden toegeschreven aan [medeverdachte 14] . In deze PGP-chat laat [verdachte] aan [medeverdachte 14] weten dat hij het “deze dagen” “ff” met hem moet doen. [medeverdachte 14] reageert door te zeggen dat hij dit heeft begrepen. Hij zegt: “Zet hem op scherp, want ze gaan willen doorzagen”. Ook zegt hij: “Maar vervelend voor onze mensen”. Daarop zegt [verdachte] : “Ja tuurlijk sir, we willen niemand missen die aan onze kant staat”.
+
+Het hof concludeert op basis van dit gesprek dat er even geen contact meer kan zijn tussen [medeverdachte 14] en [medeverdachte 17] , dat het contact nu rechtstreeks moet plaatsvinden met [verdachte] en dat er gesproken wordt over het verhoor van [medeverdachte 17] bij de politie een dag later op 5 februari 2017. Dit vindt bevestiging in een gesprek tussen [medeverdachte 14] en ‘Storing’, die direct aansluitend aan de hiervoor vermelde chat plaatsvindt. Het hof schrijft op basis van de processen-verbaal van veredeling het account ‘Storing’ toe aan
+
+[medeverdachte 17] .
+
+[medeverdachte 17] laat in dit gesprek onder andere blijken dat hij verwacht een tijdje vast te zitten. Hij zegt ook: “Al die dingen kan je aan die andere man vragen, deze man neemt het over”. Dat sluit aan bij de conclusie dat [medeverdachte 14] een tijdje rechtstreeks contact moet hebben met [verdachte] .
+
+Verder wordt in de chat tussen [medeverdachte 14] en [medeverdachte 17] besproken hoe hij,
+
+[medeverdachte 17] , het moet uitleggen. [medeverdachte 14] zegt: “Je handelde in paniek toch, zo moet je het uitleggen, en jullie wilden een ruzie bijleggen, jij ging mee maar was bang, paar Afrikanen waren geript, dichtbij waarheid blijven”.
+
+Het hof concludeert dat [medeverdachte 14] en [medeverdachte 17] met elkaar afstemmen wat
+
+[medeverdachte 17] de volgende dag tegen de politie zal zeggen over zijn aanwezigheid op de plaats delict. Dat vindt bevestiging in de verklaring zoals [medeverdachte 17] die heeft afgelegd bij de politie op 5 februari 2017, die past in het door [medeverdachte 14] geschetste scenario.
+
+[medeverdachte 17] heeft toen verklaard dat hij die avond met [slachtoffer 11] mee was vanwege een conflict met Marokkanen naar aanleiding van een drugsdeal.
+
+In hetzelfde gesprek met [medeverdachte 14] zegt [medeverdachte 17] ook: “Laat die mannen geen druk op je zetten”. [medeverdachte 14] vraagt vervolgens: “En hoe weet ik wat de prijzen echt zijn?”. Daarop reageert [medeverdachte 17] met de woorden: “Hij is correct met u die hele orga is correct met u. Prijzen zijn altijd real”. [medeverdachte 14] zegt vervolgens: “Ik bestel nu bij hem wat ik nodig heb”. Daarop reageert [medeverdachte 17] met: “Na elke actie kan j meer en meer eisen stellen en pgps vragen. Regel er één voor vaders”.
+
+Het hof concludeert dat hier wordt gesproken over de overname van de werkzaamheden van [medeverdachte 17] door [medeverdachte 14] , waarover [kroongetuige] heeft verklaard.
+
+Dat [medeverdachte 17] aan [medeverdachte 14] vraagt er één voor vaders te regelen, nadat hij heeft gezegd “na elke actie kan j meer en meer eisen stellen en pgps vragen”, sluit aan bij de chat die [medeverdachte 17] een dag eerder met ‘pap’, ( [medeverdachte 18] ) heeft gevoerd. Daarin vraagt ‘pap’: “Heb je dat al wat je mij zou geven, a djing djing”.
+
+Het hof concludeert dat het hier om een telefoon gaat. Dit draagt eveneens bij aan de conclusie van het hof dat de gebruikersnaam ‘Storing’ aan [medeverdachte 17] kan worden gekoppeld. Dat ‘djing djing’ een telefoon is, volgt ook uit een ander deel van deze chat.
+
+Voordat tussen [medeverdachte 14] en [medeverdachte 17] wordt besproken hoe [medeverdachte 17] het moet uitleggen, vraagt [medeverdachte 14] aan [medeverdachte 17] : “En nog iets. Had je je normale djong djing op de spot”, waarop [medeverdachte 17] antwoordt: “Nee zeer zeker niet”. Door de ‘normale’ telefoon van [medeverdachte 17] zijn in de avond van 31 januari 2017 ook geen zendmasten aangestraald.
+
+In de chat van 4 februari 2017 tussen [medeverdachte 17] en [medeverdachte 14] komt verder naar voren dat een betaling niet goed is gegaan. [medeverdachte 17] vraagt om niet meer te praten over het geld dat laatst ontbrak, “die 7,5K”. [medeverdachte 14] zegt dat hij het zal regelen met de grote man. De precieze omvang van dit geldbedrag komt later terug in een chat van
+
+23 februari 2017 tussen [medeverdachte 14] en [verdachte] . [verdachte] vraagt aan [medeverdachte 14] hoeveel hij “die dag” heeft gekregen, waarop [medeverdachte 14] aangeeft dat hij geld miste doordat [medeverdachte 17] teveel geld had gepakt als mazzel. [medeverdachte 14] bericht aan [verdachte] : “Hij vroeg me ook om er niet over te praten met jou of jullie. Maar ik miste 4500. Ik nam aan en telde het niet omdat ik blind op hem ging. Gaf hem en zijn vader nog 3000. Als mazzel. En de rest aan head. Toen ik thuis ging tellen was 4500 tekort”. [verdachte] geeft aan dat hij persoonlijk € 26.500,- heeft afgegeven en dat [medeverdachte 14] wordt genaaid door [medeverdachte 17] . [medeverdachte 14] stuurt verder: “Zat op club. Was druk. Hij kwam met die tas. Ik telde niet. Toen vroeg hij of hij een mazzel mocht, hij en zijn pa. Ik zei eigenlijk niet want het is voor head. Maar toen zei ik ok wat willen jullie. Zei hij geeft jij maar (toen vond ik ’t al raar). Daarna zei ok ga na wc en pak 3 eraf. Toen gingen ze weg”.
+
+Het hof leidt hieruit af dat [medeverdachte 14] vanuit de organisatie van de opdrachtgever betaald heeft gekregen, dat hij op zijn beurt de schutter heeft betaald en dat [medeverdachte 7] die avond over een stapel briefgeld beschikte. Omdat de betaling heeft plaatsgevonden na de liquidatie van
+
+[slachtoffer 11] , maar vóór 4 februari 2017 op een avond die [medeverdachte 14] omschrijft als “clubavond”, is duidelijk dat het de feestavond van 1 februari 2017 betreft, waarop twee aan Caloh Wagoh verbonden personen hun verjaardag vierden.
+
+In een chat van 4 februari 2017 tussen [medeverdachte 14] en [verdachte] wordt ten slotte vanaf 03.44 uur gesproken over “lichterlaaie tussen bloemendeel en harlem”. [medeverdachte 14] zegt: “Eén van mijn mensen is zelfs bijna verbrand”. [medeverdachte 12] heeft verklaard dat hij in opdracht van [medeverdachte 14] een auto in brand heeft gestoken in De Zilk. [kroongetuige] heeft ook verklaard dat hij heeft begrepen dat [medeverdachte 12] een auto in brand heeft gestoken.
+
+Het hof concludeert dat het hier om de auto gaat die is gebruikt bij de liquidatie in deze zaak. Het tijdstip van het in brandsteken, een paar dagen na 31 januari 2017, en de locatie passen daarbij.
+
+Woensdag 22 februari 2017
+
+[medeverdachte 14] en [verdachte] maken in een chat van 22 februari 2017 nader kennis met elkaar. [medeverdachte 14] zegt onder meer: “Heb zat soldaten”. Dat past bij zijn rol binnen de motorclub Caloh Wagoh. Daar is hij de baas en er is een groot aantal leden dat werkzaamheden voor hem verricht. Ook kan de inhoud van de chat niet anders worden uitgelegd dan dat hierin wordt gesproken over de vergismoord in Utrecht en dat daarbij fouten zijn gemaakt, zoals het met angst laten rondlopen van een “driver” die “sprak”.
+
+In deze chat zegt [medeverdachte 14] op enig moment: “Mooiste is, die kleine kwam met zijn pa (zit ook in mijn club) om me werk te geven hahaha. Ik zei ok maar geef die bv over als ik je help. Hij was zo in paniek en zei ja”. Ook zegt hij in deze chat: “Ik praat nu met Big”.
+
+Deze woorden sluiten (opnieuw) aan bij de verklaring van [kroongetuige] dat [bijnaam medeverdachte 18] ,
+
+[medeverdachte 18] , hulp is gaan vragen bij [medeverdachte 14] om zijn zoon te beschermen, omdat hij betrokken was bij een vergismoord. Daarvoor moest hij een represaille uitvoeren. Als die was geslaagd, zou [medeverdachte 14] het stokje overnemen van de zoon van [bijnaam medeverdachte 18] ,
+
+[medeverdachte 17] .
+
+Ook sluiten deze woorden aan bij de gebeurtenissen die het hof eerder heeft vastgesteld. Een van de personen die betrokken waren bij de vergismoord is geliquideerd door (het team van) [medeverdachte 14] , waarmee de represaille was geslaagd. Daarna zijn conform de afspraak de werkzaamheden van [medeverdachte 17] overgedragen aan [medeverdachte 14] .
+
+Het uitvoeren van de represaille door [medeverdachte 14] kan worden opgevat als de hulp die hij aan
+
+[medeverdachte 17] zou bieden en daarmee ook aan zijn vader. Dat [medeverdachte 14] dat zelf ook zag als hulp volgt uit het gesprek van 29 januari 2017 tussen [medeverdachte 18] en [medeverdachte 14] , waarin [medeverdachte 14] tegen [medeverdachte 18] , de vader van [medeverdachte 17] , zegt: “Ik doe het voor jou”.
+
+Het hof concludeert op basis van het voorgaande dat aan de woorden “geef die bv over als ik je help” in het gesprek van 23 februari 2017 geen andere betekenis kan worden toegekend dan dat [medeverdachte 14] aan [medeverdachte 17] heeft gevraagd zijn werkzaamheden (voor zijn opdrachtgever) aan hem over te dragen, als hij ervoor zou zorgen dat [medeverdachte 17] niets zou overkomen. Dat [medeverdachte 14] vervolgens in rechtstreeks contact komt te staan met de organisatie van de opdrachtgever blijkt uit de chat van 4 februari 2017 tussen [medeverdachte 14] en [verdachte] .
+
+Het hof concludeert dat [verdachte] , waarmee [medeverdachte 14] praat over de overname, onderdeel uitmaakte van de organisatie van de opdrachtgever. Het past bij het overnemen van de werkzaamheden voor de opdrachtgever dat [medeverdachte 14] in contact kwam te staan met andere belangrijke personen uit de organisatie van de opdrachtgever, waarvan [kroongetuige] zegt van [medeverdachte 14] te hebben gehoord dat het [naam 45] was. Daarbij past ook het deel van het gesprek op 22 februari 2017 tussen [medeverdachte 14] en [verdachte] , waarin [verdachte] zegt: “Die ik je doorstuur af en toe ticket to hell. Dat is [naam gelijkend op naam 45] !!”. Het hof leest hierin dat [verdachte] berichten van ‘Ticket to hell’, volgens ‘The wizzard’ dus [naam 45] , zal doorsturen naar [medeverdachte 14] .
+
+Donderdag 23 februari 2017
+
+Het hof leidt uit de inhoud van het chatgesprek van 23 februari 2017 tussen [medeverdachte 14] en [verdachte] af dat het geven van “die 3000” aan “hem en zijn vader” in relatie staat tot het geven van “de rest aan head”, de betaling aan de schutter voor de liquidatie van [slachtoffer 11] . Het hof heeft hiervoor geconcludeerd dat de betaling aan de schutter ( [medeverdachte 7] ) heeft plaatsgevonden op 1 februari 2017, een dag na de liquidatie. Ook concludeert het hof uit dit gesprek dat [medeverdachte 17] degene is geweest die het geld dat door de organisatie van de opdrachtgever voor de liquidatie is betaald naar [medeverdachte 14] heeft gebracht.
+
+Zoals het hof hiervoor al heeft geconcludeerd, wordt met “hem en zijn vader”
+
+[medeverdachte 17] en [medeverdachte 18] bedoeld.
+
+Het hof concludeert dat [medeverdachte 14] naast de betaling aan de schutter een betaling heeft gedaan aan [medeverdachte 17] en [medeverdachte 18] voor de liquidatie van [slachtoffer 11] in deze zaak.
+
+6.3.2.4.  De rol van [medeverdachte 17]
+
+Het hof heeft geconcludeerd dat de liquidatie van [slachtoffer 11] kan worden aangemerkt als de geslaagde represaille door [medeverdachte 14] voor de fouten die (onder meer) [medeverdachte 17] heeft gemaakt bij de vergismoord. [medeverdachte 14] moest zich met de uitvoering van deze liquidatie bewijzen ten opzichte van de organisatie van de opdrachtgever en droeg de eindverantwoordelijkheid voor deze opdracht. Hij is degene geweest die de uitvoerders van de liquidatie heeft aangestuurd. Dat blijkt ook uit de inhoud van de berichten in de vroege ochtend van 31 januari 2017 waarin hij contact heeft met personen van Caloh Wagoh, die vaker samen werkzaamheden voor hem verrichtten. Daarbij werden afspraken gemaakt voor later die dag. Zoals vastgesteld, was in ieder geval een van hen, [medeverdachte 7] , betrokken bij de liquidatie van [slachtoffer 11] , die aan het einde van die dag heeft plaatsgevonden.
+
+[medeverdachte 17] is op 28 januari 2017 op zoek gegaan naar [slachtoffer 11] en heeft over die zoektocht gecommuniceerd met zijn vader, die de informatie vervolgens direct doorgaf aan [medeverdachte 14] .
+
+[medeverdachte 17] heeft de dagen vóór de liquidatie op 26, 27, 29 en 30 januari 2017 ontmoetingen gehad met [medeverdachte 14] . Niet kan worden vastgesteld wat tijdens die ontmoetingen is besproken. Wel kan worden vastgesteld dat vanuit de organisatie van de opdrachtgever een PGP-telefoon met daarin het nummer van [verdachte] aan [medeverdachte 14] is overgedragen en dat
+
+[medeverdachte 17] erop wordt aangesproken als [medeverdachte 14] zijn berichten op deze PGP niet beantwoordt. Bovendien is ook duidelijk dat – als gekeken wordt naar de gebeurtenissen die het hof heeft uiteengezet in de tijdlijn – de ontmoetingen tussen [medeverdachte 17] en [medeverdachte 14] steeds parallel liepen aan meerdere contactmomenten tussen [medeverdachte 17] en [slachtoffer 11] en dat [medeverdachte 14] in de tussentijd of direct na afloop van een ontmoeting contact had met zijn team. Het meest duidelijk blijkt dat uit de gebeurtenissen op 30 januari 2017.
+
+[medeverdachte 17] onderbreekt die dag een samenzijn met (onder meer) [slachtoffer 11] om [medeverdachte 14] te ontmoeten, waarna [medeverdachte 17] teruggaat naar [slachtoffer 11] en [medeverdachte 14] vervolgens aan de slag gaat om de liquidatie verder voor te bereiden.
+
+Tussen [medeverdachte 17] , [medeverdachte 11] en [slachtoffer 11] is afgesproken dat [slachtoffer 11] de avond van 31 januari 2017 naar Amsterdam zou komen. Zij hebben elkaar toen daadwerkelijk ontmoet en enkele uren samen doorgebracht. In de korte tijdspanne dat zij niet samen waren, omdat [medeverdachte 17] zich moest omkleden, heeft [medeverdachte 14] het bericht gekregen dat hij [medeverdachte 17] moest teksten. [medeverdachte 17] wachtte kennelijk op een bericht van hem. [medeverdachte 17] was er vervolgens ook bij op het moment dat [slachtoffer 11] het pleintje op liep, waar de liquidatie direct daarna heeft plaatsgevonden. Op dat moment kwam de schutter aanlopen om [slachtoffer 11] neer te schieten.
+
+Zoals hiervoor is vastgesteld, werden in ieder geval de schutter en de bestuurder van de auto aangestuurd door [medeverdachte 14] . Van de personen die vlak voor de liquidatie bij [slachtoffer 11] in de buurt waren, [medeverdachte 17] , [medeverdachte 11] en een onbekende man, was
+
+[medeverdachte 17] degene die voorafgaand aan de liquidatie veelvuldig contact had met [medeverdachte 14] .
+
+Gelet op al het voorgaande kan het niet anders zijn dan dat er afstemming is geweest tussen [medeverdachte 17] en [medeverdachte 14] , om ervoor te zorgen dat [slachtoffer 11] en de schutter op hetzelfde moment op het pleintje zouden arriveren waar de liquidatie heeft plaatsgevonden.
+
+Ook na de liquidatie heeft [medeverdachte 17] nog een rol gehad, in die zin dat hij het geld dat door de organisatie van de opdrachtgever voor de liquidatie is betaald naar [medeverdachte 14] heeft gebracht.
+
+Naar het oordeel van het hof is daarmee sprake van een zodanige actieve betrokkenheid van [medeverdachte 17] bij de voorbereiding en de uitvoering van de moord op [slachtoffer 11] , dat sprake is van medeplegen.
+
+Uit het voorgaande volgt ook dat bij [medeverdachte 17] sprake is geweest van voorbedachte raad om [slachtoffer 11] van het leven te beroven. Er was sprake van kalm beraad en er zijn vele momenten geweest waarop van het plan kon worden afgezien.
+
+6.3.2.5.  De rol van [medeverdachte 14]
+
+Het hof leidt uit de bewijsmiddelen af dat [medeverdachte 14] zich schuldig heeft gemaakt aan het medeplegen van de moord op [slachtoffer 11] . [medeverdachte 17] heeft in opdracht van de organisatie van de opdrachtgever (met anderen) een liquidatie uitgevoerd op de verkeerde persoon. Omdat hij vreesde voor zijn leven, heeft zijn vader [medeverdachte 14] benaderd met het verzoek om te bemiddelen. Deze bemiddelingspoging heeft ertoe geleid dat [medeverdachte 14] de uitvoering van liquidaties in opdracht van de organisatie van de opdrachtgever zou overnemen van
+
+[medeverdachte 17] en dat het leven van [medeverdachte 17] zou worden gespaard. Om te laten zien dat hij daadwerkelijk in staat was om liquidaties uit te voeren, heeft [medeverdachte 14] vervolgens in opdracht van de organisatie van de opdrachtgever [slachtoffer 11] laten vermoorden door [medeverdachte 14] eigen mensen, onder wie in ieder geval [medeverdachte 7] .
+
+Uit de bewijsmiddelen blijkt verder dat [medeverdachte 14] niet alleen aan zijn eigen mensen de opdracht om [slachtoffer 11] te liquideren heeft gegeven, maar ook dat hij zelf betrokken was bij het organiseren van deze liquidatie. Zo werd hij op de hoogte gehouden van de resultaten van de zoektocht naar [slachtoffer 11] , was hij betrokken bij het maken van een vervolgafspraak toen
+
+[slachtoffer 11] was gevonden, gaf hij anderen opdracht om goederen voor de liquidatie weg te brengen of op te halen, gaf hij de opdracht tot het in brand steken van de vluchtauto, legde hij hierover verantwoording af aan zijn opdrachtgever en nam hij het geld voor de liquidatie in ontvangst om dit vervolgens te verdelen onder zijn mensen. Hoewel uit het dossier niet blijkt dat [medeverdachte 14] betrokken was bij de feitelijke uitvoering van de moord op [slachtoffer 11] , is hiermee wel sprake van een nauwe en bewuste samenwerking tussen [medeverdachte 14] en [medeverdachte 7] , waarbij de bijdrage van [medeverdachte 14] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Uit het voorgaande volgt ook dat bij [medeverdachte 14] sprake is geweest van voorbedachte raad om
+
+[slachtoffer 11] van het leven te beroven. Er was sprake van kalm beraad en er zijn vele momenten geweest waarop van het plan kon worden afgezien.
+
+6.3.2.6.  De rol van [medeverdachte 7]
+
+Het hof leidt uit de bewijsmiddelen af dat [medeverdachte 7] zich samen met [medeverdachte 14] schuldig heeft gemaakt aan het medeplegen van de moord op [slachtoffer 11] . Zoals het hof hiervoor heeft overwogen, heeft [medeverdachte 14] de opdracht aangenomen om [slachtoffer 11] van het leven te beroven. Op de avond van de moord gaf [medeverdachte 14] omstreeks 19.30 uur de opdracht aan [naam 38] en [medeverdachte 7] om [medeverdachte 5] op te halen omdat ze “laat zijn”. Toen [naam 38] vroeg of ze naar “L” of “Spiekerie” moeten, antwoordde [medeverdachte 14] : “Nee. [bijnaam medeverdachte 7] weet. Ze moeten iets daar ophalen. Bij sport. Daarna widow. En dan kom ik naar sport”.
+
+De verdediging heeft betoogd dat het hier gaat om het afspreken voor een clubavond van Caloh Wagoh, maar die uitleg acht het hof niet voor de hand liggend omdat er in “L” (Leiden) geen clubavonden werden gehouden en ze kennelijk niet naar “Spiekerie” (Spijkenisse) gingen, waar wel clubavonden werden gehouden. Gelet op het feit dat de liquidatie van [slachtoffer 11] die avond zou plaatsvinden, ligt de uitleg dat dit gesprek betrekking heeft op de voorbereidingen van de liquidatie van [slachtoffer 11] veel meer voor de hand. Ook is de telefoon van [medeverdachte 7] slechts geregistreerd in Den Haag, vervolgens onbereikbaar en kort na middernacht weer geregistreerd in Den Haag.
+
+Het hof constateert verder dat er DNA-materiaal van [medeverdachte 7] is aangetroffen op drie van de hulzen die op de plaats delict zijn aangetroffen en dat [medeverdachte 7] op de avond dat de “head” werd betaald op de plaats waar de uitbetaling voor de liquidatie plaatsvond een foto heeft gemaakt van een contant geldbedrag.
+
+[medeverdachte 7] stelt dat zijn DNA-materiaal op de hulzen terecht kan zijn gekomen omdat hij wel eens patronen verkocht. Ten aanzien van het geld heeft hij verklaard dat hij dit al eerder in zijn bezit had en van plan was om dit geld naar iemand op Curaçao te sturen. Hij wilde degenen voor wie het geld bestemd was laten zien dat hij het inmiddels in zijn bezit had en binnenkort kon overmaken. Dat laatste wil het hof wel aannemen. Er is ook een foto aangetroffen waaruit blijkt dat hij de volgende dag geld naar Curaçao heeft overgeboekt. Maar daarmee is nog niet het vreemde tijdstip en de vreemde plaats van het nemen of verzenden van de foto met geld verklaard. Het feit dat [medeverdachte 7] de foto van het geld zo laat op de avond op het toilet van het restaurant heeft genomen, wijst erop dat [medeverdachte 7] dat geld daar die avond in ontvangst heeft genomen. Dat het gefotografeerde bedrag te gering is als loon voor een liquidatie zegt niets. Gelet op het doel waarvoor de foto is genomen, hoefde [medeverdachte 7] – indien hij meer had ontvangen – dat niet kenbaar te maken bij degene aan wie hij een schuld zou inlossen. Ook het feit dat niet exact is komen vast te staan op welk tijdstip die avond en van wie [medeverdachte 7] geld in ontvangst heeft genomen, staat niet eraan in de weg vast te stellen dat [medeverdachte 7] die avond geld heeft gekregen. Mede in het licht van de hiervoor genoemde feiten en omstandigheden, acht het hof de verklaringen van [medeverdachte 7] dan ook niet aannemelijk geworden.
+
+Gelet op het feit dat [medeverdachte 14] meerdere keren spreekt over één “head” die is betaald, het feit dat de aangetroffen hulzen afkomstig zijn uit één vuurwapen, het daarop aangetroffen
+
+DNA-materiaal van [medeverdachte 7] en de foto met het geldbedrag, gaat het hof ervan uit dat [medeverdachte 7] bij de uitvoering van de liquidatie van [slachtoffer 11] de schutter is geweest.
+
+Verder wijst het hof op de intensieve contacten die [medeverdachte 14] bij de voorbereiding van de liquidatie met [medeverdachte 17] , maar ook met [naam 38] , [naam 35] en [medeverdachte 7] had. Het hof duidt die activiteiten en contacten in het kader van de voorbereiding van de liquidatie. In die contacten gaat het erom dat men iets moet ophalen bij “sport” en wordt ook Widow genoemd. Het ligt voor de hand dat daar het moordwapen was gestald. In dat verband is het veelzeggend dat de telefoon van [medeverdachte 7] rond het tijdstip van de liquidatie niet bereikbaar was en enkele uren na de liquidatie weer verbinding met het netwerk maakte in de buurt van de [adres] , waar ook een vriendin van [medeverdachte 14] met de bijnaam Widow woonde.
+
+Uit het voorgaande volgt ook dat bij [medeverdachte 7] sprake is geweest van voorbedachte raad om [slachtoffer 11] van het leven te beroven. Er was sprake van kalm beraad en er zijn vele momenten geweest waarop van het plan kon worden afgezien.
+
+6.3.2.7.  De rol van [verdachte]
+
+Uit het dossier blijkt niet dat er wat betreft de uitvoering van de liquidatie van [slachtoffer 11] sprake is van een zodanig nauwe en bewuste samenwerking tussen [verdachte] en de feitelijke uitvoerders van de liquidatie, dat sprake is van medeplegen. Anders dan het openbaar ministerie stelt, kan in dit verband uit de verklaringen van [medeverdachte 17] en [medeverdachte 11] , de tijdlijn die volgt uit historische verkeersgegevens, camerabeelden van de [adres] in Amsterdam, onderzoek naar trambewegingen en de camerabeelden van café [cafe] niet met voldoende mate van zekerheid worden vastgesteld dat het [verdachte] was die die avond samen met [slachtoffer 11] op stap is geweest en aanwezig was toen [slachtoffer 11] werd doodgeschoten. Het hof zal [verdachte] daarom vrijspreken van het primair tenlastegelegde.
+
+Wel blijkt uit de bewijsmiddelen dat [verdachte] zich schuldig heeft gemaakt aan het medeplegen van uitlokking van het medeplegen van de moord op [slachtoffer 11] . Zoals hiervoor overwogen, kwam de opdracht voor de liquidatie van [slachtoffer 11] uit de organisatie van de opdrachtgever, waarvan [verdachte] , zoals blijkt uit de bewijsmiddelen, deel uitmaakte. Dat [verdachte] bij het verstrekken van de opdracht een rol speelde, blijkt allereerst uit het feit dat voorafgaand aan de uitvoering van de liquidatie van [slachtoffer 11] de PGP-accountnaam van [verdachte] , ‘The wizzard’, in de aan [medeverdachte 14] verstrekte PGP is toegevoegd. Verder is van belang het gesprek tussen [verdachte] en [medeverdachte 14] over de liquidatie van [naam 13] en het voorbereiden van de liquidatie van [naam 20] waarin [verdachte] te kennen geeft dat deze gang van zaken aanleiding heeft gegeven tot de “doodstraf voor driver”, waarvan het hof heeft vastgesteld dat dit [slachtoffer 11] is. Aan [verdachte] werd verantwoording afgelegd over het in brand steken van de vluchtauto die is gebruikt bij de liquidatie van [slachtoffer 11] . Tot slot blijkt uit de bewijsmiddelen dat [verdachte] geld in het vooruitzicht heeft gesteld voor de liquidatie door “hem” “70” te bieden voor “hem” en “me neefje” en dat hij ook een rol heeft gespeeld bij het verstrekken van het geld aan [medeverdachte 14] . Uit al deze feiten en omstandigheden blijkt van een nauwe en bewuste samenwerking tussen [verdachte] en de opdrachtgever, waarbij de bijdrage van [verdachte] van voldoende gewicht is geweest om de kwalificatie medeplegen (van uitlokking) te rechtvaardigen.
+
+Uit het voorgaande volgt dat er bij [verdachte] als medepleger van het uitlokken van het medeplegen van moord ook sprake is geweest van het opzet op de voorbedachte raad om [slachtoffer 11] van het leven te beroven.
+
+6.3.2.8.  De rol van [medeverdachte 11]
+
+Vastgesteld kan worden dat [medeverdachte 11] in de avond van 31 januari 2017 aanwezig was rondom de plaats delict en op het moment dat [slachtoffer 11] het pleintje opliep waar hij direct daarna is geliquideerd. Ook in de dagen voorafgaand aan de liquidatie was hij – zoals ook blijkt uit zijn eigen verklaring – op zoek geweest naar [slachtoffer 11] en had hij samen met
+
+[medeverdachte 17] met [slachtoffer 11] meerdere avonden ‘gelounged’ in café [cafe] . Er kan ook kan worden vastgesteld dat hij in die dagen voorafgaand aan de liquidatie veel in de nabijheid was van [medeverdachte 17] , die als medepleger van de liquidatie kan worden aangemerkt. Ten slotte kan worden vastgesteld dat [medeverdachte 11] net als [medeverdachte 17] een motief had om mee te werken aan de liquidatie van [slachtoffer 11] . Ook bij hem speelde er een dreiging in verband met de fouten die door hem, [medeverdachte 17] en [slachtoffer 11] waren gemaakt bij de vergismoord.
+
+Anders dan bij [medeverdachte 17] kan bij [medeverdachte 11] echter niet worden vastgesteld dat hij op enig moment rechtstreeks contact heeft gehad met [medeverdachte 14] , degene die de uitvoerders van de liquidatie heeft aangestuurd. Ook blijkt uit de vele chatgesprekken en PGP-gesprekken die in het dossier zijn opgenomen niet van betrokkenheid van [medeverdachte 11] . Zoals de verdediging naar voren heeft gebracht, wordt in die berichten niet gesproken over [medeverdachte 11] en zijn er ook geen andere aanwijzingen te vinden in de berichtgeving na de liquidatie dat hij daarbij betrokken is geweest. Er kan ook niet worden vastgesteld dat [medeverdachte 11] op de hoogte was van de samenwerking tussen [medeverdachte 17] en [medeverdachte 14] . [medeverdachte 11] was de dagen voor de liquidatie weliswaar veel in de nabijheid van [medeverdachte 17] , maar uit niets blijkt dat er die dagen tussen hen is gesproken over een op handen zijnde liquidatie van
+
+[slachtoffer 11] . [medeverdachte 11] en [medeverdachte 17] hebben met [slachtoffer 11] gesproken over de ontmoeting die zou plaatsvinden op 31 januari 2017, maar uiteraard is [slachtoffer 11] niet op de hoogte gesteld van wat er echt zou gebeuren. Uit deze gesprekken heeft [medeverdachte 11] geen plannen voor de moord op [slachtoffer 11] kunnen afleiden. Er zijn ook geen chats waaruit de conclusie kan worden getrokken dat [medeverdachte 11] daarvan wetenschap had. Ander bewijs voor wetenschap bij [medeverdachte 11] dat de liquidatie zou gaan plaatsvinden, ontbreekt eveneens. Ten slotte wordt in de verklaringen van [kroongetuige] ook geen enkele rol aan [medeverdachte 11] toegedicht.
+
+Uit een tapgesprek van getuige [getuige 12] zou kunnen worden afgeleid dat [medeverdachte 11] bij de voorbereidingen om het beoogde doelwit van de vergismoord ( [naam 20] ) alsnog te liquideren tegen [slachtoffer 11] heeft gezegd dat niemand hem nog zou kunnen helpen als hij weg zou gaan. Als [medeverdachte 11] deze woorden heeft gebruikt, dan kan daaruit echter nog niet de conclusie worden getrokken dat [medeverdachte 11] betrokkenheid heeft gehad bij de liquidatie van [slachtoffer 11] . De door [medeverdachte 11] geuite bewoordingen kunnen ook worden opgevat als een waarschuwing aan [slachtoffer 11] dat de opdrachtgevers van de vergismoord wellicht wraak gaan nemen als hij niet meewerkt aan de liquidatie van het beoogde doelwit.
+
+Ook het maken van een afspraak met [slachtoffer 11] om op de dag van de liquidatie naar Amsterdam te komen, is niet aan te merken als belastend bewijs voor betrokkenheid van [medeverdachte 11] . Uit het maken van de afspraak kan niet worden afgeleid dat [medeverdachte 11] wist wat er die avond zou gaan gebeuren. Datzelfde geldt voor de omstandigheid dat [medeverdachte 11] vanuit een belhuis deze afspraak heeft gemaakt.
+
+Een contra-indicatie voor betrokkenheid van [medeverdachte 11] is de chat waarin [medeverdachte 14] en [verdachte] het hebben over het politieverhoor van [medeverdachte 17] na de liquidatie. Daarin wordt gesproken over: “Zet hem op scherp. Want ze gaan willen doorzagen”. Zoals de verdediging naar voren heeft gebracht, is het opmerkelijk dat er in enkelvoud wordt gesproken als [medeverdachte 11] eveneens betrokken was in het complot. Dit klemt te meer omdat [medeverdachte 11] in die tijd ook een verklaring bij de politie heeft afgelegd.
+
+Een aanwijzing voor betrokkenheid van [medeverdachte 11] zou gelegen kunnen zijn in een opmerking van [verdachte] in een PGP-gesprek: “Ik bood hem 70 voor hem en me neefje”. Daaruit leidt het hof af dat [verdachte] aan [medeverdachte 17] € 70.000,- heeft geboden om te verdelen tussen [medeverdachte 17] en het neefje van [verdachte] . Ook als ervan uit wordt gegaan dat met “me neefje” [medeverdachte 11] wordt bedoeld, wil dat nog niet zeggen dat [medeverdachte 11] op de hoogte was.
+
+Niet bewezen kan worden dat [medeverdachte 11] in nauwe en bewuste samenwerking met anderen een wezenlijke bijdrage aan de liquidatie heeft geleverd. Van medeplegen van de liquidatie, zoals primair aan hem ten laste gelegd, is daarom geen sprake.
+
+Voor een bewezenverklaring van medeplichtigheid aan de liquidatie moet kunnen worden bewezen dat het opzet van [medeverdachte 11] was gericht op het behulpzaam zijn bij dit misdrijf. Zoals hiervoor vastgesteld, ontbreekt het bewijs voor wetenschap bij [medeverdachte 11] dat de liquidatie zou gaan plaatsvinden. Van het vereiste opzet voor medeplichtigheid, zoals subsidiair aan [medeverdachte 11] ten laste gelegd, is alleen al om die reden geen sprake.
+
+Ten slotte is niet gebleken dat [medeverdachte 11] opzettelijk een PGP-telefoon voorhanden heeft gehad die gezien de bewijsvoering bestemd was tot het plegen van de liquidatie. Op basis van het dossier kan er geen PGP-telefoon aan [medeverdachte 11] worden gelinkt. Dat betekent dat [medeverdachte 11] ook van het meer subsidiair aan hem ten laste gelegde wordt vrijgesproken.
+
+6.3.2.9.  De rol van [medeverdachte 18]
+
+Het hof sluit zich grotendeels aan bij de overwegingen die de rechtbank heeft gewijd aan de rol van [medeverdachte 18] . Uit de feitelijke gang van zaken blijkt dat
+
+[medeverdachte 14] heeft benaderd met het verzoek om te bemiddelen voor zijn zoon en dat hij vervolgens ook een min of meer actieve rol heeft gespeeld bij deze bemiddelingspoging. [medeverdachte 18] heeft [medeverdachte 14] in contact gebracht met zijn zoon en hij heeft [medeverdachte 14] op de hoogte gehouden van de resultaten van de zoektocht naar [slachtoffer 11] . Verder dringt hij bij [medeverdachte 14] aan om met “die jongen” te gaan praten en schrijft hij dat “dat ding” vandaag geregeld moet worden omdat die mannen druk zetten en dat het morgen gevolgen heeft voor die mannen.
+
+Uit de gang van zaken blijkt echter niet dat [medeverdachte 18] daarbij op de hoogte was van het plan om [slachtoffer 11] te vermoorden. Het dossier bevat eerder aanwijzingen voor het tegendeel. Zo vraagt [medeverdachte 14] in een PGP-chatbericht van 1 februari 2017 aan
+
+[medeverdachte 17] of “moeders” veilig is, waarop [medeverdachte 17] antwoordt: “Hij is wel een beetje bang. Ik zei tegen hem dat ik daar was en toen schrok hij even”. Een stukje verderop schrijft [medeverdachte 14] aan [medeverdachte 17] : “Pa je gaat veel horen” en vraagt dan: “Vader weet het al toch”. Daarop antwoordt [medeverdachte 17] : “Ja ik heb het hem verteld”. [medeverdachte 14] reageert vervolgens met: “Ok. Hij vindt het zielig hè. Hij maakte zich al zorgen”. Met name dit laatste bericht is eerder een aanwijzing dat [medeverdachte 18] niet op de hoogte was van het plan om [slachtoffer 11] te liquideren.
+
+Het openbaar ministerie stelt zich op het standpunt dat [medeverdachte 18] willens en wetens de aanmerkelijke kans heeft aanvaard dat [slachtoffer 11] zou worden vermoord. Hij wist dat [medeverdachte 17] een groot (levensbedreigend) probleem had en hij heeft vervolgens [medeverdachte 14] ingeschakeld om [medeverdachte 17] te helpen bij het oplossen van zijn probleem. [medeverdachte 18] was bekend met “de gevolgen voor die mannen” en wist dat [medeverdachte 14] interesse had in liquidaties. Hij wist ook dat [medeverdachte 17] en [medeverdachte 11] op zoek waren naar [slachtoffer 11] en hem bij zijn vader in Rotterdam hadden gevonden. Hij wist verder wat [medeverdachte 14] bedoelde met “2 bike” en hij wist dat [medeverdachte 17] een PGP-telefoon aan [medeverdachte 14] had gegeven en dat zij dus versleuteld met elkaar konden communiceren. Dat
+
+[medeverdachte 18] betrokken was bij de moord op [slachtoffer 11] , blijkt volgens het openbaar ministerie tot slot uit het feit dat hij betrokken/aanwezig is geweest bij de betaling door [verdachte] via [medeverdachte 14] aan [medeverdachte 17] en aan “de head”.
+
+De feiten en omstandigheden dat [medeverdachte 18] wist dat [medeverdachte 14] bereid en in staat was tot het plegen van liquidaties, dat hij op zoek was naar [slachtoffer 11] en dat
+
+[medeverdachte 17] en [medeverdachte 14] versleuteld met elkaar konden communiceren, dwingen ook in onderling verband bezien nog niet tot de conclusie dat [medeverdachte 18] willens en wetens de aanmerkelijke kans heeft aanvaard dat [slachtoffer 11] zou worden geliquideerd. Deze feiten en omstandigheden passen ook bij het uitvoeren van een bemiddelingspoging waarbij het leven van [medeverdachte 17] en [slachtoffer 11] juist gespaard zou kunnen blijven, bijvoorbeeld door het alsnog succesvol uitvoeren van een liquidatie van iemand anders. Dat [medeverdachte 18] zich daarbij zorgen maakte over het lot van [slachtoffer 11] , betekent ook niet dat hij met voldoende zekerheid wist of had moeten weten dat [slachtoffer 11] zou worden geliquideerd als onderdeel van de oplossing. Het leven van [slachtoffer 11] was al, net als het leven van zijn zoon [medeverdachte 17] , in gevaar.
+
+Dat [medeverdachte 17] bij de betaling door [medeverdachte 14] voor zijn deel “een mazzel vraagt voor zijn pa” duidt evenmin op wetenschap vooraf bij [medeverdachte 18] over het lot van
+
+[slachtoffer 11] . Tot slot overweegt het hof dat [medeverdachte 14] en [medeverdachte 18] ook over andere activiteiten met elkaar communiceerden via WhatsApp. Dat “2 bike” betrekking had op de uitvoering van de liquidatie van [slachtoffer 11] en dat [medeverdachte 18] dat wist, is dan ook niet vast te stellen.
+
+Uit het bovenstaande volgt dat niet buiten redelijke twijfel kan worden vastgesteld dat [medeverdachte 18] met zijn handelen (voorwaardelijk) opzet heeft gehad op de dood van [slachtoffer 11] . Dit betekent dat zowel het primair tenlastegelegde (medeplegen van moord) als het subsidiair tenlastegelegde (uitlokking van moord), het meer subsidiair tenlastegelegde (medeplichtigheid aan moord) en het meest subsidiair tenlastegelegde (plegen van voorbereidingshandelingen) niet kan worden bewezen. Het hof zal [medeverdachte 18] vrijspreken van het tenlastegelegde.
+
+6.3.2.10.  De rol van [medeverdachte 5]
+
+[kroongetuige] heeft verklaard dat [medeverdachte 14] hem heeft verteld dat [medeverdachte 5] als chauffeur bij een liquidatie zou zijn opgetreden. [kroongetuige] heeft over het optreden als bestuurder door [medeverdachte 5] verder geen informatie gegeven. [kroongetuige] weet ook niet om welke liquidatie het gaat.
+
+In de nacht van 30 op 31 januari 2017 heeft [medeverdachte 14] een ontmoeting met onder meer [medeverdachte 7] in De Meern. [medeverdachte 14] vraagt aan [naam 35] of [bijnaam medeverdachte 5] een auto heeft. Als [naam 35] hem antwoordt dat [bijnaam medeverdachte 5] geen auto heeft, zegt [medeverdachte 14] tegen [naam 35] dat hij het dan zelf moet “wegleggen”. Dat [medeverdachte 5] bij de ontmoeting in De Meern aanwezig is geweest, blijkt niet uit het dossier.
+
+Op de avond van de moord geeft [medeverdachte 14] omstreeks 19.30 uur de opdracht aan [naam 38] en [medeverdachte 7] om [medeverdachte 5] op te halen omdat ze “laat zijn”. Als [naam 38] vraagt of ze naar “L” of “Spiekerie” moeten, antwoordt [medeverdachte 14] : “Nee. [bijnaam medeverdachte 7] weet. Ze moeten iets daar ophalen. Bij sport. Daarna widow. En dan kom ik naar sport”. Even later appt [medeverdachte 14] dat hij heeft gehoord dat “jullie niemand kunnen bereiken”. Of dit te maken heeft met [medeverdachte 5] is niet duidelijk, maar in het dossier is geen bevestiging te vinden voor het door het openbaar ministerie gestelde feit dat [medeverdachte 5] die avond met anderen op pad is geweest in verband met de liquidatie van [slachtoffer 11] . Mogelijk is [medeverdachte 5] betrokken geweest bij het in brand steken van de bij de liquidatie gebruikte vluchtauto op 4 februari 2017.
+
+Al met al is het hof niet ervan overtuigd dat [medeverdachte 5] op 31 januari 2017 betrokken is geweest bij de liquidatie van [slachtoffer 11] . De informatie van [kroongetuige] is daarvoor te vaag en in het dossier vindt het hof onvoldoende steun voor [medeverdachte 5] mogelijke betrokkenheid bij de liquidatie.
+
+6.3.2.11.  De rol van [medeverdachte 12]
+
+Het hof zal – net als de rechtbank – [medeverdachte 12] vrijspreken van de feiten die hem ten laste zijn gelegd in het deelonderzoek Charon.
+
+De rechtbank heeft geruime tijd ernstige bezwaren aangenomen voor betrokkenheid van [medeverdachte 12] bij de moord op [slachtoffer 11] . De ernstige bezwaren bestonden uit de zeer sterke aanwijzingen voor betrokkenheid van [medeverdachte 12] bij het in brand steken van de vluchtauto, terwijl hij daar geen verklaring over wilde afleggen, samen met het feit dat zijn telefoon ten tijde van het plegen van de liquidatie geen contact heeft gemaakt met het netwerk en dus mogelijk uitstond.
+
+Tijdens de inhoudelijke behandeling bij de rechtbank heeft [medeverdachte 12] voor het eerst verklaard dat hij de vluchtauto inderdaad op 4 februari 2017 in brand heeft gestoken. Samengevat komt zijn verklaring erop neer dat hij de auto in opdracht van [medeverdachte 14] in brand heeft gestoken. Hij wist niet waarom dat moest gebeuren, maar hij vermoedde dat het iets met verzekeringsfraude te maken had. Daarnaast heeft de verdediging aan de hand van telecomgegevens aangetoond dat de telefoon van [medeverdachte 12] in vergelijkbare tijdvakken voorafgaand aan de dag van de liquidatie en daarna, ook geen contact heeft gemaakt met het netwerk, zodat die omstandigheid niet dermate onderscheidend is dat het significant kan bijdragen aan de verdenking.
+
+Mede gelet op de ondergeschikte positie die [medeverdachte 12] ten tijde van de liquidatie van [slachtoffer 11] nog had binnen Caloh Wagoh, is de verklaring van [medeverdachte 12] op zichzelf bezien niet onaannemelijk te noemen. Uit het dossier blijken geen feiten en omstandigheden die deze verklaring kunnen ontkrachten of waaruit zou kunnen worden afgeleid dat de rol van [medeverdachte 12] in het deelonderzoek Charon groter is geweest dan het in brand steken van de vluchtauto enkele dagen na de liquidatie.
+
+Uit het voorgaande volgt dat er onvoldoende wettig en overtuigend bewijs voorhanden is op basis waarvan geoordeeld kan worden dat [medeverdachte 12] vooraf of tijdens de moord op [slachtoffer 11] op enige wijze daarbij betrokken is geweest. Het in brand steken van de auto is als zodanig niet apart ten laste gelegd.
+
+6.3.3.
+
+EEND
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+6.3.3.1.  De aangetroffen chats
+
+Op 2 februari 2017 vindt er een PGP-chatgesprek plaats tussen ‘971817’, veredeld als [medeverdachte 14] , en ‘Lone ranger’. Dit account is niet veredeld. ‘Lone ranger’ stuurt in dit gesprek aan [medeverdachte 14] : “Sportschool adres [adres] in Meern sir. Huis adres is [adres] ”.
+
+Op 4 februari 2017 stuurt ‘The wizzard’, veredeld als [verdachte] , naar [medeverdachte 14] : “Is zijn gym trouwens sir!”. Vervolgens stuurt [verdachte] een bericht van ‘B.I.G’, veredeld als [medeverdachte 4] , door dat afkomstig is van het account ‘ENEMY FOR ALL MOTHERFUCKERS’, door het hof aangeduid als de opdrachtgever. Hierin staat: “Hy sluit hem vaak af alleen”. [verdachte] stuurt daarna naar [medeverdachte 14] dat hij een klein moment moet hebben en dat [verdachte] zo alles zal doorsturen.
+
+Uit het dossier van de deelonderzoeken Mus, Kraai, Duif en Spreeuw blijkt dat er op 18 en 19 februari 2017 eveneens een PGP-chatgesprek plaatsvindt tussen een account veredeld als [medeverdachte 14] , ‘CB1D45’, en [verdachte] waar min of meer op dezelfde manier informatie wordt gedeeld over personen (‘ [naam gelijkend op slachtoffer 1 en 2] ’, ‘ [bijnaam] ’, ‘ [naam gelijkend op slachtoffer 3] ’ en ‘ [bijnaam] en [bijnaam] ’) die moeten worden geliquideerd.
+
+Op 26 februari 2017 stuurt [medeverdachte 4] de berichten “In die porsche ryd zyn vriendin vaak klopt” en “Sir dat is die man precies op die foto die u stuurde” door van ‘ENEMY FOR ALL MOTHERFUCKERS’. [medeverdachte 14] reageert daarop door te stellen dat hij dan genoeg weet.
+
+Er is nader onderzoek gedaan naar de inhoud van bovengenoemde gesprekken. Hieruit is gebleken dat in februari 2017 op de [adres] in de Meern een democenter was gevestigd van de sportschool [sportschool] . De uiteindelijke belanghebbende van deze sportschool was [slachtoffer 15] . [slachtoffer 15] had in februari 2017 een relatie met [naam 46] . Zij woonde in 2017 op de [adres] in Utrecht. Deze [naam 46] had van 17 april 2015 tot 25 februari 2017 een Porsche Panamera op naam staan.
+
+Verder bleek uit onderzoek naar de onder [medeverdachte 14] inbeslaggenomen Acer-laptop dat hierop verschillende afbeeldingen van [slachtoffer 15] staan.
+
+6.3.3.2.  De rol van [verdachte]
+
+Het hof leidt uit de bewijsmiddelen af dat geprobeerd is [medeverdachte 14] uit te lokken tot het liquideren van [slachtoffer 15] door aan hem berichten te sturen waarin informatie over
+
+[slachtoffer 15] wordt gedeeld. Het hof overweegt over de strafbare betrokkenheid van [verdachte] daarbij het volgende.
+
+Uit de bewijsmiddelen volgt dat aanvankelijk op 2 februari 2017 ene ‘Lone Ranger’ via een
+
+PGP-toestel aan [medeverdachte 14] informatie geeft over een persoon die is veredeld als [slachtoffer 15] , te weten het adres van zijn sportschool en zijn huisadres. Op 4 februari 2017 stuurt [verdachte] aan [medeverdachte 14] : “Is zijn gym trouwens sir!”. Daarmee geeft [verdachte] kennelijk aan [medeverdachte 14] informatie over de sportschool van [slachtoffer 15] . Aansluitend stuurt [verdachte] nadere informatie aan [medeverdachte 14] , te weten dat ‘hij’ [het hof begrijpt: [slachtoffer 15]] zijn gym vaak alleen afsluit. Dit bericht is afkomstig van een account van de opdrachtgever, die dit bericht naar [medeverdachte 4] heeft gestuurd terwijl [medeverdachte 4] dit bericht op zijn beurt aan [verdachte] heeft gestuurd. Aansluitend bericht [verdachte] aan [medeverdachte 14] dat hij nog even een moment moet hebben en dat [verdachte] zo alles zal doorsturen. Op 26 februari 2017 stuurt [medeverdachte 4] een bericht van de opdrachtgever over de auto waarin de vriendin van [slachtoffer 15] rijdt en een tekst over een foto, althans de bevestiging dat “dat de man op de foto is die u stuurde”. Aangezien op gegevensdragers bij [medeverdachte 14] foto’s van [slachtoffer 15] zijn aangetroffen, neemt het hof als vaststaand aan dat [medeverdachte 14] een foto heeft gestuurd aan de organisatie van de opdrachtgever en dat daarnaar verwezen wordt. Op dat moment antwoordt [medeverdachte 14] dat hij genoeg weet. Het hof ziet dit als het moment waarop de uitlokking van [medeverdachte 14] is voltooid. [medeverdachte 14] weet dan genoeg en heeft daarmee zijn wil om de moord op [slachtoffer 15] te gaan organiseren bepaald.
+
+Dat de informatie die [verdachte] , [medeverdachte 4] , de persoon achter ‘Lone Ranger’ en de opdrachtgever aan [medeverdachte 14] hebben verstrekt daadwerkelijk betrekking heeft op het plan om [slachtoffer 15] te liquideren, staat voor het hof vast. De informatie-uitwisseling moet gezien worden in de context van de andere contacten die [verdachte] en/of [medeverdachte 4] , [medeverdachte 14] en de opdrachtgever met elkaar hadden in de deelonderzoeken Mus, Kraai, Duif en Spreeuw en die het hof heeft geduid als onmiskenbaar betrekking hebbend op voorgenomen liquidaties. In die contacten wordt ook regelmatig gesproken over bedragen die betaald worden als de voorgenomen liquidaties zouden worden uitgevoerd. Bovendien blijkt ook uit het latere berichtenverkeer in november 2017 tussen [medeverdachte 14] en de opdrachtgever dat [medeverdachte 14] de opdracht tot de liquidatie heeft aanvaard, aangezien hij in die berichten verslag doet van de acties die hij tot dat moment heeft ondernomen en hij in die berichten opmerkt dat [slachtoffer 15] nog een keer gefilmd moet worden en dat er daarna ‘actie’ is.
+
+Ook het contact dat [medeverdachte 14] en [verdachte] eerder op 4 februari 2017 hadden ging over het afhandelen van een liquidatie, namelijk het in brand steken van een auto die was gebruikt bij de liquidatie van [slachtoffer 11] op 31 januari 2017.
+
+De verdediging heeft betoogd dat [verdachte] geen berichten heeft (door)gestuurd die kunnen zien op de voorgenomen liquidatie van [slachtoffer 15] . Verder is aangevoerd dat het betrekken van de gang van zaken in de andere zaaksdossiers bij de beoordeling van het zaakdossier Eend verboden schakelbewijs zou opleveren en dat de communicatie ook past bij andere misdrijven zoals diefstal met geweld, mishandeling en ontvoering.
+
+Het hof volgt de verdediging van [verdachte] niet in het verweer. Er is geen reden de berichten over [slachtoffer 15] geheel los van de andere berichten te bezien en uit hun context te halen. De betreffende berichten passen naadloos in de context van de andere berichten die zijn verzonden door ‘Lone Ranger’ en [medeverdachte 4] over dit beoogde slachtoffer en bevatten informatie die relevant kan zijn voor de voorgenomen liquidatie. De berichten hebben betrekking op de sportschool en de omstandigheid dat het beoogde slachtoffer die vaak alleen afsluit. Bovendien stuurt [verdachte] rechtstreeks aan [medeverdachte 14] het bericht dat hij, [verdachte] , “straks alles door zal sturen”. Hieruit blijkt de rol van betekenis die [verdachte] speelt in de informatieverschaffing aan [medeverdachte 14] . Uit de bedoelde context van de andere zaken waarbij het hof strafbare betrokkenheid van [verdachte] heeft aangenomen, blijkt dat [verdachte] weet had van de betekenis van de berichten die hij (door)zond, dat die betrekking hadden op een voorgenomen liquidatie, zodat hij willens en wetens heeft bijgedragen aan de uitlokking van [medeverdachte 14] . Dat niet vast zou staan dat het voornemen tot liquidatie voldoende serieus was, is onaannemelijk, gelet op de genoemde context en de omstandigheid dat daadwerkelijk door de organisatie van [medeverdachte 14] in opdracht van de organisatie van de opdrachtgever liquidaties zijn uitgevoerd.
+
+In deze fase van de samenwerking vond de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks plaats, maar via [medeverdachte 4] en [verdachte] . [medeverdachte 4] en [verdachte] waren op die manier een belangrijke schakel in het contact tussen [medeverdachte 14] en de opdrachtgever. Gelet daarop is sprake van een nauwe en bewuste samenwerking tussen [verdachte] en [medeverdachte 4] en de opdrachtgever, waarbij de bijdrage van [verdachte] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Uit het voorgaande volgt ook dat er bij [verdachte] sprake is geweest van voorbedachte raad. Omdat de moord destijds niet is uitgevoerd, acht het hof op grond van het bovenstaande het ten laste gelegde medeplegen van poging tot uitlokking van medeplegen van moord op
+
+[slachtoffer 15] wettig en overtuigend bewezen.
+
+6.3.3.3.  De rol van [medeverdachte 4]
+
+Het hof leidt uit de bewijsmiddelen af dat geprobeerd is [medeverdachte 14] uit te lokken tot het liquideren van [slachtoffer 15] door aan hem berichten te sturen waarin informatie over
+
+[slachtoffer 15] wordt gedeeld. Het hof overweegt over de strafbare betrokkenheid van [medeverdachte 4] daarbij het volgende.
+
+Uit de bewijsmiddelen volgt dat aanvankelijk op 2 februari 2017 ene ‘Lone Ranger’ via een
+
+PGP-toestel aan [medeverdachte 14] informatie geeft over een persoon die is veredeld als [slachtoffer 15] , te weten het adres van zijn sportschool en zijn huisadres. Op 4 februari 2017 stuurt [verdachte] aan [medeverdachte 14] : “Is zijn gym trouwens sir!”. Daarmee geeft [verdachte] kennelijk aan [medeverdachte 14] informatie over de sportschool van [slachtoffer 15] . Aansluitend stuurt [verdachte] nadere informatie aan [medeverdachte 14] , te weten dat ‘hij’ [het hof begrijpt: [slachtoffer 15]] zijn gym vaak alleen afsluit. Dit bericht is afkomstig van een account van de opdrachtgever, die dit bericht naar [medeverdachte 4] heeft gestuurd, terwijl [medeverdachte 4] dit bericht op zijn beurt aan [verdachte] heeft gestuurd. Aansluitend bericht [verdachte] aan [medeverdachte 14] dat hij nog even een moment moet hebben en dat [verdachte] zo alles zal doorsturen. Op 26 februari 2017 stuurt [medeverdachte 4] een bericht van de opdrachtgever over de auto waarin de vriendin van [slachtoffer 15] rijdt en een tekst over een foto, althans de bevestiging dat “dat de man op de foto is die u stuurde”. Aangezien op gegevensdragers bij [medeverdachte 14] foto’s van [slachtoffer 15] zijn aangetroffen, neemt het hof als vaststaand aan dat [medeverdachte 14] een foto heeft gestuurd aan de organisatie van de opdrachtgever en dat daarnaar verwezen wordt. Op dat moment antwoordt [medeverdachte 14] dat hij genoeg weet. Het hof ziet dit als het moment waarop de uitlokking van [medeverdachte 14] is voltooid. [medeverdachte 14] weet dan genoeg en heeft daarmee zijn wil om de moord op [slachtoffer 15] te gaan organiseren bepaald.
+
+Dat de informatie die [verdachte] , [medeverdachte 4] , de persoon achter ‘Lone Ranger’ en de opdrachtgever aan [medeverdachte 14] hebben verstrekt daadwerkelijk betrekking heeft op het plan om [slachtoffer 15] te liquideren, staat voor het hof vast. De informatie-uitwisseling moet worden gezien in de context van de andere contacten die [verdachte] en/of [medeverdachte 4] , [medeverdachte 14] en de opdrachtgever met elkaar hadden in de deelonderzoeken Mus, Kraai, Duif en Spreeuw en die het hof heeft geduid als onmiskenbaar betrekking hebbend op voorgenomen liquidaties. In die berichten wordt ook regelmatig gesproken over bedragen die betaald worden als de voorgenomen liquidaties zouden worden uitgevoerd. Bovendien blijkt ook uit het latere berichtenverkeer in november 2017 tussen [medeverdachte 14] en de opdrachtgever dat [medeverdachte 14] de opdracht tot de liquidatie heeft aanvaard, aangezien hij in die berichten verslag doet van de acties die hij tot dat moment heeft ondernomen en hij in die berichten opmerkt dat [slachtoffer 15] nog een keer gefilmd moet worden en dat er daarna ‘actie’ is.
+
+Het hof volgt de verdediging van [medeverdachte 4] niet in het verweer dat [medeverdachte 4] slechts de doorgever van berichten was en dat hij in de zaak Eend niet op de hoogte was van de strekking van de berichten. Uit de bovengenoemde context van het deelonderzoek Mus, waarbij het hof strafbare betrokkenheid van [medeverdachte 4] aanneemt, blijkt dat [medeverdachte 4] weet had van de betekenis van de berichten die hij (door)zond. Uit enkel het eerste door [medeverdachte 4] in februari 2017 van de opdrachtgever aan ‘The wizzard’ doorgestuurde bericht kan nog niet worden opgemaakt dat het om een liquidatie gaat. Maar op 19 februari 2017 heeft [medeverdachte 4] een bericht van de opdrachtgever aan ‘The wizzard’ doorgestuurd met de volgende inhoud: “En sir fiets in de fik met die hond erin beste geen fouten sir”. Dit bericht gaat niet over het beoogde slachtoffer in de zaak Eend, maar maakt wel duidelijk dat de van en naar de opdrachtgever gestuurde berichten verband houden met liquidaties. Ondanks die duidelijke inhoud is [medeverdachte 4] verdergegaan met het doorsturen van berichten, ook over [slachtoffer 15] op
+
+26 februari 2017. Daarmee heeft hij willens en wetens bijgedragen aan de poging tot uitlokking van [medeverdachte 14] . Dat de informatie die hij doorgaf van anderen afkomstig was en via ‘The wizzard’ weer bij [medeverdachte 14] terechtkwam, maakt zijn rol niet minder belangrijk.
+
+In deze fase van de samenwerking vond de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks plaats, maar via [medeverdachte 4] en [verdachte] . [medeverdachte 4] en [verdachte] waren op die manier een belangrijke schakel in het contact met de opdrachtgever. Gelet daarop is sprake van een nauwe en bewuste samenwerking tussen [medeverdachte 4] en [verdachte] en de opdrachtgever, waarbij de bijdrage van [medeverdachte 4] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Uit het voorgaande volgt ook dat er bij [medeverdachte 4] sprake is geweest van voorbedachte raad. Omdat de moord destijds niet is uitgevoerd, acht het hof op grond van het bovenstaande het ten laste gelegde medeplegen van poging tot uitlokking van medeplegen van moord op
+
+[slachtoffer 15] wettig en overtuigend bewezen.
+
+6.3.4.
+
+KRAAI, SPREEUW EN DUIF
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+6.3.4.1.  De aangetroffen chats
+
+Op 18 februari 2017 vindt er een PGP-chatgesprek plaats tussen ‘CB1D45’, veredeld als [medeverdachte 14] , en ‘The wizzard’, veredeld als [verdachte] . [medeverdachte 14] vraagt aan [verdachte] : “Wie zoek je” en “Wat staat op (…) hoofd sir!!”. [verdachte] antwoordt dat hij “70 de hoofd geeft” met “onze yzers en fietsen”. De kroongetuige heeft verklaard dat met ‘70 de hoofd’ € 70.000,- per liquidatie wordt bedoeld en dat met ‘yzers’ en ‘fietsen’ vuurwapens en auto’s worden bedoeld. [medeverdachte 14] antwoordt aan [verdachte] dat hij de service van de organisatie goed vindt. Verder wordt nog besproken dat [medeverdachte 14] “niets aan vijanden verkoopt alleen de dood. Alleen de dood” en dat hij “wist dat er oorlogskast was”, waarop [verdachte] antwoordt dat “die kast leeg moet op hun allemaal” en dat de kas(t) “nog laaaaaaang niet leeg is”. [verdachte] noemt dat ze “ratten moeten bestrijden broer” en vraagt “we zijn 1 team toch sir?”. [medeverdachte 14] antwoordt hierop: “Jaaa” en “Meer dan 1”.
+
+Het hof leidt hieruit af dat [medeverdachte 14] en [verdachte] via de chat aan het verkennen zijn wat zij voor elkaar kunnen betekenen en dat het daarbij om het liquideren van personen gaat. Ook leidt het hof uit het gesprek af dat [verdachte] zorgt voor vuurwapens en auto’s en dat hij geld in het vooruitzicht stelt. Uit het chatgesprek van 19 februari 2017 tussen [medeverdachte 14] en [verdachte] blijkt dat een ‘soldaat’ van [medeverdachte 14] ook daadwerkelijk een ‘yzer’ bij [verdachte] heeft opgehaald. [medeverdachte 14] geeft hiervan een ontvangstbevestiging aan [verdachte] .
+
+In het vervolg van het chatgesprek van 18 februari 2017 worden door [medeverdachte 14] en [verdachte] personen besproken die worden gezocht. Op de vraag van [medeverdachte 14] wie hij zoekt, antwoordt [verdachte] : “2ling Marokkaans 1 anabole 1 speelt slim rotterdam wonen ze” en “ [naam gelijkend op slachtoffer 1 en 2] nummen ze hem en samen [naam gelijkend op slachtoffer 1 en 2] ”. [medeverdachte 14] vraagt of “ze van Damsco waren” en of “1 van hun gepopped” was en deelt mede dat hij “hier en daar gaat kijken” en “ik kijk [naam gelijkend op slachtoffer 1 en 2] voor je”. [verdachte] reageert met “juist top sir!!!” en “oké als je ze kan doen sir top pap licht klaar”. Met ‘pap’ wordt geld bedoeld.
+
+De politie komt in het deelonderzoek Kraai tot de conclusie dat met de ‘tweeling [slachtoffers 1 en 2] worden bedoeld. Zij zijn opgegroeid in Amsterdam en een van hen heeft in de jaren 2016 en 2017, dus ten tijde van het voeren van het chatgesprek, ingeschreven gestaan in Rotterdam. Deze persoon heeft in die periode ook aangifte gedaan van poging doodslag nadat hij met een kalasjnikov is beschoten. [medeverdachte 14] heeft het over “1 van hun die gepopped was”. Het hof begrijpt dat met ‘poppen’ schieten wordt bedoeld.
+
+Nadat [medeverdachte 14] zegt dat hij zal uitkijken naar de ‘ [naam gelijkend op slachtoffer 1 en 2] ’ vraagt hij aan [verdachte] wat [verdachte] wil geven voor ‘ [bijnaam] ’. Die moet volgens [medeverdachte 14] “makkelijk te spotten zijn”. [verdachte] wil daarvoor “70” geven, want “die is ook heel makkelijk die zwervertje. Is een niks nut”. [medeverdachte 14] antwoordt hierop met “ok” en geeft [verdachte] mee dat hij moet bepalen wie hij eerst wil en dat hij, [medeverdachte 14] , alvast gaat kijken.
+
+In het deelonderzoek Spreeuw concludeert de politie dat met ‘ [bijnaam] ’ [slachtoffer 22] , de halfbroer van de in 2015 geliquideerde [naam 11] , wordt bedoeld. Het hof neemt die conclusie over.
+
+Vervolgens gaat het in het gesprek over “ [groep] ” waarover [medeverdachte 14] zegt “zijn rappertjes”. [verdachte] antwoordt hierop dat “die rappertje op zijn neefje heeft geschoten” en dat hij “dus ook een prijs voor hem heeft!”. [medeverdachte 14] vraagt hierop “welke rapper wil je?” en zegt “ik geef je”. [verdachte] zegt: “ [bijnaam] liefst maar die komt niet voorlopig die oen! Dan z’n maatje [bijnaam] . Die moet zo vrij komen”. [medeverdachte 14] geeft aan dat het geen probleem is, want hij heeft “mensen binnen” [het hof begrijpt: in de gevangenis], die “hitte em daar als ik het zeg” en “zeg me prijzen en is aan”. [verdachte] wil “1T” [het hof begrijpt: één ton, € 100.000,-] geven als [medeverdachte 14] “ [bijnaam] binnen kan doen”. [medeverdachte 14] zegt hierop “ok”.
+
+Met de politie concludeert het hof in deelonderzoek Duif dat met ‘ [bijnaam] ’ en ‘ [slachtoffer 12] en [slachtoffer 17] worden bedoeld. Dit zijn twee rappers van de [groep] die op dat moment allebei vastzitten. [slachtoffer 12] zit een gevangenisstraf van achttien jaren uit, wat overeenkomt met de opmerking in het chatgesprek dat [bijnaam] voorlopig niet komt. In het chatgesprek wordt gezegd dat ‘ [slachtoffer 12] ’ binnenkort vrijkomt. Het chatgesprek is gevoerd op 18 februari 2017 en [slachtoffer 12] zat een gevangenisstraf uit tot 23 februari 2017.
+
+Dat ook deze chats gaan over voorgenomen liquidaties vanuit de criminele organisatie van een opdrachtgever die onder meer gebruikmaakt van het account ‘TICKET TO HELL MOTHERFUCKERS’ en dat dus sprake is van medeplegen, concludeert het hof mede op grond van de bij de chats in deelonderzoek Mus gegeven uitleg. In het bijzonder wijst het hof daarbij op de chat van 19 februari 2017.
+
+6.3.4.2.  De rol van [verdachte]
+
+Het hof leidt uit de bewijsmiddelen af dat geprobeerd is [medeverdachte 14] in de zaken Kraai, Duif en Spreeuw uit te lokken tot het plegen van moord op respectievelijk [slachtoffers 1 en 2] , [slachtoffer 12] en [slachtoffer 17] en [slachtoffer 22] . Het hof overweegt over de strafbare betrokkenheid van [verdachte] daarbij het volgende.
+
+De chats tussen [verdachte] en [medeverdachte 14] zijn niet anders uit te leggen dan dat [verdachte] aan [medeverdachte 14] heeft laten weten dat deze personen geliquideerd moesten worden, waarbij in deze reeks van berichten ook concreet over het betalen van geld voor liquidaties is gesproken, terwijl [verdachte] over zowel de [slachtoffers 1 en 2] als [slachtoffer 12] en [slachtoffer 17] aan [medeverdachte 14] inlichtingen heeft verstrekt voor het uitvoeren van deze beoogde liquidaties.
+
+Over het bewezen verklaarde medeplegen overweegt het hof dat [verdachte] niet in zijn eentje heeft gehandeld bij het uitlokken van [medeverdachte 14] , maar dat hij op zijn beurt handelde voor en rapporteerde aan de opdrachtgever. Deze werkwijze blijkt uit de chatberichten van
+
+19 februari 2017. Deze berichten hebben weliswaar betrekking op [slachtoffer 3] als beoogd slachtoffer (deelonderzoek Mus), maar het hof leidt uit deze chats af dat [verdachte] ook in geval van de beoogde slachtoffers [slachtoffer 1] en [slachtoffer 2] , [slachtoffer 12] en [slachtoffer 17] en [slachtoffer 22] handelde voor (de organisatie van) de opdrachtgever. Deze chats van
+
+19 februari 2017 volgen kort op de chats van 18 februari 2017 en er is geen aanleiding om te veronderstellen dat de uitlokking op grond van de berichten van 18 februari 2017 in een andere context zijn te plaatsen. In deze fase van de samenwerking verliep de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks, maar via ( [medeverdachte 4] en) [verdachte] , zodat [verdachte] een belangrijke schakel was in het contact met de opdrachtgever. Op grond daarvan is sprake van een nauwe en bewuste samenwerking tussen [verdachte] en de opdrachtgever waarbij de bijdrage van [verdachte] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Uit het voorgaande volgt ook dat er bij [verdachte] sprake is geweest van voorbedachte raad. Omdat de moorden destijds niet zijn uitgevoerd, acht het hof op grond van het bovenstaande het aan [verdachte] ten laste gelegde medeplegen van poging tot uitlokking van medeplegen van moord op [slachtoffer 1] en [slachtoffer 2] , [slachtoffer 12] en [slachtoffer 17] en [slachtoffer 22] wettig en overtuigend bewezen.
+
+6.3.5.
+
+MUS
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+6.3.5.1.  De aangetroffen chats
+
+Op 18 februari 2017 vindt er een PGP-chatgesprek plaats tussen ‘CB1D45’, veredeld als [medeverdachte 14] , en ‘The wizzard’, veredeld als [verdachte] . [medeverdachte 14] vraagt aan [verdachte] : “Wie zoek je” en “Wat staat op (…) hoofd sir!!”. [verdachte] antwoordt dat hij “70 de hoofd geeft” met “onze yzers en fietsen”. De kroongetuige heeft verklaard dat met ‘70 de hoofd’ € 70.000,- per liquidatie wordt bedoeld en dat met ‘yzers’ en ‘fietsen’ vuurwapens en auto’s worden bedoeld. [medeverdachte 14] antwoordt aan [verdachte] dat hij de service van de organisatie goed vindt. Verder wordt nog besproken dat [medeverdachte 14] “niets aan vijanden verkoopt alleen de dood. Alleen de dood” en dat hij “wist dat er oorlogskast was”, waarop [verdachte] antwoordt dat “die kast leeg moet op hun allemaal” en dat de kas(t) “nog laaaaaaang niet leeg is”. [verdachte] noemt dat ze “ratten moeten bestrijden broer” en vraagt “we zijn 1 team toch sir?”. [medeverdachte 14] antwoordt hierop: “Jaaa” en “Meer dan 1”.
+
+Het hof leidt hieruit af dat [medeverdachte 14] en [verdachte] via de chat aan het verkennen zijn wat zij voor elkaar kunnen betekenen en dat het daarbij om het liquideren van personen gaat. Ook leidt het hof uit het gesprek af dat [verdachte] zorgt voor vuurwapens en auto’s en dat hij geld in het vooruitzicht stelt. Uit het chatgesprek van 19 februari 2017 tussen [medeverdachte 14] en [verdachte] blijkt dat een ‘soldaat’ van [medeverdachte 14] ook daadwerkelijk een ‘yzer’ bij [verdachte] heeft opgehaald. [medeverdachte 14] geeft hiervan een ontvangstbevestiging aan [verdachte] .
+
+In het vervolg van het chatgesprek van 18 februari 2017 worden door [medeverdachte 14] en [verdachte] personen besproken die worden gezocht. Een van die personen wordt “ [naam gelijkend op slachtoffer 3] ”, “ [naam gelijkend op slachtoffer 3] ” of “ [naam gelijkend op slachtoffer 3] ” genoemd. Deze persoon zou in een witte Volkswagen Polo met het kenteken [kenteken] rijden. Uit de politiesystemen blijkt dat [slachtoffer 3] in 2017 meermalen in een auto met dit kenteken is gecontroleerd. [medeverdachte 14] vraagt aan [verdachte] of hij “ [naam gelijkend op slachtoffer 3] wil”. [verdachte] antwoordt hierop met “Ja graag!”. [medeverdachte 14] vraagt vervolgens voor “hoeveel” en zegt dat ‘ [naam gelijkend op slachtoffer 3] ’ “heeel dichtbij is” en “zeg met wat je met hem wilt en de prijs kan komende week”. [verdachte] antwoordt: “Laats wou hem lokken maar ging mis hij kwam met gepantserde wagen en nog aanhang met andere auto’s en die head was alleen hij zou ook zelf rijden!”. De kroongetuige heeft verklaard dat met ‘head’ schutter wordt bedoeld. [verdachte] noemt vervolgens de prijs waar [medeverdachte 14] om vraagt: “Als je hem dit weekend nog of maandag geef ik je 80 snel zonder gezeik!!!”. Het hof begrijpt dat met ‘80’ wordt bedoeld een bedrag van € 80.000,-. [medeverdachte 14] antwoordt: “Ok”, “Maak er werk van” en “Ik hou je op de hoogte”. [verdachte] geeft nog mee dat het ook top is als [medeverdachte 14] hem in de fiets kan verbranden.
+
+Op 19 februari 2017 overdag en aan het begin van de avond stuurt [verdachte] naar [medeverdachte 14] een aantal berichten van ‘B.I.G’, veredeld als [medeverdachte 4] , door, al dan niet eerst doorgestuurd vanaf het account ‘TICKET TO HELL MOTHERFUCKERS’ naar [medeverdachte 4] . Het hof beschouwt de persoon achter dit account als de opdrachtgever. Deze berichten luiden: “B.I.G [02/19/2017 @ FW: TICKET TO HELL MOTHERFUCKERS 15.20] En sir fiets in de fik met die hond erin beste geen fouten sir”, “B.I.G [02/19/2017 @ 15.52] Hahahaha ok heel sterk bro mensen naar ons hart zijn dit” en “B.I.G [02/19/2017 @ 15.51] Laat m aub vndg slapen zou mooi zijn”. [verdachte] stuurt naar [medeverdachte 14] dat “iedereen jullie begint te mogen broer is alleen maar goed teken!”. Een paar uur later vraagt [medeverdachte 4] aan [verdachte] “Bro hoe bgaat t met [naam gelijkend op slachtoffer 3] hou me op de hoogte zien ze m vndg”. [verdachte] heeft dit doorgestuurd naar [medeverdachte 14] . Als [medeverdachte 14] hierop stuurt dat ze “al goed contact met degene die mee gaat helpen” hebben en dat “hij hem nu in positie moet zetten”, antwoordt de opdrachtgever via de accounts van [medeverdachte 4] en [verdachte] : “Met gods wil sir whoooooooppppp (…) ooooooooooooooooppppp dat wil ik horen whoooppppppp whooooppppp Jij ook bedankt bro!”. Om 23.47 uur laat [medeverdachte 14] aan [verdachte] weten dat “hij er vandaag niet was”, dat “de mensen die hem rijden en thuiszetten ons gaan seinen” en “dus nog heel even geduld iedereen staat klaar”. [medeverdachte 14] laat [verdachte] weten dat hij naar huis gaat, maar dat hij er “morgen weer op is”, “hij [het hof begrijpt: [slachtoffer 3]] zit al in de net… nu timeren” en “je voelt me. deze gaat nergens dan naar boven”. Op 22 februari 2017 om 21.4x uur geeft [medeverdachte 3] aan [medeverdachte 14] het kenteken, type en kleur door van de auto die bij [slachtoffer 3] in gebruik is. Enkele minuten later geeft [medeverdachte 14] het kenteken door aan [verdachte] .
+
+Het hof leidt hieruit af dat zowel [verdachte] als [medeverdachte 4] betrokken is bij de opdracht aan [medeverdachte 14] tot het liquideren van [slachtoffer 3] en dat [medeverdachte 14] aan beiden verslag uitbrengt over de voortgang.
+
+6.3.5.2.  De rol van [verdachte]
+
+Het hof leidt uit de bewijsmiddelen af dat geprobeerd is [medeverdachte 14] uit te lokken tot het medeplegen van de moord op [slachtoffer 3] . Het hof overweegt over de strafbare betrokkenheid van [verdachte] daarbij het volgende.
+
+[verdachte] heeft in een reeks PGP-chatberichten tussen hem en [medeverdachte 14] , die onmiskenbaar over uit te voeren liquidaties gaan, laten weten dat hij [slachtoffer 3] wilde. [verdachte] heeft daarbij ook de prijs voor deze voorgenomen liquidatie aan [medeverdachte 14] gemeld en duidelijk gemaakt wanneer hij wilde dat de liquidatie zou plaatsvinden. Bovendien heeft iemand namens [medeverdachte 14] een wapen voor de liquidatie bij [verdachte] opgehaald. [medeverdachte 4] heeft bij [verdachte] geïnformeerd naar de stand van zaken rond de voorgenomen liquidatie van [slachtoffer 3] , hij heeft berichten van de opdrachtgever over deze voorgenomen liquidatie doorgestuurd aan [verdachte] en hij heeft ook zelf aan [verdachte] aanwijzingen over de voorgenomen liquidatie doorgestuurd. In deze fase van de samenwerking verliep de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks, maar via [medeverdachte 4] en [verdachte] , zodat [medeverdachte 4] en [verdachte] een belangrijke schakel waren in het contact met de opdrachtgever. Op grond daarvan is sprake van een nauwe en bewuste samenwerking tussen [verdachte] en [medeverdachte 4] en de opdrachtgever, waarbij de bijdrage van [verdachte] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Uit het voorgaande volgt ook dat er bij [verdachte] sprake is geweest van voorbedachte raad. Omdat de moord destijds niet is uitgevoerd, acht het hof het aan [verdachte] ten laste gelegde medeplegen van poging tot uitlokking van medeplegen van moord op [slachtoffer 3] wettig en overtuigend bewezen.
+
+Het hof zal [verdachte] vrijspreken van het primair, subsidiair en meer subsidiair tenlastegelegde. Omdat in strafrechtelijke zin geen sprake is geweest van een begin van uitvoering van de liquidatie, geldt dat de voor deze varianten van de tenlastelegging vereiste poging niet bewezen verklaard kan worden.
+
+6.3.5.3.  De rol van [medeverdachte 4]
+
+Het hof leidt uit de bewijsmiddelen onder meer af dat [medeverdachte 14] is uitgelokt tot het liquideren van [slachtoffer 3] doordat aan hem berichten zijn gestuurd waarin informatie over [slachtoffer 3] wordt gedeeld. Het hof overweegt over de strafbare betrokkenheid van [medeverdachte 4] daarbij het volgende.
+
+[medeverdachte 4] heeft in een reeks PGP-chatberichten tussen hem en [verdachte] , die onmiskenbaar over uit te voeren liquidaties gingen, gevraagd naar de voortgang van de voorgenomen liquidatie van [slachtoffer 3] , berichten van de opdrachtgever doorgestuurd en voor deze voorgenomen liquidatie informatie en instructies doorgegeven aan [verdachte] . [verdachte] heeft in een reeks chatberichten tussen hem en [medeverdachte 14] laten weten dat hij [slachtoffer 3] wilde, daarbij aan [medeverdachte 14] ook de prijs voor deze voorgenomen liquidatie gemeld en duidelijk gemaakt wanneer hij wilde dat de liquidatie zou plaatsvinden. Bovendien heeft iemand namens [medeverdachte 14] een wapen voor de liquidatie bij [verdachte] opgehaald. Ook heeft [verdachte] voornoemde berichten van [medeverdachte 4] doorgezonden aan [medeverdachte 14] . In deze fase van de samenwerking verliep de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks, maar via [medeverdachte 4] en [verdachte] , zodat [medeverdachte 4] en [verdachte] een belangrijke schakel waren in het contact met de opdrachtgever. Zo vraagt [verdachte] aan [medeverdachte 14] om foto’s te sturen naar “big”, geeft [medeverdachte 14] in de chat met [verdachte] aan dat hij met “big” praat en stuurt [medeverdachte 4] op 26 februari 2017 een bericht van de opdrachtgever over een aan hem gestuurde foto rechtstreeks door naar [medeverdachte 14] . Ook in deze zaak geldt dat de van [medeverdachte 4] afkomstige berichten bezien moeten worden tegen de achtergrond van de van [medeverdachte 4] afkomstige berichten in andere deelonderzoeken, waaronder Eend en Barbera. Het gaat dan niet alleen om berichten die naar het account ‘The wizzard’ zijn verstuurd, maar ook om berichten die rechtsreeks naar [medeverdachte 14] zijn verstuurd. Het is duidelijk dat dit berichtenverkeer zag op liquidaties en betalingen daarvoor. Op grond daarvan is sprake van een nauwe en bewuste samenwerking tussen [medeverdachte 4] en [verdachte] en de opdrachtgever, waarbij de bijdrage van [medeverdachte 4] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+De verdediging van [medeverdachte 4] heeft aangevoerd dat – voor zover de genoemde berichten al aan [medeverdachte 4] kunnen worden toegeschreven – daaruit niet kan volgen dat hij de moord op [slachtoffer 3] (samen met een of meer anderen) heeft uitgelokt. Daartoe zou zijn bijdrage te gering zijn en bovendien zou [medeverdachte 14] al zijn uitgelokt door ‘The wizzard’ op het moment dat de berichten die aan [medeverdachte 4] worden toegeschreven zouden zijn verzonden. Het hof verwerpt dit verweer. De berichten van [medeverdachte 4] zoals die uit de gebruikte bewijsmiddelen blijken, dragen in belangrijke mate bij aan de uitlokking van [medeverdachte 14] . Zij bevatten informatie over het tijdstip en de manier waarop de liquidatie moet plaatsvinden. Ten slotte is van belang dat er geen enkele aanleiding is om te veronderstellen dat de berichten die door het hof aan [medeverdachte 4] worden toegeschreven niet van zijn hand zouden zijn dan wel niet door [medeverdachte 4] zouden zijn doorgezonden.
+
+Uit het voorgaande volgt ook dat er bij [medeverdachte 4] sprake is geweest van voorbedachte raad. Omdat de moord destijds niet is uitgevoerd, acht het hof op grond van het bovenstaande het ten laste gelegde medeplegen van poging tot uitlokking van medeplegen van moord op [slachtoffer 3] wettig en overtuigend bewezen.
+
+Het hof zal [medeverdachte 4] vrijspreken van het primair, subsidiair en meer subsidiair tenlastegelegde. Omdat in strafrechtelijke zin geen sprake is geweest van een begin van uitvoering van de liquidatie, geldt dat de voor deze varianten van de tenlastelegging vereiste poging tot moord niet bewezen verklaard kan worden.
+
+De rol van [medeverdachte 14] in de Vogelzaken (Eend, Kraai, Spreeuw, Mus en Duif)
+
+[medeverdachte 14] is in eerste aanleg vrijgesproken van het tenlastegelegde in de Vogelzaken, zijnde verschillende gevallen van voorbereiding van moord, op de grond dat er geen bewijs is dat de telefoon waarmee hij berichten uitwisselde bestemd was tot het begaan van het misdrijf dat is voorbereid en niet alleen om bij de voorbereiding daarvan te gebruiken. Tegen die vrijspraken stond voor [medeverdachte 14] geen hoger beroep open (artikel 404, eerste lid, van het Wetboek van Strafvordering). [medeverdachte 14] zal daarom niet-ontvankelijk worden verklaard in het hoger beroep voor zover het die feiten betreft.
+
+Het hof neemt het berichtenverkeer van [medeverdachte 14] met derden wel in aanmerking bij de beoordeling van de aan hem ten laste gelegde deelname (als leider) aan een criminele organisatie. Uit het berichtenverkeer met de opdrachtgever, ‘The wizzard’ en ‘B.I.G’, maar ook met onbekend gebleven derden zoals de gebruiker van het PGP-account ‘Lone Ranger’, blijkt dat [medeverdachte 14] liquidatieopdrachten aannam.
+
+6.3.6.
+
+BARBERA
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+Anders dan de rechtbank laat het hof bij dit deelonderzoek de verklaringen van [kroongetuige] niet volledig buiten beschouwing. Het hof zal echter uitsluitend die onderdelen uit de verklaringen van [kroongetuige] voor het bewijs gebruiken die in voldoende mate worden ondersteund door andere bewijsmiddelen.
+
+[kroongetuige] is niet zelf betrokken geweest bij dit misdrijf en heeft zijn wetenschap daarvan alleen van horen zeggen. Ook blijkt [kroongetuige] niet van alles volledig en juist op de hoogte te zijn. Zo geeft hij in zijn verklaringen aan dat het beoogde doelwit “ [bijnaam] ” was, met wie het latere slachtoffer [slachtoffer 4] (onderzoek Lis) wordt bedoeld, terwijl het in deze zaak (zoals hierna wordt besproken) gaat om [slachtoffer 10] als het beoogde slachtoffer. Dat
+
+[kroongetuige] zich op sommige onderdelen vergist of dingen door elkaar haalt, doet echter zonder meer niet af aan de betrouwbaarheid van zijn verklaringen op andere onderdelen.
+
+6.3.6.1.  Het uitlokken van een liquidatie
+
+Op 5 maart 2017 vindt er een PGP-chatgesprek plaats tussen ‘C murder’, veredeld als [medeverdachte 14] , en het account ‘B.I.G’, veredeld als [medeverdachte 4] . [medeverdachte 4] vraagt aan [medeverdachte 14] of “ze die man in Roermond willen doen”. [medeverdachte 14] antwoordt hierop bevestigend. [medeverdachte 4] geeft [medeverdachte 14] te kennen dat hij het gaat opzetten. [medeverdachte 14] laat aan [medeverdachte 4] weten dat ze klaarstaan. Het hof stelt op basis van dit chatgesprek vast dat ‘C murder’ en ‘B.I.G’ bezig zijn geweest met een voorgenomen liquidatie, waarvan het beoogde slachtoffer “die man in Roermond” was. Het hof gaat er, zoals hierna nog wordt overwogen, van uit dat het hierbij gaat om [slachtoffer 10] . De liquidatie heeft niet plaatsgevonden.
+
+Op 9 maart 2017 vanaf 21.42 uur neemt ‘The wizzard’, veredeld als [verdachte] , deel aan het PGPchatgesprek, op het moment dat duidelijk is dat de voorgenomen liquidatie van [slachtoffer 10] is mislukt. Het hof leidt uit de inhoud van deze en daarna gevoerde chats af dat [verdachte] samen met [medeverdachte 4] de opdracht heeft gegeven tot de liquidatie van [slachtoffer 10] .
+
+Allereerst blijkt uit het chatgesprek dat op 9 maart 2017 vanaf 21.42 uur wordt gevoerd dat [verdachte] op de hoogte is van de voorgenomen liquidatie van [slachtoffer 10] . [verdachte] zegt tegen [medeverdachte 14] dat het niet mis mag gaan. [medeverdachte 14] antwoordt hierop dat [verdachte] “Big” het moet laten uitleggen. [medeverdachte 14] stuurt vervolgens naar [medeverdachte 4] dat hij het “Wizz” moet uitleggen. [medeverdachte 14] laat nog wel aan [verdachte] weten dat hij vindt dat de “tata” het niet goed heeft gedaan en hij vraagt zich af hoe dat kan terwijl “jullie” hem betalen. [medeverdachte 14] geeft vervolgens aan naar de “heads” te gaan om ze te bedaren.
+
+Een paar uur na de mislukte liquidatie vraagt [medeverdachte 14] aan [medeverdachte 4] wat hij de “heads” kan zeggen. [medeverdachte 4] antwoordt hierop dat er morgen wat “pap” [het hof begrijpt: geld] wordt gestuurd voor de moeite en dat [medeverdachte 14] dat dan kan delen. [medeverdachte 14] vindt dit goed. In de nacht van 10 op
+
+11 maart 2017 vraagt [medeverdachte 14] aan [verdachte] wat het adres is. [verdachte] antwoordt hierop: “ [adres] ”. [medeverdachte 14] zegt tegen [verdachte] dat hij iemand stuurt en geeft dat adres vervolgens via WhatsApp aan [naam 35] door. [verdachte] vraagt aan [medeverdachte 14] of het klopt dat “Big” “35” heeft afgesproken. [medeverdachte 14] antwoordt hierop: “Ja ik zei voor jullie 2 1500. Geef ik heads de rest”. [medeverdachte 14] laat aan [verdachte] weten dat de persoon die hij heeft gestuurd er staat. [verdachte] antwoordt om 00.25 uur dat hij het al heeft gegeven. [naam 35] is die nacht om 00.05 uur door de politie op de [adres] in Amsterdam gecontroleerd.
+
+In hetzelfde gesprek vraagt [medeverdachte 14] aan [verdachte] of [verdachte] het redelijk vindt. [verdachte] antwoordt dat dit de eerste keer is en “die man heeft nog niet van je gehoord maar zodra er progres volgt zal je zien heb het je al eens verteld geef me 2 snel en je zal geen geld problemen hebben broer!”. Vervolgens antwoordt [medeverdachte 14] : “Dank voor het gebaar mijn broer. We staan aan je zij. Sorry dat we je niet konden geven wat je hoorde te krijgen, maar ik hoop dat er nog een kans volgt om deze voor u naar Satan te sturen.. gr mijn broer”.
+
+Uit een chatbericht tussen [medeverdachte 14] en [verdachte] van 18 februari 2017 blijkt dat er voor een geslaagde liquidatie € 70.000,- aan [medeverdachte 14] wordt betaald door de organisatie waar [verdachte] deel van uitmaakte. Uit het feit dat [medeverdachte 14] in het deelonderzoek Barbera geld krijgt voor de moeite, leidt het hof af dat [medeverdachte 14] ook voor de moord op het beoogde slachtoffer een geldbedrag in het vooruitzicht is gesteld.
+
+Het hof leidt uit bovengenoemde feiten en omstandigheden af dat [medeverdachte 4] en [verdachte] gezamenlijk [medeverdachte 14] hebben geprobeerd te bewegen tot het liquideren van het beoogde slachtoffer door [medeverdachte 14] een geldbedrag in het vooruitzicht te stellen. Uit wat het hof hierna overweegt over de uitvoering van de liquidatie, blijkt dat in het kader van de uitlokking ook aan [medeverdachte 14] is verteld waar het slachtoffer op het moment van de voorgenomen liquidatie zou zijn, dat het over een Marokkaanse man uit Roermond gaat die [slachtoffer 10] heet, dat hij lang en kaal is en dat hij in een Mazda rijdt.
+
+6.3.6.2.  Het beoogde slachtoffer
+
+In de politiesystemen gaven de zoektermen ‘ [slachtoffer 10] ’, ‘Roermond’ en ‘Mazda’ een hit op [slachtoffer 10] . [slachtoffer 10] heeft van 24 januari 2017 tot en met 26 november 2018 een Mazda op naam gehad. In 2017 was hij kaal en hij is 1.80 m lang. [slachtoffer 10] heeft zowel de Nederlandse als de Marokkaanse nationaliteit en wordt in verband gebracht met de handel in harddrugs. Het hof leidt uit deze feiten en omstandigheden af dat [slachtoffer 10] het doelwit van de beoogde liquidatie op 9 maart 2017 was. Dat [slachtoffer 10] niet heeft verklaard of hij op 9 maart 2017 in Spijkenisse is geweest, doet daaraan niet af.
+
+6.3.6.3.  De plaats van de voorgenomen moord
+
+Op 4 maart 2017 heeft [medeverdachte 14] aan [naam 31] gevraagd wat het adres is van café
+
+[cafe] en of dit café nog open is voor publiek. Café [cafe] was gelegen aan de [adres] in Spijkenisse. In dit café werden tot januari 2017 de clubbijeenkomsten van de afdeling Spijkenisse van Caloh Wagoh gehouden.
+
+In de avond van 9 maart 2017 heeft [medeverdachte 14] contact met [naam 24] . Om 19.33 uur laat [naam 24] aan [medeverdachte 14] weten dat hij thuis is op de [adres] in Spijkenisse en dat dat vlakbij het café is. [naam 24] vraagt aan [medeverdachte 14] wat ze rijden en of hij thuis of bij het café moet wachten. [medeverdachte 14] antwoordt hierop dat [naam 24] ze vanzelf ziet en dat hij thuis op ze moet wachten. Om 20.42 uur vraagt [naam 24] aan [medeverdachte 14] of hij al wat weet. [medeverdachte 14] antwoordt hierop om 20.45 uur dat [naam 24] moet wachten. Daarna zijn er tussen [medeverdachte 14] en [naam 24] nog (al dan niet gemiste) telefoonoproepen waarvan de inhoud niet bekend is geworden.
+
+Uit de hierna te bespreken chatberichten tussen [medeverdachte 14] en [medeverdachte 4] blijkt dat het beoogde doelwit bij een café zou komen. Het hof leidt uit deze feiten en omstandigheden af dat het de bedoelding was dat [slachtoffer 10] op de avond van 9 maart 2017 in of in de buurt van café
+
+[cafe] in Spijkenisse zou worden geliquideerd.
+
+6.3.6.4.  De voorbereidingshandelingen voor de (mislukte) liquidatie
+
+6.3.6.4.1.   Gebruik PGP-telefoon door [medeverdachte 14]
+
+Op 9 maart 2017 vanaf 20.28 uur hebben [medeverdachte 14] en [medeverdachte 4] contact via de PGP. Uit de chatberichten valt op te maken dat er iets staat te gebeuren. [medeverdachte 4] stuurt een bericht door van ‘ENEMY FOR ALL MOTHERFUCKER’: “Sir, het kan zijn dat hij daar eerder is om te kijken weet maar nooit”. Om 20.41 uur stuurt [medeverdachte 4] aan [medeverdachte 14] dat “hij er is”. Om 20.43 uur laat PGP-account ‘Bruto’ via PGPaccount ‘ [accountnaam] ’ via ‘ENEMY FOR ALL MOTHERFUCKER’ en vervolgens [medeverdachte 4] aan [medeverdachte 14] weten dat hij om negen uur exact naar binnen loopt. ‘ENEMY FOR ALL MOTHERFUCKER’ zegt daarover: “Dus hy staat daar gewoon sir 9uur gaat ie na binnen dus als ze zyn auto zien hem erin doen direct” en “Dus laat heads goed kyken hy moet daar zyn nu in auto sir 9uur gaat ie na binnen”. [medeverdachte 4] zegt tegen [medeverdachte 14] dat ze ready moeten staan. Het hof leidt uit de inhoud van deze berichten en het gebruik van het woord ‘heads’ af dat PGP-account ‘Bruto’ het doelwit is dat om 21.00 uur ergens zou komen en dat deze persoon vervolgens moest worden geliquideerd.
+
+Uit het vervolg van het chatgesprek blijkt dat [medeverdachte 14] in de minuten daarna meer dan één keer aangeeft dat ze nog niets zien en dat hij ook bij herhaling vraagt of ‘ze’ binnen zijn. [medeverdachte 4] benadrukt daarop dat ‘Bruto’ heeft aangegeven dat hij om exact 21.00 uur naar binnen loopt, dat hij dus nog niet binnen is en dat hij in de omgeving moet staan. [medeverdachte 14] noemt dat er ‘popo’ [het hof begrijpt: politie] in de buurt is en dat ‘ze’ er niet meer lang kunnen staan. [medeverdachte 4] antwoordt daarop dat ze zich dan moeten focussen en dat ze niet weg kunnen gaan. Om 21.06 uur stuurt ‘Bruto’ via ‘ [accountnaam] ’ via ‘ENEMY FOR ALL MOTHERFUCKER’ en vervolgens [medeverdachte 4] dat de “tent gesloten is”. [medeverdachte 4] stuurt ook nog het volgende bericht van ‘ENEMY FOR ALL MOTHERFUCKER’ door: “Hé deze kanker heads zitten te kanker deze man gaat zo weg en weer niks hy is daar al 25min”. Om 21.09 uur stuurt [medeverdachte 4] naar [medeverdachte 14] : “S die café gesloten”.
+
+Om 21.08 uur krijgt [medeverdachte 14] van [medeverdachte 4] de opdracht om te kijken waar die ‘wagi’ [het hof begrijpt: auto] staat. Dit moet een Mazda zijn. Volgens [medeverdachte 4] moeten ‘ze’ rijden om de Mazda te zoeken, “want man gaat max 10 min weg”. Om 21.21 uur stuurt ‘Bruto’ via ‘ [accountnaam] ’, ‘ENEMY FOR ALL MOTHERFUCKER’ en [medeverdachte 4] naar [medeverdachte 14] : “Ik ben weg hier”. Uit dit laatste bericht en het vervolg van het chatgesprek leidt het hof af dat het kennelijk niet gelukt is om de persoon te liquideren. Ook daarna heeft [medeverdachte 14] nog contact met [medeverdachte 4] om te bespreken waarom het niet is gelukt. Op de onder [medeverdachte 14] aangetroffen opnamen van
+
+PGP-gesprekken is te zien dat vanaf 21.42 uur ook [verdachte] met [medeverdachte 14] chat.
+
+Het hof leidt uit het bovenstaande af dat [medeverdachte 14] een PGP-telefoon in zijn bezit heeft gehad, die bedoeld was om te worden gebruikt bij de uitvoering van de moord op [slachtoffer 10] , te weten voor het doorgeven van het moment waarop het beoogde slachtoffer ter plaatse zou zijn en het onderhouden van contact over de uitvoering.
+
+6.3.6.4.2.   Beoogde uitvoerders van de moord en gebruik bestelbus
+
+Uit de telecomgegevens van 9 maart 2017 blijkt dat [medeverdachte 14] ten tijde van het ter plaatse komen van het doelwit en het hierover chatten met [medeverdachte 4] voornamelijk telefonisch contact had of probeerde te hebben met [medeverdachte 7] . Dit is het geval om 20.42 uur, 20.43 uur, 20.49 uur,
+
+20.52
+
+uur, 21.01 uur, 21.10 uur, 21.14 uur en 21.17 uur. Om 21.18 uur straalde een toestel van [medeverdachte 7] aan op de mast [adres] in Spijkenisse.
+
+In het chatgesprek van 9 maart 2017 stuurt [medeverdachte 4] om 21.08 uur: “Stuur is foto van ingang van cafe”. [medeverdachte 14] antwoordt met “Ze zitten ervoor in bus”. Op 17 maart 2017, acht dagen na het moment van deze mislukte liquidatie, worden [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] aangehouden. [medeverdachte 12] heeft dan een sleutel van een Volkswagen Caddy, een bestelbus, bij zich. Deze auto is in de nacht van 7 op 8 maart 2017, twee dagen vóór de mislukte liquidatie van [slachtoffer 10] , in Zoetermeer gestolen. In het geïntegreerde navigatiesysteem van deze Volkswagen Caddy stond het adres [adres] in Spijkenisse als de laatst ingevoerde bestemming. De eigenaar heeft verklaard dat hij zich niet kan herinneren dat hij dit adres heeft ingevoerd. De andere in het navigatiesysteem aangetroffen bestemmingen heeft hij (wel) ingevoerd.
+
+In de nacht van 8 op 9 maart 2017 hebben [medeverdachte 7] en [medeverdachte 12] whatsappcontact met elkaar. Het gaat erover of [medeverdachte 7] een sleutel aan [medeverdachte 12] heeft gegeven. [medeverdachte 12] geeft aan de sleutel te hebben. [medeverdachte 7] noemt nog dat als [medeverdachte 12] ernaar wordt gevraagd, hij moet zeggen dat [medeverdachte 7] de sleutel heeft. Over de inhoud van deze berichten hebben [medeverdachte 7] en [medeverdachte 12] geen aannemelijke verklaring afgelegd. Gelet op alle overige feiten en omstandigheden in dit dossier, in onderlinge samenhang bezien, gaat het hof er daarom van uit dat het hier gaat om de sleutel van de Volkswagen Caddy.
+
+Uit de telecomgegevens van 9 maart 2017 blijkt dat [medeverdachte 7] en [medeverdachte 12] in de ochtend met elkaar hebben afgesproken. [medeverdachte 12] appt om 10.09 uur naar [medeverdachte 7] dat hij nu de deur uit is. Om 10.38 uur laat [medeverdachte 7] aan [medeverdachte 12] weten dat [medeverdachte 12] “gewoon voor kan parkeren” en dat hij dan naar [medeverdachte 7] toe moet komen. Om 18.35 uur straalt een toestel van [medeverdachte 12] aan op de mast [adres] in Spijkenisse. Zoals al gezegd, straalt een telefoon van [medeverdachte 7] kort na het moment van de beoogde liquidatie ook op deze mast aan. Op 10 maart 2017 om 01.27 uur straalde een telefoon van [medeverdachte 12] aan op de mast [adres] in Almere. Deze mast bevindt zich in de nabije omgeving van de woning van [medeverdachte 14] aan de [adres] in Almere. Nu niet aannemelijk is geworden dat [medeverdachte 7] en [medeverdachte 12] een ander adres hebben bezocht, gaat het hof ervan uit dat zij toen in Almere een ontmoeting met [medeverdachte 14] hebben gehad.
+
+Uit de telecomgegevens die zich in het dossier bevinden blijkt niet dat [medeverdachte 7] en [medeverdachte 12] zich op de avond van 9 maart 2017 op enig moment in de nabijheid van café [cafe] hebben bevonden. De raadslieden van [medeverdachte 7] en [medeverdachte 12] hebben gesteld dat dit tot vrijspraak zou moeten leiden. In dat verband hebben zij aangevoerd dat [medeverdachte 12] en [medeverdachte 7] ook op andere avonden in maart 2017 in Spijkenisse waren waarbij hun telefoons de zendmast aan de [adres] aanstraalden. Uit het enkele feit dat zij ook op de avond van 9 maart 2017 in Spijkenisse waren, kan dus geen betrokkenheid bij het tenlastegelegde worden afgeleid, aldus de verdediging.
+
+Het hof acht op basis van de telecomgegevens van (het tijdstip van) de contacten tussen [medeverdachte 7] en [medeverdachte 14] , de feiten en omstandigheden met betrekking tot de Volkswagen Caddy en het gegeven dat [medeverdachte 7] en [medeverdachte 12] op 9 maart 2017 na de mislukte liquidatie samen naar [medeverdachte 14] zijn gereden, in samenhang met het feit dat zij die avond in Spijkenisse waren, wettig en overtuigend bewezen dat zij betrokken waren bij de uitvoering van het plan om [slachtoffer 10] van het leven te beroven. Dat zij op andere avonden in die periode ook in Spijkenisse waren en dat niet blijkt dat hun telefoons zich in de directe nabijheid van café [cafe] hebben bevonden, staat een bewezenverklaring niet in de weg. Die gegevens sluiten niet uit dat de liquidatie niet is doorgegaan omdat de beoogde schutters niet op tijd ter plaatse – bij café
+
+[cafe] – waren.
+
+Het hof gaat ervan uit dat [medeverdachte 7] en [medeverdachte 12] de beoogde schutters voor de liquidatie van [slachtoffer 10] waren en dat zij de genoemde bestelbus voorhanden hebben gehad om te gebruiken bij de voorgenomen liquidatie van [slachtoffer 10] . Het hof heeft daarbij gelet op het gegeven dat [medeverdachte 14] op het moment van de beoogde liquidatie veelvuldig chatcontact had met [medeverdachte 4] en later ook met [verdachte] over de uitvoering van de liquidatie en dat [medeverdachte 14] op datzelfde moment met zijn normale telefoontoestel continu contact zocht of heeft gehad met [medeverdachte 7] .
+
+Het hof gebruikt in dit verband ook de verklaring van [kroongetuige] voor het bewijs. [kroongetuige] heeft op verschillende momenten zowel bij de politie als op de zitting verklaard dat hij van [medeverdachte 14] heeft gehoord over een liquidatie die is voorbereid. [kroongetuige] heeft verklaard dat [medeverdachte 12] (veredeld als [medeverdachte 12] ), [bijnaam medeverdachte 7] (veredeld als [medeverdachte 7] ) en [bijnaam medeverdachte 3] (veredeld als [medeverdachte 3] ) de beoogde uitvoerders waren. De liquidatie is niet doorgegaan omdat de uitvoerders te laat waren door de schuld van [medeverdachte 12] ( [medeverdachte 12] ). Ook [medeverdachte 12] zou tegen hem hebben gezegd dat er een liquidatie mislukt was omdat ze te laat waren. Dat gesprek zou hebben plaatsgevonden in de PI. Dat een dergelijk gesprek daadwerkelijk heeft plaatsgevonden, vindt steun in de verklaring van [medeverdachte 12] . [medeverdachte 12] heeft bevestigd dat [kroongetuige] en hij elkaar in de [PI] hebben gesproken en dat het erover ging dat [medeverdachte 12] te laat was. [medeverdachte 12] heeft dat tegenover [kroongetuige] bevestigd. Dat hij dat alleen sarcastisch zou hebben bedoeld omdat hij het gesprek wilde afkappen om ervan af te zijn, acht het hof in het licht van de overige bewijsmiddelen niet aannemelijk geworden. Dat, aldus zowel [kroongetuige] als [medeverdachte 12] , [kroongetuige] het tijdens dit gesprek over ‘ [bijnaam] ’ had, maakt ook niet dat de verklaring van [kroongetuige] op dit punt niet betrouwbaar is. Vast staat dat [kroongetuige] in zijn verklaringen de zaken Barbera ( [adres] ) en Lis (liquidatie van [bijnaam] [slachtoffer 4] ) door elkaar haalt, terwijl het te laat zijn van [medeverdachte 12] uitsluitend betrekking kan hebben op de nietgelukte liquidatie in de zaak Barbera en niet op de zaak Lis.
+
+6.3.6.5.  Verweren
+
+Voor zover is aangevoerd dat de inhoud van de PGP-chats niet overeenkomt met de werkelijke gang van zaken, waardoor de verdachte(n) moet(en) worden vrijgesproken, wordt dit verweer weerlegd door de inhoud van de bewijsmiddelen.
+
+Ook het verweer van [medeverdachte 12] dat hij niet wist dat sprake was een geplande liquidatie, kan niet slagen. In het licht van de hiervoor vastgestelde feiten en omstandigheden kan het mede gelet op het ontbreken van een aannemelijke, concrete en verifieerbare andersluidende verklaring niet anders dan dat hij daarvan wel op de hoogte was.
+
+6.3.6.6.  De rollen van [verdachte] , [medeverdachte 4] , [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12]
+
+Met de rechtbank overweegt het hof dat uit het dossier blijkt dat [medeverdachte 7] en [medeverdachte 12] zich in Spijkenisse bevonden ter uitvoering van het plan om [slachtoffer 10] van het leven te beroven. Uit het dossier kan echter niet worden afgeleid dat zij al tot een strafbaar begin van uitvoering waren gekomen. Zij zullen daarom worden vrijgesproken van het primair ten laste gelegde medeplegen van poging tot moord.
+
+Omdat geen sprake is van een poging tot moord, zal ook [medeverdachte 14] van het aan hem primair tenlastegelegde worden vrijgesproken, terwijl [medeverdachte 4] en [verdachte] zullen worden vrijgesproken van het primair en het subsidiair tenlastegelegde.
+
+Het hof zal [medeverdachte 14] ook vrijspreken van de aan hem subsidiair ten laste gelegde poging tot uitlokking van moord, omdat zich in het dossier geen bewijsmiddelen bevinden voor de in de tenlastelegging omschreven uitlokkingshandelingen.
+
+6.3.6.6.1.   [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12]
+
+Het hof acht wel wettig en overtuigend bewezen dat [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12] zich tezamen en in vereniging schuldig hebben gemaakt aan voorbereidingshandelingen voor moord, wat aan [medeverdachte 14] meer subsidiair is ten laste gelegd en aan [medeverdachte 7] en [medeverdachte 12] subsidiair is ten laste gelegd.
+
+Uit de bewijsmiddelen blijkt dat de (bestel)bus waarvan [medeverdachte 7] en [medeverdachte 12] die avond gebruikmaakten, bestemd was tot de uitvoering van de voorgenomen liquidatie. Daarmee is ten aanzien van die auto voldaan aan het vereiste dat het object waarop een voorbereidingshandeling betrekking heeft, moet zijn bestemd tot het begaan van het misdrijf dat is voorbereid (zie HR 7 juli 2020, ECLI:NL:HR:2020:1198 en HR 8 september 2020, ECLI:NL:HR:1380). Gelet op de nauwe en bewuste samenwerking tussen [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12] , waarbij de bijdrage van ieder van hen van voldoende gewicht is geweest voor de kwalificatie medeplegen, kan het voorhanden hebben van deze bus ook aan [medeverdachte 14] worden toegerekend.
+
+Uit het dossier blijkt ook dat [medeverdachte 14] die avond een PGP-telefoon voorhanden heeft gehad, waarmee hij rond het tijdstip van de geplande liquidatie met [medeverdachte 4] en [verdachte] communiceerde over de uitvoering daarvan. Hiermee is ook voor deze PGP-telefoon voldaan aan het hiervoor genoemde bestemmingsvereiste. Niet is gebleken dat [medeverdachte 7] en/of [medeverdachte 12] die avond een PGP-telefoon voorhanden hebben gehad, zodat zij van het voorhanden hebben daarvan worden vrijgesproken.
+
+Dat de andere mobiele telefoons die [medeverdachte 14] , [medeverdachte 7] en/of [medeverdachte 12] die avond voorhanden hebben gehad waren bestemd tot de uitvoering van de voorgenomen liquidatie, als bedoeld in de hiervoor aangehaalde rechtspraak, is niet gebleken. Het voorhanden hebben van deze telefoons kan daarom zonder meer niet als een voorbereidingshandeling worden gekwalificeerd, zodat ook van dit onderdeel van de tenlastelegging wordt vrijgesproken.
+
+6.3.6.6.2.   [verdachte] en [medeverdachte 4]
+
+Wettig en overtuigend is bewezen dat [verdachte] en [medeverdachte 4] zich schuldig hebben gemaakt aan het meer subsidiair ten laste gelegde medeplegen van een poging tot uitlokking van het medeplegen van moord.
+
+Bij [medeverdachte 4] en [verdachte] is net als bij [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12] sprake geweest van voorbedachte raad. Sprake was van een samenwerkingsverband tussen de criminele organisatie van [medeverdachte 14] en de criminele organisatie van de opdrachtgever, waarbij [medeverdachte 14] in opdracht van de organisatie van deze opdrachtgever liquidaties uitvoerde en waarbij [verdachte] en [medeverdachte 4] voor [medeverdachte 14] als contactpersoon van die organisatie optraden. Het hof verwijst in dit verband naar de bewijsmiddelen zoals besproken bij het lidmaatschap van de criminele organisatie. Het dossier bevat geen aanknopingspunten dat in afwijking van de gebruikelijke gang van zaken [verdachte] en [medeverdachte 4] in deze kwestie voor zichzelf zouden hebben gehandeld. Het hof wijst hiervoor op de deelname aan de chats van 9 maart 2017 door ‘ENEMY FOR ALL MOTHERFUCKER’. Zoals eerder overwogen, vond in deze fase van de samenwerking de communicatie tussen de opdrachtgever en [medeverdachte 14] nog niet rechtstreeks plaats, maar verliep zij via [medeverdachte 4] en [verdachte] . [medeverdachte 4] en [verdachte] waren dus een belangrijke schakel in het contact met de opdrachtgever. Het hof acht daarom bewezen dat sprake was van een nauwe en bewuste samenwerking tussen [verdachte] , [medeverdachte 4] en de opdrachtgever, waarbij de bijdrage van [verdachte] en [medeverdachte 4] elk van voldoende gewicht is geweest om van medeplegen te kunnen spreken.
+
+6.3.6.7.  De rol van [medeverdachte 3]
+
+Uit het dossier kan niet worden afgeleid dat er tot een strafbaar begin van uitvoering is gekomen. Dit betekent dat [medeverdachte 3] (alleen daarom al) zal worden vrijgesproken van het primair ten laste gelegde medeplegen van poging tot moord.
+
+Aan [medeverdachte 3] is subsidiair ten laste gelegd dat hij ter voorbereiding van de moord op [slachtoffer 10] een telefoon, een PGP-telefoon en/of een bus bestemd tot het begaan van dat misdrijf heeft verworven, heeft vervaardigd en/of voorhanden heeft gehad. Het dossier bevat geen aanknopingspunten voor het oordeel dat [medeverdachte 3] voor de uitvoering van de moord op [slachtoffer 10] een (PGP-)telefoon heeft verworven, vervaardigd of voorhanden heeft gehad. Evenmin kan uit het dossier met een voldoende mate van zekerheid worden afgeleid dat hij op
+
+9 maart 2017 samen met [medeverdachte 7] en [medeverdachte 12] in de bestelbus heeft gezeten, dan wel dat hij op andere wijze die bestelbus heeft verworven, vervaardigd of voorhanden heeft gehad. De verklaring van [kroongetuige] over een mogelijke rol van [medeverdachte 3] is te weinig concreet en wordt onvoldoende ondersteund door andere bewijsmiddelen om op basis daarvan tot een bewezenverklaring te komen.
+
+[medeverdachte 3] zal daarom worden vrijgesproken van de aan hem ten laste gelegde feiten van zaaksdossier Barbera.
+
+6.3.7.
+
+ARFORD
+
+Het hof leidt uit de inhoud van de bewijsmiddelen de volgende gang van zaken af.
+
+6.3.7.1.  De aangetroffen chats
+
+Op 16 maart 2017 vindt er vanaf ongeveer 16.41 uur een PGP-chatgesprek plaats tussen
+
+‘C murder’, veredeld als [medeverdachte 14] , en ‘The wizzard’, veredeld als [verdachte] . [verdachte] stuurt een foto en zegt “die 2” en geeft als adres [adres] . Op een harde schijf die onder [medeverdachte 14] in beslag is genomen staan twee foto’s die op 16 maart 2017 om 19.07 uur en 19.08 uur van een mobiele telefoon zijn gemaakt. Via het genoemde adres komt de politie uit bij
+
+[slachtoffer 14] , mede omdat zijn vriendin en hun kind op dat adres woonden.
+
+[slachtoffer 14] herkent zichzelf op een van de door [verdachte] gestuurde foto’s. Zijn vriend [slachtoffer 5] herkent zichzelf van de andere foto. [verdachte] geeft [medeverdachte 14] nog de volgende informatie: “vrouw rijdt zwarte golf 6 met zwarte velgen blondje en heeft dochtertje 2 a 3 jaar”, “niet in die straat staan want hij ziet alles als hij thuis is”, “rijdt meestal vanaf de [adres] de [adres] in na [adres] , dan verder na [adres] , komt vanaf de [adres] meestal!”, “hij woont op 3 hoog witte luxa flex daar kan hij heel stiekem door kijken zonder dat je het door hebt bro”, “hij gaat meestal via die deur rechts als je in de straat komt rijden soort brandtrapje niet bij de hoofdingang”, “hij traint ook bij die [sportschool] bij [adres] is 3 min lopen van z’n huis!”, “z’n vrouw werkt tot 3 uur” en “weet ook waar ze eten in West, tussen 5 en 7 uur”. [slachtoffer 14] herkent zichzelf in deze informatie als de persoon om wie het gaat.
+
+Zowel [slachtoffer 14] als [slachtoffer 5] geeft aan dat er maar één persoon is die over al deze informatie beschikt. Het gaat om een persoon met wie zij tot voorheen dagelijks samen waren en die zij ‘ [bijnaam verdachte] ’ noemen. [slachtoffer 14] wijst [verdachte] op een foto aan als de persoon die hij kent als die ‘ [bijnaam verdachte] ’.
+
+[verdachte] laat aan [medeverdachte 14] weten dat de prijs voor de twee mannen “140 allebei op snelheid 160” is. [medeverdachte 14] mag deze personen ook een “drive by geven”. Volgens [verdachte] stapt “hij uit voor zijn deur”, dan moet [medeverdachte 14] “hem pakken”. Als ze “met z’n 3tjes zijn ook”, dan “Pak je ze alle 3”. [medeverdachte 14] mag hem ook pakken “als hij naar huis loopt van gym”. [verdachte] tipt nog dat ze “in die hoofdstraat tegen over [sportschool] moeten staan, zie je iedereen erin of eruit rijden”.
+
+Het hof stelt op basis hiervan vast dat [verdachte] via de chat een opdracht tot het liquideren van [slachtoffer 14] en [slachtoffer 5] uitzet, daarover inlichtingen aan [medeverdachte 14] verschaft en er een prijs van € 140.000,- of € 160.000,- tegenover zet.
+
+Later in het chatgesprek laat [verdachte] aan [medeverdachte 14] weten dat het als het “vandaag niks is dan morgen op scherp” en dat “deze binnen nu en paar dagen max klaar moet zijn”. [medeverdachte 14] antwoordt dat hij het “morgen 200% doet”, “als sportschool klopt of niet klopt hebben we savonds nog”. Hij “laat ze morgen hele dag daar zijn”. Ook noemt [medeverdachte 14] dat ze in een bus kunnen om te ‘timeren’ (observeren) en heeft hij het over een Clio.
+
+6.3.7.2.  De aanhouding van verdachten en het aantreffen van goederen
+
+Op 17 maart 2017 omstreeks 15.45 uur werden [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] bij de ingang van het Amstelpark aan de [adres] tegenover de [sportschool] aan de [adres] aangetroffen. Eerst enige tijd [medeverdachte 7] en [medeverdachte 12] en daarna ook [medeverdachte 3] hielden zich daar op en waren met elkaar aan het praten. Daarbij keken [medeverdachte 7] en [medeverdachte 3] geregeld in de richting van de bloemenkiosk, met in het verlengde daarvan zichtbaar de [sportschool] aan de
+
+[adres] . Op een gegeven moment liepen zij naar een parkeerplaats en reden zij weg in een gestolen Renault Clio met valse kentekenplaten. De politie heeft hen vervolgens gecontroleerd en daarna aangehouden.
+
+Tijdens de fouillering van [medeverdachte 12] werd een sleutel aangetroffen van een gestolen Volkswagen Caddy met valse kentekenplaten, die naast de Renault Clio op de parkeerplaats stond. Een Volkswagen Caddy is een bestelauto. In deze bestelauto bevonden zich meerdere wapens: twee automatische aanvalsgeweren (waarvan één met ontbrekende onderdelen) en twee pistolen, een geluidsdemper die op een van de pistolen paste en munitie voor de aanvalsgeweren en de pistolen. Daarnaast bevonden zich in de bestelauto een bivakmuts, een jerrycan en twee flessen motorbenzine. Die omstandigheden hebben alle kenmerken van een voorgenomen liquidatie waarbij de vluchtauto in brand wordt gestoken om eventuele sporen te vernietigen en de opsporing van de daders te bemoeilijken. Op een deel van de goederen is het DNA van [medeverdachte 12] en [medeverdachte 7] aangetroffen. Ook werd er een tv in de bestelbus aangetroffen. Daarop zat een handafdruk van [medeverdachte 3] . De kroongetuige heeft verklaard dat leden van Caloh Wagoh wapens in tv’s verstopten. Ook [medeverdachte 3] heeft dat verklaard. Hij heeft in dat verband ook verklaard dat hij zelf wapens inbouwde.
+
+Tijdens de fouillering van [medeverdachte 7] is een PGP-toestel aangetroffen. Uit de uitgelezen data van dit toestel blijkt dat er op 17 maart 2017 164 berichten zijn gewisseld met een PGPaccount van [medeverdachte 14] . Er zijn ook vlak voor de aanhouding nog berichten gewisseld met dat account.
+
+Het hof leidt hieruit af dat [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] op 17 maart 2017 bezig waren met de voorbereiding van de liquidatie van [slachtoffer 14] en [slachtoffer 5] en dat zij daarbij in nauw contact stonden met [medeverdachte 14] , die de opdracht tot het liquideren van deze personen eerder van [verdachte] had aangenomen. In dit verband is ook van belang dat de plek waar [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] zijn aangetroffen precies de locatie is die [verdachte] in de chat met [medeverdachte 14] noemt als de plek waar hij moet staan. Dat maakt ook andere aangevoerde scenario’s, waaronder de overdracht van wapens na een filmopname, onaannemelijk.
+
+6.3.7.3.  De rol van [verdachte]
+
+Aan [verdachte] is primair het medeplegen van een poging tot moord en subsidiair het uitlokken van het medeplegen van een poging tot moord ten laste gelegd. Van een strafbare poging is pas sprake als er een begin is gemaakt met de uitvoering van het voorgenomen misdrijf. Daarvoor is vereist dat er een handeling is geweest die direct was gericht op de voltooiing van het delict. Op het moment dat [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] werden aangehouden, was van een dergelijke handeling nog geen sprake. Dit betekent dat geen sprake is van een strafbare poging. Het hof spreekt [verdachte] daarom vrij van het primair en subsidiair tenlastegelegde.
+
+Meer subsidiair is aan [verdachte] ten laste gelegd dat hij zich schuldig heeft gemaakt aan het medeplegen van een poging tot het uitlokken van het medeplegen van moord. Het hof acht dit feit wettig en overtuigend bewezen.
+
+Uit de hiervoor weergegeven feiten en omstandigheden blijkt dat [verdachte] aan [medeverdachte 14] heeft laten weten dat hij [slachtoffer 14] en [slachtoffer 5] wilde laten liquideren en dat hij geld in het vooruitzicht heeft gesteld voor deze liquidatie door [medeverdachte 14] “140 allebei op snelheid 160” te bieden. Verder heeft hij inlichtingen over [slachtoffer 14] en [slachtoffer 5] ten behoeve van de liquidatie aan [medeverdachte 14] verstrekt.
+
+Uit de chat van 16 maart 2017 tussen [medeverdachte 14] en [verdachte] blijkt dat het opzet van [verdachte] was gericht op de dood van [slachtoffer 14] en [slachtoffer 5] . Het openbaar ministerie heeft gesteld dat uit het chatgesprek verder blijkt dat [verdachte] op de koop toenam dat [slachtoffer 13] (de dochter van [slachtoffer 14] ) en/of [slachtoffer 20] (de partner van [slachtoffer 14] ) bij de liquidatie om het leven zouden kunnen komen. Volgens de rechtbank berust deze opvatting op een onjuiste lezing van het chatbericht en zou met “Pak je ze alle 3” worden bedoeld: [slachtoffer 14] , [slachtoffer 5] en een eventuele taxichauffeur.
+
+Het hof is van oordeel dat niet met zekerheid uit de chats valt af te leiden wie er bedoeld worden met “alle 3”. Wat er wél met zekerheid uit valt af te leiden is dat [verdachte] ‘collateral damage’ niet schuwt. Sterker nog, hij geeft aan dat er meer slachtoffers mogen vallen dan alleen de beoogde doelwitten. Omdat niet met zekerheid valt vast te stellen dat met “alle 3” [slachtoffer 14] , zijn partner en zijn dochter worden bedoeld, zal het hof net als de rechtbank [verdachte] wel vrijspreken van de ten laste gelegde poging tot uitlokking van de moord op de partner en dochter van [slachtoffer 14] .
+
+Uit het dossier blijkt verder dat er sprake was van een samenwerkingsverband tussen de criminele organisatie van [medeverdachte 14] en de criminele organisatie van de opdrachtgever, waarbij [medeverdachte 14] in opdracht van die opdrachtgever liquidaties uitvoerde. In dit verband wordt verwezen naar de bewijsmiddelen zoals besproken in de overwegingen over de criminele organisatie. Het dossier bevat geen aanknopingspunt voor het oordeel dat in afwijking van de gebruikelijke gang van zaken [verdachte] in deze zaak voor zichzelf heeft gehandeld. In deze fase van de samenwerking verliep de communicatie tussen de vermoedelijke opdrachtgever en [medeverdachte 14] (nog) niet rechtstreeks met de opdrachtgever maar via ( [medeverdachte 4] en) [verdachte] , zodat [verdachte] een belangrijke schakel was in het contact met de opdrachtgever. Het hof acht daarom bewezen dat sprake was van een nauwe en bewuste samenwerking tussen [verdachte] en ten minste één mededader uit de organisatie van de opdrachtgever, waarbij de bijdrage van [verdachte] van voldoende gewicht was om de kwalificatie medeplegen te rechtvaardigen.
+
+Er was bij [verdachte] ook sprake van voorbedachte raad. Omdat de moord destijds niet daadwerkelijk is uitgevoerd, acht het hof op grond van het bovenstaande als gezegd het aan [verdachte] ten laste gelegde medeplegen van een poging tot uitlokking van het medeplegen van moord op [slachtoffer 14] en [slachtoffer 5] wettig en overtuigend bewezen.
+
+6.3.7.4.  De rol van [medeverdachte 14]
+
+Aan [medeverdachte 14] is primair het medeplegen van een poging tot moord en subsidiair het uitlokken van het medeplegen van een poging tot moord ten laste gelegd. Van een strafbare poging is pas sprake als er een begin is gemaakt met de uitvoering van het voorgenomen misdrijf. Daarvoor is vereist dat er een handeling is verricht die direct was gericht op de voltooiing van het delict. Op het moment dat [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] werden aangehouden, was van een dergelijke handeling nog geen sprake. Dit betekent dat ook geen sprake is van een strafbare poging. [medeverdachte 14] wordt daarom vrijgesproken van het primair en subsidiair tenlastegelegde.
+
+[medeverdachte 14] wordt ook vrijgesproken van het meer subsidiair ten laste gelegde medeplegen van een poging tot het uitlokken van het medeplegen van moord, omdat uit het dossier niet blijkt dat [medeverdachte 14] met de specifieke in de tenlastelegging omschreven uitlokkingsmiddelen [medeverdachte 3] , [medeverdachte 7] en/of [medeverdachte 12] heeft proberen uit te lokken tot het medeplegen van de moord op [slachtoffer 14] en [slachtoffer 5] .
+
+Uit de bewijsmiddelen blijkt dat [medeverdachte 14] de opdracht tot het liquideren van [slachtoffer 14] en [slachtoffer 5] heeft aangenomen via [verdachte] . Hij heeft met [verdachte] besproken hoe en waar deze liquidatie het beste kon plaatsvinden. Hij heeft de opdracht vervolgens uitgezet bij [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] . Daarbij heeft [medeverdachte 14] via een PGPtelefoon contact onderhouden met in ieder geval [medeverdachte 7] en/of [medeverdachte 12] op het moment dat zij in de buurt waren van de plek waar een van de beoogde slachtoffers kon komen en de liquidatie eventueel zou kunnen worden uitgevoerd. Zij hadden daarbij de beschikking over vuurwapens met bijbehorende munitie en gestolen auto’s met valse kentekenplaten.
+
+De liquidaties hebben niet daadwerkelijk plaatsgevonden. Het hof is van oordeel dat wel sprake is van het plegen van voorbereidingen daartoe. Het hof acht wettig en overtuigend bewezen dat [medeverdachte 14] zich schuldig heeft gemaakt aan het medeplegen van voorbereiding van de moord op [slachtoffer 14] en [slachtoffer 5] . Er is sprake van een nauwe en bewuste samenwerking tussen [medeverdachte 14] , [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] , waarbij de bijdrage van [medeverdachte 14] van voldoende gewicht is geweest om de kwalificatie medeplegen te rechtvaardigen.
+
+Het hof acht het meest subsidiair ten laste gelegde feit dan ook wettig en overtuigend bewezen, met dien verstande dat [medeverdachte 14] wordt vrijgesproken van het voorhanden hebben van PGP-telefoons. Omdat niet is komen vast te staan dat deze PGP-telefoons bestemd waren tot het begaan van het misdrijf – het uitvoeren van de voorgenomen liquidatie(s) – is niet voldaan aan het vereiste dat het object waarop een in artikel 46 van het Wetboek van Strafrecht genoemde gedraging betrekking heeft, is bestemd tot het begaan van het misdrijf dat is voorbereid (zie HR 7 juli 2020, ECLI:NL:HR:2020:1198).
+
+[medeverdachte 14] heeft verklaard dat de aangetroffen wapens waren gebruikt voor de documentaire die hij aan het maken was en niet waren bestemd voor het plegen van een liquidatie. Hij had geregeld dat de wapens zouden worden teruggebracht. Het hof acht deze verklaring in het licht van het beschikbare bewijsmateriaal niet aannemelijk geworden. Daarbij komt dat de [getuige 14] heeft verklaard dat hij de op 17 maart 2017 inbeslaggenomen wapens niet herkent als voorwerpen die zijn gebruikt bij filmopnames en deze niet eerder heeft gezien.
+
+6.3.7.5.  De rol van [medeverdachte 3]
+
+Aan [medeverdachte 3] is primair het medeplegen van een poging tot moord ten laste gelegd. Van een strafbare poging is pas sprake als er een begin is gemaakt met de uitvoering van het voorgenomen misdrijf. Daarvoor is vereist dat er een handeling is verricht die direct was gericht op de voltooiing van het delict. Op het moment dat [medeverdachte 3] samen met [medeverdachte 7] en [medeverdachte 12] werd aangehouden, was van een dergelijke handeling nog geen sprake. Dit betekent dat geen sprake is van een strafbare poging. [medeverdachte 3] wordt daarom vrijgesproken van het primair tenlastegelegde.
+
+Het hof stelt op basis van de bewijsmiddelen vast dat [medeverdachte 3] bezig was met de voorbereiding van de liquidatie van [slachtoffer 14] en [slachtoffer 5] . [medeverdachte 3] heeft opdracht gegeven een tv naar [medeverdachte 12] (‘ [naam gelijkend op medeverdachte 12] ’) te laten brengen, wat op 16 maart 2017 ook is gebeurd. Hij was op 17 maart 2017 samen met [medeverdachte 7] en [medeverdachte 12] aanwezig op de door [medeverdachte 14] besproken plek en hij had daarbij samen met [medeverdachte 7] en [medeverdachte 12] de beschikking over gestolen voertuigen met valse kentekenplaten. In de Volkswagen Caddy lagen bovendien vuurwapens met bijbehorende munitie, plastic flessen en een jerrycan met benzine. Deze laatste twee voorwerpen kunnen worden gebruikt om een vluchtauto in brand te steken. Er is in de Volkswagen Caddy ook een televisietoestel met een handpalmafdruk van [medeverdachte 3] aangetroffen. Zowel [kroongetuige] als [medeverdachte 3] heeft verklaard dat er vaker televisies/televisieschermen werden gebruikt om daarin wapens te verstoppen/vervoeren.
+
+[medeverdachte 3] heeft verklaard dat hij op geen enkele wijze betrokken was bij de voorbereiding van een liquidatie op 17 maart 2017, dat hij alleen naar Amsterdam was gekomen om [medeverdachte 7] en [medeverdachte 12] op te halen, dat hij niet wist dat hij in een gestolen auto reed en dat hij ook geen enkele betrokkenheid had bij de aangetroffen wapens. De verdediging van [medeverdachte 3] heeft ook aangevoerd dat de aangetroffen wapens ook voor een ander misdadig doel dan een liquidatie gebruikt hadden kunnen worden.
+
+Het hof volgt [medeverdachte 3] hierin niet. De gedragingen van [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] op 17 maart 2017 in combinatie met de PGP-berichten tussen ‘The wizzard’ en ‘C murder’ laten geen andere conclusie toe dan dat zij bezig waren om een moord op [slachtoffer 14] en [slachtoffer 5] voor te bereiden. In de chats tussen [medeverdachte 14] en [verdachte] over de liquidatie van
+
+[slachtoffer 14] en [slachtoffer 5] wordt gezegd dat het “200%” de bedoeling was dat het 17 maart 2017 zou gebeuren en dat [medeverdachte 14] ze daar de hele dag zou laten staan. Daarnaast waren alle benodigdheden voor een liquidatie die dag voorhanden.
+
+Het is wettig en overtuigend bewezen dat [medeverdachte 3] zich schuldig heeft gemaakt aan het subsidiair aan hem ten laste gelegde medeplegen met [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 12] van het voorbereiden van moord, met dien verstande dat hij wordt vrijgesproken van het voorhanden hebben van PGPtelefoons. Omdat niet is komen vast te staan dat deze
+
+PGP-telefoons bestemd waren tot het begaan van het misdrijf – het uitvoeren van de voorgenomen liquidatie(s) – is niet voldaan aan het vereiste dat het object waarop een in artikel 46 van het Wetboek van Strafrecht genoemde gedraging betrekking heeft, is bestemd tot het begaan van het misdrijf dat is voorbereid (zie HR 7 juli 2020, ECLI:NL:HR:2020:1198).
+
+6.3.7.6.  De rol van [medeverdachte 7]
+
+Aan [medeverdachte 7] is primair het medeplegen van een poging tot moord ten laste gelegd. Van een strafbare poging is pas sprake als er een begin is gemaakt met de uitvoering van het voorgenomen misdrijf. Daarvoor is vereist dat er een handeling is verricht die direct was gericht op de voltooiing van het delict. Op het moment dat [medeverdachte 7] samen met [medeverdachte 3] en [medeverdachte 12] werd aangehouden, was van een dergelijke handeling nog geen sprake. Dit betekent dat geen sprake is van een strafbare poging. [medeverdachte 7] wordt daarom vrijgesproken van het primair tenlastegelegde.
+
+Het hof stelt op basis van de bewijsmiddelen vast dat [medeverdachte 7] bezig was met de voorbereiding van de liquidatie van [slachtoffer 14] en [slachtoffer 5] . Hij was samen met [medeverdachte 12] en – na enige tijd – ook met [medeverdachte 3] aanwezig op de door [medeverdachte 14] besproken plek. Ze hadden op dat moment de beschikking over gestolen voertuigen met valse kentekenplaten en vuurwapens met bijbehorende munitie. In de Volkswagen Caddy waren ook plastic flessen en een jerrycan met benzine voorhanden, die kunnen worden gebruikt om een vluchtauto in brand te steken.
+
+[medeverdachte 7] heeft verklaard dat hij geen wetenschap had van een voorgenomen liquidatie en dat hij daar ook verder op geen enkele wijze bij was betrokken. Het hof volgt [medeverdachte 7] hierin niet. De gedragingen van [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] op 17 maart 2017 in combinatie met de
+
+PGP-berichten tussen ‘The wizzard’ en ‘C murder’ laten geen andere conclusie toe dan dat zij bezig waren om een moord op [slachtoffer 14] en [slachtoffer 5] voor te bereiden. In de chats tussen [medeverdachte 14] en [verdachte] over de liquidatie van [slachtoffer 14] en [slachtoffer 5] wordt gezegd dat het “200%” de bedoeling was dat het 17 maart 2017 zou gebeuren en dat [medeverdachte 14] ze daar de hele dag zou laten staan. Daarnaast waren alle benodigdheden voor een liquidatie die dag aanwezig en stonden in ieder geval [medeverdachte 7] en [medeverdachte 12] via de aangetroffen PGP die dag tot het moment van de aanhouding in contact met [medeverdachte 14] . Bovendien heeft [medeverdachte 7] zich, zoals is vastgesteld in het zaaksdossier Barbera, kort daarvoor samen met onder meer [medeverdachte 12] schuldig gemaakt aan het voorbereiden van een andere liquidatie. De stelling van [medeverdachte 7] dat hij niet op de hoogte was van de voorgenomen liquidatie wordt weersproken door de bewijsmiddelen.
+
+Het verweer dat de aangetroffen wapens ook voor een ander misdadig doel dan een liquidatie gebruikt hadden kunnen worden, kan om dezelfde redenen evenmin slagen. Hierbij is ook van belang dat op geen enkele manier is gebleken of aannemelijk geworden om wat voor ander misdadig doel het dan wel zou gaan.
+
+Wettig en overtuigend is bewezen dat [medeverdachte 7] zich samen met [medeverdachte 14] , [medeverdachte 3] en [medeverdachte 12] schuldig heeft gemaakt aan het medeplegen van het voorbereiden van moord, met dien verstande dat hij wordt vrijgesproken van het voorhanden hebben van PGP-telefoons. Omdat niet is komen vast te staan dat deze PGPtelefoons bestemd waren tot het begaan van het misdrijf – de uitvoering van de voorgenomen liquidatie(s) – is niet voldaan aan het vereiste dat het object waarop een in artikel 46 van het Wetboek van Strafrecht genoemde gedraging betrekking heeft, is bestemd tot het begaan van het misdrijf dat is voorbereid (zie HR 7 juli 2020, ECLI:NL:HR:2020:1198).
+
+6.3.7.7.  De rol van [medeverdachte 12]
+
+Aan [medeverdachte 12] is primair het medeplegen van een poging tot moord ten laste gelegd. Van een strafbare poging is pas sprake als er een begin is gemaakt met de uitvoering van het voorgenomen misdrijf. Daarvoor is vereist dat er een handeling is verricht die direct was gericht op de voltooiing van het delict. Op het moment dat [medeverdachte 12] samen met [medeverdachte 3] en [medeverdachte 7] werd aangehouden, was van een dergelijke handeling nog geen sprake. Dit betekent dat geen sprake is van een strafbare poging. [medeverdachte 12] wordt daarom vrijgesproken van het primair tenlastegelegde.
+
+Het hof stelt op basis van de bewijsmiddelen vast dat [medeverdachte 12] bezig was met de voorbereiding van de liquidatie van [slachtoffer 14] en [slachtoffer 5] . Hij was samen met [medeverdachte 7] en – na enige tijd – ook met [medeverdachte 3] aanwezig op de door [medeverdachte 14] besproken plek. Ze hadden op dat moment de beschikking over gestolen voertuigen met valse kentekenplaten en vuurwapens met bijbehorende munitie. In de Volkswagen Caddy waren ook plastic flessen en een jerrycan met benzine voorhanden, die kunnen worden gebruikt om een vluchtauto in brand te steken.
+
+[medeverdachte 12] heeft verklaard dat hem is gevraagd of hij de auto waarin later de wapens zijn aangetroffen naar Amsterdam wilde rijden en op een parkeerplaats bij het Amstelpark [het hof begrijpt: [adres]] wilde neerzetten. Vervolgens moest hij richting de ingang van het park lopen waar iemand de sleutel zou komen ophalen. [medeverdachte 12] wist naar eigen zeggen niet waarom hij de auto daar moest neerzetten en dacht dat dit mogelijk te maken had met opnames voor een pilotfilm.
+
+Het hof volgt [medeverdachte 12] hierin niet. De gedragingen van [medeverdachte 3] , [medeverdachte 7] en [medeverdachte 12] op 17 maart 2017 in combinatie met de PGP-berichten tussen ‘The wizzard’ en ‘C murder’ laten geen andere conclusie toe dan dat zij bezig waren om een moord op [slachtoffer 14] en [slachtoffer 5] voor te bereiden. In de chats tussen [medeverdachte 14] en [verdachte] over de liquidatie van [slachtoffer 14] en [slachtoffer 5] wordt gezegd dat het “200%” de bedoeling was dat het 17 maart 2017 zou gebeuren en dat [medeverdachte 14] ze daar de hele dag zou laten staan. Daarnaast waren alle benodigdheden voor een liquidatie die dag aanwezig en stonden in ieder geval [medeverdachte 7] en [medeverdachte 12] via de aangetroffen PGP die dag tot het moment van de aanhouding in contact met [medeverdachte 14] . Het hof betrekt hierbij ook nog dat [medeverdachte 12] , zoals is vastgesteld in het zaaksdossier Barbera, zich kort daarvoor samen met – onder meer – [medeverdachte 7] heeft schuldig gemaakt aan het voorbereiden van eveneens een liquidatie.
+
+Dat de aangetroffen wapens mogelijk ook voor een ander misdadig doel gebruikt hadden kunnen worden dan een liquidatie is, gelet op al het voorgaande, evenmin aannemelijk geworden. Het hof overweegt in dit licht nog dat op geen enkele wijze is gebleken of aannemelijk geworden om wat voor ander misdadig doel het dan wel zou gaan. Tot slot geldt ook dat niet aannemelijk is geworden dat [medeverdachte 12] dacht of had kunnen denken dat de inbeslaggenomen wapens mogelijkerwijs bestemd waren voor opnames van een pilotfilm [naar het hof begrijpt die van [medeverdachte 14]], alleen al vanwege het ontbreken van enige onderbouwing van die verklaring van [medeverdachte 12] .
+
+Gelet op het bovenstaande is wettig en overtuigend bewezen dat [medeverdachte 12] zich schuldig heeft gemaakt aan het medeplegen van het voorbereiden van moord met [medeverdachte 14] , [medeverdachte 7] en [medeverdachte 3] , met dien verstande dat hij wordt vrijgesproken van de in de tenlastelegging genoemde
+
+PGP-telefoons. Omdat niet is komen vast te staan dat deze PGP-telefoons bestemd waren tot het begaan van het misdrijf – de uitvoering van de voorgenomen liquidatie(s) – is niet voldaan aan het vereiste dat het object waarop een in artikel 46 van het Wetboek van Strafrecht genoemde gedraging betrekking heeft, is bestemd tot het begaan van het misdrijf dat is voorbereid (zie HR 7 juli 2020, ECLI:NL:HR:2020:1198).
+
+6.3.8.
+
+CRIMINELE ORGANISATIE (140 SR)
+
+6.3.8.1.  De criminele organisatie
+
+De tenlastelegging houdt in dat sprake was van een criminele organisatie die, kort gezegd, tot oogmerk had het plegen van moord, het voorbereiden van moord en het bezit van vuurwapens en munitie.
+
+Het hof hanteert het volgende juridisch kader. Onder een organisatie moet worden verstaan een samenwerkingsverband tussen ten minste twee personen met een zekere duurzaamheid en structuur. Niet vereist is dat daarbij komt vast te staan dat elke deelnemer aan deze organisatie heeft samengewerkt met, althans bekend is geweest met alle andere deelnemers, of dat de samenstelling van het samenwerkingsverband steeds dezelfde is
+
+(zie HR 22 januari 2008, ECLI:NL:HR:2008:BB7134). Het oogmerk van de organisatie moet zijn gericht op het plegen van meer misdrijven (zie HR 15 juni 2010, ECLI:NL:HR:2010:BK6148). Oogmerk op het plegen van één misdrijf is dus onvoldoende. Voor het bewijs van dat oogmerk – waartoe ook het naaste doel dat de organisatie nastreeft moet worden gerekend – zal onder meer betekenis kunnen toekomen aan misdrijven die in het kader van de organisatie al zijn gepleegd, aan het meer duurzaam of gestructureerde karakter van de samenwerking, zoals daarvan kan blijken uit de onderlinge verdeling van werkzaamheden of onderlinge afstemming van activiteiten van deelnemers binnen de organisatie met het oog op het bereiken van het gemeenschappelijke doel van de organisatie, en, meer algemeen, aan de planmatigheid of stelselmatigheid van de met het oog op dit doel verrichte activiteiten van deelnemers binnen de organisatie (zie HR 15 mei 2007, ECLI:NL:HR:2007:BA0502).
+
+Op grond van de inhoud van de bewijsmiddelen in de diverse deelonderzoeken en wat daarover in het kader van de verschillende deelonderzoeken is overwogen, en ook op grond van de aanvullende bewijsmiddelen over de criminele organisatie en bijlage 3 bij dit arrest (veredelingen en identificaties) komt het hof tot de conclusie dat sprake was van een duurzaam en gestructureerd samenwerkingsverband dat zich gedurende meer dan een jaar in wisselende samenstelling maar met een vaste kern, heeft beziggehouden met het plegen van liquidaties dan wel voorbereidingen daartoe, alsmede het bezit van vuurwapens en munitie.
+
+Sleutelfiguur van de criminele organisatie was [medeverdachte 14] . Hij organiseerde liquidaties en maakte daarvoor gebruik van personen uit zijn netwerk. Veel van die personen waren op een of andere manier verbonden met motorclub Caloh Wagoh. Toch kan Caloh Wagoh niet met de criminele organisatie worden vereenzelvigd. Aan de criminele organisatie werd ook deelgenomen door personen die niet of nauwelijks met Caloh Wagoh te maken hadden. Andersom was niet elk lid van Caloh Wagoh bij de activiteiten van de criminele organisatie betrokken.
+
+De opdrachten tot liquidatie werden verstrekt door meerdere opdrachtgevers. Drie van de vijf in het dossier Eris behandelde moordonderzoeken zijn uitgevoerd in opdracht van één organisatie. Vanuit diezelfde organisatie zijn ook tal van opdrachten verstrekt tot het vermoorden van andere personen. Deze opdrachten hebben niet geleid tot voltooide liquidaties, maar wel tot voorbereidingen dan wel pogingen daartoe. Ook is er opdracht gegeven tot het beschieten van een huis in Doorn.
+
+Het contact met die organisatie werd onderhouden via PGP-telefoons met de accountnamen ‘The wizzard’ en ‘B.I.G’. Zowel bij [verdachte] als [medeverdachte 4] gaat het om meerdere berichten over liquidaties die door hen zijn (door)gestuurd aan [medeverdachte 14] in de periode dat zij over het account ‘The wizzard’ of ‘B.I.G’ beschikten. Er was sprake van een duurzame samenwerking met [medeverdachte 14] . Om die reden maken de personen uit de organisatie van de opdrachtgever die regelmatig contact hadden met [medeverdachte 14] ook deel uit van de criminele organisatie rondom [medeverdachte 14] .
+
+De moorden op [slachtoffer 23] (deelonderzoek Langenhorst) en [slachtoffer 4] (deelonderzoek Lis) zijn uitgevoerd in opdracht van anderen. [medeverdachte 14] zorgde bij alle liquidaties voor teams die de liquidaties of daarmee samenhangende opdrachten gingen uitvoeren.
+
+Veelzeggend over het professionele karakter van de criminele organisatie zijn de woorden van [medeverdachte 14] tegen [verdachte] in februari 2017 over de overname van de liquidatiewerkzaamheden van [medeverdachte 17] : “Ik zei geef die bv over”. In
+
+december 2017 spraken [medeverdachte 14] en [medeverdachte 4] over het verder professionaliseren van hun organisatie, de taakverdeling en de vergroting van de efficiëntie van hun bedrijfsplan in 2018.
+
+De leden van de organisatie maakten gebruik van PGP-toestellen om heimelijk met elkaar te kunnen communiceren. Ook maakten zij gebruik van (automatische) vuurwapens, (gestolen) voertuigen, valse kentekenplaten en lokkers, zoals in de afzonderlijke deelonderzoeken bewezen is verklaard. Verder werden wapens en auto’s ten behoeve van liquidaties verborgen in een loods in Mijdrecht en werden wapens ingebouwd in elektronische apparatuur. Ook werden er bij liquidaties gebruikte auto’s in brand gestoken.
+
+Dat het oogmerk van de organisatie niet alleen zag op moord en de voorbereiding daarvan, maar ook op het bezit van vuurwapens en munitie, volgt al uit het feit dat voor liquidaties wapens en munitie noodzakelijk zijn. Hierbij roept het hof in herinnering dat volgens vaste rechtspraak van de Hoge Raad tot het oogmerk van de organisatie ook moet worden gerekend het naaste doel dat de organisatie nastreeft. Het plegen van liquidaties heeft als noodzakelijk en daarmee door de organisatie gewild gevolg dat ook overtredingen van de Wet wapens en munitie worden begaan. Een aantal delicten wordt niet in de tenlastelegging genoemd als doel van de organisatie, maar het plegen daarvan kan wel bijdragen aan het verwezenlijken van het in de tenlastelegging genoemde doel van de organisatie. Zo is het gebruik van gestolen auto’s en kentekenplaten en het in brand steken van auto’s na een liquidatie bedoeld om de opsporing van de daders te bemoeilijken. Daardoor kan de organisatie haar activiteiten voortzetten.
+
+6.3.8.1.
+
+6.3.8.2.  De deelnemers aan de criminele organisatie
+
+Het hof hanteert hierbij het volgende juridisch kader. Van deelneming aan een organisatie als bedoeld in artikel 140 van het Wetboek van Strafrecht is slechts sprake als de verdachte:
+
+behoort tot het samenwerkingsverband; en
+
+een aandeel heeft in gedragingen die strekken tot of rechtstreeks verband houden met de verwezenlijking van het oogmerk van de organisatie, dan wel deze gedragingen ondersteunt.
+
+(HR 10 februari 2015, ECLI:NL:HR:2015:264.)
+
+In het bestanddeel ‘deelneming aan’ een organisatie als bedoeld in artikel 140 van het Wetboek van Strafrecht ligt ook een opzetvereiste van de verdachte besloten. Redelijke wetsuitleg brengt volgens de Hoge Raad mee dat voor ‘deelneming’ voldoende is dat de verdachte in zijn algemeenheid weet (in de zin van onvoorwaardelijk opzet) dat de organisatie tot oogmerk heeft het plegen van misdrijven. Niet vereist is dat de verdachte wetenschap heeft van een of meer concrete misdrijven die door de organisatie worden beoogd (zie HR 18 november 1997, ECLI:NL:HR:1998:ZD0858). Ook hoeft de verdachte geen opzet op die concrete misdrijven te hebben (zie HR 8 oktober 2002, ECLI:NL:HR:2002:AE5651). Niet is vereist dat een deelnemer weet hoe de organisatie is samengesteld.
+
+6.3.8.2.1.   De rol van [verdachte]
+
+De verdediging van [verdachte] heeft geconcludeerd tot vrijspraak van dit feit. Er is volgens de verdediging geen redengevend bewijs voor een bewezenverklaring van een criminele organisatie waaraan ‘The wizzard’ zou hebben deelgenomen en er is geen sprake van een samenwerkingsverband met een zekere duurzaamheid en structuur tussen [verdachte] en ten minste één andere persoon, aldus de verdediging.
+
+Het hof volgt de verdediging hierin niet. Dat [verdachte] heeft behoord tot het samenwerkingsverband en dat hij wist dat de organisatie tot oogmerk had het plegen van liquidaties en aanverwante misdrijven, volgt naar het oordeel van het hof genoegzaam uit wat hiervoor is overwogen in de deelonderzoeken Charon, Eend, Mus, Kraai, Duif, Spreeuw, Barbera en Arford. Ook heeft het hof de hiervoor opgenomen overwegingen met aanvullende bewijsmiddelen over de criminele organisatie in zijn oordeel betrokken.
+
+Het hof acht bewezen dat [verdachte] in de periode van 1 januari 2017 (deelonderzoek Charon) tot en met 8 juli 2017 als leider heeft deelgenomen aan de criminele organisatie. Vanaf
+
+18 juni 2017 is [verdachte] niet meer zichtbaar in chats waarvan de datum bekend is, maar in de chat van 8 juli 2017 in het deelonderzoek Breuk spreken [medeverdachte 14] en [medeverdachte 4] over het bedrag dat [verdachte] is toegezegd voor de moord op [slachtoffer 21] . Kennelijk is hij dan nog zodanig betrokken bij de liquidatiewerkzaamheden dat hij daarvoor geld ontvangt. In de samenwerking met [medeverdachte 14] en [medeverdachte 4] was een duidelijke taakverdeling zichtbaar. [medeverdachte 14] vervulde een leidinggevende rol bij het verder uitzetten van de liquidatieopdrachten bij andere deelnemers van de criminele organisatie en hij regisseerde de liquidaties tot in detail, terwijl [verdachte] en [medeverdachte 4] opdrachten voor liquidaties aan [medeverdachte 14] (door)gaven, wapens, auto’s en lokkers regelden en verantwoordelijk waren voor de financiën van de in hun opdracht uitgevoerde liquidaties. [verdachte] fungeerde in die periode ook als tussenpersoon tussen de opdrachtgever en [medeverdachte 14] door het doorsturen van berichten via PGP-telefoons. In de door de organisatie van de opdrachtgever aan [kroongetuige] verstrekte PGP-telefoons stonden de
+
+PGP-accounts van ‘The wizzard’ en ‘B.I.G’ voorgeprogrammeerd.
+
+7
+DE BEWEZENVERKLARING
+
+Door wettige bewijsmiddelen, waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt, acht het hof wettig en overtuigend bewezen dat [verdachte] :
+
+Ten aanzien van het deelonderzoek Charon (16-706595-19)
+
+Subsidiair:
+
+[medeverdachte 18] en/of [medeverdachte 14] en/of [medeverdachte 17] en/of [medeverdachte 11] en/of
+
+[medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] heeft/hebben op of omstreeks 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans, alleen opzettelijk en met voorbedachten rade [slachtoffer 11] van het leven beroofd door met een of meer vuurwapens kogels in het lichaam van [slachtoffer 11] te schieten, welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van 12 januari 2017 tot en met 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften, beloften, misbruik van gezag, geweld, bedreiging en/of misleiding en/of het verschaffen van gelegenheid, middelen of inlichtingen, te weten door (aan) [medeverdachte 18] en/of [medeverdachte 14] en/of [medeverdachte 17] en/of [medeverdachte 11] en/of [medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] en/of een of meer andere(n)
+
+aan te geven dat [slachtoffer 11] degene was die geliquideerd moest worden en/of
+
+een geldbedrag te overhandigen en/of in het vooruitzicht te stellen en/of
+
+met elkaar en/of [slachtoffer 11] in contact te brengen en/of houden en/of
+
+de plaats waar en/of de tijd dat de liquidatie moest worden uitgevoerd door te geven en/of
+
+na [slachtoffer 11] op de avond van diens liquidatie te hebben ontmoet, in ‘traceerbaar’ gezelschap te blijven van [slachtoffer 11];
+
+Ten aanzien van het deelonderzoek Eend (16-659027-20)
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 2 februari 2017 tot en met 10 januari 2018 (26 februari 2017), in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, een of meer anderen heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 15] van het leven te beroven, door ( [medeverdachte 14] ) een of meer van zijn mededaders middels PGP-telefoon(s) informatie/inlichtingen/gegevens met betrekking tot de beoogde liquidatie [slachtoffer 15] te sturen en/of door te sturen zoals:
+
+- het adres van de sportschool van [slachtoffer 15] , en/of
+
+- dat [slachtoffer 15] iedere ochtend zou trainen in voornoemde sportschool, en/of
+
+- dat [slachtoffer 15] voornoemde sportschool vaak alleen af zou sluiten, en/of
+
+- het/de adres(sen) waar [slachtoffer 15] zou verblijven, en/of
+
+in welk voertuig de vriendin van [slachtoffer 15] zou rijden (te weten een Porsche), en/of
+
+een foto van [slachtoffer 15] , en/of
+
+dat zogenaamde heads op [slachtoffer 15] gezet gaan worden, en/of dat alles betaald zou
+
+worden, en/of
+
+dat er jongens zouden klaar staan;
+
+Ten aanzien van de deelonderzoeken Mus, Kraai, Duif, Spreeuw, Barbera en Arford
+
+(16-659137-19)
+
+1.Nog meer subsidiair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, een of meer anderen heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 3] van het leven te beroven, door aan/van een of meer van zijn mededader(s) ( [medeverdachte 14] ):
+
+- een of meer berichten inhoudende - al dan niet - instructie(s) met betrekking totvoornoemde beoogde liquidatie van [slachtoffer 3] te (willen) ontvangen, waaronder -zakelijk weergegeven -:
+
+- of hij ‘ [naam gelijkend op slachtoffer 3] ’ wil, en/of
+
+- er werk van gemaakt wordt en ‘ [naam gelijkend op slachtoffer 3] ’ dagelijks met een neefje van hen loopt, en/of
+
+- dat [slachtoffer 3] nu gelokt kan worden, en/of
+
+- (kenteken)gegevens van het/een voertuig waarmee die [slachtoffer 3] zich zou  verplaatsen en/of zou worden opgehaald en/of afgezet en/of de frequentie waarmee dit zou gebeuren, en/of
+
+- dat ‘men’ nog even geduld moet hebben en dat de mensen die hem ( [slachtoffer 3] ) afzetten hen gaan inseinen en dat iedereen ‘klaar staat’, en/of
+
+- een of meer berichten inhoudende - al dan niet - instructie(s) met betrekking totvoornoemde beoogde liquidatie van [slachtoffer 3] te sturen en/of door te sturen,waaronder – zakelijk weergegeven –:
+
+- dat hij ‘ [naam gelijkend op slachtoffer 3] ’ graag wil, en/of
+
+- als [slachtoffer 3] verbrand kan worden in ‘fiets’ (auto) dat top is, en/of
+
+- of [slachtoffer 3] nog dit weekend of uiterlijk maandag gedaan kan worden voor    80(.000 euro), en/of
+
+- wanneer hij/zij [slachtoffer 3] vanavond kan/kunnen laten slapen dat mooi zou zijn, en/of
+
+- telefoons kunnen/moeten meegenomen worden en/of ‘yzers’ (vuurwapens) kunnen worden opgehaald, en/of
+
+- hij [slachtoffer 3] laatst wou lokken maar dat dat mis ging omdat deze met eengepantserde auto kwam;
+
+2.Primair:hij op 18 februari 2017 een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn  mededader(s) heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn mededader(s) middels (een) PGPtelefoon(s)
+
+te zeggen/bevestigen - zakelijk weergegeven - dat hij een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) dood wilde hebben en/of dat hij ‘yzers’  (vuurwapens) en/of ‘fietsen’ (auto’s) regelt, en/of
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ), en/of
+
+overige informatie/inlichtingen te sturen en/of door te sturen en/of gegevens met betrekking tot de beoogde liquidatie van een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) door te geven, zoals dat ‘ze hem [naam gelijkend op slachtoffer 1 en 2] noemen en samen [naam gelijkend op slachtoffer 1 en 2] ’;
+
+3.Primair: hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met 19
+
+(18) februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn mededaders heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade de rappers
+
+[bijnaam] en/of [bijnaam] ( [slachtoffer 12] en/of [slachtoffer 17] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn mededader(s) middels een PGPtelefoon(s)
+
+te zeggen/bevestigen - zakelijk weergegeven - dat hij [slachtoffer 12] dood wilde hebben maar dat die voorlopig niet zou komen dus dan z’n maatje [slachtoffer 17] , en/of (omdat die [slachtoffer 12] gedetineerd zat) dat [slachtoffer 12] binnen gedaan moest worden, en/of
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie van [slachtoffer 12] en/of [slachtoffer 17] ;
+
+4. Primair:hij op 18 februari 2017 een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn  mededader(s) heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [bijnaam] , althans een/de broer van [naam 11] ( [slachtoffer 22] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn  mededader(s) middels (een) PGP-telefoon(s) een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie van [bijnaam] , althans een/de broer van [naam 11] ( [slachtoffer 22] );
+
+5.
+
+Meer subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 9 maart 2017, althans in de maand maart 2017, te Nieuwegein, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] heeft gepoogd te bewegen een misdrijf te begaan, te weten het (in Nederland) tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade die man uit Roermond ( [slachtoffer 10] ) van het leven beroven, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de naam van die man uit Roermond ( [slachtoffer 10] ) en/of andere informatie over die man uit Roermond ( [slachtoffer 10] ) door te geven, dan wel ter beschikking te stellen;
+
+6.
+
+Meer subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 1 maart 2017 tot en met 17 maart 2017, te Nieuwegein althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] heeft gepoogd te bewegen een misdrijf te begaan, te weten het (in Nederland) tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of
+
+[slachtoffer 5] van het leven beroven, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de na(a)m(en) van [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of kentekengegevens van de door [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] gebruikte auto’s en/of andere informatie over [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of hun familie door te geven, dan wel ter beschikking te stellen;
+
+Ten aanzien van het deelonderzoek Criminele organisatie (16-659033-20)
+
+hij op een of meer tijdstippen in of omstreeks de periode van 1 januari 2017 tot en met 21 november 2018 8 juli 2017 te ‘s-Gravenhage en/of Leiden en/of Almere en/of Rotterdam en/of Spijkenisse en/of Breukelen en/of Mijdrecht en/of Zoetermeer en/of Doorn en/althans (elders) in Nederland, al dan niet als oprichter, leider en/of bestuurder, heeft deelgenomen aan een organisatie, bestaande uit hem, verdachte, en/of (al dan niet in wisselende samenstellingen) een of meer medeverdachten [zijnde overwegend leden van de zogenaamde MC (MotorClub) Caloh Wagoh], welke organisatie tot oogmerk had het plegen van misdrijven, te weten (onder meer):
+
+het opzettelijk en al dan niet met voorbedachten rade een ander van het leven beroven (zoals bedoeld in artikel 287 en/of artikel 289 van het Wetboek van Strafrecht) en/of
+
+voorbereiding daarvan (zoals bedoeld en omschreven in artikel 46 lid 1 van het Wetboek van Strafrecht), en/of
+
+het voorhanden hebben van en/of overdragen van één of meer wapens van de categorieën I en/of II en/of III en/of van munitie van categorieën II en/of III (zoals bedoeld in de artikelen 13 en/of 14 en/of 26 en/of 31 van de Wet wapens en munitie).
+
+Het hof acht niet bewezen wat aan [verdachte] meer of anders is ten laste gelegd dan hierboven is bewezen verklaard, zodat hij daarvan moet worden vrijgesproken.
+
+8
+DE STRAFBAARHEID VAN HET BEWEZENVERKLAARDE
+
+Het bewezenverklaarde levert volgens de wet de volgende strafbare feiten op:
+
+Ten aanzien van het deelonderzoek Charon (16-706595-19)
+
+Subsidiair:
+medeplegen van uitlokking van medeplegen van moord
+
+Ten aanzien van het deelonderzoek Eend (16-659027-20)
+
+Primair:
+medeplegen van poging tot uitlokking van medeplegen van moord
+
+Ten aanzien van de deelonderzoeken Mus, Kraai, Duif, Spreeuw, Barbera en Arford
+
+(16-659137-19)
+
+Feit 1, nog meer subsidiair:
+medeplegen van poging tot uitlokking van medeplegen van moord
+
+Feit 2, primair:
+medeplegen van poging tot uitlokking van medeplegen van moord, meermalen gepleegd
+
+Feit 3, primair:
+medeplegen van poging tot uitlokking van medeplegen van moord, meermalen gepleegd
+
+Feit 4, primair:
+medeplegen van poging tot uitlokking van medeplegen van moord
+
+Feit 5, meer subsidiair:
+medeplegen van poging tot uitlokking van medeplegen van moord
+
+Feit 6, meer subsidiair:
+medeplegen van poging tot uitlokking van medeplegen van moord, meermalen gepleegd
+
+Ten aanzien van het deelonderzoek Criminele organisatie (16-659033-20)
+
+als leider deelnemen aan een organisatie die tot oogmerk heeft het plegen van misdrijven.
+
+9
+DE STRAFBAARHEID VAN DE VERDACHTE
+
+[verdachte] is strafbaar aangezien geen omstandigheid is gebleken of aannemelijk geworden die hem niet strafbaar zou doen zijn.
+
+10
+DE OPLEGGING VAN STRAF
+
+10.1.
+
+Het vonnis van de rechtbank
+
+De rechtbank heeft [verdachte] voor de feiten in de deelonderzoeken Charon, Eend, Mus, Kraai, Duif, Spreeuw, Barbera en Arford en voor het als leider deelnemen aan een criminele organisatie veroordeeld tot een levenslange gevangenisstraf.
+
+10.2.
+
+De vordering van het openbaar ministerie
+
+De advocaten-generaal hebben gevorderd dat [verdachte] (ook in hoger beroep) wordt veroordeeld tot een levenslange gevangenisstraf.
+
+10.3.
+
+Het standpunt van de verdediging
+
+De verdediging heeft bepleit dat het opleggen van een levenslange gevangenisstraf in strijd is met het EVRM en het Handvest van de grondrechten van de Europese Unie. De verdediging heeft verzocht prejudiciële vragen te stellen aan het Hof van Justitie van de Europese Unie, dan wel om een deskundige te benoemen, als het hof toch een levenslange gevangenisstraf zou overwegen op te leggen. De verdediging heeft ook aangevoerd dat het opleggen van een levenslange gevangenisstraf geen redelijk doel dient en bovendien geen passende straf is gelet op de ten laste gelegde feiten.
+
+10.4.
+
+Het oordeel van het hof
+
+De hierna te melden strafoplegging is in overeenstemming met de aard en de ernst van het bewezenverklaarde en de omstandigheden waaronder dit is begaan, mede gelet op de persoon van de verdachte, zoals van een en ander bij het onderzoek ter terechtzitting is gebleken. Het hof heeft bij de keuze voor het opleggen van een onvoorwaardelijke vrijheidsstraf en bij de vaststelling van de duur daarvan in het bijzonder het volgende laten meewegen.
+
+10.4.1.
+
+De (ernst van de) feiten
+
+In de zaak Eris gaat het om een criminele organisatie, die zich richtte op het plegen van moorden, het voorbereiden van moorden en het bezit van vuurwapens en munitie. De strafwaardigheid van deelneming aan een criminele organisatie wordt bepaald door het ontwrichtende karakter daarvan voor de openbare orde en de daarmee samenhangende aard van de misdrijven die worden beoogd. Binnen de hier aan de orde zijnde criminele organisatie zijn meerdere buitengewoon ernstige en schokkende feiten begaan. Door leden van de organisatie zijn vijf liquidaties gepleegd. Daarnaast waren er plannen om elf andere personen te liquideren. In sommige van die gevallen waren ook al voorbereidingen getroffen voor de liquidatie.
+
+De organisatie opereerde zonder meer professioneel. Via [medeverdachte 4] en [verdachte] werden namens een opdrachtgever opdrachten verstrekt aan [medeverdachte 14] om liquidaties te plegen. [medeverdachte 14] liet deze opdrachten vervolgens uitvoeren door leden van zijn organisatie. [medeverdachte 4] en [verdachte] werkten ten behoeve van de liquidaties nauw samen met [medeverdachte 14] en zijn mannen, waardoor zij ook [medeverdachte 4] uitmaakten van de criminele organisatie waarvan [medeverdachte 14] de spil was. Zij regelden namens de opdrachtgever de spotters (de personen die observaties deden), de lokkers, de wapens en de gestolen auto’s. [medeverdachte 14] regelde de ‘heads’ (schutters) en de daadwerkelijke voorbereiding en uitvoering van de liquidaties. [verdachte] en [medeverdachte 4] betaalden [medeverdachte 14] voor zijn werkzaamheden. [medeverdachte 14] betaalde daarvan weer zijn mannen. Daarnaast nam [medeverdachte 14] ook opdrachten aan van andere opdrachtgevers. [medeverdachte 14] had verschillende teams/mannen tot zijn beschikking die al dan niet in wisselende samenstelling de opdrachten voor hem uitvoerden.
+
+De leden van de organisatie maakten gebruik van PGP-toestellen om heimelijk met elkaar te communiceren. Uit de aangetroffen communicatie doemt een schokkend beeld op van een organisatie die zich zo nodig 24 uur per dag bezighield met het voorbereiden en plegen van liquidaties. In de huiveringwekkende berichten werd gesproken over hoe de beoogde doelwitten het beste konden worden geliquideerd (zoals “fiets in de fik met die hond erin”, waarmee bedoeld werd dat iemand in zijn auto verbrand zou worden) en over de hoogte van het te betalen bedrag (“Geef je 70 de hoofd sir”/“Als je hem dit weekend nog of maandag geef ik je 80 snel zonder gezeik!!!”/“Maar als u uw eigen fietsen yzers alles dan kan ik na 90 sir soms een ton!”). De leden van de organisatie waanden zich onbespied en spraken in de berichten gewetenloos over andere (mensen)levens, die in hun ogen kennelijk niets waard waren.
+
+De liquidaties werden op zeer gewelddadige wijze uitgevoerd. Zo werd op de openbare weg, soms in het bijzijn van getuigen, gebruikgemaakt van (semi-)automatische wapens waarbij meerdere kogels van dichtbij – onder meer in het hoofd – werden afgevuurd.
+
+Er zijn vijf mensenlevens beëindigd.
+
+Daarnaast zijn binnen de organisatie de liquidaties van elf andere personen voorbereid, waarbij het soms heel dicht bij een uitvoering kwam. Alleen door toeval of fouten van de organisatie hebben die voorbereidingen niet tot een voltooide liquidatie geleid. De deelnemers aan de criminele organisatie hebben allemaal een al dan niet voorbereidende rol gespeeld bij een of meer liquidaties en daarmee bijgedragen aan de publieke onrust en verontwaardiging die bij dit soort ernstige geweldsdelicten ontstaat.
+
+Moord is een van de ernstigste misdrijven uit het Wetboek van Strafrecht. Een moord in de vorm van een liquidatie geeft aan die ernst een extra lading. De nabestaanden zijn niet alleen geconfronteerd met het verlies van het slachtoffer, maar ook met de afschuwelijke wijze waarop het slachtoffer is vermoord.
+
+Het hof heeft bij het bepalen van de straffen gekeken naar de straffen die in andere moordzaken en zaken over voorbereidingshandelingen zijn opgelegd. Hoewel strafzaken zich moeilijk laten vergelijken, kan hieruit wel een zekere lijn worden afgeleid. In dat kader tekent zich een ontwikkeling af naar steeds zwaardere straffen, waarbij twintig jaren gevangenisstraf voor één liquidatie geen uitzondering is, net zoals zes tot acht jaren voor voorbereidingshandelingen voor moord. Dit kan worden gezien in het kader van steeds gewelddadiger optreden in het criminele milieu, waarmee de maatschappij in toenemende mate wordt geconfronteerd en waardoor de roep om vergelding steeds luider wordt. Het opleggen van straffen dient – naast andere doelen – bij te dragen aan de algemene preventie van strafbare feiten en daarom moet er een zekere afschrikkende werking vanuit gaan. Ook in deze zaak wordt duidelijk gemaakt dat op deze ernstige vormen van ontwrichtend geweld een zeer stevige reactie van de strafrechter volgt, ook al kunnen zware straffen de golf van geweld niet tot stoppen brengen en kan zelfs de hoogste straf het leed van de nabestaanden niet vergelden.
+
+[verdachte]
+
+heeft ongeveer een half jaar als leider deelgenomen aan de criminele organisatie. In die relatief korte tijd is hij bepalend geweest bij de start van de liquidatiewerkzaamheden binnen de organisatie. Als tussenpersoon tussen de opdrachtgever en [medeverdachte 14] heeft hij in die maanden eerst de liquidatie van [slachtoffer 11] uitgelokt (deelonderzoek Charon) en vervolgens samen met een of meer anderen de liquidatie van [slachtoffer 15] (deelonderzoek Eend), [slachtoffer 3] (deelonderzoek Mus), de [slachtoffers 1 en 2] (deelonderzoek Kraai), [slachtoffer 12] en [slachtoffer 17] (deelonderzoek Duif), [slachtoffer 22] (deelonderzoek Spreeuw), [slachtoffer 10] (deelonderzoek Barbera) en [slachtoffer 14] en [slachtoffer 5] (deelonderzoek Arford) proberen uit te lokken. [slachtoffer 11] is doodgeschoten. De andere personen zijn destijds aan de dood ontsnapt.
+
+De 25-jarige [slachtoffer 11] is midden in Amsterdam op de openbare weg van korte afstand met een zwaar vuurwapen meedogenloos neergeschoten.
+
+Het is ontluisterend hoe [verdachte] en zijn mededaders over leven en dood meenden te kunnen beschikken, door via PGPberichten de lijst van doelwitten met [medeverdachte 14] door te nemen. Er werd onderhandeld over de prijs van een leven alsof dat niets betekende. Het uitlokken van liquidaties is door de wetgever even strafwaardig geacht als het plegen van het delict zelf. Gelet op de ernst en de hoeveelheid van de feiten komt in beginsel alleen de zwaarst mogelijke straf, de levenslange gevangenisstraf, in aanmerking.
+
+10.4.2.
+
+De persoon van de verdachte
+
+In de persoonlijke omstandigheden van [verdachte] heeft het hof geen omstandigheid aangetroffen die aanleiding geeft om ondanks alles te denken aan een tijdelijke gevangenisstraf van zeer lange duur. Het hof heeft gekeken naar het strafblad van [verdachte] en geconstateerd dat hij niet eerder is veroordeeld voor soortgelijke delicten. Dit heeft echter geen matigende invloed op de straf, gelet op de aard en de veelheid van het bewezenverklaarde.
+
+[verdachte] heeft zich gedurende het gehele proces hoofdzakelijk op zijn zwijgrecht beroepen. Ook over zijn persoonlijke omstandigheden heeft hij weinig verklaard. Het hof heeft daardoor geen inzicht gekregen in zijn drijfveren.
+
+Uit het dossier komt [verdachte] naar voren als een man die klakkeloos de liquidatieopdrachten van de opdrachtgever uitzette bij [medeverdachte 14] . De organisatie van de opdrachtgever beschikte over voldoende geld om anderen het vuile werk op te laten knappen. Een mensenleven stelde in de visie van [verdachte] kennelijk niets voor. Bij de bespreking van de dodenlijst zei [verdachte] in februari 2017 tegen [medeverdachte 14] : “Iedereen die tegen [naam 50] en ermee te maken heeft gehad en erbij horen en willen horen!!! [naam 51] neus die [naam 52] slang bende [naam 53] . Allemaal de deur uit die smerige kk ratten en iedereen”. Het lijkt erop dat macht en wraak voor [verdachte] het enige motief was voor de bewezen verklaarde feiten. Er was voldoende geld in kas (“de oorlogskast”: “Hahahaahaa en tuurlijk die kast moet leeg op hun allemaal en is nog laaaaaaang niet leeg broer”) om de liquidaties uit te laten voeren door [medeverdachte 14] en zijn mannen.
+
+Dat [verdachte] op meedogenloze wijze handelde komt ook duidelijk naar voren in de chatgesprekken die zien op de voorgenomen liquidaties van [slachtoffer 14] en [slachtoffer 5] (deelonderzoek Arford). Uit het bij de bespreking van die zaak geciteerde chatbericht “Pak je ze alle 3” blijkt dat [verdachte] ‘collateral damage’ niet schuwde. Dat mogelijk meer slachtoffers zouden vallen dan alleen de beoogde doelwitten was voor hem kennelijk geen probleem.
+
+[verdachte] heeft een partner en een gezin, maar ook die omstandigheid is in het licht van de ernst en de veelheid van de bewezen verklaarde feiten geen reden voor matiging van de straf.
+
+Hoewel de betrokkenheid van [verdachte] maar een korte periode bestrijkt, heeft hij in die periode vele (beoogde) liquidaties met [medeverdachte 14] besproken op vaak gewetenloze wijze. Dat gegeven, gecombineerd met het feit dat hij geen enkel inzicht heeft gegeven in zijn beweegredenen maakt dat het hof zich ernstig zorgen maakt over het gevaar dat [verdachte] ook op langere termijn voor de maatschappij vormt. Het hof acht het wenselijk dat het risico voor de maatschappij wordt beoordeeld voordat [verdachte] terugkeert in de maatschappij, zoals dat in het kader van de tenuitvoerlegging van een levenslange gevangenisstraf gebeurt. Ook vanwege het risico dat [verdachte] voor de maatschappij vormt, is de oplegging van een levenslange gevangenisstraf daarom passend.
+
+10.4.3.
+
+De levenslange gevangenisstraf
+
+De raadslieden hebben gemotiveerd bepleit om aan [verdachte] geen levenslange gevangenisstraf op te leggen, omdat de oplegging van die straf in strijd zou zijn met
+
+artikel 3 EVRM.
+
+Naar het oordeel van de Hoge Raad voorziet het Nederlandse recht sinds 2017 in een zodanig stelsel van herbeoordeling op grond waarvan in de zich daarvoor lenende gevallen kan worden overgegaan tot verkorting van de levenslange gevangenisstraf of (voorwaardelijke) invrijheidstelling, dat de oplegging van de levenslange gevangenisstraf op zichzelf niet in strijd is met artikel 3 EVRM (HR 19 december 2017, ECLI:NL:HR:2017:3185). Na 25 jaar na de start van de detentie voor het feit waarvoor de levenslange gevangenisstraf is opgelegd wordt een herbeoordelingsprocedure in gang gezet. Die procedure zal uiterlijk 28 jaar na de aanvang van die detentie leiden tot een ambtshalve beoordeling van de mogelijkheid tot het verlenen van gratie.
+
+Bij de beoordeling van de mogelijkheid van gratieverlening komt het aan op de vraag of zich zodanige veranderingen aan de kant van de levenslanggestrafte hebben voltrokken en zodanige vooruitgang is geboekt in zijn of haar reintegratie, dat verdere tenuitvoerlegging van de levenslange gevangenisstraf geen enkel met de strafrechtspleging na te streven doel
+
+– waaronder vergelding – in redelijkheid meer dient en daarom niet langer is gerechtvaardigd. De criteria die daarbij worden toegepast zijn terug te vinden in artikel 4, vierde lid, van het Besluit Adviescollege levenslanggestraften:
+
+het recidiverisico;
+
+de delictgevaarlijkheid;
+
+het gedrag en de ontwikkeling van de levenslanggestrafte gedurende zijn detentie;
+
+e impact op de slachtoffers en nabestaanden en in de sleutel daarvan de vergelding.
+
+Deze criteria worden ook gehanteerd door het Adviescollege levenslanggestraften bij de advisering over het toelaten van levenslanggestraften tot de reintegratiefase en het aanbieden van reintegratieactiviteiten.
+
+De toekomst zal moeten uitwijzen op welke manier het nieuwe stelsel van herbeoordeling in de praktijk wordt toegepast, zowel in het algemeen, als meer specifiek met betrekking tot de tenuitvoerlegging van de straf die aan de verdachte wordt opgelegd. De veroordeelde heeft de mogelijkheid om de wijze waarop zijn straf ten uitvoer wordt gelegd voor te leggen aan de penitentiaire rechter en de burgerlijke rechter, die erop toezien dat de tenuitvoerlegging in overeenstemming is met artikel 3 EVRM. Ook kan het oordeel van de burgerlijke rechter in verband met een (negatieve) beslissing over de verlening van gratie worden ingeroepen. Daarbij kan de burgerlijke rechter beoordelen of de negatieve beslissing over de verlening van gratie in het licht van de eisen die artikel 3 EVRM stelt en gelet op de redenen van deze beslissing, onrechtmatig is. Een deugdelijke motivering van de negatieve beslissing over gratieverlening is in het bijzonder van belang als wordt afgeweken van het advies van het gerecht dat de straf heeft opgelegd, nu dit advies in beginsel leidend is bij het nemen van de beslissing over gratieverlening.
+
+Het hof is van oordeel dat het opleggen van een levenslange gevangenisstraf onder deze omstandigheden geen onmenselijke bestraffing vormt die in strijd is met artikel 3 EVRM.
+
+De raadslieden hebben verzocht prejudiciële vragen te stellen aan het Hof van Justitie van de Europese Unie als het hof overweegt aan [verdachte] een levenslange gevangenisstraf op te leggen. Deze vragen strekken ertoe een antwoord te krijgen op de vraag of de huidige Nederlandse regelgeving over de levenslange gevangenisstraf en de manier waarop de levenslange gevangenisstraf ten uitvoer wordt gelegd de levenslanggestrafte voldoende gelegenheid geven effectief te resocialiseren en rehabiliteren en op de vraag of die regelgeving in overeenstemming is met de artikelen 4 en 6 van het Handvest van de grondrechten van de Europese Unie in relatie tot de artikelen 3, 5 en 6 EVRM.
+
+Het openbaar ministerie heeft zich op het standpunt gesteld dat er geen noodzaak is tot het stellen van prejudiciële vragen en dat het verzoek daarom moet worden afgewezen.
+
+Het hof ziet geen aanleiding tot het stellen van prejudiciële vragen aan het Hof van Justitie van de Europese Unie. De eventuele oplegging en tenuitvoerlegging van een levenslange gevangenisstraf valt niet binnen het toepassingsgebied van het Unierecht. De wettelijke voorschriften die van toepassing zijn op de tenuitvoerlegging betreffen niet de implementatie van een kaderbesluit of richtlijn van de Europese Unie en de aan [verdachte] ten laste gelegde feiten waarop maximaal levenslange gevangenisstraf of tijdelijke gevangenisstraf van dertig jaren is gesteld, hebben ook niet een dergelijke Unierechtelijke herkomst.
+
+De verdediging heeft een beroep gedaan op Richtlijn (EU) 2016/343. Die richtlijn stelt gemeenschappelijke minimumvoorschriften vast over bepaalde aspecten van het vermoeden van onschuld en het recht om ter terechtzitting aanwezig te zijn, met als doel het recht op een eerlijk proces in strafzaken te versterken. Richtlijn (EU) 2016/343 stelt echter geen gemeenschappelijke minimumvoorschriften vast op het gebied van sanctierecht of penitentiair recht en houdt dus ook niet iets in over de levenslange gevangenisstraf of de manier waarop de levenslange gevangenisstraf ten uitvoer moet worden gelegd.
+
+Niet is gesteld en ook niet is gebleken dat de eventuele oplegging en tenuitvoerlegging van levenslange gevangenisstraf in dit geval op een andere manier binnen het toepassingsgebied van het Unierecht valt. Het komt erop neer dat de door de raadslieden geformuleerde vragen geen betrekking hebben op de toepassing of uitlegging van Unierecht. Dit betekent dat het Hof van Justitie van de Europese Unie ook niet bevoegd is op grond van artikel 267 van het Verdrag betreffende de werking van de Europese Unie bij wijze van prejudiciële beslissing vragen te beantwoorden over regelgeving ter zake van de oplegging en de (verdere) tenuitvoerlegging van de levenslange gevangenisstraf in Nederland. Omdat in dit geval het bij de eventuele oplegging en tenuitvoerlegging van een levenslange gevangenisstraf niet gaat om het ten uitvoer brengen van het recht van de Europese Unie, valt het onderwerp ook buiten het toepassingsgebied van het Handvest van de Grondrechten van de Europese Unie (zie: artikel 52, eerste lid, van het Handvest van de Grondrechten van de Europese Unie).
+
+De raadslieden hebben ook verzocht om in overleg met de verdediging een deskundige te benoemen voor een onderzoek naar de regelgeving en de toepassing van de levenslange gevangenisstraf in Nederland als het hof overweegt aan [verdachte] een levenslange gevangenisstraf op te leggen. Dit onderzoek zou moeten bijdragen aan de beantwoording van onder andere de vraag of de huidige wettelijke regeling wel een voorzienbare en onafhankelijk te toetsen vervroegde vrijlating inhoudt.
+
+Volgens het openbaar ministerie heeft de verdediging geen nieuwe feiten en omstandigheden naar voren gebracht en slechts verwezen naar wat zij bij de rechtbank in eerste aanleg heeft betoogd. Het openbaar ministerie ziet niet de noodzaak tot het benoemen van een deskundige en stelt zich op het standpunt dat het verzoek moet worden afgewezen.
+
+Naar het oordeel van het hof bestaat er geen noodzaak om een deskundige te benoemen. Als het tot een veroordeling komt is de eventuele strafoplegging de taak van de strafrechter. Ter terechtzitting van het hof is de eventuele oplegging en huidige tenuitvoerlegging van de levenslange gevangenisstraf aan de orde gekomen en ook de vraag of de wettelijke regeling wel een voorzienbare en onafhankelijk te toetsen vervroegde vrijlating inhoudt. De raadslieden en de advocatengeneraal hebben daarbij aan het hof de informatie kunnen geven die zij in dat verband van belang vinden. Voor de procespartijen is dus ruimte geweest zich over het onderwerp uit te laten en het hof heeft in dit verband ook zelf thema’s aan de orde kunnen stellen.
+
+Uiteindelijk beoordeelt het hof de eventuele strijdigheid met artikel 3 EVRM van de manier waarop de levenslange gevangenisstraf ten uitvoer wordt gelegd en de daarop betrekking hebbende regelgeving, waaronder de regelgeving op basis waarvan na verloop van tijd herbeoordeling van de verdere tenuitvoerlegging plaatsvindt. Het hof verwijst in aanvulling daarop naar wat het hiervoor heeft overwogen over de omstandigheden waaronder een levenslange gevangenisstraf wordt opgelegd inclusief de huidige regeling van de tenuitvoerlegging van de levenslange gevangenisstraf, die maken dat de oplegging daarvan op zichzelf geen onmenselijke bestraffing vormt die in strijd is met artikel 3 EVRM.
+
+10.4.4.
+
+Conclusie
+
+Alles afwegend is het hof van oordeel dat alleen oplegging van een levenslange gevangenisstraf voldoende recht doet aan de ernst van de feiten – waaronder een uitlokking van een voltooide liquidatie en de poging tot uitlokking van de liquidatie van tien andere personen, die slechts door toeval of fouten niet zijn voltooid – en de persoon van de verdachte. Alleen met deze straf wordt het leed zoveel als mogelijk vergolden en wordt de maatschappij voldoende beschermd tegen het gevaar dat naar het oordeel van het hof nog steeds van [verdachte] uit gaat.
+
+Het hof beoogt met de wijze waarop deze zaak wordt afgedaan het signaal af te geven dat bij wijze van vergelding op deze ernstige vormen van excessief geweld in georganiseerd verband geen andere straf kan volgen. Daarnaast hoopt het hof met deze straf eraan bij te dragen dat anderen ervan worden weerhouden om dergelijke misdrijven te begaan.
+
+Gelet op de aard van de straf heeft een eventuele overschrijding van de redelijke termijn in dit geval geen matigende invloed.
+
+10.4.5.
+
+De Wet straffen en beschermen
+
+De verdediging heeft beschouwingen gewijd aan de wijziging van de regeling van de voorwaardelijke invrijheidstelling per 1 juli 2021. Deze regeling geldt voor tijdelijke gevangenisstraffen. Het hof oordeelt dat een tijdelijke gevangenisstraf, ook met het nieuwe regime voor voorwaardelijke invrijheidstelling, geen passende straf is. De verweren over de nieuwe regeling hoeven daarom niet nader besproken te worden.
+
+11
+HET BESLAG
+
+Onder [verdachte] is het volgende, nog niet teruggegeven voorwerp inbeslaggenomen:
+
+1. BE.1.1		BlackBerry Key 2
+
+11.1.
+
+De vordering van het openbaar ministerie
+
+De advocaten-generaal hebben de verbeurdverklaring van het voorwerp gevorderd.
+
+11.2.
+
+Het standpunt van de verdediging
+
+De verdediging heeft zich niet uitgelaten over het beslag.
+
+11.3.
+
+Het oordeel van het hof
+
+Het hof zal het inbeslaggenomen voorwerp verbeurdverklaren. Het voorwerp is een PGPtelefoon. PGP-telefoons worden gebruikt om via versleutelde berichten met andere PGPtelefoons te communiceren. [verdachte] heeft zich schuldig gemaakt aan het tezamen met anderen plegen van strafbare feiten. Hij heeft deelgenomen aan een criminele organisatie die zich richtte op het plegen van liquidaties. De inbeslaggenomen PGPtelefoon is gelet op de eigenschappen en vanwege het ontbreken van een relatie met nietstrafbaar handelen een voorwerp dat tot het begaan van een misdrijf is bestemd en daarmee vatbaar voor verbeurdverklaring. Het hof heeft rekening gehouden met de financiële draagkracht van [verdachte] .
+
+12
+DE VORDERINGEN VAN DE BENADEELDE PARTIJEN
+
+12.1.
+
+Algemene uitgangspunten
+
+In de zaken Charon, Charlie17, Gezicht, Breuk, Langenhorst en Lis hebben meerdere personen een vordering tot schadevergoeding ingediend. Behalve in de zaak Gezicht gaat het daarbij telkens om nabestaanden van de overleden slachtoffers.
+
+De gewelddadige dood van de slachtoffers in de hiervoor genoemde zaken heeft ernstige en ingrijpende gevolgen voor de levens van hun nabestaanden gehad, als gevolg waarvan zij materiële en immateriële schade hebben geleden. Het is daarom begrijpelijk dat de nabestaanden in dit strafproces vorderingen tot vergoeding van geleden schade hebben ingediend. Het hof zal die vorderingen beoordelen aan de hand van de wet en de regels die in de rechtspraak zijn ontwikkeld. Op een aantal van die regels zal het hof hieronder ingaan, voordat het de afzonderlijke vorderingen zal beoordelen.
+
+12.1.1.
+
+De grondslag voor schadevergoeding voor slachtoffers
+
+Op grond van artikel 51f, eerste lid, van het Wetboek van Strafvordering kan degene die rechtstreeks schade heeft geleden door een strafbaar feit in het strafproces een vordering tot schadevergoeding indienen. Het gaat hierbij dus om het primaire slachtoffer, jegens wie onrechtmatig is gehandeld.
+
+De hiervoor bedoelde vordering kan betrekking hebben op materiële schade (vermogensschade) en immateriële schade (smartengeld). Artikel 6:106 van het Burgerlijk Wetboek (BW) bepaalt dat immateriële schade voor vergoeding in aanmerking komt als:
+
+de aansprakelijke persoon het oogmerk had dergelijke schade toe te brengen, of
+
+de benadeelde lichamelijk letsel heeft opgelopen, in zijn eer of goede naam is geschaad of op andere wijze in zijn persoon is aangetast.
+
+Uit de rechtspraak volgt dat van de onder b) genoemde aantasting in de persoon ‘op andere wijze’ in ieder geval sprake is als de benadeelde naar objectieve maatstaven vast te stellen geestelijk letsel heeft. Daarnaast kunnen de aard en ernst van de normschending en de gevolgen daarvan voor de benadeelde meebrengen dat van een aantasting in de persoon op andere wijze sprake is. In beginsel zal degene die zich hierop beroept de aantasting in zijn persoon met concrete gegevens moeten onderbouwen. In voorkomend geval kunnen de aard en de ernst van de normschending meebrengen dat de in dit verband relevante nadelige gevolgen daarvan voor de benadeelde zo voor de hand liggen, dat een aantasting in de persoon kan worden aangenomen (zie HR 28 mei 2019, ECLI:NL:HR:2019:793).
+
+De immateriële schadevergoeding wordt vastgesteld naar billijkheid, zodat rekening kan worden gehouden met de omstandigheden van het geval.
+
+12.1.2.
+
+De grondslag voor schadevergoeding voor derden (nabestaanden)
+
+Als het slachtoffer overlijdt als gevolg van het strafbare feit, kunnen de erfgenamen zich voegen ter zake van de vordering tot schadevergoeding die zij onder algemene titel hebben verkregen (geërfd) (artikel 51f, tweede lid, van het Wetboek van Strafvordering). De vordering die de overleden persoon had op het moment van overlijden, gaat over op de erfgenamen.
+
+Het BW biedt daarnaast een limitatieve regeling voor de toekenning van een vergoeding voor (vermogens)schade die derden door het overlijden van een naaste lijden. Zij kunnen vergoeding van gederfd levensonderhoud vorderen (artikel 6:108, eerste lid, BW) en degene die de kosten van de uitvaart van het overleden slachtoffer heeft betaald, kan die kosten op de verdachte in het strafproces verhalen (artikel 6:108, tweede lid, BW).
+
+Voor de vergoeding van andere (vermogens)schade van derden biedt de wet geen grondslag. Dat is alleen anders als sprake is van ‘schokschade’. Deze schade kenmerkt zich doordat de pleger van het strafbare feit niet (alleen) onrechtmatig handelt jegens het primaire slachtoffer, maar (ook) jegens een derde die wordt geconfronteerd met de gevolgen van dat strafbare feit (het secundaire slachtoffer). Hierdoor verkrijgt deze derde een zelfstandige aanspraak op schadevergoeding.
+
+12.1.2.1.  Het toetsingskader voor schokschade
+
+In het Taxibusarrest van de Hoge Raad van 22 februari 2002 (ECLI:NL:HR:2002:AD5356) is voor het eerst schadevergoeding toegewezen aan een derde die door de waarneming van een ongeval een hevige emotionele schok kreeg waaruit geestelijk letsel is voortgekomen. Voor de toekenning van een vergoeding voor schokschade formuleerde de Hoge Raad vier cumulatieve vereisten. Er moet sprake zijn van 1) schending van een verkeers- of veiligheidsnorm, 2) letsel of overlijden van het slachtoffer, 3) het waarnemen van het ongeval of van een directe confrontatie met de ernstige gevolgen daarvan (het confrontatievereiste) en 4) geestelijk letsel als gevolg van een hevige emotionele schok.
+
+In zijn arrest van 28 juni 2022 (ECLI:NL:HR:2022:958) heeft de Hoge Raad zijn rechtspraak over de vergoeding van schokschade nader uiteengezet en gepreciseerd, waarbij geldt dat voor zover zijn eerdere rechtspraak hierover anders zou kunnen worden gelezen, daarvan wordt teruggekomen.
+
+Iemand die een ander door zijn onrechtmatige daad doodt of verwondt, kan – afhankelijk van de omstandigheden waaronder die onrechtmatige daad en de confrontatie met die daad of de gevolgen daarvan plaatsvinden – ook onrechtmatig handelen jegens degene bij wie die confrontatie een hevige emotionele schok teweegbrengt. Het recht op vergoeding van schade is beperkt tot de schade die volgt uit door die laatste onrechtmatige daad veroorzaakt geestelijk letsel.
+
+Gezichtspunten die een rol spelen bij de beoordeling van de onrechtmatigheid jegens degene bij wie een hevige emotionele schok is teweeggebracht als hiervoor bedoeld (hierna: het secundaire slachtoffer) zijn onder meer:
+
+De aard, de toedracht en de gevolgen van de jegens het primaire slachtoffer gepleegde onrechtmatige daad, waaronder de intentie van de dader en de aard en ernst van het aan het primaire slachtoffer toegebrachte leed.
+
+De wijze waarop het secundaire slachtoffer wordt geconfronteerd met de jegens het primaire slachtoffer gepleegde onrechtmatige daad en de gevolgen daarvan. Daarbij kan onder meer worden betrokken of hij door fysieke aanwezigheid of anderszins onmiddellijk kennis kreeg van het onrechtmatige handelen jegens het primaire slachtoffer, of dat hij nadien met de gevolgen van dit handelen werd geconfronteerd. Bij een latere confrontatie kan een rol spelen in hoeverre die onverhoeds was. Bij het aan dit gezichtspunt toe te kennen gewicht kan meewegen of het secundaire slachtoffer beroepsmatig of anderszins bedacht moest zijn op een dergelijke schokkende gebeurtenis.
+
+De aard en hechtheid van de relatie tussen het primaire slachtoffer en het secundaire slachtoffer, waarbij geldt dat bij het ontbreken van een nauwe relatie niet snel onrechtmatigheid kan worden aangenomen.
+
+De rechter moet aan de hand van onder meer deze gezichtspunten in hun onderlinge samenhang beschouwd van geval tot geval beoordelen of sprake is van onrechtmatigheid, waarbij niet op voorhand aan een van deze gezichtspunten doorslaggevende betekenis toekomt. Als een van deze gezichtspunten geen duidelijke indicatie voor het aannemen van onrechtmatigheid geeft, kan onrechtmatigheid desondanks worden aangenomen als de omstandigheden daarvoor, bezien vanuit de overige gezichtspunten, voldoende zwaarwegend zijn.
+
+Het recht op vergoeding van schade die is veroorzaakt door het onrechtmatig teweegbrengen van een hevige emotionele schok is zoals gezegd beperkt tot de schade die volgt uit geestelijk letsel. Voor de toewijzing van schadevergoeding voor dat geestelijk letsel is vereist dat het bestaan van dat geestelijk letsel naar objectieve maatstaven is vastgesteld. In de rechtspraak over schokschade is in dat verband steeds overwogen dat dit in het algemeen slechts het geval zal zijn als sprake is van een in de psychiatrie erkend ziektebeeld. Daarmee is beoogd tot uitdrukking te brengen dat die emotionele schok moet hebben geleid tot geestelijk letsel dat gelet op aard, duur en/of gevolgen ernstig is, en in voldoende mate objectiveerbaar. Dit betekent dat de rechter tot toewijzing van schadevergoeding kan overgaan als hij tot het oordeel komt dat sprake is van geestelijk letsel. Dat oordeel kan worden gebaseerd op een rapportage van een deskundige, waarbij gedacht kan worden aan een ter zake bevoegde en bekwame psychiater, huisarts of psycholoog, ook als in die rapportage geen diagnose van een in de psychiatrie erkend ziektebeeld wordt gesteld. Als sprake is van geestelijk letsel als hier bedoeld, komt zowel de materiële als de immateriële schade die daarvan het gevolg is voor vergoeding in aanmerking. Voor zover het gaat om immateriële schade is die vergoeding gebaseerd op het bepaalde in artikel 6:106, eerste lid, aanhef en onder b, BW (aantasting van de persoon op andere wijze).
+
+Ook bij een vordering tot vergoeding van schokschade kan de strafrechter gedeeltelijk een inhoudelijke beslissing nemen in de vorm van een toewijzing, en de vordering voor het resterende deel niet-ontvankelijk verklaren. Een dergelijke splitsing van de vordering maakt het voor de strafrechter mogelijk te beslissen over dat deel van de vordering waarvan de behandeling niet een onevenredige belasting van het strafgeding oplevert, terwijl de benadeelde partij het resterende deel van haar vordering aan de burgerlijke rechter kan voorleggen.
+
+(HR 28 juni 2022, ECLI:NL:HR:2022:958, rov. 3.4-3.8.)
+
+12.1.3.
+
+De wettelijke rente, schadevergoedingsmaatregel en hoofdelijkheid
+
+Als het hof vorderingen tot schadevergoeding geheel of ten dele toewijst, zal het daarbij ook de wettelijke rente toewijzen als die is gevorderd. Waar het gaat om immateriële schadevergoeding, bepaalt het hof de ingangsdatum van de wettelijke rente op de pleegdatum van het bewezen verklaarde feit. Bij vergoeding van materiële schade bepaalt het hof die ingangsdatum in beginsel op de datum waarop de schade is ontstaan of de vordering is ingediend, tenzij uitdrukkelijk anders wordt overwogen.
+
+Het hof ziet aanleiding om in het belang van de benadeelde partijen bij de toegewezen bedragen telkens de schadevergoedingsmaatregel van artikel 36f van het Wetboek van Strafrecht op te leggen. Bij het bepalen van de duur van de gijzeling – die bij niet-betaling kan worden toegepast – heeft het hof acht geslagen op de artikelen 36f, vijfde lid, en 60a van het Wetboek van Strafrecht. Daaruit volgt dat de totale duur van de gijzeling maximaal een jaar betreft. Daaronder moet in deze zaak een termijn van 360 dagen (twaalf maanden van dertig dagen) worden verstaan (HR 1 juni 2021, ECLI:NL:HR:2021:812). Het hof zal dit maximale aantal dagen gijzeling evenredig verdelen over de maatregelen van de toegewezen vorderingen als het totale aantal dagen gijzeling zonder toepassing van dit maximum boven 360 dagen zou uitstijgen.
+
+Het hof legt aan [verdachte] een levenslange gevangenisstraf op. Gelet op wat het hof hiervoor heeft overwogen over de tenuitvoerlegging van de levenslange gevangenisstraf, moet het hof rekening houden met het feit dat aan [verdachte] op enig moment gratie kan worden verleend. Het verlenen van gratie ontslaat [verdachte] niet van zijn betalingsverplichting. Dit betekent dat het in het belang van de benadeelde partijen is om ook bij [verdachte] de schadevergoedingsmaatregel op te leggen en bij het bepalen van de duur van de gijzeling de gebruikelijke maatstaf te hanteren.
+
+[verdachte] heeft het strafbare feit waarvoor schadevergoeding is gevorderd samen met anderen gepleegd. Hij en zijn mededaders zijn voor de geleden schade ieder hoofdelijk aansprakelijk. Voor zover de vorderingen worden toegewezen, zal het hof daarom telkens bepalen dat [verdachte] van zijn betalingsverplichting is bevrijd als en voor zover het toegewezen bedrag geheel of gedeeltelijk door (een) medeverdachte(n) is betaald.
+
+12.2.
+
+CHARON
+
+12.2.1.
+
+[benadeelde partij 1]
+
+, de vader van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 73.033,80, bestaande uit € 13.033,80 aan materiële schade en € 60.000,- aan immateriële schade. Daarbij heeft hij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De materiële schade is primair gebaseerd op schokschade en subsidiair op rechtstreekse schade. De schade bestaat uit de volgende posten:
+
+eigen risico 2022 (€ 385,-);
+
+verhuiskosten, bestaande uit de aanschaf van huishoudelijke artikelen (€ 750,-), inrichtings- en verhuiskosten (€ 5.892,-) en de huur van een aanhanger (€ 80,-);
+
+dubbele lasten, bestaande uit huur (€ 3.001,48) en internet (€ 170,-);
+
+huur auto (€ 350,-);
+
+telefoonkosten, bestaande uit opwaardeerkaarten (€ 80,-) en de aanschaf van een nieuwe telefoon (€ 55,-);
+
+beveiligingskosten, bestaande uit deur/sloten (€ 300,-), een computer (€ 150,-) en een buitencamera (€ 200,-);
+
+verlies verdiencapaciteit (€ 1.490,32);
+
+reiskosten voor bezoek aan mortuarium, politie, advocaat, psycholoog en andere hulpverleners (500 km * € 0,26 = € 130,-).
+
+De gevorderde immateriële schade bestaat uit € 40.000,- aan schokschade en € 20.000,- aan schade door aantasting in de persoon als gevolg van de beveiligingsmaatregelen.
+
+De rechtbank heeft de benadeelde partij niet-ontvankelijk verklaard in de vordering.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.1.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de benadeelde partij
+
+niet-ontvankelijk moet worden verklaard in de vordering. Volgens de advocaten-generaal is ten aanzien van de gevorderde vergoeding van materiële schade niet voldaan aan de vereisten voor het toekennen van een vergoeding voor schokschade, terwijl ook geen sprake is van voldoende rechtstreeks verband tussen de gestelde schade en het ten laste gelegde feit. De gevorderde vergoeding van immateriële schade kan volgens de advocaten-generaal evenmin worden toegewezen, omdat de vereiste onderbouwing ontbreekt.
+
+12.2.1.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige is door de verdediging geen verweer gevoerd.
+
+12.2.1.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen. Uit de door de raadsman van de benadeelde partij op de zitting gegeven toelichting blijkt dat de benadeelde partij het lichaam van zijn zoon vier dagen na de liquidatie in het mortuarium heeft gezien. Hij is daarbij geconfronteerd met de (vele) verwondingen aan het lichaam.
+
+Het hof stelt vast dat de benadeelde partij als vader een hechte – een nauwe en affectieve – relatie had met het slachtoffer. De confrontatie met de gewelddadige dood van zijn zoon heeft onmiskenbaar een hevige schok bij hem teweeggebracht. In de toelichting op de vordering is in dit verband naar voren gebracht: “De beelden staan op zijn netvlies gebrand. [benadeelde partij 1] kan in geen woorden omschrijven wat dit op mentaal gebied met hem doet/heeft gedaan. [benadeelde partij 1] ervaart sindsdien lichamelijke stressklachten als tintelingen in het hoofd, zwetende handen en een bonkende hartslag. De beelden van de staat waarin hij het slachtoffer aantrof komen plots op. De flashbacks zorgen voor woede en angst”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens [benadeelde partij 1] bij wie de confrontatie met de moord op zijn zoon en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op zijn zoon met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de zoon van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 1] aan te nemen.
+
+Uit een medische verklaring van 27 december 2021 van een GZ-psychloog blijkt dat bij de benadeelde partij sprake is van een posttraumatische stressstoornis (PTSS). Vanwege deze klachten is hij in november 2021 gestart met een individueel behandeltraject in het kader van traumabehandeling. Dit traject is gestart met psycho-educatie rondom PTSS en in januari 2022 zou worden gestart met EMDR.
+
+Het hof is van oordeel dat uit de rapportage voldoende blijkt dat bij de benadeelde partij sprake is van geestelijk letsel dat het gevolg is van het bewezenverklaarde strafbare feit. Dat er een aantal jaar is verstreken tussen het feit en de vaststelling van het letsel doet daaraan niet af.
+
+Vast is dus komen te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan aanspraak maken op vergoeding van materiële en immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Materiële schade
+
+Eigen risico
+
+Het hof is van oordeel dat de gemaakte kosten voor betaling van het eigen risico (in 2022) rechtstreeks volgen uit het geestelijk letsel dat is veroorzaakt door het onrechtmatig handelen van de verdachte. Uit de door de benadeelde partij overgelegde stukken blijkt dat hij in dat jaar door een psycholoog is behandeld in verband met zijn PTSS. Op basis van de stukken en het verhandelde op de zitting gaat het hof ervan uit dat deze kosten in rekening zijn gebracht bij zijn zorgverzekeraar en dat zijn eigen risico als gevolg van de behandelingen in dat jaar geheel is aangesproken. Het hof zal dit deel van de vordering
+
+(€ 385,-) daarom toewijzen.
+
+Reiskosten
+
+De reiskosten die de benadeelde partij heeft gemaakt voor zijn bezoek aan de psycholoog en andere hulpverleners kunnen ook als rechtstreekse schade worden aangemerkt en komen daarom in beginsel ook voor vergoeding in aanmerking. Dat geldt niet voor de overige reiskosten (die zijn gemaakt voor het bezoek aan het mortuarium, de politie en de advocaat), omdat daarvan onvoldoende is gebleken dat zij rechtstreeks volgen uit het geestelijk letsel van de benadeelde partij.
+
+Het totaal aan gevorderde reiskosten is echter in de vordering niet nader gespecifieerd, zodat niet duidelijk is uit welk bedrag de reiskosten voor het bezoek aan de psycholoog en andere hulpverleners bestaan en welk deel voor de overige reiskosten is gevorderd. Dit deel van de vordering is daarom onvoldoende onderbouwd. Het hof zal de benadeelde partij om die reden in dit deel van de vordering nietontvankelijk verklaren.
+
+Overige kosten
+
+De overige kosten vloeien voort uit (beveiligings)maatregelen die de benadeelde partij heeft getroffen na het afleggen van een getuigenverklaring in onder meer deze strafzaak. De grondslag van dit deel van de vordering is volgens de benadeelde partij primair gelegen in schokschade en subsidiair in de gestelde inbreuk die de verdachten hebben gemaakt op de persoonlijke levenssfeer van de benadeelde partij, die als een op zichzelf staande onrechtmatige daad jegens de benadeelde partij moet worden beschouwd.
+
+Het hof is van oordeel dat deze schade niet (rechtstreeks) volgt uit het geestelijk letsel dat bij de benadeelde partij is veroorzaakt. De kosten vallen daarom niet onder materiële schokschade. Een andere wettelijke grondslag voor toewijzing is niet aan de orde. Het is geen schade die de benadeelde partij rechtstreeks door het bewezenverklaarde heeft geleden. Het is ook geen vordering tot schadevergoeding die [benadeelde partij 1] onder algemene titel heeft verkregen en zij valt ook niet onder de limitatieve regeling voor de toekenning van een vergoeding voor (vermogens)schade die derden door het overlijden van een naaste lijden. De benadeelde partij zal daarom ook in dit deel van de vordering niet-ontvankelijk worden verklaard.
+
+Immateriële schade
+
+Het hof stelt de vergoeding voor de door het geestelijk letsel geleden immateriële schade schattenderwijs en naar billijkheid vast op € 20.000,-. Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder de confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan vergoeding voor immateriële schokschade aan naasten hebben toegekend. Het hof zal het resterende deel van de vordering niet-ontvankelijk verklaren.
+
+De rest van de vordering bestaat uit schade door aantasting in de persoon als gevolg van de beveiligingsmaatregelen. Dit is geen schade die de benadeelde partij rechtstreeks door het bewezenverklaarde heeft geleden. Het hof acht deze schade niet toewijsbaar en verwijst hiervoor verder naar wat is overwogen bij de beoordeling van de gevorderde vergoeding van de overige materiële schade: het is geen vordering tot schadevergoeding die [benadeelde partij 1] onder algemene titel heeft verkregen en zij valt ook niet onder de limitatieve regeling voor de toekenning van een vergoeding voor (vermogens)schade die derden door het overlijden van een naaste lijden. Het hof zal de benadeelde partij daarom (ook) in dit deel van de vordering niet-ontvankelijk verklaren.
+
+12.2.2.
+
+[benadeelde partij 7]
+
+, de moeder van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 41.950,74, bestaande uit € 1.950,74 aan materiële schade en € 40.000,- aan immateriële schade. Zij heeft daarbij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De materiële schade, voor zover primair gebaseerd op schokschade en subsidiair gebaseerd op rechtstreekse schade, bestaat uit de volgende posten:
+
+eigen risico (€ 137,45);
+
+medische voorschotten (€ 200,-);
+
+kosten hulpverlening (€ 200,-);
+
+verlies verdiencapaciteit.
+
+De overige gevorderde vergoeding van materiële schade ziet op de kosten van lijkbezorging, bestaande uit:
+
+onverzekerd deel uitvaartkosten (€ 847,09);
+
+uitstrooikosten (€ 300,-);
+
+notariskosten (€ 266,20).
+
+De immateriële schadevergoeding is gebaseerd op schokschade.
+
+De rechtbank heeft de vordering tot vergoeding van materiële schade toegewezen tot een bedrag van € 1.147,09 (onverzekerd deel uitvaartkosten en uitstrooikosten). De rechtbank heeft de overige gevorderde materiële schadevergoeding deels afgewezen (notariskosten) en deels niet-ontvankelijk verklaard (overige schadeposten). De rechtbank heeft de benadeelde partij (eveneens) nietontvankelijk verklaard in de vordering tot vergoeding van immateriële schade.
+
+De rechtbank heeft de verdachte hoofdelijk veroordeeld tot betaling van het toegewezen bedrag (€ 1.147,09), te vermeerderen met de wettelijke rente vanaf 31 januari 2017 en met toepassing van de schadevergoedingsmaatregel.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.2.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de gevorderde materiële schade moet worden toegewezen tot een bedrag van € 1.147,09. Volgens de
+
+advocaten-generaal moet de benadeelde partij wat betreft de overige materiële schadeposten – waaronder dus ook de gestelde notariskosten – niet-ontvankelijk worden verklaard in de vordering. De gevorderde vergoeding van immateriële schade achten de advocaten-generaal evenmin toewijsbaar. Alhoewel die schade voorstelbaar is, ontbreekt de vereiste onderbouwing.
+
+12.2.2.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.2.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen. De benadeelde partij heeft het lichaam van haar zoon vier dagen na de liquidatie in het mortuarium gezien. Zij is daarbij geconfronteerd met de (vele) verwondingen aan zijn lichaam.
+
+Het hof stelt vast dat de benadeelde partij als moeder een hechte – een nauwe en affectieve – relatie had met het slachtoffer. De confrontatie met de gewelddadige dood van haar zoon heeft onmiskenbaar een hevige schok bij haar teweeggebracht. In de toelichting van de vordering is in dit verband naar voren gebracht: “Nabestaande 1 heeft het slachtoffer op 4 februari 2017 in het mortuarium gezien. Nabestaande 1 is toen geconfronteerd met de ernstige verwondingen die het slachtoffer door het misdrijf heeft opgelopen en [waar]aan hij [is] overleden. Voor nabestaande 1 een zeer traumatisch beeld. De verwondingen in het gezicht van het slachtoffer staan op het netvlies gebrand. Tot op de dag van vandaag ziet nabestaande 1 dit beeld voor zich. Nabestaande 1 beeldt zich in hoe de verdachten het slachtoffer hebben toegetakeld”. En: “Wij hebben [slachtoffer] in het mortuarium gezien nadat zijn lichaam was vrijgegeven. Zeer traumatisch met verwonding aan zijn gezicht. Wij hebben [slachtoffer] aangekleed. De uitvaart was uiteindelijk op 7 februari 2017. Alles is als een roes voorbijgegaan en terugkijkend lijkt het alsof ik niet in mijn lichaam was”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens de benadeelde partij bij wie de confrontatie met de moord op haar zoon en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op haar zoon met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de zoon van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 7] aan te nemen.
+
+De benadeelde partij heeft verklaringen van een bedrijfsarts van 20 maart 2017,
+
+3 april 2017, 24 april 2017, 29 mei 2017 en 3 juli 2017 en een door dezelfde bedrijfsarts ingevulde Probleemanalyse WIA van 24 april 2017 overgelegd. Uit deze stukken blijkt dat de benadeelde partij vanaf 13 maart 2017 enige tijd niet heeft kunnen werken vanwege “beperkingen ten aanzien van het hanteren van eigen en andermans emoties en conflicthantering, het hanteren van tijdsdruk en piekbelasting, concentratie en aandacht (wordt te veel afgeleid door piekergedachten) en haar energie”. Er is gerichte behandeling en begeleiding opgestart en contact onderhouden met de huisarts.
+
+In de stukken van de bedrijfsarts wordt niet een in de psychiatrie erkend ziektebeeld genoemd. Het hof acht op basis van de in die stukken beschreven klachten (beperkingen in het functioneren) echter wel in voldoende mate objectiveerbaar dat bij de benadeelde partij sprake is van geestelijk letsel dat gelet op de aard, duur en gevolgen ernstig is.
+
+Naar het oordeel van het hof is aldus komen vast te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan daarom aanspraak maken op vergoeding van materiële en immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Materiële schade
+
+Schokschade
+
+Het hof is van oordeel dat de opgevoerde materiële schadeposten rechtstreeks volgen uit het geestelijk letsel dat is veroorzaakt door het onrechtmatig handelen van de verdachten, zodat deze in beginsel voor toewijzing in aanmerking komen. De hoogte van de schadeposten moet echter wel voldoende zijn onderbouwd. Dit is het geval waar het gaat om de kosten van het eigen risico (dat is gebruikt voor behandeling door een psycholoog en medicatie) en de kosten voor hulpverlening. De verdediging heeft deze schadeposten ook niet betwist. Het hof zal de vergoeding van deze kosten (€ 337,45) dus toewijzen.
+
+De kosten die zijn gemaakt voor het opvragen van een verslag van een psycholoog (medische voorschotten) en het verlies van verdiencapaciteit, acht het hof daarentegen niet voldoende onderbouwd. Het hof zal daarom de benadeelde partij in dit deel van de vordering nietontvankelijk verklaren.
+
+Kosten lijkbezorging
+
+Het hof zal de gevraagde vergoeding van de kosten die de benadeelde partij heeft gemaakt voor de uitvaart van haar zoon toewijzen tot een bedrag van € 1.147,09 (€ 847,09 voor het onverzekerde deel van de uitvaart en € 300,- voor de kosten van het uitstrooien van de as).
+
+Deze kosten zijn het rechtstreekse gevolg van het bewezenverklaarde. Dergelijke kosten komen – zoals hiervoor uiteengezet – op grond van artikel 6:108 BW als ‘kosten van lijkbezorging’ voor vergoeding in aanmerking. De hoogte van de kosten van het onverzekerde deel van de uitvaart is met stukken onderbouwd en voor de kosten die zien op het uitstrooien van de as geldt dat zij gemotiveerd zijn gesteld en dat zij mede gelet op hun omvang voldoende aannemelijk zijn zodat de omvang van die schade wordt geschat op het gevorderde bedrag van € 300,-.
+
+De vordering die ziet op de kosten van de werkzaamheden van de notaris zal worden afgewezen, nu voor toewijzing hiervan geen wettelijke grondslag bestaat.
+
+Immateriële schade
+
+Het hof zal de vergoeding voor de immateriële schade door het geestelijk letsel als gevolg van de confrontatie (de schokschade) schattenderwijs en naar billijkheid vaststellen op
+
+€ 20.000,-. Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder de confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan immateriële schokschade aan naasten hebben toegekend. Het hof zal het resterende deel van de vordering nietontvankelijk verklaren.
+
+12.2.3.
+
+[benadeelde partij 8]
+
+, de broer van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 20.000,-, bestaande uit immateriële schade. Daarbij heeft hij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De vordering is gebaseerd op schokschade.
+
+De rechtbank heeft de benadeelde partij niet-ontvankelijk verklaard in de vordering.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering. De benadeelde partij heeft in hoger beroep aanvullend een verwijsbrief van de huisarts van 2 juni 2017 aan het hof overgelegd.
+
+12.2.3.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de vordering onvoldoende is onderbouwd, aangezien op basis van de door de benadeelde partij ingediende stukken niet kan worden vastgesteld dat sprake is van een in de psychiatrie erkend ziektebeeld. De benadeelde partij moet daarom niet-ontvankelijk worden verklaard in de vordering.
+
+12.2.3.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.3.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen. De benadeelde partij heeft het lichaam van zijn broer vier dagen na de liquidatie in het mortuarium gezien. Hij is daarbij geconfronteerd met de (vele) verwondingen aan het lichaam.
+
+Het hof is van oordeel dat genoegzaam kan worden vastgesteld dat de benadeelde partij een hechte – een nauwe en affectieve – relatie had met het slachtoffer (zijn broer). De confrontatie met de gewelddadige dood van zijn broer heeft onmiskenbaar een hevige schok bij de benadeelde partij teweeggebracht. In de toelichting op de vordering is in dit verband naar voren gebracht dat de benadeelde partij zichzelf sinds de confrontatie met het lichaam van zijn broer in het mortuarium volledig is kwijtgeraakt. Hij krijgt het beeld met de ernstige verwondingen niet meer van zijn netvlies en kan wat hij heeft waargenomen tot op de dag van vandaag in detail beschrijven. Het slachtoffer was voor hem onherkenbaar geworden. Over de confrontatie is in de toelichting van de vordering verder geschreven: “Mijn broertje zag ik daar liggen, hij zag er niet vredig uit, wonden op en in zijn hoofd die niet verklaarbaar waren. Zijn gezicht rechts was niet ok, schrammen en een beschadigde, rode dikke huid van zijn wang tot aan zijn oor. Zijn linker- en rechterarm en -been zaten onder verband. Op zijn hoofd zat een grote hechting en een kleine, voor ons niet verklaarbaar. Shock shock, ik kan niet meer, ook niet meer kijken”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens de benadeelde partij bij wie de confrontatie met de moord op zijn broer en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op zijn broer met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de broer van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 8] aan te nemen.
+
+In de verwijsbrief van de huisarts van 2 juni 2017 is geschreven dat bij de benadeelde partij sprake is van een PTSS. Ook is sprake van gestoorde rouw en spanning. Gelet op deze rapportage stelt het hof vast dat bij de benadeelde partij sprake is van geestelijk letsel.
+
+De raadsman van de benadeelde partij heeft in hoger beroep (aanvullend) naar voren gebracht dat de benadeelde partij vanwege de klachten door zijn huisarts is verwezen naar een psycholoog. Hij heeft (pas) recentelijk contact gezocht met een psycholoog, omdat hij eerder niet in staat was om geconfronteerd te worden met zijn trauma.
+
+Naar het oordeel van het hof is aldus vast komen te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan daarom aanspraak maken op vergoeding van immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Immateriële schade
+
+Het hof acht de hoogte van de gevorderde immateriële schadevergoeding passend. Het zal de vordering daarom toewijzen voor het gevorderde bedrag (€ 20.000,-). Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder die confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan vergoeding van immateriële schokschade aan naasten hebben toegekend.
+
+12.2.4.
+
+[benadeelde partij 10]
+
+, de zus van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 34.634,02, bestaande uit € 14.634,02 aan materiële schade en € 20.000,- aan immateriële schade. Daarnaast heeft zij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De materiële schade is primair gebaseerd op schokschade en subsidiair op rechtstreekse schade. De schade bestaat uit de volgende posten:
+
+- kosten EMDR-behandelingen bij een psychotherapeut (€ 585,-) en psycholoog
+
+(€ 550,-);
+
+kosten hulpverlening/coach (€ 5.000,-);
+
+verlies verdiencapaciteit (€ 3.148,58);
+
+studiekosten omscholing (€ 3.023,82);
+
+reiskosten voor bezoek aan mortuarium, uitvaartcentrum, hulverleners, advocaat en rechtbank (7.721,6 km * € 0,26 = € 1.890,62);
+
+parkeerkosten (€ 51,-);
+
+eigen risico 2018 (€ 385,-).
+
+De immateriële schade is gebaseerd op schokschade.
+
+De rechtbank heeft de vordering die ziet op vergoeding van materiële schade toegewezen tot een bedrag van € 1.635,34 (kosten deskundigen, daarmee gepaard gaande reis- en parkeerkosten en kosten eigen risico). De kosten van hulpverlening/coach, verlies verdiencapaciteit, studiekosten omscholing en overige reis- en parkeerkosten zijn niet toegewezen. De rechtbank heeft de vordering die ziet op vergoeding van immateriële schade toegewezen tot een bedrag van € 10.000,-. De benadeelde partij is in het meer gevorderde niet-ontvankelijk verklaard.
+
+De rechtbank heeft de verdachte hoofdelijk veroordeeld tot betaling van het toegewezen bedrag (€ 11.635,34), vermeerderd met de wettelijke rente vanaf 31 januari 2017 en met toepassing van de schadevergoedingsmaatregel.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.4.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de gevorderde materiële schadevergoeding moet worden toegewezen tot een bedrag van € 1.635,34. Volgens de advocatengeneraal moet de benadeelde partij in de meer gevorderde vergoeding van materiële schade niet-ontvankelijk worden verklaard. Daarbij hebben de advocaten-generaal opgemerkt dat de behandeling van dit deel van de vordering een onevenredige belasting van het strafgeding zou opleveren, zelfs als er al een rechtstreeks verband bestaat tussen de gestelde materiële schade en de ten laste gelegde feiten. De gevorderde immateriële schade kan volgens de advocaten-generaal geheel worden toegewezen.
+
+12.2.4.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.4.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen. De benadeelde partij heeft het lichaam van haar broer vier dagen na de liquidatie in het mortuarium gezien. Zij is daarbij geconfronteerd met de (vele) verwondingen aan het lichaam.
+
+Het hof is van oordeel dat genoegzaam kan worden vastgesteld dat de benadeelde partij een hechte – een nauwe en affectieve – relatie had met het slachtoffer (haar broer). De confrontatie met de gewelddadige dood van haar broer heeft onmiskenbaar een hevige schok bij haar teweeggebracht. In de toelichting op de vordering is in dit verband naar voren gebracht dat de benadeelde partij sinds de confrontatie met het lichaam van haar broer in het mortuarium last heeft van herbelevingen en nachtmerries. De verwondingen waaraan haar broer is overleden en de sporen van het autopsieonderzoek waren duidelijk zichtbaar. De benadeelde partij kan dit beeld niet meer loslaten. De confrontatie heeft haar leven drastisch veranderd. Over de confrontatie is in de toelichting op de vordering verder geschreven: “Ik heb mijn broertje gezien nadat volledige autopsie verricht was. Hij is toen overgebracht naar het mortuarium waar wij hem meteen hebben gezien zodra wij konden. Het beeld dat ik daarvan gezien heb met zijn verwondingen is voor mij traumatisch geweest. Daarbij heb ik allerlei vormen van het verloop van zijn overlijden gevormd in mijn hoofd, hoe dit gegaan is, beelden die tot nog toe niet heb kunnen loslaten van zijn verwondingen en hoe dit gegaan is, zichtbaar dat er autopsie is verricht”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens de benadeelde partij bij wie de confrontatie met de moord op haar broer en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op haar broer met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de broer van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 10] aan te nemen.
+
+Uit een verslag van een psychotherapeut van 24 augustus 2021 volgt dat de benadeelde partij zich in april 2017 bij De Praktijk heeft gemeld, omdat zij slecht sliep en last had van herbelevingen en nachtmerries. Zij zag bij herhaling beelden van haar broertje in het mortuarium, waarbij de verwondingen waaraan hij is overleden en de sporen van de autopsie duidelijk zichtbaar waren. Er is sprake van een posttraumatische stressstoornis (PTSS). De benadeelde partij heeft voor haar klachten EMDR-therapie gevolgd in de periode april 2017 tot en met juni 2017. Uit de overige medische stukken die zijn overgelegd, volgt dat deze behandeling niet volstond en dat er een nadere behandeling is gevolgd vanaf januari 2018. Het hof stelt gelet hierop vast dat bij de benadeelde partij sprake is van geestelijk letsel.
+
+Naar het oordeel van het hof is aldus vast komen te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan daarom aanspraak maken op vergoeding van materiële en immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Materiële schade
+
+Medische kosten, kosten voor hulpverlening en reiskosten
+
+Het hof is van oordeel dat de gemaakte kosten voor EMDR-behandelingen bij een psychotherapeut (€ 585,-) en psycholoog (€ 550,-) die door de zorgverzekering niet zijn vergoed, de daarmee gepaard gaande reis- en parkeerkosten (374,4 km * € 0,26 = € 97,34 en € 45,-) en het eigen risico voor de zorgverzekering in 2018 (€ 385,-) rechtstreeks volgen uit het geestelijk letsel dat is veroorzaakt door het onrechtmatig handelen van de verdachte. Deze kosten zijn bovendien voldoende onderbouwd. Het hof zal dit deel van de vordering
+
+(€ 1.662,34) daarom toewijzen.
+
+Het hof acht de andere kosten voor hulpverlening (ondersteuning door een coach door middel van onder andere aura- en chakra-readings) niet toewijsbaar. Van deze kosten is onvoldoende gebleken dat zij rechtstreeks volgen uit het geestelijk letsel van de benadeelde partij. Dat geldt ook voor de reiskosten die zijn gemaakt voor het bezoeken van het mortuarium, het uitvaartcentrum, de coach en de advocaat. Het hof zal de benadeelde partij daarom niet-ontvankelijk verklaren in dit deel van de vordering.
+
+Uit artikel 238 van het Wetboek van Burgerlijke Rechtsvordering volgt dat (alleen) een in persoon procederende partij reis- en aanverwante kosten gemaakt voor het bijwonen van de zitting als proceskosten vergoed kan krijgen. Omdat de benadeelde partij heeft geprocedeerd met bijstand van een advocaat, komen de gevorderde kosten van het reizen naar de rechtbank niet voor vergoeding in aanmerking. Het hof zal dit deel van de vordering
+
+(€ 28,24) daarom afwijzen.
+
+Verlies verdienvermogen en studiekosten omscholing
+
+Het hof is van oordeel dat op basis van de overgelegde stukken niet zonder nader onderzoek kan worden vastgesteld of en, zo ja, in hoeverre de benadeelde partij als rechtstreeks gevolg van het geestelijk letsel een verlies van verdiencapaciteit heeft. Dat geldt ook voor de opgevoerde kosten voor omscholing. Voor de beoordeling van dit deel van de vordering is meer onderzoek nodig. De behandeling van dit deel van de vordering levert dan ook een onevenredige belasting van het strafgeding op. Het hof zal de benadeelde partij daarom
+
+niet-ontvankelijk verklaren in dit deel van de vordering en bepalen dat de vordering slechts bij de burgerlijke rechter kan worden aangebracht.
+
+Immateriële schade
+
+Het hof acht de hoogte van de gevorderde immateriële schadevergoeding passend. Anders dan de rechtbank zal het hof de vordering daarom toewijzen voor het gevorderde bedrag
+
+(€ 20.000,-). Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder die confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan vergoeding van immateriële schokschade aan naasten hebben toegekend.
+
+12.2.5.
+
+[benadeelde partij 12]
+
+, de (half)zus van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt
+
+€ 38.737,-, bestaande uit € 18.737,- aan materiële schade en € 20.000,- aan immateriële schade. Daarbij heeft zij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De materiële schade is primair gebaseerd op schokschade en subsidiair op rechtstreekse schade. De schade bestaat uit de volgende posten:
+
+studievertraging (€ 16.625,-);
+
+studieschuld (€ 1.137,-);
+
+verlies verdiencapaciteit (€ 975,-).
+
+De immateriële schade is gebaseerd op schokschade.
+
+De rechtbank heeft de benadeelde partij niet-ontvankelijk verklaard in de vordering.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.5.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de benadeelde partij
+
+niet-ontvankelijk moet worden verklaard in de vordering. De advocaten-generaal hebben daarbij opgemerkt dat op basis van de door de benadeelde partij ingediende stukken onvoldoende duidelijk is of de gediagnosticeerde klachten voldoende rechtstreeks verband houden met de confrontatie met de gevolgen van de ten laste gelegde feiten.
+
+12.2.5.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.5.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen.
+
+De benadeelde partij was aanwezig toen de politie de familie informeerde over het overlijden van het slachtoffer. Daarna zijn aan haar verschillende foto’s van het stoffelijk overschot van haar (half)broer getoond. Daarop waren de verwondingen aan zijn lichaam duidelijk te zien. Vier dagen na de liquidatie heeft de benadeelde partij het lichaam van haar broer in het mortuarium gezien. Zij is daarbij (opnieuw) geconfronteerd met de (vele) verwondingen aan het lichaam.
+
+Het hof is van oordeel dat genoegzaam kan worden vastgesteld dat de benadeelde partij een hechte – een nauwe en affectieve – relatie had met het slachtoffer (haar (half)broer). De confrontatie met de gewelddadige dood van haar broer heeft onmiskenbaar een hevige schok bij haar teweeggebracht. In de toelichting op de vordering is in dit verband het volgende naar voren gebracht: “Ik kreeg op dat moment foto’s te zien van [slachtoffer 11] lijk. Hij was overal verwond. (…) Ik herkende hem bijna niet meer. Hij zag er zo anders uit. (…) Na een aantal dagen mocht dichtbij staande familie afscheid nemen van [slachtoffer 11] . De manier hoe we hem aantroffen was hartverscheurend. (…) Hij was zo erg verwond, het enige dat ik dacht was: wat ging er in zijn hoofd om toen het gebeurde, hoeveel pijn heeft hij geleden? (…) Als ik eraan denk, breekt mijn hart”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens de benadeelde partij bij wie de confrontatie met de moord op haar (half)broer en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op haar broer met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de broer van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 12] aan te nemen.
+
+Uit een brief van een psycholoog en een GZ-psycholoog van 29 december 2021 volgt dat de benadeelde partij “door haar huisarts is verwezen in verband met traumaverwerking na liquidatie broer in 2017”. Zij heeft geregeld “flashbacks van het lijk schouwen”. In de brief wordt ook beschreven dat de benadeelde partij een blanco voorgeschiedenis heeft binnen de geestelijke gezondheidszorg. Er is sprake van een PTSS. De benadeelde partij is op de wachtlijst geplaatst voor traumabehandeling. Gelet op deze rapportage kan worden vastgesteld dat bij de benadeelde partij sprake is van voldoende ernstig geestelijk letsel.
+
+Naar het oordeel van het hof is aldus vast komen te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan daarom aanspraak maken op vergoeding van materiële en immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Materiële schade
+
+Het hof is van oordeel dat (op basis van de overgelegde stukken) niet zonder nader onderzoek kan worden vastgesteld of en, zo ja, in hoeverre de benadeelde partij als rechtstreeks gevolg van het geestelijk letsel studievertraging en een studieschuld heeft opgelopen. Dat geldt ook voor het gevorderde verlies van verdiencapaciteit. Voor de beoordeling van dit deel van de vordering is meer onderzoek nodig. De behandeling van dit deel van de vordering levert dan ook een onevenredige belasting van het strafgeding op. Een andere wettelijke grondslag voor toewijzing van een vergoeding van deze schade die niet rechtstreeks het gevolg is van het bewezenverklaarde, is niet aan de orde. Het hof zal de benadeelde partij daarom niet-ontvankelijk verklaren in dit deel van de vordering en bepalen dat de vordering slechts bij de burgerlijke rechter kan worden aangebracht.
+
+Immateriële schade
+
+Het hof acht de hoogte van de gevorderde immateriële schade passend. De vordering zal daarom in haar geheel worden toegewezen (€ 20.000,-). Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder de confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan vergoeding van immateriële schokschade aan naasten hebben toegekend.
+
+12.2.6.
+
+[benadeelde partij 11]
+
+, de (half)broer van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 23.945,20, bestaande uit € 3.945,20 aan materiële schade en € 20.000,- aan immateriële schade. Daarnaast heeft hij verzocht om vergoeding van de wettelijke rente en oplegging van de schadevergoedingsmaatregel.
+
+De materiële schade – bestaande uit verlies van verdiencapaciteit – is primair gebaseerd op schokschade en subsidiair op rechtstreekse schade. De immateriële schade is gebaseerd op schokschade.
+
+De rechtbank heeft de benadeelde partij niet-ontvankelijk verklaard in de vordering.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.6.1.  Het standpunt van het openbaar ministerie
+
+Volgens de advocaten-generaal volgt uit HR 28 juni 2022, ECLI:NL:HR:2022:958, dat ook sprake kan zijn van schokschade bij een latere confrontatie met de gevolgen van het strafbare feit. In dit geval heeft het bekijken van de tv-serie Mocro Maffia bij de benadeelde partij geleid tot het besef dat zijn broer is geliquideerd, wat na inwinning van informatie daarover en het bekijken van de plaats delict tot psychische klachten (met als diagnose PTSS) heeft geleid. Volgens de advocaten-generaal is sprake van een onverhoedse confrontatie. De advocaten-generaal hebben zich op het standpunt gesteld dat de gehele vordering, die is gebaseerd op schokschade, daarom moet worden toegewezen.
+
+12.2.6.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.6.3.  Het oordeel van het hof
+
+Schokschade
+
+Het 25-jarige slachtoffer [slachtoffer 11] is midden in Amsterdam, op de openbare weg, met een zwaar vuurwapen van korte afstand doodgeschoten. Bij deze liquidatie is dertig keer geschoten. Het lichaam van het slachtoffer telde (hierdoor) een groot aantal schotverwondingen.
+
+De benadeelde partij heeft het lichaam van zijn (half)broer in het mortuarium gezien. Hij is daarbij geconfronteerd met de (vele) verwondingen aan het lichaam. De benadeelde partij heeft daarnaast foto’s gezien van het wassen van het slachtoffer. Op die foto’s waren de verwondingen (ook) duidelijk zichtbaar.
+
+Het hof is van oordeel dat genoegzaam kan worden vastgesteld dat de benadeelde partij een hechte – een nauwe en affectieve – relatie had met het slachtoffer (zijn (half)broer). De confrontatie met de gewelddadige dood van zijn broer heeft onmiskenbaar een hevige schok bij hem teweeggebracht. In de toelichting op de vordering is in dit verband naar voren gebracht dat de benadeelde partij “na de schokkende confrontatie volledig is ingestort” en “na het zien van het lijkt nog steeds flashbacks heeft”.
+
+Deze feiten en omstandigheden in hun onderlinge samenhang bezien brengen in het licht van de hiervoor onder 12.1.2.1. weergegeven gezichtspunten mee dat de verdachte ook onrechtmatig heeft gehandeld jegens de benadeelde partij bij wie de confrontatie met de moord op zijn (half)broer en de gevolgen daarvan een hevige emotionele schok heeft teweeggebracht. Dat zoals de verdediging heeft aangevoerd de benadeelde partij pas enkele dagen na de moord op zijn broer met de gevolgen daarvan is geconfronteerd en dat die confrontatie niet onverhoeds en ook niet onvermijdbaar was, staan aan het aannemen van onrechtmatigheid niet in de weg. De overige feiten en omstandigheden waaronder de manier waarop de moord op de broer van de benadeelde partij is gepleegd en het letsel dat daarbij aan hem is toegebracht, zijn zwaarwegend genoeg om onrechtmatigheid jegens [benadeelde partij 11] aan te nemen.
+
+Op 18 november 2021 is er een behandelplan opgesteld door [organisatie] , een instelling voor specialistische geestelijke gezondheidszorg. Hierin staat dat de benadeelde partij door zijn huisarts is doorverwezen en aangemeld bij [organisatie] vanwege een vermoeden van stemmings- en traumagerelateerde klachten. Na het zien van de serie Mocro Maffia in de zomer van 2020, waarin ook de liquidatie op zijn broer voorkomt, ervaart hij traumatische klachten, waarbij hij “flashbacks heeft naar de foto’s of video’s en ook herbelevingen ervaart naar de plek waar het is gebeurd”. Hij voelt zich sindsdien niet meer gelukkig en heeft nergens zin in. Daarnaast ervaart hij concentratie- en geheugenproblemen en is hij prikkelbaar. Er is sprake van een posttraumatische stressstoornis.
+
+Gelet op deze rapportage stelt het hof vast dat bij de benadeelde partij sprake is van geestelijk letsel, dat het gevolg is van de liquidatie van zijn broer. Dat de psychische klachten van de benadeelde partij pas later, na het zien van de serie Mocro Maffia, naar voren zijn gekomen, doordat pas toen in volle omvang het besef van de context van het overlijden van zijn broer is gekomen, laat onverlet dat het geestelijk letsel door de confrontatie met de gevolgen van de moord op zijn broer en niet door het zien van de tvserie is veroorzaakt.
+
+Naar het oordeel van het hof is aldus vast komen te staan dat de benadeelde partij als gevolg van het bewezen verklaarde handelen van de verdachte rechtstreeks schade in de vorm van schokschade heeft geleden. De benadeelde partij kan daarom aanspraak maken op vergoeding van materiële en immateriële schade die rechtstreeks volgt uit het geestelijk letsel. De volgende vraag is in welke omvang de vordering tot vergoeding van deze schade kan worden toegewezen.
+
+Materiële schade
+
+Het hof is van oordeel dat (op basis van de overgelegde stukken) niet zonder nader onderzoek kan worden vastgesteld of en, zo ja, in hoeverre de benadeelde partij als rechtstreeks gevolg van het geestelijk letsel verlies van verdiencapaciteit heeft. Voor de beoordeling van dit deel van de vordering is meer onderzoek nodig. De behandeling van dit deel van de vordering levert dan ook een onevenredige belasting van het strafgeding op. Een andere wettelijke grondslag voor toewijzing van een vergoeding van deze schade die niet rechtstreeks het gevolg is van het bewezenverklaarde is niet aan de orde. Het hof zal de benadeelde partij daarom nietontvankelijk verklaren in dit deel van de vordering en bepalen dat de vordering slechts bij de burgerlijke rechter kan worden aangebracht.
+
+Immateriële schade
+
+Het hof acht de hoogte van de gevorderde immateriële schadevergoeding passend en zal de vordering daarom toewijzen voor het gevorderde bedrag (€ 20.000,-). Het hof heeft hierbij in aanmerking genomen de hiervoor besproken feiten en omstandigheden waaronder die confrontatie heeft plaatsgevonden, de ernst van het aan de verdachte te maken verwijt, de aard en ernst van het letsel van de benadeelde partij (waaronder de duur en de intensiteit) en de verwachting ten aanzien van het herstel. Ook heeft het hof acht geslagen op wat andere rechters aan vergoeding van immateriële schokschade aan naasten hebben toegekend.
+
+12.2.7.
+
+[benadeelde partij 9]
+
+, de dochter van het slachtoffer [slachtoffer 11] , heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze vordering bedraagt € 68.360,-, bestaande uit € 63.360,- aan materiële schade en € 5.000,- aan immateriële schade.
+
+De materiële schade bestaat uit gederfd levensonderhoud. De immateriële schade ziet op psychisch letsel (waarvoor de benadeelde partij therapieën heeft ondergaan en in de toekomst zal moeten ondergaan).
+
+De rechtbank heeft de vordering, voor zover strekkende tot vergoeding van materiële schade, toegewezen tot een bedrag van € 19.200,-. In het meer gevorderde is de benadeelde partij nietontvankelijk verklaard. De benadeelde partij is ook niet-ontvankelijk verklaard in de vordering tot vergoeding van immateriële schade.
+
+De rechtbank heeft de verdachte hoofdelijk veroordeeld tot betaling van het toegewezen bedrag (€ 19.200,-), vermeerderd met de wettelijke rente vanaf 31 januari 2017 en met toepassing van de schadevergoedingsmaatregel.
+
+De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+12.2.7.1.  Het standpunt van het openbaar ministerie
+
+De advocaten-generaal hebben zich op het standpunt gesteld dat de gevorderde vergoeding van materiële schade moet worden toegewezen tot een bedrag van € 19.200,-. Volgens de advocaten-generaal moet de benadeelde partij in de meer gevorderde vergoeding van materiële schade niet-ontvankelijk worden verklaard. De advocaten-generaal achten de gevorderde vergoeding van immateriële schade evenmin toewijsbaar, omdat die schade onvoldoende is onderbouwd.
+
+12.2.7.2.  Het standpunt van de verdediging
+
+De verdediging heeft verzocht de benadeelde partij niet-ontvankelijk te verklaren in de vordering, althans deze vordering af te wijzen, aangezien vrijspraak is bepleit voor de ten laste gelegde feiten. Voor het overige heeft de verdediging geen verweer gevoerd.
+
+12.2.7.3.  Het oordeel van het hof
+
+Materiële schade
+
+De benadeelde partij heeft als erfgenaam van het slachtoffer op basis van artikel 6:108, eerste lid, aanhef en onder a, BW in beginsel recht op vergoeding van gederfd levensonderhoud. Naar het oordeel van het hof kan echter niet (eenvoudig) worden vastgesteld dat en, zo ja, in hoeverre het slachtoffer bijdroeg en ook verder zou hebben bijgedragen aan de kosten van levensonderhoud van zijn minderjarige dochter. De financiële situatie (draagkracht) van het slachtoffer voorafgaand aan zijn overlijden is evenmin bekend. Voor de beoordeling van dit deel van de vordering is dus meer onderzoek nodig. De behandeling van de vordering tot vergoeding van materiële schade levert daarom een onevenredige belasting van het strafgeding op. Het hof zal de benadeelde partij om die reden nietontvankelijk verklaren in dit deel van de vordering en bepalen dat de vordering slechts bij de burgerlijke rechter kan worden aangebracht.
+
+Immateriële schade
+
+Ten aanzien van de gevorderde immateriële schade benadrukt het hof dat aannemelijk is dat de benadeelde partij wat betreft haar psychisch welbevinden vroeg of laat nadelige gevolgen zal ondervinden of al heeft ondervonden van het (gewelddadige) overlijden van haar vader. Het hof is echter van oordeel dat er geen wettelijke grondslag bestaat voor toewijzing van dit deel van de vordering.
+
+Voor zover de vordering tot vergoeding van immateriële schade is gebaseerd op psychisch letsel in de zin van affectieschade geldt het volgende. Een (vaste) vergoeding van affectieschade is mogelijk op grond van de op 1 januari 2019 door middel van de Wet vergoeding van affectieschade in werking getreden regeling van de artikelen 6:107, eerste lid, aanhef en onder b, BW en 6:108, eerste lid, BW in verbinding met artikel 6:108 derde lid, BW en het daarop gebaseerde Besluit vergoeding affectieschade. De mogelijkheid tot het toekennen van een vergoeding voor affectieschade bestaat echter alleen als de gebeurtenis ten gevolge waarvan het primaire slachtoffer is overleden na 1 januari 2019
+
+heeft plaatsgevonden. De moord op de vader van de benadeelde partij heeft daarvóór plaatsgevonden, zodat de benadeelde partij niet voor de vergoeding van affectieschade in aanmerking kan komen.
+
+Omdat overigens geen wettelijke grondslag voor vergoeding van deze schade is gesteld of gebleken, zal het hof de benadeelde partij (ook) niet-ontvankelijk verklaren in dit deel van de vordering en bepalen dat de vordering slechts bij de burgerlijke rechter kan worden aangebracht.
+
+13
+DE TOEPASSELIJKE WETTELIJKE VOORSCHRIFTEN
+
+Het hof heeft gelet op de artikelen 33, 33a, 36f, 45, 46a, 47, 57, 60a, 140 en 289 van het Wetboek van Strafrecht.
+
+Deze voorschriften zijn toegepast, zoals zij golden ten tijde van het bewezenverklaarde.
+
+14
+DE BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart niet bewezen dat de verdachte het in het deelonderzoek Charon (16-706595-19) primair tenlastegelegde, het in de deelonderzoeken Mus, Kraai, Duif, Spreeuw, Barbera en Arford (16-659137-19) onder 1 primair tot en met meer subsidiair tenlastegelegde, het onder feit 5 primair en subsidiair tenlastegelegde en het onder feit 6 primair en subsidiair tenlastegelegde heeft begaan en spreekt de verdachte daarvan vrij.
+
+Verklaart het tenlastegelegde bewezen zoals hiervoor in rubriek 7 is overwogen.
+
+Verklaart niet bewezen wat aan de verdachte meer of anders is ten laste gelegd dan hierboven is bewezen verklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het bewezenverklaarde strafbaar en kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een levenslange gevangenisstraf.
+
+Verklaart verbeurd het inbeslaggenomen, nog niet teruggegeven voorwerp, te weten:
+
+- (1) (1) BlackBerry Key 2, nummer BE.1.1.
+
+De benadeelde partijen
+
+Charon
+
+De vordering van de benadeelde partij [benadeelde partij 1]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 1] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 20.385,- (twintigduizend driehonderdvijfentachtig euro) bestaande uit € 385,- (driehonderdvijfentachtig euro) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 1] , ter zake van het bewezenverklaarde een bedrag te betalen van € 20.385,- (twintigduizend driehonderdvijfentachtig euro) bestaande uit € 385,- (driehonderdvijfentachtig euro) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 60 (zestig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de materiële schade op 27 september 2021 en over de vergoeding voor de immateriële schade op
+
+31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 7]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 7] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 21.484,54 (eenentwintigduizend vierhonderdvierentachtig euro en vierenvijftig cent) bestaande uit € 1.484,54 (duizend vierhonderdvierentachtig euro en vierenvijftig cent) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Wijst de vordering van de benadeelde partij tot schadevergoeding voor een bedrag van
+
+€ 266,20 (tweehonderdzesenzestig euro en twintig cent) aan materiële schade af.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 7] , ter zake van het bewezenverklaarde een bedrag te betalen van € 21.484,54 (eenentwintigduizend vierhonderdvierentachtig euro en vierenvijftig cent)  bestaande uit € 1.484,54 (duizend vierhonderdvierentachtig euro en vierenvijftig cent) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 63 (drieënzestig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de materiële schade op 6 september 2021 en over de vergoeding voor de immateriële schade op
+
+31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 8]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 8] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 20.000,- (twintigduizend euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 8] , ter zake van het bewezenverklaarde een bedrag te betalen van € 20.000,- (twintigduizend euro) als vergoeding voor immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 58 (achtenvijftig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de immateriële schade op 31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 10]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 10] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 21.662,34 (eenentwintigduizend zeshonderdtweeënzestig euro en vierendertig cent) bestaande uit € 1.662,34 (duizend zeshonderdtweeënzestig euro en vierendertig cent) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Wijst de vordering van de benadeelde partij tot schadevergoeding voor een bedrag van
+
+€ 28,24 (achtentwintig euro en vierentwintig cent) aan materiële schade af.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 10] , ter zake van het bewezenverklaarde een bedrag te betalen van € 21.662,34 (eenentwintigduizend zeshonderdtweeënzestig euro en vierendertig cent) bestaande uit € 1.662,34 (duizend zeshonderdtweeënzestig euro en vierendertig cent) materiële schade en € 20.000,- (twintigduizend euro) immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 63 (drieënzestig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de materiële schade op 8 september 2021 en over de vergoeding voor de immateriële schade op
+
+31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 12]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 12] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 20.000,- (twintigduizend euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 12] , ter zake van het bewezenverklaarde een bedrag te betalen van € 20.000,- (twintigduizend euro) als vergoeding voor immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 58 (achtenvijftig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de immateriële schade op 31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 11]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij 11] ter zake van het onder deelonderzoek Charon (16-706595-19) bewezenverklaarde tot het bedrag van € 20.000,- (twintigduizend euro) ter zake van immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij 11] , ter zake van het bewezenverklaarde een bedrag te betalen van € 20.000,- (twintigduizend euro) als vergoeding voor immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 58 (achtenvijftig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente over de vergoeding voor de immateriële schade op 31 januari 2017.
+
+De vordering van de benadeelde partij [benadeelde partij 9]
+
+Verklaart de benadeelde partij niet-ontvankelijk in de vordering tot schadevergoeding en bepaalt dat de benadeelde partij de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de benadeelde partij in de door de verdachte gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Dit arrest is gewezen door mr. G. Dam, voorzitter, mr. R.H. Koning en
+
+mr. N.C. van Lookeren Campagne, raadsheren, in tegenwoordigheid van mr. D.R. de Jong, griffier, en is uitgesproken op de openbare terechtzitting van 12 februari 2025.
+
+Bijlage 1: De zittingsdagen
+
+De zittingsdagen in eerste aanleg
+
+2019:
+
+December:
+
+19 december
+
+2020:
+
+Februari:
+
+19 februari
+
+20 februari
+
+Mei:
+
+6 mei
+
+15 mei
+
+Juli:
+
+13 juli
+
+14 juli
+
+28 juli
+
+Oktober:
+
+8 oktober
+
+9 oktober
+
+16 oktober
+
+December:
+
+17 december
+
+2021:
+
+Maart:
+
+15 maart
+
+Mei:
+
+31 mei
+
+Augustus:
+
+27 augustus
+
+30 augustus
+
+31 augustus
+
+September:
+
+1 september
+
+7 september
+
+9 september
+
+17 september
+
+20 september
+
+28 september
+
+30 september
+
+Oktober:
+
+1 oktober
+
+November:
+
+16 november
+
+18 november
+
+December:
+
+2 december
+
+2022:
+
+Januari:
+
+11 januari
+
+13 januari
+
+18 januari
+
+21 januari
+
+Februari:
+
+21 februari
+
+Maart:
+
+28 maart
+
+April:
+
+6 april
+
+19 april
+
+Mei:
+
+12 mei
+
+Juli :
+
+5 juli (vonnis)
+
+De zittingsdagen in hoger beroep
+
+2022:
+
+December:
+
+19 december
+
+2023:
+
+Februari:
+
+6 februari
+
+7 februari
+
+April:
+
+18 april
+
+19 april
+
+Mei:
+
+16 mei
+
+Juni:
+
+13 juni
+
+15 juni
+
+Juli:
+
+4 juli
+
+5 juli
+
+September:
+
+19 september
+
+21 september
+
+26 september
+
+28 september
+
+Oktober:
+
+3 oktober
+
+4 oktober
+
+5 oktober
+
+11 oktober
+
+November:
+
+2 november
+
+22 november
+
+27 november
+
+December:
+
+7 december
+
+8 december
+
+12 december
+
+2024:
+
+Januari:
+
+8 januari
+
+9 januari
+
+11 januari
+
+Februari:
+
+1 februari
+
+26 februari
+
+Maart:
+
+4 maart
+
+April:
+
+3 april
+
+Mei:
+
+6 mei
+
+7 mei
+
+13 mei
+
+Juni:
+
+17 juni
+
+September:
+
+10 september
+
+November:
+
+11 november
+
+December:
+
+5 december
+
+2025:
+
+Januari:
+
+14 januari
+
+15 januari
+
+Februari:
+
+12 februari (arrest)
+
+Bijlage 2: De tenlastelegging
+
+Aan [verdachte] is – na wijziging van de tenlastelegging in eerste aanleg – ten laste gelegd dat:
+
+Ten aanzien van het deelonderzoek Charon (16-706595-19)
+
+Primair:
+
+hij op of omstreeks 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 11] van het leven heeft beroofd door met een of meer vuurwapens kogels in het lichaam van [slachtoffer 11] te schieten;
+
+Subsidiair:
+
+[medeverdachte 18] en/of [medeverdachte 14] en/of [medeverdachte 17] en/of [medeverdachte 11] en/of
+
+[medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] op of omstreeks 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans, alleen opzettelijk en met voorbedachten rade [slachtoffer 11] van het leven heeft/hebben beroofd door met een of meer vuurwapens kogels in het lichaam van [slachtoffer 11] te schieten welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van 12 januari 2017 tot en met 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften, beloften, misbruik van gezag, geweld, bedreiging en/of misleiding en/of het verschaffen van gelegenheid, middelen of inlichtingen, te weten door (aan) [medeverdachte 18] en/of [medeverdachte 14] en /of [medeverdachte 17] en/of [medeverdachte 11] en/of [medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] en/of een of meer andere(n)
+
+aan te geven dat [slachtoffer 11] degene was die geliquideerd moest worden en/of
+
+een geldbedrag te overhandigen en/of in het vooruitzicht te stellen en/of
+
+met elkaar en/of [slachtoffer 11] in contact te brengen en/of houden en/of
+
+de plaats waar en/of de tijd dat de liquidatie moest worden uitgevoerd door te geven en/of
+
+na [slachtoffer 11] op de avond van diens liquidatie te hebben ontmoet, in ‘traceerbaar’ gezelschap te blijven van [slachtoffer 11] ;
+
+Meer subsidiair:
+
+[medeverdachte 18] en/of [medeverdachte 14] en/of [medeverdachte 17] en/of [medeverdachte 11] en/of
+
+[medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] op of omstreeks 31 januari 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen opzettelijk en met voorbedachten rade [slachtoffer 11] van het leven heeft/hebben beroofd door met een of meer vuurwapen(s) kogels in het lichaam van [slachtoffer 11] te schieten, tot en/of bij het plegen van welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van 12 januari 2017 tot en met 31 januari 2017 te Amsterdam en/of te Rotterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) opzettelijk inlichtingen en/of gelegenheid en/of middelen heeft verschaft en/of behulpzaam is geweest door (aan) [medeverdachte 18] en/of [medeverdachte 14] en/of [medeverdachte 17] en/of [medeverdachte 11] en/of [medeverdachte 7] en/of [medeverdachte 12] en/of [medeverdachte 5] en/of een of meer andere(n)
+
+aan te geven dat [slachtoffer 11] degene was die geliquideerd moest worden en/of
+
+een geldbedrag te overhandigen en/of in het vooruitzicht te stellen en/of
+
+met elkaar en/of [slachtoffer 11] in contact te brengen en/of houden en/of
+
+de plaats waar en/of de tijd dat de liquidatie moest worden uitgevoerd door te geven
+
+na [slachtoffer 11] op de avond van diens liquidatie te hebben ontmoet, in ‘traceerbaar’ gezelschap te blijven van [slachtoffer 11] ;
+
+Meest subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 12 januari 2017 tot en met
+
+31 januari 2017 in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het te plegen misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord (op [slachtoffer 11] ) als bedoeld in artikel 289 van het Wetboek van Strafrecht, (telkens) opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) en/of (een) telefoon(s), bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+Ten aanzien van het deelonderzoek Eend (16-659027-20)
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 2 februari 2017 tot en met 10 januari 2018, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, een of meer anderen heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 15] van het leven te beroven, door een of meer van zijn mededaders middels PGP-telefoon(s) informatie/inlichtingen/gegevens met betrekking tot de beoogde liquidatie [slachtoffer 15] te sturen en/of door te sturen zoals:
+
+het adres van de sportschool van [slachtoffer 15] , en/of
+
+dat [slachtoffer 15] iedere ochtend zou trainen in voornoemde sportschool, en/of
+
+dat [slachtoffer 15] voornoemde sportschool vaak alleen af zou sluiten, en/of
+
+het/de adres(sen) waar [slachtoffer 15] zou verblijven, en/of
+
+in welk voertuig de vriendin van [slachtoffer 15] zou rijden (te weten een Porsche), en/of
+
+een foto van [slachtoffer 15] , en/of
+
+dat zogenaamde heads op [slachtoffer 15] gezet gaan worden, en/of
+
+dat alles betaald zou worden, en/of
+
+dat er jongens zouden klaar staan;
+
+Subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 4] en/of [medeverdachte 18] en/of een of meer anderen, op een of meer tijdstippen gelegen in of omstreeks de periode van 2 februari 2017 tot en met
+
+10 januari 2018, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, een of meer anderen heeft/hebben gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 15] van het leven te beroven, door een of meer van zijn mededaders middels PGP-telefoon(s) informatie/inlichtingen/gegevens met betrekking tot de beoogde liquidatie van [slachtoffer 15] (door) te sturen zoals:
+
+het adres van de sportschool van [slachtoffer 15] , en/of
+
+dat [slachtoffer 15] iedere ochtend zou trainen in voornoemde sportschool, en/of
+
+het/de adres(sen) waar [slachtoffer 15] zou verblijven, en/of
+
+in welk voertuig de vriendin van [slachtoffer 15] zou rijden (te weten een Porsche), en/of
+
+een foto van [slachtoffer 15] , en/of
+
+dat zogenaamde heads op [slachtoffer 15] gezet gaan worden, en/of
+
+dat alles betaald zou worden, en/of
+
+dat er jongens zouden klaar staan,
+
+tot en/of bij het plegen van welk misdrijf verdachte op of omstreeks 02 februari 2017, in Nederland, opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door informatie/inlichtingen/gegevens met betrekking tot de beoogde liquidatie [slachtoffer 15] (door) te sturen zoals dat [slachtoffer 15] de/zijn sportschool vaak alleen afsluit;
+
+Meer subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 2 februari 2017 tot en met
+
+10 januari 2018, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op [slachtoffer 15] , hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert, opzettelijk een of meer informatiedragers, te weten een of meer PGP telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+Ten aanzien van de deelonderzoeken Mus, Kraai, Duif, Spreeuw, Barbera en Arford
+
+(16-659137-19)
+
+1.
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 februari 2017 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte en/of zijn mededader(s) voorgenomen misdrijf om tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachte rade [slachtoffer 3] van het leven te beroven,
+
+met een of meer van zijn mededaders (een) gesprek(ken) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft gevoerd, en/of
+
+een of meer van zijn mededader(s) een hoeveelheid geld in het vooruitzicht heeft gesteld of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [slachtoffer 3] , en/of
+
+van een of meer van zijn mededader(s) de/een opdracht(en) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft aangenomen, en/of
+
+bij een of meer van zijn mededader(s) (een) opdracht(en) met betrekking tot voornoemde liquidatie van [slachtoffer 3] heeft uitgezet, en/of
+
+(een) zogenaamde spotter(s) heeft ingezet om hem en/of een of meer van zijn mededader(s) van informatie met betrekking tot [slachtoffer 3] te voorzien, en/of
+
+met een of meer van zijn mededader(s) informatie omtrent de bewegingen van [slachtoffer 3] en/of een/het voertuig waarmee [slachtoffer 3] zich zou verplaatsen heeft gedeeld, en/of
+
+(een) zogenaamde ‘head(s)’ heeft aangestuurd om voornoemde beoogde liquidatie uit te voeren, en/of
+
+zijn opdrachtgever(s) van de beoogde liquidatie heeft laten weten dat ze “volop in missie zijn”,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+Subsidiair:
+
+[medeverdachte 14] op een of meer tijdstippen gelegen in of omstreeks de periode van
+
+17 februari 2017 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door [medeverdachte 14] en/of een of meer van zijn mededader(s) voorgenomen misdrijf om tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 3] van het leven te beroven,
+
+met een of meer van zijn mededader(s) (een) gesprek(ken) met betrekking tot voornoemd beoogde liquidatie van [slachtoffer 3] heeft gevoerd, en/of
+
+een of meer van zijn mededader(s) een hoeveelheid geld in het vooruitzicht heeft gesteld of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie van [slachtoffer 3] , en/of
+
+van een of meer van zijn mededader(s) (een) opdracht(en) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft aangenomen, en/of
+
+bij een of meer van zijn mededader(s) (een) opdracht(en) en met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft uitgezet, en/of
+
+(een) zogenaamde spotter(s) heeft ingezet om hem en/of een of meer van zijn mededader(s) van informatie met betrekking tot [slachtoffer 3] te voorzien, en/of
+
+informatie omtrent de bewegingen van [slachtoffer 3] en/of een/het voertuig waarmee [slachtoffer 3] zich zou verplaatsen te delen, en/of
+
+(een) zogenaamde ‘head(s)’ heeft aangestuurd om voornoemde beoogde liquidatie uit te voeren, en/of
+
+zijn opdrachtgevers van voornoemde beoogde liquidatie heeft laten weten dat ze “volop in missie zijn”,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, welk misdrijf verdachte in of omstreeks de periode van 17 februari 2017 tot en met 19 februari 2017, althans de maand februari 2017 in Nederland, (telkens) tezamen en in vereniging met een of meer anderen althans alleen, door giften en/of beloften en/of door misbruik van gezag en/of geweld en/of bedreiging en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen opzettelijk heeft uitgelokt, door aan/van [medeverdachte 14] en/of een of meer van zijn mededader(s)
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [slachtoffer 3] , en/of
+
+een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot de beoogde liquidatie van [slachtoffer 3] te (willen) ontvangen, waaronder – zakelijk weergegeven –:
+
+- of hij ‘ [naam gelijkend op slachtoffer 3] ’ wil, en/of
+
+- er werk van gemaakt wordt en ‘ [naam gelijkend op slachtoffer 3] ’ dagelijks met een neefje van hen loopt, en/of
+
+- dat [slachtoffer 3] nu gelokt kan worden, en/of
+
+- (kenteken)gegevens van het/een voertuig waarmee die [slachtoffer 3] zich zou verplaatsen en/of zou worden opgehaald en/of afgezet en/of de frequentie waarmee dit zou gebeuren, en/of
+
+- dat ‘men’ nog even geduld moet hebben en dat de mensen die hem ( [slachtoffer 3] ) afzetten hen gaan inseinen en dat iedereen ‘klaar staat’, en/of
+
+- een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] te sturen en/of door te sturen, waaronder – zakelijk weergegeven –:
+
+- dat hij ‘ [naam gelijkend op slachtoffer 3] ’ graag wil, en/of
+
+- als [slachtoffer 3] verbrand kan worden in ‘fiets’ (auto) dat top is, en/of
+
+- of [slachtoffer 3] nog dit weekend of uiterlijk maandag gedaan kan worden voor 80(.000 euro), en/of
+
+- wanneer hij/zij [slachtoffer 3] vandaag kan/kunnen laten slapen dat mooi zou zijn, en/of
+
+- telefoons kunnen/moeten meegenomen worden en/of ‘yzers’ (vuurwapens) kunnen worden opgehaald, en/of
+
+- hij [slachtoffer 3] laatst wilde lokken maar dat dat mis ging omdat deze onder meer met een gepantserde auto kwam;
+
+Meer subsidiair:
+
+[medeverdachte 14] en/of een of meer van zijn mededader(s) op een of meer tijdstippen in of omstreeks de periode van 17 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door [medeverdachte 14] en/of een of meer van zijn mededader(s) voorgenomen misdrijf om tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 3] van het leven te beroven,
+
+met een of meer van zijn mededaders (een) gesprek(ken) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft gevoerd, en/of
+
+een of meer van zijn mededader(s) een hoeveelheid geld in het vooruitzicht heeft gesteld of laten stellen voor het plegen en/of laten plegen van de moord op [slachtoffer 3] , en/of
+
+van een of meer van zijn mededader(s) de/een opdracht(en) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft aangenomen, en/of
+
+bij een of meer van zijn mededader(s) (een) opdracht(en) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] heeft uitgezet , en/of
+
+(een) zogenaamde spotter(s) heeft ingezet om hem en/of een of meer van zijn mededader(s) van informatie met betrekking tot [slachtoffer 3] te voorzien, en/of
+
+met een of meer van zijn mededader(s) informatie omtrent de bewegingen van [slachtoffer 3] en/of een/het voertuig waarmee [slachtoffer 3] zich zou verplaatsen heeft gedeeld, en/of
+
+(een) zogenaamde ‘head(s)’ heeft aangestuurd om voornoemde beoogde liquidatie uit te voeren, en/of
+
+zijn opdrachtgever(s) van voornoemde beoogde liquidatie heeft laten weten dat ze “volop in missie zijn”,
+
+terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, tot en/of bij het plegen van welk misdrijf verdachte, in of omstreeks de periode van 17 februari 2017 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door aan/van [medeverdachte 14] en/of een of meer van zijn mededader(s)
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [slachtoffer 3] , en/of
+
+een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot de beoogde liquidatie van [slachtoffer 3] te (willen) ontvangen, waaronder – zakelijk weergegeven –:
+
+- of hij ‘ [naam gelijkend op slachtoffer 3] ’ wil, en/of
+
+- er werk van gemaakt wordt en ‘ [naam gelijkend op slachtoffer 3] ’ dagelijks met een neefje van hen loopt, en/of
+
+- dat [slachtoffer 3] nu gelokt kan worden, en/of
+
+- (kenteken)gegevens van het/een voertuig waarmee die [slachtoffer 3] zich zou verplaatsen en/of zou worden opgehaald en/of afgezet en/of de frequentie waarmee dit zou gebeuren, en/of
+
+- dat ‘men’ nog even geduld moet hebben en dat de mensen die hem ( [slachtoffer 3] ) afzetten hen gaan inseinen en dat iedereen ‘klaar staat’, en/of
+
+- een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] te sturen en/of door te sturen, waaronder – zakelijk weergegeven –:
+
+- dat hij ‘ [naam gelijkend op slachtoffer 3] ’ graag wil, en/of
+
+- als [slachtoffer 3] verbrand kan worden in ‘fiets’ (auto) dat top is, en/of
+
+- of [slachtoffer 3] nog dit weekend of uiterlijk maandag gedaan kan worden voor 80(.000 euro), en/of
+
+- wanneer hij/zij [slachtoffer 3] vanavond kan/kunnen laten slapen dat mooi zou zijn, en/of
+
+- telefoons kunnen/moeten meegenomen worden en/of ‘yzers’ (vuurwapens) kunnen
+
+- worden opgehaald, en/of
+
+- hij [slachtoffer 3] laatst wou lokken maar dat dat mis ging omdat deze met een gepantserde auto kwam;
+
+Nog meer subsidiair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, een of meer anderen heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 3] van het leven te beroven, door aan/van een of meer van zijn mededader(s):
+
+- een of meer berichten inhoudende –al dan niet – instructie(s) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] te (willen) ontvangen, waaronder – zakelijk weergegeven –:
+
+- of hij ‘ [naam gelijkend op slachtoffer 3] ’ wil, en/of
+
+- er werk van gemaakt wordt en ‘ [naam gelijkend op slachtoffer 3] ’ dagelijks met een neefje van hen loopt, en/of
+
+- dat [slachtoffer 3] nu gelokt kan worden, en/of
+
+- (kenteken)gegevens van het/een voertuig waarmee die [slachtoffer 3] zich zou verplaatsen en/of zou worden opgehaald en/of afgezet en/of de frequentie waarmee dit zou gebeuren, en/of
+
+- dat ‘men’ nog even geduld moet hebben en dat de mensen die hem ( [slachtoffer 3] ) afzetten hen gaan inseinen en dat iedereen ‘klaar staat’, en/of
+
+- een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] te sturen en/of door te sturen, waaronder – zakelijk weergegeven –:
+
+- dat hij ‘ [naam gelijkend op slachtoffer 3] ’ graag wil, en/of
+
+- als [slachtoffer 3] verbrand kan worden in ‘fiets’ (auto) dat top is, en/of
+
+- of [slachtoffer 3] nog dit weekend of uiterlijk maandag gedaan kan worden voor 80(.000 euro), en/of
+
+- wanneer hij/zij [slachtoffer 3] vanavond kan/kunnen laten slapen dat mooi zou zijn, en/of
+
+- telefoons kunnen/moeten meegenomen worden en/of ‘yzers’ (vuurwapens) kunnen worden opgehaald, en/of
+
+- hij [slachtoffer 3] laatst wou lokken maar dat dat mis ging omdat deze met een gepantserde auto kwam;
+
+Nog meer meer subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 3] op tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord ( op [slachtoffer 3] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad, welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met 19 februari 2017, althans de maand februari 2017, in Nederland, tezamen en in vereniging met een ander of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften, beloften, misbruik van gezag, geweld, bedreiging en/of misleiding en/of verschaffen van gelegenheid, middelen of inlichtingen, door aan [medeverdachte 14] en/of [medeverdachte 3]
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [slachtoffer 3] , en/of
+
+een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot de beoogde liquidatie van [slachtoffer 3] te (willen) ontvangen, waaronder – zakelijk weergegeven –:
+
+- of hij ' [naam gelijkend op slachtoffer 3] ' wil, en/of
+
+- er werk van gemaakt wordt en ' [naam gelijkend op slachtoffer 3] ' dagelijks met een neefje van hen loopt, en/of
+
+- dat [slachtoffer 3] nu gelokt kan worden, en/of
+
+- (kenteken)gegevens van het/een voertuig waarmee die [slachtoffer 3] zich zou verplaatsen en/of zou worden opgehaald en/of afgezet en/of de frequentie waarmee dit zou gebeuren, en/of
+
+- dat 'men' nog even geduld moet hebben en dat de mensen die hem ( [slachtoffer 3] ) afzetten hen gaan inseinen en dat iedereen 'klaar staat', en/of
+
+- een of meer berichten inhoudende – al dan niet – instructie(s) met betrekking tot voornoemde beoogde liquidatie van [slachtoffer 3] te sturen en/of door te sturen, waaronder – zakelijk weergegeven –:
+
+- dat hij ' [naam gelijkend op slachtoffer 3] ' graag wil, en/of
+
+- als [slachtoffer 3] verbrand kan worden in 'fiets' (auto) dat top is, en/of
+
+- of [slachtoffer 3] nog dit weekend of uiterlijk maandag gedaan kan worden voor 80.000 euro), en/of
+
+- wanneer hij/zij [slachtoffer 3] vanavond kan/kunnen laten slapen dat mooi zou zijn, en/of
+
+- telefoons kunnen/moeten meegenomen worden en/of 'yzers' (vuurwapens) kunnen worden opgehaald, en/of
+
+- hij [slachtoffer 3] laatst wou lokken maar dat dat mis ging omdat deze met een gepantserde auto kwam;
+
+Meest subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord (op [slachtoffer 3] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+2.
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn mededader(s) heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn mededader(s) middels PGP telefoon(s)
+
+te zeggen/bevestigen – zakelijk weergegeven – dat hij een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) dood wilde hebben en/of dat hij ‘yzers’ (vuurwapens) en/of ‘fietsen’ (auto’s) regelt, en/of
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ), en/of
+
+overige informatie/inlichtingen te sturen en/of door te sturen en/of gegevens met betrekking tot de beoogde liquidatie van een Marokkaanse tweeling uit Rotterdam ( [slachtoffer 1] en/of [slachtoffer 2] ) door te geven, zoals dat ‘ze hem [naam gelijkend op slachtoffer 1 en 2] noemen en samen [naam gelijkend op slachtoffer 1 en 2] ’;
+
+Subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord een Marokkaanse tweeling ( [slachtoffer 1] en/of [slachtoffer 2] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+3.
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn mededaders heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade de rappers [bijnaam] en/of [bijnaam] ( [slachtoffer 12] en/of [slachtoffer 17] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn mededader(s) middels PGP telefoon(s)
+
+te zeggen/bevestigen - zakelijk weergegeven - dat hij [slachtoffer 12] dood wilde hebben maar dat die voorlopig niet zou komen dus dan z’n maatje [slachtoffer 17] , en/of (omdat die [slachtoffer 12] gedetineerd zat) dat [slachtoffer 12] binnen gedaan moest worden, en/of
+
+een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [slachtoffer 12] en/of [slachtoffer 17] ;
+
+Subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens)tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op de rappers [bijnaam] en/of [bijnaam] ( [slachtoffer 12] en/of
+
+[slachtoffer 17] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+4.
+
+Primair:
+
+hij op een of meer tijdstippen gelegen in of omstreeks de periode van 17 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens) tezamen en in vereniging met een of meer anderen, althans alleen, door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften, [medeverdachte 14] en/of een of meer van zijn mededader(s) heeft gepoogd te bewegen een misdrijf te begaan, te weten het tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [bijnaam] , althans een/de broer van [naam 11] ( [slachtoffer 22] ) van het leven te beroven, door [medeverdachte 14] en/of een of meer van zijn mededader(s) middels PGP-telefoon(s) een hoeveelheid geld in het vooruitzicht te stellen of laten stellen voor het plegen en/of laten plegen van voornoemde beoogde liquidatie op [bijnaam] , althans een/de broer van [naam 11] ( [slachtoffer 22] );
+
+Subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van 17 februari 2017 tot en met
+
+19 februari 2017, althans de maand februari 2017, in Nederland, (telkens)tezamen en in vereniging met een of meer anderen, althans alleen, ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op [bijnaam] , althans een/de broer van [naam 11]
+
+( [slachtoffer 22] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer informatiedragers, te weten een of meer PGP-telefoon(s) bestemd tot het begaan van dat misdrijf, heeft verworven en/of voorhanden heeft gehad;
+
+5.
+
+Primair:
+
+hij op of omstreeks 9 maart 2017, te Spijkenisse, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om opzettelijk en met voorbedachten rade die man uit Roermond
+
+( [slachtoffer 10] ) van het leven te beroven, met een of meer vuurwapens aanwezig was op de plek waar die man uit Roermond ( [slachtoffer 10] ) op dat moment aanwezig zou zijn met het oogmerk om vervolgens met die vuurwapens een of meer kogels af te vuren in de richting van die man uit Roermond ( [slachtoffer 10] ), terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+Subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] op of omstreeks
+
+9 maart 2017 te Spijkenisse en/of Nieuwegein, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk en met voorbedachten rade die man uit Roermond ( [slachtoffer 10] ) van het leven te beroven, met een of meer vuurwapens aanwezig was op de plek waar die man uit Roermond ( [slachtoffer 10] ) op dat moment aanwezig zou zijn met het oogmerk om vervolgens met die vuurwapens een of meer kogels af te vuren in de richting van die man uit Roermond ( [slachtoffer 10] ), terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, welk misdrijf verdachte op een of meer tijdstippen gelegen in of omstreeks de periode van januari 2017 tot en met 9 maart 2017 te Spijkenisse en/of Nieuwegein, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften en/of beloften en/of door misbruik van gezag en/of geweld en/of bedreiging en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de naam van die man uit Roermond ( [slachtoffer 10] ) en/of andere informatie over die man uit Roermond ( [slachtoffer 10] ) door te geven, dan wel ter beschikking te stellen;
+
+Meer subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 9 maart 2017, althans in de maand maart 2017, te Nieuwegein, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] heeft gepoogd te bewegen een misdrijf te begaan, te weten het (in Nederland) tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade die man uit Roermond ( [slachtoffer 10] ) van het leven beroven, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de naam van die man uit Roermond ( [slachtoffer 10] ) en/of andere informatie over die man uit Roermond ( [slachtoffer 10] ) door te geven, dan wel ter beschikking te stellen;
+
+Nog meer subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 7] en/of [medeverdachte 12] op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 9 maart 2017 te Spijkenisse, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op die man uit Roermond ( [slachtoffer 10] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer voorwerpen en/of stoffen en/of informatiedragers en/of vervoermiddelen, te weten een of meer PGP telefoons bestemd tot het begaan van dat misdrijf, heeft verworven, heeft vervaardigd en/of voorhanden heeft gehad, welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 9 maart 2017 te Spijkenisse, althans in Nederland, tezamen en in vereniging met een ander of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften, beloften, misbruik van gezag, geweld, bedreiging en/of misleiding en/of verschaffen van gelegenheid, middelen of inlichtingen, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de naam van die man uit Roermond ( [slachtoffer 10] ) en/of andere informatie over die man uit Roermond ( [slachtoffer 10] ) door te geven, dan wel ter beschikking te stellen;
+
+Meest subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met
+
+9 maart 2017 te Spijkenisse, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op die man uit Roermond ( [slachtoffer 10] ) (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer voorwerpen en/of stoffen en/of informatiedragers en/of vervoermiddelen, te weten een of meer PGP telefoons bestemd tot het begaan van dat misdrijf, heeft verworven, heeft vervaardigd en/of voorhanden heeft gehad;
+
+6.
+
+Primair:
+
+hij op of omstreeks 17 maart 2017, te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door verdachte voorgenomen misdrijf om opzettelijk en met voorbedachten rade, [slachtoffer 14] en/of
+
+[slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] van het leven te beroven, met gestolen auto's en vuurwapens onderweg is gegaan naar de plek waar [slachtoffer 14] en/of
+
+[slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] zich toen bevond(en) (en deze plek heel dicht heeft/hebben genaderd) om vervolgens met die vuurwapens kogels af te vuren in de richting van [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] , terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid;
+
+Subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] , op of omstreeks
+
+17 maart 2017 te Amsterdam en/of Nieuwegein, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, ter uitvoering van het door [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] van het leven te beroven, met gestolen auto's en vuurwapens onderweg is/zijn gegaan naar de plek waar [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] zich toen bevond(en) (en deze plek heel dicht heeft/hebben genaderd) om (vervolgens) met een of meer vuurwapens een of meer kogels op/in het lichaam van [slachtoffer 14] en/of [slachtoffer 13] en/of
+
+[slachtoffer 20] en/of [slachtoffer 5] af te vuren/schieten, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, welk misdrijf verdachte op een of meer tijdstippen gelegen in of omstreeks de periode van januari 2017 tot en met 17 maart 2017 te Amsterdam en/of Nieuwegein, althans in Nederland tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften en/of beloften en/of door misbruik van gezag en/of geweld en/of bedreiging en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de na(a)m(en) van [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of kentekengegevens van de door [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] gebruikte auto’s en/of andere informatie over [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of diens familie door te geven, dan wel ter beschikking te stellen;
+
+Meer subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met
+
+17 maart 2017, te Nieuwegein althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) door geweld en/of bedreiging en/of door misbruik van gezag en/of door het verschaffen van gelegenheid en/of middelen en/of inlichtingen en/of giften en/of beloften [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] heeft gepoogd te bewegen een misdrijf te begaan, te weten het (in Nederland) tezamen en in vereniging met een of meer anderen, althans alleen, opzettelijk en met voorbedachten rade [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] van het leven beroven, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de na(a)m(en) van [slachtoffer 14] en/of
+
+[slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of kentekengegevens van de door [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] gebruikte auto’s en/of andere informatie over [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of diens familie door te geven, dan wel ter beschikking te stellen;
+
+Nog meer subsidiair:
+
+[medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7] op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 17 maart 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens), ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer voorwerpen en/of stoffen en/of informatiedragers en/of vervoermiddelen, te weten:
+
+een of meer vuurwapens en/of
+
+een of meer (gestolen) auto's en/of
+
+een of meer PGP telefoons
+
+bestemd tot het begaan van dat misdrijf, heeft verworven, heeft vervaardigd en/of voorhanden heeft gehad, welk feit verdachte op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met 17 maart 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een ander of meer anderen, althans alleen, (telkens) opzettelijk heeft uitgelokt door giften, beloften, misbruik van gezag, geweld, bedreiging en/of misleiding en/of verschaffen van gelegenheid, middelen of inlichtingen, door aan [medeverdachte 14] en/of [medeverdachte 3] en/of [medeverdachte 12] en/of [medeverdachte 7]
+
+een hoeveelheid geld te overhandigen en/of een hoeveelheid geld in het vooruitzicht te stellen en/of
+
+adresgegevens/verblijfplaatsen en/of de na(a)m(en) van [slachtoffer 14] en/of
+
+[slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of kentekengegevens van de door [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] gebruikte auto's en/of andere informatie over [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] en/of diens familie door te geven, dan wel ter beschikking te stellen;
+
+Meest subsidiair:
+
+hij op een of meer tijdstippen in of omstreeks de periode van januari 2017 tot en met
+
+17 maart 2017 te Amsterdam, althans in Nederland, tezamen en in vereniging met een of meer anderen, althans alleen, (telkens) ter voorbereiding van het misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld, te weten moord op [slachtoffer 14] en/of [slachtoffer 13] en/of [slachtoffer 20] en/of [slachtoffer 5] (hetgeen een misdrijf genoemd in artikel 289 Wetboek van Strafrecht oplevert), opzettelijk een of meer voorwerpen en/of stoffen en/of informatiedragers en/of vervoermiddelen, te weten:
+
+een of meer vuurwapens en/of
+
+een of meer (gestolen) auto's en/of
+
+een of meer PGP telefoons bestemd tot het begaan van dat misdrijf, heeft verworven, heeft vervaardigd en/of voorhanden heeft gehad;
+
+Ten aanzien van het deelonderzoek Criminele organisatie (16-659033-20)
+
+hij op een of meer tijdstippen in of omstreeks de periode van 1 januari 2017 tot en met
+
+21 november 2018 te ‘s-Gravenhage en/of Leiden en/of Almere en/of Rotterdam en/of Spijkenisse en/of Breukelen en/of Mijdrecht en/of Zoetermeer en/of Doorn en/althans (elders) in Nederland, al dan niet als oprichter, leider en/of bestuurder, heeft deelgenomen aan een organisatie, bestaande uit hem, verdachte, en/of (al dan niet in wisselende samenstellingen) een of meer medeverdachten [zijnde overwegend leden van de zogenaamde MC (MotorClub) Caloh Wagoh], welke organisatie tot oogmerk had het plegen van misdrijven, te weten (onder meer):
+
+het opzettelijk en al dan niet met voorbedachten rade een ander van het leven beroven (zoals bedoeld in artikel 287 en/of artikel 289 van het Wetboek van Strafrecht) en/of
+
+voorbereiding daarvan (zoals bedoeld en omschreven in artikel 46 lid 1 van het Wetboek van Strafrecht), en/of
+
+het voorhanden hebben van en/of overdragen van één of meer wapens van de categorieën 1 en/of II en/of III en/of van munitie van categorieën II en/of III (zoals bedoeld in de artikelen 13 en/of 14 en/of 26 en/of 31 van de Wet Wapens en Munitie).
+
+HR 23 april 2019, ECLI:NL:HR:2019:602, rov. 3.11.
+
+HvJ EU 4 oktober 2024, zaak C-548/21, ECLI:EU:C:2024:830 (C.G. tegen Bezirkshauptmannschaft Landeck). De Richtlijn gegevensbescherming opsporing en vervolging is Richtlijn (EU) 2016/680 van het Europees Parlement en de Raad van 27 april 2016 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens door bevoegde autoriteiten met het oog op de voorkoming, het onderzoek, de opsporing en de vervolging van strafbare feiten of de tenuitvoerlegging van straffen, en betreffende het vrije verkeer van die gegevens en tot intrekking van Kaderbesluit 2008/977/JBZ van de Raad (PB 2016, L 119/89).
+
+De Wet van 17 oktober 2018 inzake Wijziging van de Wet politiegegevens en de Wet justitiële en strafvorderlijke gegevens ter implementatie van Europese regelgeving over de verwerking van persoonsgegevens met het oog op de voorkoming van strafbare feiten of de tenuitvoerlegging van straffen (Stb. 2018, 401) die op 1 januari 2019 in werking is getreden (Stb. 2018, 495) (met uitzondering van de artikelen I, onderdeel AL, II, onderdeel W, artikel 26e, en IIa, die op 1 november 2023 in werking zijn getreden (Stb. 2023, 359)).
+
+Overwegingen 93 tot en met 95 en 102 tot en met 104.
+
+Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2022 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (richtlijn betreffende privacy en elektronische communicatie) (PB 2002, L 201/37). Deze richtlijn diende vóór 31 oktober 2003 in nationaal recht te zijn omgezet.
+
+HvJ EU 2 maart 2021, zaak C-746/18, ECLI:EU:C:2021:152 (H.K., in tegenwoordigheid van Prokuratuur).
+
+Overweging 120. In twee conclusies van 19 november 2024 is advocaatgeneraal A.E. Harteveld in het kader van de beoordeling van de rechtmatigheid van het onderzoek aan gegevensdragers ingegaan op de betekenis van HvJ EU 4 oktober 2024, zaak C-548/21, ECLI:EU:C:2024:830 (Landeck) voor de Nederlandse praktijk. Op 28 januari 2025 had de Hoge Raad nog geen uitspraak gedaan in die zaken.
+
+HR 5 april 2022, ECLI:NL:HR:2022:475, rov. 6.13.1 tot en met 6.13.5.
+
+Richtlijn (EU) 2016/343 van het Europees Parlement en de Raad van 9 maart 2016 betreffende versterking van bepaalde aspecten van het vermoeden van onschuld en van het recht om in strafprocedures bij de terechtzitting aanwezig te zijn (PbEU 2016, L 65/1).
+
+Uit de Overgangswet nieuw Burgerlijk Wetboek volgt dat als een wet een nieuw vorderingsrecht introduceert dit alleen gevolgen heeft voor gebeurtenissen die zich na de inwerkingtreding van de wet voordoen (artikel 69, aanhef en onder d, van de Overgangswet nieuw Burgerlijk Wetboek). Wegens het ontbreken van overgangsrecht op dit punt in de Wet vergoeding affectieschade, betekent dit dat een benadeelde partij zich niet kan voegen in het strafproces voor zover de affectieschade vóór de inwerkingtreding van de wet op 1 januari 2019 is ontstaan. Zie ook HR 28 mei 2019, ECLI:NL:HR:2019:793, rov. 2.4.7.
