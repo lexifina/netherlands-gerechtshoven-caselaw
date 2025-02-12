@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:534"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:2459"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:2459"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:892"]]
 ---
 
 # ECLI:NL:GHARL:2025:534 Gerechtshof Arnhem-Leeuwarden , 12-02-2025 / 21-002962-22
