@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:403"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2025:2566"]]
 ---
 
 # ECLI:NL:GHSHE:2025:403 Gerechtshof 's-Hertogenbosch , 18-02-2025 / 200.326.023_01
