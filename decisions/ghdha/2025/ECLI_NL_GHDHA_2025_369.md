@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:369"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042208", "Sdu Nieuws Belastingzaken 2025/465", "FutD 2025-0873", "NDFR Nieuws 2025/792", "V-N Vandaag 2025/831"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21828, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042208", "Sdu Nieuws Belastingzaken 2025/465", "FutD 2025-0873", "NDFR Nieuws 2025/792", "V-N Vandaag 2025/831", "NTFR 2025/881 met annotatie van mr. D.C. Simonis", "V-N 2025/25.1.4", "NLF 2025/1468 met annotatie van mr. S. Klaus"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:21828, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1814"]]
 ---
 
 # ECLI:NL:GHDHA:2025:369 Gerechtshof Den Haag , 25-02-2025 / BK-24/69
