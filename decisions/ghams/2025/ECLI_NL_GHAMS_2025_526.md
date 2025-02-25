@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:526"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2025/79"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1240"]]
 ---
 
 # ECLI:NL:GHAMS:2025:526 Gerechtshof Amsterdam , 25-02-2025 / 200.346.808/01 SKG
