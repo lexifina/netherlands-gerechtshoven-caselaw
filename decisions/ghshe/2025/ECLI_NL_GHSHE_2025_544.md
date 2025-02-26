@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:544"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051514", "FutD 2025-1016", "V-N Vandaag 2025/1014"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:6396, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051514", "FutD 2025-1016", "V-N Vandaag 2025/1014", "V-N 2025/27.1.1", "NLF 2025/1118"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:6396, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1689"]]
 ---
 
 # ECLI:NL:GHSHE:2025:544 Gerechtshof 's-Hertogenbosch , 26-02-2025 / 23/1439
