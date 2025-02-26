@@ -10,7 +10,7 @@ procedure: "Herziening"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:529"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040908", "FutD 2025-0794"]
-relations: [["Formele relatie", "Herstelarrest: ECLI:NL:GHDHA:2016:1737"]]
+relations: [["Formele relatie", "Herstelarrest: ECLI:NL:GHDHA:2016:1737"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:861"]]
 ---
 
 # ECLI:NL:GHDHA:2025:529 Gerechtshof Den Haag , 26-02-2025 / BK-24/728 tot en met BK-24/731
