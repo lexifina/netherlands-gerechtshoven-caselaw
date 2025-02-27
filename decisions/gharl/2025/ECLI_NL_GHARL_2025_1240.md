@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:1240"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/316", "NDFR Nieuws 2026/299", "NTFR 2026/447 met annotatie van mr. I. van Wijk"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1743"]]
 ---
 
 # ECLI:NL:GHARL:2025:1240 Gerechtshof Arnhem-Leeuwarden , 27-02-2025 / 24/1606 en 24/1607
