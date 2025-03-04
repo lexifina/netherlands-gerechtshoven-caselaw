@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:737"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042401", "FutD 2025-0870", "Sdu Nieuws Belastingzaken 2025/478", "NDFR Nieuws 2025/778", "V-N Vandaag 2025/869"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042401", "FutD 2025-0870", "Sdu Nieuws Belastingzaken 2025/478", "NDFR Nieuws 2025/778", "V-N Vandaag 2025/869", "V-N 2025/25.1.5", "NLF 2025/1200 met annotatie van mr. T.C. Hoogwout", "NTFR 2025/1276 met annotatie van mr. H.M. Nijland"]
 ---
 
 # ECLI:NL:GHDHA:2025:737 Gerechtshof Den Haag , 04-03-2025 / BK-24/285
