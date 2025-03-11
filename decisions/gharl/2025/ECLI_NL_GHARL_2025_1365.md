@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:1365"
-published_in: ["Rechtspraak.nl", "Prg. 2025/118"]
+published_in: ["Rechtspraak.nl", "Prg. 2025/118", "FJR 2026/40.54"]
 ---
 
 # ECLI:NL:GHARL:2025:1365 Gerechtshof Arnhem-Leeuwarden , 11-03-2025 / 200.341.188
