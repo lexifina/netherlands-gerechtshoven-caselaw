@@ -2,18 +2,18 @@
 ecli: "ECLI:NL:GHDHA:2025:318"
 court: "Gerechtshof Den Haag"
 court_code: "GHDHA"
-docket: "200.332.483"
+docket: "/01 200.332.483"
 decided: "2025-03-11"
 published: "2025-03-04"
 type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:318"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0236"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0236", "NTHR 2025/27, p.166", "VR 2026/10", "JONDR 2026/526"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:2540, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:GHDHA:2025:318 Gerechtshof Den Haag , 11-03-2025 / 200.332.483
+# ECLI:NL:GHDHA:2025:318 Gerechtshof Den Haag , 11-03-2025 / /01 200.332.483
 
 ## Inhoudsindicatie
 
