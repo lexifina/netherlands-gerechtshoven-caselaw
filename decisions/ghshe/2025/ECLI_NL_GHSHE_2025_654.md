@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:654"
-published_in: ["Rechtspraak.nl", "NLF 2025/0899", "V-N Vandaag 2025/785"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:686, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "NLF 2025/0899", "V-N Vandaag 2025/785", "V-N 2025/25.1.1"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:686, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:988"]]
 ---
 
 # ECLI:NL:GHSHE:2025:654 Gerechtshof 's-Hertogenbosch , 12-03-2025 / 23/269
