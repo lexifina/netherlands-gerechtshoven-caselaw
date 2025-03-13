@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:859"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025052801", "FutD 2025-1117", "NLF 2025/1257 met annotatie van Michel van Dun"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025052801", "FutD 2025-1117", "NLF 2025/1257 met annotatie van dr. mr. M. van Dun"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:6858, Bekrachtiging/bevestiging"]]
 ---
 
