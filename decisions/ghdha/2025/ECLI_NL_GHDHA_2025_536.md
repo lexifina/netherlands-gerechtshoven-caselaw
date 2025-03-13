@@ -7,9 +7,10 @@ decided: "2025-03-13"
 published: "2025-04-01"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht; Bestuursprocesrecht"
+subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:536"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1690"]]
 ---
 
 # ECLI:NL:GHDHA:2025:536 Gerechtshof Den Haag , 13-03-2025 / BK-24/12
