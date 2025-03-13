@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:539"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:20063, Niet ontvankelijk"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:20063, Niet ontvankelijk"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1691"]]
 ---
 
 # ECLI:NL:GHDHA:2025:539 Gerechtshof Den Haag , 13-03-2025 / BK-24/72
