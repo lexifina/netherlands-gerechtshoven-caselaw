@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2330"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0239", "JERF Actueel 2025/458", "ERF-Updates.nl 2025-0628", "VEAN-ERF-Updates.nl 2025-0628", "JERF 2026/45 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0239", "JERF Actueel 2025/458", "ERF-Updates.nl 2025-0628", "VEAN-ERF-Updates.nl 2025-0628", "JERF 2026/45 met annotatie van Redactie", "FJR 2026/55.7"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:9247, Bekrachtiging/bevestiging"]]
 ---
 
