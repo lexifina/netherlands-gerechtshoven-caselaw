@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:1592"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032806", "V-N Vandaag 2025/670", "Sdu Nieuws Belastingzaken 2025/381", "FutD 2025-0722", "NLF 2025/0757", "Sdu Nieuws Personen- en familierecht 2025/222", "V-N 2025/24.1.2"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025032806", "V-N Vandaag 2025/670", "Sdu Nieuws Belastingzaken 2025/381", "FutD 2025-0722", "NLF 2025/0757", "Sdu Nieuws Personen- en familierecht 2025/222", "V-N 2025/24.1.2", "Belastingadvies 2025/11-12.3"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1637"]]
 ---
 
 # ECLI:NL:GHARL:2025:1592 Gerechtshof Arnhem-Leeuwarden , 18-03-2025 / 23/1340
