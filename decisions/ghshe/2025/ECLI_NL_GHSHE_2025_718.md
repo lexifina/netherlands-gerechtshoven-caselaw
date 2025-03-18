@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:718"
 published_in: ["Rechtspraak.nl", "JAR 2025/198"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:5272"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:5272"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:815"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-628.md"]
 ---
 
