@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:1554"
 published_in: ["Rechtspraak.nl", "RVR 2025/86"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:792"]]
 ---
 
 # ECLI:NL:GHARL:2025:1554 Gerechtshof Arnhem-Leeuwarden , 18-03-2025 / 200.326.719
