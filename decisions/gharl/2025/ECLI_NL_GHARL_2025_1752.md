@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:1752"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040416", "V-N Vandaag 2025/736", "FutD 2025-0772", "NLF 2025/0864"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025040416", "V-N Vandaag 2025/736", "FutD 2025-0772", "NLF 2025/0864", "V-N 2025/30.17.8"]
 ---
 
 # ECLI:NL:GHARL:2025:1752 Gerechtshof Arnhem-Leeuwarden , 25-03-2025 / 23/1197 en 23/1198
