@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:814"
 published_in: ["Rechtspraak.nl", "JERF Actueel 2025/276", "VEAN-ERF-Updates.nl 2025-0381"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:809"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-021.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-022.md"]
 ---
 
