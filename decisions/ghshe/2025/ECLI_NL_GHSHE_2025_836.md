@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:836"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042412", "FutD 2025-0877", "V-N Vandaag 2025/876"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:767, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025042412", "FutD 2025-0877", "V-N Vandaag 2025/876", "V-N 2025/30.1.4"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:767, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1341"]]
 ---
 
 # ECLI:NL:GHSHE:2025:836 Gerechtshof 's-Hertogenbosch , 26-03-2025 / 23/407
