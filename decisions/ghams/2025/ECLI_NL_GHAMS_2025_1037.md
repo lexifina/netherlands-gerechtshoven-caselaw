@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1037"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051203", "V-N Vandaag 2025/950", "NLF 2025/1011", "Sdu Nieuws Belastingzaken 2025/546", "NDFR Nieuws 2025/843"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051203", "V-N Vandaag 2025/950", "NLF 2025/1011", "Sdu Nieuws Belastingzaken 2025/546", "NDFR Nieuws 2025/843", "FutD 2025-1063", "V-N 2025/30.1.1", "NTFR 2025/1117 met annotatie van drs. R.P. Bitter"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1242"]]
 ---
 
 # ECLI:NL:GHAMS:2025:1037 Gerechtshof Amsterdam , 27-03-2025 / 23/430 en 23/431
