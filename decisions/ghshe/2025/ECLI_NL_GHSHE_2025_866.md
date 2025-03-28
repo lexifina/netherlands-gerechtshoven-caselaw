@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:866"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2025/160"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1204"]]
 ---
 
 # ECLI:NL:GHSHE:2025:866 Gerechtshof 's-Hertogenbosch , 28-03-2025 / 20-001860-21
