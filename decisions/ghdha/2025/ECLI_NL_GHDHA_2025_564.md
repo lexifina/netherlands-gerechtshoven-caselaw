@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:564"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/825"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/825", "NTFR 2025/950 met annotatie van mr. S.B. Noten"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1692"]]
 ---
 
 # ECLI:NL:GHDHA:2025:564 Gerechtshof Den Haag , 03-04-2025 / BK-24/280
