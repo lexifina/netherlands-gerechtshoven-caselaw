@@ -10,7 +10,7 @@ procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Intellectueel-eigendomsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:735"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:8658, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:12334, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:8658, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:12334, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1249"]]
 ---
 
 # ECLI:NL:GHDHA:2025:735 Gerechtshof Den Haag , 08-04-2025 / 200.329.905/01
