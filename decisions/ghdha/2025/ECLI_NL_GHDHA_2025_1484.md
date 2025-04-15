@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1484"
-published_in: ["Rechtspraak.nl", "NTHR 2025/48, p.224"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:683, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "NTHR 2025/48, p.224", "S&S 2026/97"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2018:683, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1237"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1484 Gerechtshof Den Haag , 15-04-2025 / 200.241.234/01
