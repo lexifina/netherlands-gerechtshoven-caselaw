@@ -10,7 +10,7 @@ procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1052"
 published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2025-0900", "AR-Updates.nl 2025-0900", "RAR 2025/139"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:5895"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:5895"], ["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2025:2897"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1052 Gerechtshof 's-Hertogenbosch , 15-04-2025 / 200.346.521_01
