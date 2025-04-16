@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:696"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/258"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/258", "PFR-Updates.nl 2025-0112", "PR-Updates.nl 2025-0072"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:20921, Meerdere afhandelingswijzen"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:808"]]
 ---
 
 # ECLI:NL:GHDHA:2025:696 Gerechtshof Den Haag , 16-04-2025 / 200.337.050/01 & 200.337.051/01
