@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1135"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0401", "NJF 2025/374"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2026:448"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1135 Gerechtshof 's-Hertogenbosch , 22-04-2025 / 200.313.934_01
@@ -568,7 +569,7 @@ Hij had van de vechtpartij niets gezien. (…).”
 
 3.42.
 
-Uit het proces-verbaal van bevingen van [persoon R] blijkt dat op de plaats van het tweede incident kort nadat het had plaatsgevonden allesbehalve sprake was van rust, maar van grote consternatie bij [appellanten] over wat was voorgevallen en de verwondingen die waren opgelopen, in het bijzonder die van [appellant sub 1]. In het licht van wat over de aard en ernst van de verwondingen blijkt uit diverse in het geding gebrachte stukken - die verderop in dit arrest nog nader zullen worden besproken - en het aansluitend vervoer van [appellant sub 1] en [appellant sub 2] per ambulance naar het TweeSteden-ziekenhuis, gaat het hof uit van het op ambtseed afgelegde proces-verbaal van bevindingen van [persoon R] , en volgt zij de lezing van [plaats B] over de situatie op de plaats van het tweede incident na afloop van het incident niet.
+Uit het proces-verbaal van bevingen van [persoon R] blijkt dat op de plaats van het tweede incident kort nadat het had plaatsgevonden allesbehalve sprake was van rust, maar van grote consternatie bij [appellanten] over wat was voorgevallen en de verwondingen die waren opgelopen, in het bijzonder die van [appellant sub 1] . In het licht van wat over de aard en ernst van de verwondingen blijkt uit diverse in het geding gebrachte stukken - die verderop in dit arrest nog nader zullen worden besproken - en het aansluitend vervoer van [appellant sub 1] en [appellant sub 2] per ambulance naar het TweeSteden-ziekenhuis, gaat het hof uit van het op ambtseed afgelegde proces-verbaal van bevindingen van [persoon R] , en volgt zij de lezing van [plaats B] over de situatie op de plaats van het tweede incident na afloop van het incident niet.
 
 3.43.
 
