@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1140"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2025/1167", "V-N 2025/29.21.28"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1759"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:1759"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1298"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1140 Gerechtshof 's-Hertogenbosch , 22-04-2025 / 200.329.535_01
