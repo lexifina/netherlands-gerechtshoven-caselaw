@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1157"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1752, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "NJFS 2025/168"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1752, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1235"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1157 Gerechtshof 's-Hertogenbosch , 23-04-2025 / 20-000913-24
