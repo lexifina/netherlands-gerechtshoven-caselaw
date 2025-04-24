@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:GHSHE:2025:1194"
 court: "Gerechtshof 's-Hertogenbosch"
 court_code: "GHSHE"
-docket: "200.346.669_01"
+docket: "200.346.669/01"
 decided: "2025-04-24"
 published: "2025-04-24"
 type: "uitspraak"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:119
 published_in: ["Rechtspraak.nl", "FJR 2025/70.7"]
 ---
 
-# ECLI:NL:GHSHE:2025:1194 Gerechtshof 's-Hertogenbosch , 24-04-2025 / 200.346.669_01
+# ECLI:NL:GHSHE:2025:1194 Gerechtshof 's-Hertogenbosch , 24-04-2025 /  200.346.669/01
 
 ## Inhoudsindicatie
 
