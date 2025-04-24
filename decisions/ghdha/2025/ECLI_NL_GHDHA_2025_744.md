@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:744"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2025/171"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1475"]]
 ---
 
 # ECLI:NL:GHDHA:2025:744 Gerechtshof Den Haag , 24-04-2025 / 22-000732-24
