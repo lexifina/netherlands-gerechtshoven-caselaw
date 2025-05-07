@@ -10,7 +10,7 @@ procedure: "Verwijzing na Hoge Raad"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1460"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025063001", "V-N Vandaag 2025/1328", "FutD 2025-1373", "NDFR Nieuws 2025/1088", "NTFR 2025/1229 met annotatie van mr. I. van Wijk", "V-N 2025/38.1.3"]
-relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2024:1394"]]
+relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2024:1394"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:923"]]
 ---
 
 # ECLI:NL:GHAMS:2025:1460 Gerechtshof Amsterdam , 07-05-2025 / 24/3469 tot en met 24/3472
