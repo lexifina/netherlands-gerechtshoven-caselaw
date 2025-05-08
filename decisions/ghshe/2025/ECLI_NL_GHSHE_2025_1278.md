@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1278"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.49"]
 ---
 
 # ECLI:NL:GHSHE:2025:1278 Gerechtshof 's-Hertogenbosch , 08-05-2025 / 200.299.781_01
