@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1749"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025093006", "V-N Vandaag 2025/1917", "V-N 2025/45.1.1", "NDFR Nieuws 2025/1657", "NTFR 2025/1815 met annotatie van mr. P.T. van Arnhem"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1448"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1749 Gerechtshof Den Haag , 08-05-2025 / BK-23/1213
