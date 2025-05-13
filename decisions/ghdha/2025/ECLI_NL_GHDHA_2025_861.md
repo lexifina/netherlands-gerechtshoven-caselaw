@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:861"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051412", "Sdu Nieuws Belastingzaken 2025/539", "V-N Vandaag 2025/980", "FutD 2025-1000", "Sdu Nieuws Personen- en familierecht 2025/284", "NDFR Nieuws 2025/850", "NLF 2025/1107"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:8822, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025051412", "Sdu Nieuws Belastingzaken 2025/539", "V-N Vandaag 2025/980", "FutD 2025-1000", "Sdu Nieuws Personen- en familierecht 2025/284", "NDFR Nieuws 2025/850", "NLF 2025/1107 met annotatie van Ludwijn Jaeger", "V-N 2025/34.1.1", "NTFR 2025/1251 met annotatie van mr. E. Swaving Dijkstra", "AB 2025/269 met annotatie van J.C. de Wit"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:8822, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1488"]]
 ---
 
 # ECLI:NL:GHDHA:2025:861 Gerechtshof Den Haag , 13-05-2025 / BK-24/657 en BK-24/658
