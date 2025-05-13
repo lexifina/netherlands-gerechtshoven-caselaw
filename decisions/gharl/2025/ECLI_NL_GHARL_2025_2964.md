@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:2964"
-published_in: ["Rechtspraak.nl", "TvAR 2025/8224 met annotatie van J.W.A. Rheinfeld"]
+published_in: ["Rechtspraak.nl", "TvAR 2025/8224 met annotatie van J.W.A. Rheinfeld", "Module Pacht en landelijk gebied 2026/667"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:5668"]]
 ---
 
