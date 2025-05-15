@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1365"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0102", "Sdu Nieuws Insolventierecht 2025/114"]
+relations: [["Formele relatie", "Prejudiciële vraag aan: ECLI:NL:HR:2026:714"]]
 cites_law: ["netherlands/national/acts/faillissementswet/art-349a.md"]
 ---
 
