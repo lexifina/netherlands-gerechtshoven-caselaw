@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3747"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/169 met annotatie van mr. L. Rijzewijk"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1548"]]
 ---
 
 # ECLI:NL:GHAMS:2025:3747 Gerechtshof Amsterdam , 19-05-2025 / 200.354.616/01 en 200.354.761/01
