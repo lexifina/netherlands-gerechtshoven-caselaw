@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1396"
-published_in: ["Rechtspraak.nl", "Notamail 2025/120", "JERF Actueel 2025/354", "JERF 2025/119"]
-relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2023:1531"]]
+published_in: ["Rechtspraak.nl", "Notamail 2025/120", "JERF Actueel 2025/354", "JERF 2025/119", "Sdu Nieuws Personen- en familierecht 2025/317", "JERF Actueel 2026/233"]
+relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2023:1531"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1684"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1396 Gerechtshof 's-Hertogenbosch , 20-05-2025 / 200.341.103_01
