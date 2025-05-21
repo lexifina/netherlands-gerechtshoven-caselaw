@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1096"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1416"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1096 Gerechtshof Den Haag , 21-05-2025 / BK-24/161 en BK-24/162
