@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1410"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/40.17", "FJR 2026/40.15"]
 ---
 
 # ECLI:NL:GHAMS:2025:1410 Gerechtshof Amsterdam , 03-06-2025 / 200.347.159/01
