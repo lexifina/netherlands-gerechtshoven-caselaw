@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1127"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/353", "Sdu Nieuws Personen- en familierecht 2025/356"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/353", "Sdu Nieuws Personen- en familierecht 2025/356", "JPF 2026/134"]
 ---
 
 # ECLI:NL:GHDHA:2025:1127 Gerechtshof Den Haag , 04-06-2025 / 200.350.544/01
