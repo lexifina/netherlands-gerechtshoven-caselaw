@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1552"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2025/512"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:1815"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2024:1815"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1301"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1552 Gerechtshof 's-Hertogenbosch , 05-06-2025 / 200.343.429_01
