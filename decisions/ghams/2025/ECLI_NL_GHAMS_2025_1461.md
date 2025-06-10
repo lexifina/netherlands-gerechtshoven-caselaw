@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1461"
-published_in: ["Rechtspraak.nl", "Notamail 2025/134", "Sdu Nieuws Personen- en familierecht 2025/357", "JERF Actueel 2025/265", "VEAN-ERF-Updates.nl 2025-0391", "ERF-Updates.nl 2025-0391", "JERF 2025/110"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/134", "Sdu Nieuws Personen- en familierecht 2025/357", "JERF Actueel 2025/265", "VEAN-ERF-Updates.nl 2025-0391", "ERF-Updates.nl 2025-0391", "JERF 2025/110", "TT 2026/25 met annotatie van mr. L.E. Verwey, mr. M.C.J. Höfelt"]
 ---
 
 # ECLI:NL:GHAMS:2025:1461 Gerechtshof Amsterdam , 10-06-2025 / 200.349.028/NOT
