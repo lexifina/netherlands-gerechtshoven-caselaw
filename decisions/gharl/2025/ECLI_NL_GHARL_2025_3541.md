@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3541"
-published_in: ["Rechtspraak.nl", "RCR 2025/67", "NTHR 2025/40, p.208 met annotatie van M. Jongkind"]
+published_in: ["Rechtspraak.nl", "RCR 2025/67", "NTHR 2025/40, p.208 met annotatie van M. Jongkind", "TvAR 2026/8254 met annotatie van J.M.M. Menu"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:4283"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:2834"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2023:337"]]
 ---
 
