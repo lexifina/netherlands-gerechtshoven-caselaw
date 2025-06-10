@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1669"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/728"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:926"]]
 ---
 
 # ECLI:NL:GHAMS:2025:1669 Gerechtshof Amsterdam , 10-06-2025 / 24/3254
