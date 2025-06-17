@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1578"
-published_in: ["Rechtspraak.nl", "Notamail 2025/140", "Sdu Nieuws Personen- en familierecht 2025/370", "ERF-Updates.nl 2025-0379", "VEAN-ERF-Updates.nl 2025-0379", "Vp-bulletin 2025/31 met annotatie van Redactie", "JERF 2025/111 met annotatie van mr. L.A.G.M. van der Geld", "RN 2026/2"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/140", "Sdu Nieuws Personen- en familierecht 2025/370", "ERF-Updates.nl 2025-0379", "VEAN-ERF-Updates.nl 2025-0379", "Vp-bulletin 2025/31 met annotatie van Redactie", "JERF 2025/111 met annotatie van mr. L.A.G.M. van der Geld", "RN 2026/2", "FJR 2026/55.9"]
 ---
 
 # ECLI:NL:GHAMS:2025:1578 Gerechtshof Amsterdam , 17-06-2025 / 200.342.099/01
