@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1913"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:18010, Meerdere afhandelingswijzen"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:18010, Meerdere afhandelingswijzen"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1219"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1913 Gerechtshof Den Haag , 18-06-2025 / 200.347.890/01 en 200.347.891/01
