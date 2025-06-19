@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2011"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AB 2026/216 met annotatie van A.E. Schilder, J.G. Brouwer"]
 ---
 
 # ECLI:NL:GHAMS:2025:2011 Gerechtshof Amsterdam , 19-06-2025 / 23-001802-23
