@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3894"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/1089", "NTFR 2025/1228 met annotatie van mr. R.J. de Jong"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2025/1089", "NTFR 2025/1228 met annotatie van mr. R.J. de Jong", "NDFR Nieuws 2026/727"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:735"]]
 ---
 
 # ECLI:NL:GHARL:2025:3894 Gerechtshof Arnhem-Leeuwarden , 24-06-2025 / 24/1406 t/m 24/1413
