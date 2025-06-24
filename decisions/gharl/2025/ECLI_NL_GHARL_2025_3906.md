@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:3906"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/335 met annotatie van Y. Postema-van der Koogh"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:2879, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2022:2879, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1064"]]
 ---
 
 # ECLI:NL:GHARL:2025:3906 Gerechtshof Arnhem-Leeuwarden , 24-06-2025 / 22/1752 t/m 22/1754
