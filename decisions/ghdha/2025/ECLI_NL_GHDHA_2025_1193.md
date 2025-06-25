@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1193"
-published_in: ["Rechtspraak.nl", "RFR 2025/107"]
+published_in: ["Rechtspraak.nl", "RFR 2025/107", "FJR 2026/46.42"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:12134, Meerdere afhandelingswijzen"]]
 ---
 
