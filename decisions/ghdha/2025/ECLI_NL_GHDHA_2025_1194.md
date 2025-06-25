@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1194"
 published_in: ["Rechtspraak.nl", "Notamail 2025/158", "Sdu Nieuws Personen- en familierecht 2025/415", "RFR 2025/106"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1679"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1194 Gerechtshof Den Haag , 25-06-2025 / 200.348.302/01
