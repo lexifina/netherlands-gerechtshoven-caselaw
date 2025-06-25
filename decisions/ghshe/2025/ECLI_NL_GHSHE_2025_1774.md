@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1774"
 published_in: ["Rechtspraak.nl", "NLF 2025/2105", "NDFR Nieuws 2025/1751", "NTFR 2026/25 met annotatie van mr. E. Swaving Dijkstra"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:1995, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:1995, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:990"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1774 Gerechtshof 's-Hertogenbosch , 25-06-2025 / 23/802 tot en met 23/804
