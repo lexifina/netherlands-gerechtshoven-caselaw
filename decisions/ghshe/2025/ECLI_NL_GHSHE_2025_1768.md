@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1768"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025092402", "FutD 2025-1920", "NLF 2025/2003", "V-N Vandaag 2025/1907", "V-N 2025/45.1.3", "NDFR Nieuws 2025/1744", "NTFR 2025/1975 met annotatie van mr. B. Hulshof, S.J. Leening MSc"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:7139, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2022:7139, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1733"]]
 ---
 
 # ECLI:NL:GHSHE:2025:1768 Gerechtshof 's-Hertogenbosch , 25-06-2025 / 23/4 en 23/5
