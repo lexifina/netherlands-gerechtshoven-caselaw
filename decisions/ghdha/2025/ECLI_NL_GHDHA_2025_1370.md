@@ -7,7 +7,7 @@ decided: "2025-06-26"
 published: "2025-07-17"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Bestuursrecht; Bestuursprocesrecht"
+subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1370"
 published_in: ["Rechtspraak.nl"]
 ---
