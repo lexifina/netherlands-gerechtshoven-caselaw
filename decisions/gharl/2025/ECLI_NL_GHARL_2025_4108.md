@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:4108"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025071117", "V-N Vandaag 2025/1438", "FutD 2025-1481", "NLF 2025/1624 met annotatie van Luc Arets", "V-N 2025/42.1.4"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:283, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:283, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:738"]]
 ---
 
 # ECLI:NL:GHARL:2025:4108 Gerechtshof Arnhem-Leeuwarden , 01-07-2025 / 24/544
