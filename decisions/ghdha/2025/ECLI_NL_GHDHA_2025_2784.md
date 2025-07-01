@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2784"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0030", "RO 2026/22", "JONDR 2026/261", "JIN 2026/43 met annotatie van mr. S.W. Claassen"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0030", "RO 2026/22", "JONDR 2026/261", "JIN 2026/43 met annotatie van mr. S.W. Claassen", "JONDR 2026/438"]
 ---
 
 # ECLI:NL:GHDHA:2025:2784 Gerechtshof Den Haag , 01-07-2025 / 200.348.060/01
