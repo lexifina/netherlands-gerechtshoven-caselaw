@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:1853"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025081501", "FutD 2025-1668", "V-N Vandaag 2025/1653", "NLF 2025/1796", "V-N 2025/41.1.3"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:4125, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:4125, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1816"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-07-008.md"]
 ---
 
