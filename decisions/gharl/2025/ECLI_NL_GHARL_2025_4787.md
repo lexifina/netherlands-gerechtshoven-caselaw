@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:4787"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0149", "Sdu Nieuws Insolventierecht 2025/149"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2025-0149", "Sdu Nieuws Insolventierecht 2025/149", "JOR 2026/137 met annotatie van prof. mr. B.A. Schuijling"]
 ---
 
 # ECLI:NL:GHARL:2025:4787 Gerechtshof Arnhem-Leeuwarden , 08-07-2025 / 200.342.238/01
