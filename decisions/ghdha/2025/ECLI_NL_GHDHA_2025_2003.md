@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2003"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1292"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2003 Gerechtshof Den Haag , 09-07-2025 / 200.328.216/01
