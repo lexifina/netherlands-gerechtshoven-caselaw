@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:4339"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025073005", "FutD 2025-1586"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:282, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025073005", "FutD 2025-1586", "NLF 2026/0902"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:282, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:741"]]
 ---
 
 # ECLI:NL:GHARL:2025:4339 Gerechtshof Arnhem-Leeuwarden , 15-07-2025 / 24/545
