@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2008"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2025/145"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2025/145", "NTHR 2026/30, p.139"]
 ---
 
 # ECLI:NL:GHSHE:2025:2008 Gerechtshof 's-Hertogenbosch , 15-07-2025 / 200.354.782_01
