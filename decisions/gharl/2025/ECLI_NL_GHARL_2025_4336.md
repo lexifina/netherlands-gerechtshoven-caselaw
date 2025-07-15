@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:4336"
-published_in: ["Rechtspraak.nl", "TvAR 2026/8238 met annotatie van J.W.A. Rheinfeld"]
+published_in: ["Rechtspraak.nl", "TvAR 2026/8238 met annotatie van J.W.A. Rheinfeld", "Module Pacht en landelijk gebied 2026/672"]
 ---
 
 # ECLI:NL:GHARL:2025:4336 Gerechtshof Arnhem-Leeuwarden , 15-07-2025 / 200.339.064
