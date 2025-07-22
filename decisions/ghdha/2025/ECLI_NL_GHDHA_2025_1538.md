@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1538"
-published_in: ["Rechtspraak.nl", "Notamail 2025/178", "Sdu Nieuws Personen- en familierecht 2025/474", "JERF 2025/136 met annotatie van mr. drs. J.H. Lieber, mr. J.M. van Anken"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/178", "Sdu Nieuws Personen- en familierecht 2025/474", "JERF 2025/136 met annotatie van mr. drs. J.H. Lieber, mr. J.M. van Anken", "FJR 2026/55.30"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:3312, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:11318, Overig"]]
 ---
 
