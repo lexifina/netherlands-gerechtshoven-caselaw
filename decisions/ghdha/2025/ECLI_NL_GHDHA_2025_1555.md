@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1555"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10097, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10097, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1494"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1555 Gerechtshof Den Haag , 24-07-2025 / BK-24/727
