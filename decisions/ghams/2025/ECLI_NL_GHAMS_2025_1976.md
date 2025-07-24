@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1976"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025080601", "FutD 2025-1617", "V-N Vandaag 2025/1611", "NLF 2025/1793", "V-N 2025/44.1.3"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025080601", "FutD 2025-1617", "V-N Vandaag 2025/1611", "NLF 2025/1793", "V-N 2025/44.1.3", "NLF 2025/1745"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:931"]]
 ---
 
 # ECLI:NL:GHAMS:2025:1976 Gerechtshof Amsterdam , 24-07-2025 / 24/3462
