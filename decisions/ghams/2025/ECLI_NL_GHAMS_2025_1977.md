@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:1977"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/340 met annotatie van J.C. Scherff"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1167"]]
 ---
 
 # ECLI:NL:GHAMS:2025:1977 Gerechtshof Amsterdam , 24-07-2025 / 24/3464
