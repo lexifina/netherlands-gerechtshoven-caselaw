@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2099"
-published_in: ["Rechtspraak.nl", "S&S 2025/104"]
+published_in: ["Rechtspraak.nl", "S&S 2025/104", "NTHR 2026/35, p.158"]
 ---
 
 # ECLI:NL:GHSHE:2025:2099 Gerechtshof 's-Hertogenbosch , 29-07-2025 / 200.323.612_01
