@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2200"
-published_in: ["Rechtspraak.nl", "ARO 2025/98", "JONDR 2025/884"]
+published_in: ["Rechtspraak.nl", "ARO 2025/98", "JONDR 2025/884", "Ondernemingsrecht 2026/47 met annotatie van M.L.H. Reumers"]
 ---
 
 # ECLI:NL:GHAMS:2025:2200 Gerechtshof Amsterdam , 31-07-2025 / 200.218.242/01/02 OK
