@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2149"
-published_in: ["Rechtspraak.nl", "RBP 2025/94"]
+published_in: ["Rechtspraak.nl", "RBP 2025/94", "JBPr 2026/24 met annotatie van mr. P. Tomassen, mr. T.R.B. de Greve"]
 ---
 
 # ECLI:NL:GHAMS:2025:2149 Gerechtshof Amsterdam , 12-08-2025 / 200.357.275/01
