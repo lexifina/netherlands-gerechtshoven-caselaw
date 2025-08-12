@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2321"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025120108", "V-N Vandaag 2025/2408", "FutD 2025-2411", "NLF 2025/2568", "NDFR Nieuws 2025/1975", "V-N 2026/3.1.1", "NTFR 2026/186 met annotatie van drs. N.M. Ligthart"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:6076, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:6076, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1644"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2321 Gerechtshof Den Haag , 12-08-2025 / BK-24/902
