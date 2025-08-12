@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1837"
 published_in: ["Rechtspraak.nl", "NLF 2025/2266"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:6512, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:6512, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1554"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1837 Gerechtshof Den Haag , 12-08-2025 / BK-24/462
