@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2269"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/75 met annotatie van M. de Wijs"]
 ---
 
 # ECLI:NL:GHSHE:2025:2269 Gerechtshof 's-Hertogenbosch , 19-08-2025 / 200.337.120_01
