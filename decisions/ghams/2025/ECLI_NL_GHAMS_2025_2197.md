@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2197"
-published_in: ["Rechtspraak.nl", "JAR 2025/252 met annotatie van mr. dr. J.R.C. Tangelder", "PJ 2025/102 met annotatie van E. Lutjens", "RF 2026/9"]
+published_in: ["Rechtspraak.nl", "JAR 2025/252 met annotatie van mr. dr. J.R.C. Tangelder", "PJ 2025/102 met annotatie van E. Lutjens", "RF 2026/9", "PR-Updates.nl 2025-0142"]
 ---
 
 # ECLI:NL:GHAMS:2025:2197 Gerechtshof Amsterdam , 19-08-2025 / 200.333.507/01
