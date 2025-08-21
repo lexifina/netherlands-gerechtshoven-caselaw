@@ -10,7 +10,7 @@ procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2297"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2025:753"]]
+relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2025:753"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:846"]]
 ---
 
 # ECLI:NL:GHSHE:2025:2297 Gerechtshof 's-Hertogenbosch , 21-08-2025 / 200.355.565_01
