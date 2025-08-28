@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2330"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0193"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0193", "FJR 2026/40.19"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1277"]]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-392.md"]
 ---
 
