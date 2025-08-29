@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3428"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032610", "V-N Vandaag 2026/576", "FutD 2026-0545", "NDFR Nieuws 2026/544", "V-N 2026/17.14 met annotatie van Redactie"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:14103, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032610", "V-N Vandaag 2026/576", "FutD 2026-0545", "NDFR Nieuws 2026/544", "V-N 2026/17.14 met annotatie van Redactie", "NTFR 2026/833 met annotatie van mr. J.C.L.M. Fijen"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:14103, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1699"]]
 ---
 
 # ECLI:NL:GHAMS:2025:3428 Gerechtshof Amsterdam , 29-08-2025 / 24/3863 en 24/3864
