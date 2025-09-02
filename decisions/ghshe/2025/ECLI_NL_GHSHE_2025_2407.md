@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2407"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "WR 2026/70"]
 ---
 
 # ECLI:NL:GHSHE:2025:2407 Gerechtshof 's-Hertogenbosch , 02-09-2025 / 200.354.068_01
