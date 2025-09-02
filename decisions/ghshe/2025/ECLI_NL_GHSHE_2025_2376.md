@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2376"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/82"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/82", "RBP 2026/48"]
 ---
 
 # ECLI:NL:GHSHE:2025:2376 Gerechtshof 's-Hertogenbosch , 02-09-2025 / 200.334.530_01
