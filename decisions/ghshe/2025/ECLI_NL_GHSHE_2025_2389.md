@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2389"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0637", "AR-Updates.nl 2026-0637", "PR-Updates.nl 2026-0128", "JAR 2026/144"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-658.md"]
 ---
 
