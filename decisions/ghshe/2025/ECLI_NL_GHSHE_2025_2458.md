@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2458"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/166"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:2298"]]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-318.md"]
 ---
