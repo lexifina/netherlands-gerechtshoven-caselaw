@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2279"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2025/155", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/15"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2025/155", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/15", "JOR 2026/103 met annotatie van prof. mr. J.W.P.M. van der Velden", "JONDR 2026/493", "NTHR 2026/30, p.140"]
 ---
 
 # ECLI:NL:GHDHA:2025:2279 Gerechtshof Den Haag , 09-09-2025 / 200.331.701/01
