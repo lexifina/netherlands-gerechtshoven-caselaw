@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:5529"
-published_in: ["Rechtspraak.nl", "Notamail 2025/217", "JERF Actueel 2025/417", "Sdu Nieuws Personen- en familierecht 2025/557", "VEAN-ERF-Updates.nl 2025-0522", "JERF 2025/149"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/217", "JERF Actueel 2025/417", "Sdu Nieuws Personen- en familierecht 2025/557", "VEAN-ERF-Updates.nl 2025-0522", "JERF 2025/149", "FJR 2026/55.16"]
 ---
 
 # ECLI:NL:GHARL:2025:5529 Gerechtshof Arnhem-Leeuwarden , 09-09-2025 / 200.330.285
