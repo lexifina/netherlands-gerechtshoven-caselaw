@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2459"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/12 met annotatie van mr. E.P.W. Korevaar"]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-290.md"]
 ---
 
