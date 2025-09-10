@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:1806"
 published_in: ["Rechtspraak.nl", "Belastingblad 2025/436 met annotatie van M.M. Franse"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1458"]]
 ---
 
 # ECLI:NL:GHDHA:2025:1806 Gerechtshof Den Haag , 10-09-2025 / BK-24/969 tot en met BK-24/971
