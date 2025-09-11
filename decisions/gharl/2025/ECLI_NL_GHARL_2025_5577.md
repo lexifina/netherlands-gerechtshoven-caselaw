@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Wraking
+Wrakingsverzoek. Procedurele beslissing geen grond voor wraking.
 
 ## Uitspraak
 
