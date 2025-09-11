@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025121005", "FutD 2025-2470", 
 
 ## Inhoudsindicatie
 
-Wraking
+Wrakingsverzoek. Procedurele beslissing geen grond voor wraking.
 
 ## Uitspraak
 
