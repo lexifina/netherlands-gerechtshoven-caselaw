@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2538"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0019"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0019", "JOR 2026/122 met annotatie van mr. N. Kreileman", "JONDR 2026/522"]
+relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHSHE:2025:3155"]]
 cites_law: ["netherlands/national/acts/bw-boek-2/art-015.md"]
 ---
 
