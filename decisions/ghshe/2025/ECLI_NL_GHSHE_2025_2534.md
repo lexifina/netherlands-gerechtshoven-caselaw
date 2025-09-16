@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2534"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/53"]
 cites_law: ["netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-251.md", "netherlands/national/acts/wetboek-van-burgerlijke-rechtsvordering/art-252.md"]
 ---
 
