@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2691"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1643", "VAAN-AR-Updates.nl 2025-1643"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2452"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2691 Gerechtshof Den Haag , 16-09-2025 / 200.325.190/01
