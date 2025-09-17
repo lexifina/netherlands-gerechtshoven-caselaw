@@ -10,6 +10,7 @@ procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:5708"
 published_in: ["Rechtspraak.nl", "RO 2025/72", "JIN 2025/159 met annotatie van mr. T.A. Wilms", "OR-Updates.nl 2025-0242", "JONDR 2026/6", "VSZ 2025-3, p. 110-115, annotatie van R.H.B. Wortel"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1300"]]
 ---
 
 # ECLI:NL:GHARL:2025:5708 Gerechtshof Arnhem-Leeuwarden , 17-09-2025 / 200.358.448
