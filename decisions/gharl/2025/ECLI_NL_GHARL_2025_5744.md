@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:5744"
-published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:2203"]]
+published_in: ["Rechtspraak.nl", "JAAN 2026/87 met annotatie van prof. mr. P.H.L.M. Kuypers"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:2203"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2026:3328"]]
 ---
 
 # ECLI:NL:GHARL:2025:5744 Gerechtshof Arnhem-Leeuwarden , 19-09-2025 / 200.355.611
