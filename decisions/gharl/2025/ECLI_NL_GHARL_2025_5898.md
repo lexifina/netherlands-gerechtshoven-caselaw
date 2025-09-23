@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:5898"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/1077", "V-N Vandaag 2025/2005", "Viditax (FutD) 2025101002", "NDFR Nieuws 2025/1585", "FutD 2025-2063", "NLF 2025/2180 met annotatie van Jelle Kanters", "V-N 2025/50.1.2", "NTFR 2025/1822 met annotatie van mr. E.I. Brouwer", "Belastingadvies 2026/1-2.3"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2025/1077", "V-N Vandaag 2025/2005", "Viditax (FutD) 2025101002", "NDFR Nieuws 2025/1585", "FutD 2025-2063", "NLF 2025/2180 met annotatie van mr. J. Kanters", "V-N 2025/50.1.2", "NTFR 2025/1822 met annotatie van mr. E.I. Brouwer", "Belastingadvies 2026/1-2.3"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:4545, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
