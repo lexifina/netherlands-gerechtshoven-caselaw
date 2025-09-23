@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2580"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/728"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/728", "V-N 2026/25.15.22"]
 ---
 
 # ECLI:NL:GHAMS:2025:2580 Gerechtshof Amsterdam , 23-09-2025 / 24/232
