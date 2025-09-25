@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2589"
-published_in: ["Rechtspraak.nl", "NLF 2025/2592", "Douanerechtspraak 2026/211", "Douanerechtspraak 2025/211"]
+published_in: ["Rechtspraak.nl", "NLF 2025/2592", "Douanerechtspraak 2026/211", "Douanerechtspraak 2025/211", "JGR 2026/14 met annotatie van mr. drs. J.A. Lisman"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:3618, Bekrachtiging/bevestiging"]]
 ---
 
