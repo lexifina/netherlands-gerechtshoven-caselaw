@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2587"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122409", "V-N Vandaag 2025/2621", "FutD 2026-0011", "NDFR Nieuws 2026/50", "VFP 2026/27", "2026/0004 met annotatie van E.P. Hageman LLM", "NLF 2026/0004 met annotatie van E.P. Hageman LLM", "NTFR 2026/445 met annotatie van mr. M.L. Scholte"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1744"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2587 Gerechtshof Den Haag , 30-09-2025 / BK-24/1017 en BK-24/1018
