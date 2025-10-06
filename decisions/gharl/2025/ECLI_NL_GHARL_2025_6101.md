@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht; Strafprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6101"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RF 2026/32"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:1781"]]
 ---
 
