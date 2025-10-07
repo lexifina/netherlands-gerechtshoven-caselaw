@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2748"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:GHSHE:2025:2748 Gerechtshof 's-Hertogenbosch , 07-10-2025 / 200.328.796/01
