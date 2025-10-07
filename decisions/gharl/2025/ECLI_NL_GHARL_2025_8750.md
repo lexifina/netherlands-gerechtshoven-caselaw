@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:8750"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/33", "JHV 2026/22 met annotatie van mr. E.P.W. Korevaar"]
 ---
 
 # ECLI:NL:GHARL:2025:8750 Gerechtshof Arnhem-Leeuwarden , 07-10-2025 / 200.342.235
