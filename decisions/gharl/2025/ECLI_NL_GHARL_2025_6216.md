@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6216"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/26 met annotatie van prof. mr. A. Hammerstein"]
 ---
 
 # ECLI:NL:GHARL:2025:6216 Gerechtshof Arnhem-Leeuwarden , 09-10-2025 / 200.359.320/01 en 200.359.320/02
