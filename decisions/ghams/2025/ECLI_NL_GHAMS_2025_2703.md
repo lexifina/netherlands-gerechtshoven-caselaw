@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2703"
-published_in: ["Rechtspraak.nl", "JOR 2026/4 met annotatie van mr. D.E. Mandigers", "JONDR 2026/79", "ARO 2025/124", "NJFCZ 2026/127"]
+published_in: ["Rechtspraak.nl", "JOR 2026/4 met annotatie van mr. D.E. Mandigers", "JONDR 2026/79", "ARO 2025/124", "NJFCZ 2026/127", "JONDR 2026/358"]
 ---
 
 # ECLI:NL:GHAMS:2025:2703 Gerechtshof Amsterdam , 09-10-2025 / 200.352.895/01OK
