@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:3810"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/60.23"]
 ---
 
 # ECLI:NL:GHSHE:2025:3810 Gerechtshof 's-Hertogenbosch , 10-10-2025 / 20-000796-25
