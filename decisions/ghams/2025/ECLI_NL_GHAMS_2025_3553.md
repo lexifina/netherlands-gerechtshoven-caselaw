@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3553"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/684"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/684", "V-N 2026/23.20.22"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:1954, Bekrachtiging/bevestiging"]]
 ---
 
