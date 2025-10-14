@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2716"
-published_in: ["Rechtspraak.nl", "JIN 2026/26 met annotatie van mr. R. du Pree"]
+published_in: ["Rechtspraak.nl", "JIN 2026/26 met annotatie van mr. R. du Pree", "JONDR 2026/354"]
 ---
 
 # ECLI:NL:GHAMS:2025:2716 Gerechtshof Amsterdam , 14-10-2025 / 200.324.424
