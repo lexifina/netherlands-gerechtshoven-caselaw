@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2864"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0156", "JAR 2026/52"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2025:803"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2025:803"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1680"]]
 cites_law: ["netherlands/national/acts/bw-boek-7/art-669.md"]
 ---
 
