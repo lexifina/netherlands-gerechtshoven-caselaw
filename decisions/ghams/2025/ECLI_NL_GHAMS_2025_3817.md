@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3817"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041501", "FutD 2026-0679", "V-N Vandaag 2026/777"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041501", "FutD 2026-0679", "V-N Vandaag 2026/777", "NDFR Nieuws 2026/666", "V-N 2026/23.20.14", "VFP 2026/87", "NTFR 2026/1044 met annotatie van J.N. Konijn MSc"]
 ---
 
 # ECLI:NL:GHAMS:2025:3817 Gerechtshof Amsterdam , 21-10-2025 / 23/486
