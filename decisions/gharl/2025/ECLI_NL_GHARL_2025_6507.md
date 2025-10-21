@@ -10,6 +10,7 @@ procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6507"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2026:2612"]]
 ---
 
 # ECLI:NL:GHARL:2025:6507 Gerechtshof Arnhem-Leeuwarden , 21-10-2025 / 200.339.103/01
