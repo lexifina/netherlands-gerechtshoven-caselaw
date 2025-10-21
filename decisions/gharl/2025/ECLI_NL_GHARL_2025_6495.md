@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6495"
 published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2025-0230"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1432"]]
 ---
 
 # ECLI:NL:GHARL:2025:6495 Gerechtshof Arnhem-Leeuwarden , 21-10-2025 / 200.352.464/01
