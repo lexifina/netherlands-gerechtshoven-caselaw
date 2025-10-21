@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6490"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/96 met annotatie van mr. dr. H.J. Weijers"]
 ---
 
 # ECLI:NL:GHARL:2025:6490 Gerechtshof Arnhem-Leeuwarden , 21-10-2025 / 200.352.490/01
