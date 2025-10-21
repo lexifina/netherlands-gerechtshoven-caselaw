@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Effectenlease. Minderjarige afnemer. Schending (precontractuele) zorgplicht Dexia door verkoop financieel product aan minderjarige en veroordeling tot schadevergoeding, geen eigen schuld afnemer.
+Incident tot afgifte document ex art. 843a Rv en art. 22 Rv; overgangsrecht; afwijzing
 
 ## Uitspraak
 
