@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:2911"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112511", "FutD 2025-2383", "Belastingblad 2026/41 met annotatie van Redactie", "V-N 2026/5.24.25"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112511", "FutD 2025-2383", "Belastingblad 2026/41 met annotatie van Redactie", "V-N 2026/5.24.25", "V-N Vandaag 2025/2372"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2025:3661, Niet ontvankelijk"]]
 ---
 
