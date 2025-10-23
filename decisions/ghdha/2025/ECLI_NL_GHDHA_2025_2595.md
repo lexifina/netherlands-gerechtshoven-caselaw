@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2595"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/10", "Viditax (FutD) 2026010705", "Sdu Nieuws Belastingzaken 2026/34", "FutD 2026-0069", "NDFR Nieuws 2026/65", "NTFR 2026/252 met annotatie van mr. H.M. Nijland", "Belastingblad 2026/78 met annotatie van R.T. Wiegerink", "NLF 2026/0048"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1450"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2595 Gerechtshof Den Haag , 23-10-2025 / BK-24/897
