@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:2852"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/30, p.141"]
 ---
 
 # ECLI:NL:GHAMS:2025:2852 Gerechtshof Amsterdam , 28-10-2025 / 200.097.392
