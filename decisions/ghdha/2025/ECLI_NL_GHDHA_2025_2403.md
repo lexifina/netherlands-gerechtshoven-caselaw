@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2403"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122302", "Sdu Nieuws Belastingzaken 2025/1446", "V-N Vandaag 2025/2612", "FutD 2026-0015", "NDFR Nieuws 2026/2", "NTFR 2026/155 met annotatie van mr. C.H. Strating", "NLF 2025/2744"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122302", "Sdu Nieuws Belastingzaken 2025/1446", "V-N Vandaag 2025/2612", "FutD 2026-0015", "NDFR Nieuws 2026/2", "NTFR 2026/155 met annotatie van mr. C.H. Strating", "NLF 2025/2744", "V-N 2026/44.25.21"]
 ---
 
 # ECLI:NL:GHDHA:2025:2403 Gerechtshof Den Haag , 29-10-2025 / BK-25/119
