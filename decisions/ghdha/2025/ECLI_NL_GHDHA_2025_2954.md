@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2954"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10042, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:10042, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:818"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2954 Gerechtshof Den Haag , 29-10-2025 / BK-24/649
