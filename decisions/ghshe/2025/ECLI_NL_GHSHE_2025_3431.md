@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:3431"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/133"]
 ---
 
 # ECLI:NL:GHSHE:2025:3431 Gerechtshof 's-Hertogenbosch , 30-10-2025 / 000829-25
