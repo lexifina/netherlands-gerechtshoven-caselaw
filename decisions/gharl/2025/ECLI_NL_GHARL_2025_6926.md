@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6926"
-published_in: ["Rechtspraak.nl", "RCR 2026/16"]
+published_in: ["Rechtspraak.nl", "RCR 2026/16", "NTHR 2026/32, p.144"]
 ---
 
 # ECLI:NL:GHARL:2025:6926 Gerechtshof Arnhem-Leeuwarden , 04-11-2025 / 200.340.420/01
