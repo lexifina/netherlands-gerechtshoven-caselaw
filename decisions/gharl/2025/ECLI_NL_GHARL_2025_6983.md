@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6983"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1562"]]
 ---
 
 # ECLI:NL:GHARL:2025:6983 Gerechtshof Arnhem-Leeuwarden , 04-11-2025 / 24/485 en 24/486
