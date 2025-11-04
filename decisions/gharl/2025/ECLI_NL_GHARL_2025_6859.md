@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:6859"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TvAR 2026/8250 met annotatie van B. Nijman"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:9657"]]
 ---
 
