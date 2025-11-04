@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2256"
 published_in: ["Rechtspraak.nl", "JV 2025/282 met annotatie van mr. T. de Boer", "RAV 2026/6", "O&A 2026/12"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1586"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2256 Gerechtshof Den Haag , 04-11-2025 / 200.358.823/01
