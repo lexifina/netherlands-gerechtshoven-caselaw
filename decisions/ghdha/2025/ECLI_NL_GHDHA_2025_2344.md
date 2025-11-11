@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2344"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/17 met annotatie van mr. G.C.M. Schipper"]
 ---
 
 # ECLI:NL:GHDHA:2025:2344 Gerechtshof Den Haag , 11-11-2025 / 200.333.956/02
