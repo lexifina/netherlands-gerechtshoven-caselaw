@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3137"
-published_in: ["Rechtspraak.nl", "RVR 2026/2", "TvPP 2026/8, p.25 met annotatie van R.D.G. de Grave", "JHV 2026/4 met annotatie van mr. E.P.W. Korevaar", "BR 2026/12 met annotatie van M.J.E. Boudesteijn"]
+published_in: ["Rechtspraak.nl", "RVR 2026/2", "TvPP 2026/8, p.25 met annotatie van R.D.G. de Grave", "JHV 2026/4 met annotatie van mr. E.P.W. Korevaar", "BR 2026/12 met annotatie van M.J.E. Boudesteijn", "WR 2026/55 met annotatie van F. van Westrhenen"]
 ---
 
 # ECLI:NL:GHAMS:2025:3137 Gerechtshof Amsterdam , 11-11-2025 / 200.341.956
