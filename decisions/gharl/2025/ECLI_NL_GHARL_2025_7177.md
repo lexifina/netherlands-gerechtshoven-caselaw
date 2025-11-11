@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7177"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112108", "FutD 2025-2342", "NLF 2025/2492", "V-N Vandaag 2025/2363", "V-N 2026/5.1.3", "V-N 2026/12.9 met annotatie van Redactie", "Belastingadvies 2026/4.3"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025112108", "FutD 2025-2342", "NLF 2025/2492", "V-N Vandaag 2025/2363", "V-N 2026/5.1.3", "V-N 2026/12.9 met annotatie van Redactie", "Belastingadvies 2026/4.3", "RSV 2026/98 met annotatie van R.S. Ferouge"]
 ---
 
 # ECLI:NL:GHARL:2025:7177 Gerechtshof Arnhem-Leeuwarden , 11-11-2025 / 24/1954
