@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3138"
-published_in: ["Rechtspraak.nl", "RF 2026/25"]
+published_in: ["Rechtspraak.nl", "RF 2026/25", "JONDR 2026/398"]
 ---
 
 # ECLI:NL:GHAMS:2025:3138 Gerechtshof Amsterdam , 11-11-2025 / 200.306.326
