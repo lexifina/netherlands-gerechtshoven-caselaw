@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2361"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/140"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/140", "JONDR 2026/395", "NTHR 2026/30, p.140"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2019:265, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
