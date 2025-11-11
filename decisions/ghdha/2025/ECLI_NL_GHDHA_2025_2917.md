@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2917"
-published_in: ["Rechtspraak.nl", "Notamail 2026/50", "Sdu Nieuws Personen- en familierecht 2026/136", "ERF-Updates.nl 2026-0114", "VEAN-ERF-Updates.nl 2026-0114", "JERF Actueel 2026/59"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/50", "Sdu Nieuws Personen- en familierecht 2026/136", "ERF-Updates.nl 2026-0114", "VEAN-ERF-Updates.nl 2026-0114", "JERF Actueel 2026/59", "JERF 2026/66", "RN 2026/49"]
 ---
 
 # ECLI:NL:GHDHA:2025:2917 Gerechtshof Den Haag , 11-11-2025 / 200.336.616/01
