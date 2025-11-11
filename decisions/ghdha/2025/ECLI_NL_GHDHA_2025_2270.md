@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2270"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1481", "VAAN-AR-Updates.nl 2025-1481", "JAR 2026/12 met annotatie van mr. I.H. Vermeeren-Keijzers, mr. K.A. van Haaren", "PJ 2026/1 met annotatie van R.M.J.M. de Greef", "JIN 2026/2 met annotatie van mr. W.C.M. Donner-Broersma"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1481", "VAAN-AR-Updates.nl 2025-1481", "JAR 2026/12 met annotatie van mr. I.H. Vermeeren-Keijzers, mr. K.A. van Haaren", "PJ 2026/1 met annotatie van R.M.J.M. de Greef", "JIN 2026/2 met annotatie van mr. W.C.M. Donner-Broersma", "PR-Updates.nl 2025-0202"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBAMS:2018:10181, Bekrachtiging/bevestiging"]]
 ---
 
