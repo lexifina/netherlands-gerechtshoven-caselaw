@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2295"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:1958"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2295 Gerechtshof Den Haag , 11-11-2025 / 200.347.415/01
