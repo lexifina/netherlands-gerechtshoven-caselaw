@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7218"
-published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2025/4480", "Prg. 2026/64", "JBP 2026/19 met annotatie van mr. ir. M. van der Wal, mr. S.L. Ouburg"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2025/4480", "Prg. 2026/64", "JBP 2026/19 met annotatie van mr. ir. M. van der Wal, mr. S.L. Ouburg", "P&I 2026/12, p.62 met annotatie van Danny Mekić"]
 ---
 
 # ECLI:NL:GHARL:2025:7218 Gerechtshof Arnhem-Leeuwarden , 17-11-2025 / 200.350.837/01
