@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2670"
-published_in: ["Rechtspraak.nl", "JAAN 2026/23"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/23", "Jurisprudentie Grondzaken 2026/17 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:9293, Bekrachtiging/bevestiging"]]
 ---
 
