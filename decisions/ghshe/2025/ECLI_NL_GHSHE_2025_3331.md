@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:3331"
-published_in: ["Rechtspraak.nl", "Notamail 2025/270", "Sdu Nieuws Personen- en familierecht 2025/686", "JERF Actueel 2025/473", "VEAN-ERF-Updates.nl 2025-0607", "NJFCZ 2026/3", "JERF 2026/36", "JERF 2026/50 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Notamail 2025/270", "Sdu Nieuws Personen- en familierecht 2025/686", "JERF Actueel 2025/473", "VEAN-ERF-Updates.nl 2025-0607", "NJFCZ 2026/3", "JERF 2026/36", "JERF 2026/50 met annotatie van Redactie", "FJR 2026/55.8"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:539"]]
 cites_law: ["netherlands/national/acts/bw-boek-4/art-046.md", "netherlands/national/acts/bw-boek-4/art-223.md", "netherlands/national/acts/wet-op-de-lijkbezorging/art-018.md", "netherlands/national/acts/wet-op-de-lijkbezorging/art-059.md"]
 ---
