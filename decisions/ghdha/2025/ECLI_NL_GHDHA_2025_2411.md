@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2411"
 published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1527"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:15406"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:15406"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2347"]]
 ---
 
 # ECLI:NL:GHDHA:2025:2411 Gerechtshof Den Haag , 25-11-2025 / 200.350.005/01
