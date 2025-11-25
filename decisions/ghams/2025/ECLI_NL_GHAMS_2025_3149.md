@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3149"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/49 met annotatie van mr. H.J. Weijers"]
 ---
 
 # ECLI:NL:GHAMS:2025:3149 Gerechtshof Amsterdam , 25-11-2025 / 200.350.986/01
