@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3314"
-published_in: ["Rechtspraak.nl", "2025/2713 met annotatie van mr. J. Graaff", "NLF 2025/2713 met annotatie van mr. J. Graaff"]
+published_in: ["Rechtspraak.nl", "2025/2713 met annotatie van mr. J. Graaff", "NLF 2025/2713 met annotatie van mr. J. Graaff", "V-N Vandaag 2026/1442", "NDFR Nieuws 2026/1171", "NTFR 2026/1376 met annotatie van mr. R.B.H. Beune", "V-N 2026/34.29 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:GHAMS:2025:3314 Gerechtshof Amsterdam , 25-11-2025 / 200.240.168, 200.241.208, 200.241. 690
