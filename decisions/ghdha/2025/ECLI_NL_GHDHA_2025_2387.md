@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2387"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "IER 2026/23 met annotatie van E.R. van der Velde", "IR 2026/19, UDH:IR/57253 met annotatie van mr. K. (Koen) Konings", "MF 2026, afl. 4, nr. 12 met annotatie van mr. I.S. Toepoel"]
 ---
 
 # ECLI:NL:GHDHA:2025:2387 Gerechtshof Den Haag , 25-11-2025 / 200.336.336/01
