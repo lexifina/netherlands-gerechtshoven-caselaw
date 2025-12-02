@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2579"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0044", "AR-Updates.nl 2026-0108", "VAAN-AR-Updates.nl 2026-0108", "JA 2026/45", "RAV 2026/26"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0044", "AR-Updates.nl 2026-0108", "VAAN-AR-Updates.nl 2026-0108", "JA 2026/45", "RAV 2026/26", "Jurisprudentie HSE 2026/2"]
 ---
 
 # ECLI:NL:GHDHA:2025:2579 Gerechtshof Den Haag , 02-12-2025 / 200.345.229/01
