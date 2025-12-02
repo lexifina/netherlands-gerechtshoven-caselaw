@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7775"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025121612", "V-N Vandaag 2025/2547", "FutD 2025-2505"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025121612", "V-N Vandaag 2025/2547", "FutD 2025-2505", "NLF 2026/1418"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:5585, Bekrachtiging/bevestiging"]]
 ---
 
