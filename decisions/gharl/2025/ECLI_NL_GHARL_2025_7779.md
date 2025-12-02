@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7779"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026012111", "V-N Vandaag 2026/96", "FutD 2026-0138", "NDFR Nieuws 2026/149", "2026/0148 met annotatie van dr. C.L. van Lindonk", "NLF 2026/0148 met annotatie van dr. C.L. van Lindonk"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026012111", "V-N Vandaag 2026/96", "FutD 2026-0138", "NDFR Nieuws 2026/149", "2026/0148 met annotatie van dr. C.L. van Lindonk", "NLF 2026/0148 met annotatie van dr. C.L. van Lindonk", "NTFR 2026/728 met annotatie van dr. M. van Dun"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2022:1426, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
