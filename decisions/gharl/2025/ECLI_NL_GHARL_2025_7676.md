@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7676"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/154 met annotatie van mr. C.F. Perquin-Deelen", "JONDR 2026/604"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:6507"]]
 ---
 
