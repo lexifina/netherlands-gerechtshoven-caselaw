@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2604"
-published_in: ["Rechtspraak.nl", "JIN 2026/27 met annotatie van mr. B.N. Goedhart, mr. R.A.M.D. Smit", "JOR 2026/69 met annotatie van mr. S.C.M. van Thiel"]
+published_in: ["Rechtspraak.nl", "JIN 2026/27 met annotatie van mr. B.N. Goedhart, mr. R.A.M.D. Smit", "JOR 2026/69 met annotatie van mr. S.C.M. van Thiel", "JONDR 2026/353"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:2082, Meerdere afhandelingswijzen"]]
 ---
 
