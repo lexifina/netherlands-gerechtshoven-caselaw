@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3540"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ARO 2025/141", "JOR 2026/127 met annotatie van mr. dr. P.L. Hezer", "JONDR 2026/528"]
 ---
 
 # ECLI:NL:GHAMS:2025:3540 Gerechtshof Amsterdam , 04-12-2025 / 200.355.210/01 OK
