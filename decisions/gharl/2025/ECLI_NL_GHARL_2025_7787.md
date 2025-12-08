@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Bestuursstrafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7787"
-published_in: ["Rechtspraak.nl", "VR 2026/3"]
+published_in: ["Rechtspraak.nl", "VR 2026/3", "NJFS 2026/107"]
 ---
 
 # ECLI:NL:GHARL:2025:7787 Gerechtshof Arnhem-Leeuwarden , 08-12-2025 / Wahv 200.351.393/01
