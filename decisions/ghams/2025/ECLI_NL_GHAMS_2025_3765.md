@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3765"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/151"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/151", "RAV 2026/36", "JA 2026/108 met annotatie van mr. J.A.M. van Spijk"]
 ---
 
 # ECLI:NL:GHAMS:2025:3765 Gerechtshof Amsterdam , 09-12-2025 / 200.339.132
