@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3286"
-published_in: ["Rechtspraak.nl", "RO 2026/11"]
+published_in: ["Rechtspraak.nl", "RO 2026/11", "JOR 2026/99 met annotatie van prof. mr. C.D.J. Bulten", "ARO 2025/143"]
 ---
 
 # ECLI:NL:GHAMS:2025:3286 Gerechtshof Amsterdam , 09-12-2025 / 200.355.255/01 OK
