@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7891"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0002", "RI 2026/20", "JONDR 2026/258"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0002", "RI 2026/20", "JONDR 2026/258", "RO 2026/34", "JONDR 2026/436"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2023:3475"]]
 ---
 
