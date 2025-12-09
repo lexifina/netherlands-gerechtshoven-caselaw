@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7826"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0005", "JGz 2026/10 met annotatie van mr. drs. F. Westenberg"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0005", "JGz 2026/10 met annotatie van mr. drs. F. Westenberg", "GZR-Updates.nl 2026-0073"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:7367"]]
 ---
 
