@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:7992"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122305", "FutD 2026-0023", "NDFR Nieuws 2026/19", "V-N Vandaag 2026/48", "Belastingblad 2026/48 met annotatie van J.K. Lanser", "NTFR 2026/248 met annotatie van mr. V. Sathananthan", "2025/2718 met annotatie van mr. M. Betjes", "NLF 2025/2718 met annotatie van mr. M. Betjes"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2025122305", "FutD 2026-0023", "NDFR Nieuws 2026/19", "V-N Vandaag 2026/48", "Belastingblad 2026/48 met annotatie van J.K. Lanser", "NTFR 2026/248 met annotatie van mr. V. Sathananthan", "2025/2718 met annotatie van mr. M. Betjes", "NLF 2025/2718 met annotatie van mr. M. Betjes", "V-N 2026/20.8 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:2690"]]
 ---
 
