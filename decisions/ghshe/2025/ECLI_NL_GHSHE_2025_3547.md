@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:3547"
 published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/102", "V-N 2026/10.1.2"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:6405, Bekrachtiging/bevestiging"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:6405, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1440"]]
 ---
 
 # ECLI:NL:GHSHE:2025:3547 Gerechtshof 's-Hertogenbosch , 10-12-2025 / 24/1593 tot en met 24/1596
