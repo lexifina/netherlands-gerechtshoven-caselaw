@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2025:3540"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026012104", "V-N Vandaag 2026/109", "FutD 2026-0142", "Sdu Nieuws Belastingzaken 2026/100", "NDFR Nieuws 2026/160", "NLF 2026/0185", "NTFR 2026/394 met annotatie van mr. J.A. de Vries", "V-N 2026/12.24.9"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026012104", "V-N Vandaag 2026/109", "FutD 2026-0142", "Sdu Nieuws Belastingzaken 2026/100", "NDFR Nieuws 2026/160", "NLF 2026/0185", "NTFR 2026/394 met annotatie van mr. J.A. de Vries", "V-N 2026/12.24.9", "Belastingadvies 2026/7.5"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:333, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-007.md"]
 ---
