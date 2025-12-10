@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3289"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/97 met annotatie van mr. F. Eikelboom", "ARO 2025/145"]
 ---
 
 # ECLI:NL:GHAMS:2025:3289 Gerechtshof Amsterdam , 10-12-2025 / 200.342.031/03OK
