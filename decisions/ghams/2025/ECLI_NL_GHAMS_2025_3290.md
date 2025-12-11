@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3290"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/368", "RO 2026/8", "JONDR 2026/194", "TRA 2026/40 met annotatie van L.C.J. Sprengers"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2025/368", "RO 2026/8", "JONDR 2026/194", "TRA 2026/40 met annotatie van L.C.J. Sprengers", "ARO 2025/146 met annotatie van Redactie", "JOR 2026/159 met annotatie van mr. J.M. Blanco Fernández", "OR-Updates.nl 2025-0246"]
 ---
 
 # ECLI:NL:GHAMS:2025:3290 Gerechtshof Amsterdam , 11-12-2025 / 200.343.843/01 OK
