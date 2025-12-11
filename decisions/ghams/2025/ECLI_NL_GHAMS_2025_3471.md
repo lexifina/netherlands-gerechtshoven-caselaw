@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3471"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033006", "V-N Vandaag 2026/589", "FutD 2026-0590"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033006", "V-N Vandaag 2026/589", "FutD 2026-0590", "NDFR Nieuws 2026/730", "V-N 2026/27.5 met annotatie van Redactie", "NTFR 2026/991 met annotatie van drs. M.J.J.R. van Mourik"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:8903, Bekrachtiging/bevestiging"]]
 ---
 
