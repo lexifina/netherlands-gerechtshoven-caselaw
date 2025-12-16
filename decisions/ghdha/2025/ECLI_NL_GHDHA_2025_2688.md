@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2688"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/36, p.166"]
 ---
 
 # ECLI:NL:GHDHA:2025:2688 Gerechtshof Den Haag , 16-12-2025 / 200.337.863/01
