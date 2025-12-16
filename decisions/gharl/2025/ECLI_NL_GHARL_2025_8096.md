@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:8096"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2511"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2511", "JAAN 2026/62 met annotatie van mr. D.M. van Broeckhuijsen, mr. ir. M.B. Klijn"]
 ---
 
 # ECLI:NL:GHARL:2025:8096 Gerechtshof Arnhem-Leeuwarden , 16-12-2025 / 200.359.847/01
