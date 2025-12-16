@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:8101"
-published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0010", "NJFCZ 2026/59", "JONDR 2026/188", "RO 2026/19"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0010", "NJFCZ 2026/59", "JONDR 2026/188", "RO 2026/19", "JOR 2026/92 met annotatie van mr. K.H.M. de Roo"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2024:5517"]]
 ---
 
