@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3655"
-published_in: ["Rechtspraak.nl", "RF 2026/24"]
+published_in: ["Rechtspraak.nl", "RF 2026/24", "NJFCZ 2026/163", "JONDR 2026/397", "JOR 2026/134 met annotatie van C.H.D.W. van den Borne-Verheijen", "NTHR 2026/33, p.147"]
 ---
 
 # ECLI:NL:GHAMS:2025:3655 Gerechtshof Amsterdam , 16-12-2025 / 200.323.319
