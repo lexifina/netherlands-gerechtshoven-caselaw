@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3448"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0006", "JPF 2026/33", "RFR 2026/39"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0006", "JPF 2026/33", "RFR 2026/39", "FJR 2026/69.9"]
 ---
 
 # ECLI:NL:GHAMS:2025:3448 Gerechtshof Amsterdam , 16-12-2025 / 200.355.543/01
