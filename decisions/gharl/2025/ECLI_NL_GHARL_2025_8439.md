@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2025:8439"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011902", "Sdu Nieuws Belastingzaken 2026/71", "V-N Vandaag 2026/90", "FutD 2026-0148", "NLF 2026/0144"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026011902", "Sdu Nieuws Belastingzaken 2026/71", "V-N Vandaag 2026/90", "FutD 2026-0148", "NLF 2026/0144", "Belastingadvies 2026/8.1"]
 ---
 
 # ECLI:NL:GHARL:2025:8439 Gerechtshof Arnhem-Leeuwarden , 16-12-2025 / 24/1060 en 24/1061
