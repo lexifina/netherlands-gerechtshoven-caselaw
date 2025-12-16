@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2585"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1640", "VAAN-AR-Updates.nl 2025-1640"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2025-1640", "VAAN-AR-Updates.nl 2025-1640", "School en Wet 2026/88"]
 ---
 
 # ECLI:NL:GHDHA:2025:2585 Gerechtshof Den Haag , 16-12-2025 / 200.339.389/01
