@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3308"
-published_in: ["Rechtspraak.nl", "Notamail 2026/13", "JERF Actueel 2026/17", "Sdu Nieuws Personen- en familierecht 2026/47", "ERF-Updates.nl 2026-0038", "VEAN-ERF-Updates.nl 2026-0038"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/13", "JERF Actueel 2026/17", "Sdu Nieuws Personen- en familierecht 2026/47", "ERF-Updates.nl 2026-0038", "VEAN-ERF-Updates.nl 2026-0038", "JERF 2026/69 met annotatie van mr. L.A.G.M. van der Geld"]
 ---
 
 # ECLI:NL:GHAMS:2025:3308 Gerechtshof Amsterdam , 16-12-2025 / 200.353.176/01 NOT
