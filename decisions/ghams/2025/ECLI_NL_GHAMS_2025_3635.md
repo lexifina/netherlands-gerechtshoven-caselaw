@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3635"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JV 2026/145 met annotatie van mr. A. Pahladsingh"]
 ---
 
 # ECLI:NL:GHAMS:2025:3635 Gerechtshof Amsterdam , 17-12-2025 / 23-000714-24
