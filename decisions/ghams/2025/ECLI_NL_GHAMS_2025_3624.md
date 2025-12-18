@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2025:3624"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0076", "ARO 2025/156", "JOR 2026/160 met annotatie van mr. M. Heuten", "JONDR 2026/605"]
 ---
 
 # ECLI:NL:GHAMS:2025:3624 Gerechtshof Amsterdam , 18-12-2025 / 200.258.479/09OK
