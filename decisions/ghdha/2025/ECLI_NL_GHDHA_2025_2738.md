@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2738"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/7", "NJFCZ 2026/48", "JA 2026/21", "JONDR 2026/186", "RO 2026/21"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/7", "NJFCZ 2026/48", "JA 2026/21", "JONDR 2026/186", "RO 2026/21", "JBPr 2026/27 met annotatie van mr. drs. J. van der Tang", "NTHR 2026/30, p.140"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:14036, Bekrachtiging/bevestiging"]]
 ---
 
