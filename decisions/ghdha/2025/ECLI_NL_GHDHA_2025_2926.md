@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2025:2926"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/52"]
 ---
 
 # ECLI:NL:GHDHA:2025:2926 Gerechtshof Den Haag , 30-12-2025 / 200.360.538/01
