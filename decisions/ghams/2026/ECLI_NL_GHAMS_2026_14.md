@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:14"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JBPr 2026/25 met annotatie van mr. A.F. Veldhuis"]
 ---
 
 # ECLI:NL:GHAMS:2026:14 Gerechtshof Amsterdam , 06-01-2026 / 200.346.181
