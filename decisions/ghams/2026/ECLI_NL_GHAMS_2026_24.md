@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:24"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/92", "JONDR 2026/254"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/92", "JONDR 2026/254", "RFR 2026/49", "JOR 2026/111 met annotatie van mr. A.C. Frentz"]
 ---
 
 # ECLI:NL:GHAMS:2026:24 Gerechtshof Amsterdam , 06-01-2026 / 200.334.291/01
