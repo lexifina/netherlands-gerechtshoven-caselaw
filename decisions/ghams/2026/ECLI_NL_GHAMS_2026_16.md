@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:16"
-published_in: ["Rechtspraak.nl", "RN 2026/16", "JONDR 2026/255"]
+published_in: ["Rechtspraak.nl", "RN 2026/16", "JONDR 2026/255", "JOR 2026/183 met annotatie van prof. mr. S. Perrick"]
 ---
 
 # ECLI:NL:GHAMS:2026:16 Gerechtshof Amsterdam , 06-01-2026 / 200.339.897
