@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:182"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030205", "NLF 2026/0435", "V-N Vandaag 2026/396", "FutD 2026-0411", "NDFR Nieuws 2026/404", "V-N 2026/14.1.1", "NTFR 2026/552 met annotatie van mr. E. Swaving Dijkstra"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1564"]]
 ---
 
 # ECLI:NL:GHDHA:2026:182 Gerechtshof Den Haag , 08-01-2026 / BK-25/545
