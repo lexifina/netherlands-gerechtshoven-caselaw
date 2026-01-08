@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:183"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/733", "NTFR 2026/994 met annotatie van mr. P.T. van Arnhem"]
 relations: [["Formele relatie", "Oorspronkelijk arrest: ECLI:NL:GHDHA:2026:897"]]
 ---
 
