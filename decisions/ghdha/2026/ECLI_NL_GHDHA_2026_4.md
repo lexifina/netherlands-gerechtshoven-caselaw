@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:4"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JGR 2026/16 met annotatie van mr. drs. J.A. Lisman"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:5860, Bekrachtiging/bevestiging"]]
 ---
 
