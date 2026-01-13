@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:160"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/14"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/14", "JOR 2026/104 met annotatie van dr. mr. F.M.A. 't Hart", "JONDR 2026/494", "NTHR 2026/30, p.140"]
 ---
 
 # ECLI:NL:GHARL:2026:160 Gerechtshof Arnhem-Leeuwarden , 13-01-2026 / 200.347.336/01
