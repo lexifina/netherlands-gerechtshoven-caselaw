@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:351"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/584"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/584", "V-N 2026/23.20.31"]
 ---
 
 # ECLI:NL:GHDHA:2026:351 Gerechtshof Den Haag , 13-01-2026 / BK-25/366 en BK-25/367
