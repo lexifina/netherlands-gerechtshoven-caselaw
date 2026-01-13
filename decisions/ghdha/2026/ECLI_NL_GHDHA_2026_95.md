@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:95"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/111", "Module Aanbesteding 2026/2542"]
 ---
 
 # ECLI:NL:GHDHA:2026:95 Gerechtshof Den Haag , 13-01-2026 / 200.356.325/01
