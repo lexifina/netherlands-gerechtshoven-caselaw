@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:134"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/16", "TvPP 2026/17, p.62 met annotatie van K. Samim"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Huurrecht 2026/16", "TvPP 2026/17, p.62 met annotatie van K. Samim", "WR 2026/83 met annotatie van E.H.M. Bakelaar"]
 ---
 
 # ECLI:NL:GHAMS:2026:134 Gerechtshof Amsterdam , 13-01-2026 / 200.350.145
