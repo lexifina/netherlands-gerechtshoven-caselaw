@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:793"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032506", "V-N Vandaag 2026/581", "FutD 2026-0550", "NDFR Nieuws 2026/523"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032506", "V-N Vandaag 2026/581", "FutD 2026-0550", "NDFR Nieuws 2026/523", "NTFR 2026/782 met annotatie van mr. drs. J. Gruson", "V-N 2026/25.9 met annotatie van Redactie", "Belastingadvies 2026/9-10.3"]
 ---
 
 # ECLI:NL:GHAMS:2026:793 Gerechtshof Amsterdam , 13-01-2026 / 24/3255
