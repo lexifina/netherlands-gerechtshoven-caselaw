@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:167"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0023", "RI 2026/32"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0023", "RI 2026/32", "JOR 2026/115 met annotatie van mr. dr. S.C. Pepels", "JONDR 2026/396"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOVE:2024:1268"]]
 ---
 
