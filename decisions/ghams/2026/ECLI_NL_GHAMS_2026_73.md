@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:73"
-published_in: ["Rechtspraak.nl", "TvPP 2026/TvPP 2026/15, p.58 met annotatie van A.J.J. Kool", "NJFCZ 2026/115"]
+published_in: ["Rechtspraak.nl", "TvPP 2026/TvPP 2026/15, p.58 met annotatie van A.J.J. Kool", "NJFCZ 2026/115", "JOR 2026/114 met annotatie van mr. drs. D. Beunk"]
 ---
 
 # ECLI:NL:GHAMS:2026:73 Gerechtshof Amsterdam , 13-01-2026 / 200.359.385/01 en 200.359.489/01
