@@ -137,6 +137,8 @@ Voor het overige neemt het hof, voor de bepaling van kader C, HR 18 december 201
 
 “2.2 (…) Bij arrest van 22 februari 2016 heeft het Gerechtshof Arnhem-Leeuwarden de klager veroordeeld ter zake van diefstal door middel van braak of inklimming, meermalen gepleegd. Daarbij heeft het Hof met betrekking tot de onder de klager op de voet van art. 94 Sv inbeslaggenomen voorwerpen (i) beslist tot teruggave van een aantal bepaalde voorwerpen aan de rechthebbenden en (ii) ten aanzien van de overige inbeslaggenomen en nog niet teruggegeven voorwerpen de bewaring ten behoeve van de rechthebbende gelast. Het klaagschrift van 6 juni 2016 strekt tot teruggave aan de klager van de voorwerpen ten aanzien waarvan in het arrest van 22 februari 2016 de bewaring ten behoeve van de rechthebbende is gelast.
 
+2.3 (...)
+
 2.4 (…)
 
 Indien – zoals in dit geval – ten tijde van de beoordeling van het beklag de op de voet van art. 353 Sv gegeven beslissing van de strafrechter onherroepelijk is, is die onherroepelijke beslissing voor de beklagrechter een vaststaand gegeven dat hij niet op zijn juistheid mag toetsen. In een zodanig geval moet de beklagrechter beoordelen of de klager redelijkerwijs moet worden aangemerkt als de rechthebbende ten behoeve van wie de strafrechter de bewaring heeft gelast.Het Hof heeft deze maatstaf toegepast.
