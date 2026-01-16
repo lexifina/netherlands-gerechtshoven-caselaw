@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:707"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/102"]
 ---
 
 # ECLI:NL:GHSHE:2026:707 Gerechtshof 's-Hertogenbosch , 16-01-2026 / 20-001362-25
