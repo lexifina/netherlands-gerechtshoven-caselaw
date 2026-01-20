@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Internationaal privaatrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:34"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RFR 2026/53"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:9338, Bekrachtiging/bevestiging"]]
 ---
 
