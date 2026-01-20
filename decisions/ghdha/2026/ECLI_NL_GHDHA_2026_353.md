@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:353"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033008", "V-N Vandaag 2026/635", "FutD 2026-0599", "NDFR Nieuws 2026/536", "V-N 2026/18.18.7"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033008", "V-N Vandaag 2026/635", "FutD 2026-0599", "NDFR Nieuws 2026/536", "V-N 2026/18.18.7", "NTFR 2026/715 met annotatie van mr. S.P.J. van Straalen"]
 ---
 
 # ECLI:NL:GHDHA:2026:353 Gerechtshof Den Haag , 20-01-2026 / BK-25/508 tot en met BK-25/515
