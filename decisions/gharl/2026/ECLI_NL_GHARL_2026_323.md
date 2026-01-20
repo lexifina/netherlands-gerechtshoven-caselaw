@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:323"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/212 met annotatie van mr. S.C.M. van Thiel"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:9745"]]
 ---
 
