@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:102"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/23 met annotatie van mr. E.P.W. Korevaar"]
 ---
 
 # ECLI:NL:GHSHE:2026:102 Gerechtshof 's-Hertogenbosch , 20-01-2026 / 200.335.531_01
