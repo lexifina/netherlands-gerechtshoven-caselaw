@@ -10,6 +10,7 @@ procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:187"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026012811", "FutD 2026-0194", "V-N Vandaag 2026/179", "NDFR Nieuws 2026/202", "NTFR 2026/349 met annotatie van mr. E.D. Postema"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1456"]]
 ---
 
 # ECLI:NL:GHAMS:2026:187 Gerechtshof Amsterdam , 20-01-2026 / 25/56 en 25/57
