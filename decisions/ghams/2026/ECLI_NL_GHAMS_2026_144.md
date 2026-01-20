@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:144"
-published_in: ["Rechtspraak.nl", "RI 2026/31"]
+published_in: ["Rechtspraak.nl", "RI 2026/31", "JOR 2026/116 met annotatie van mr. Y.E.A. Buruma"]
 ---
 
 # ECLI:NL:GHAMS:2026:144 Gerechtshof Amsterdam , 20-01-2026 / 200.349.855/01 en 200.354.768/01
