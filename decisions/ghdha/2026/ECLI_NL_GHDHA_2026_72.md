@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:72"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026020901", "V-N Vandaag 2026/241", "FutD 2026-0283"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026020901", "V-N Vandaag 2026/241", "FutD 2026-0283", "V-N 2026/21.1.3"]
 ---
 
 # ECLI:NL:GHDHA:2026:72 Gerechtshof Den Haag , 22-01-2026 / BK-25/483
