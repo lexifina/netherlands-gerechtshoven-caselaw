@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:138"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026022604", "NLF 2026/0406", "V-N Vandaag 2026/378", "FutD 2026-0370", "Belastingblad 2026/148 met annotatie van B.S. Kats"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026022604", "NLF 2026/0406", "V-N Vandaag 2026/378", "FutD 2026-0370", "Belastingblad 2026/148 met annotatie van B.S. Kats", "V-N 2026/28.12 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:19315, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
