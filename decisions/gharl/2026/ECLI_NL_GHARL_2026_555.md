@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:555"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/209", "NDFR Nieuws 2026/316", "NTFR 2026/534 met annotatie van mr. drs. F. de Jong"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/209", "NDFR Nieuws 2026/316", "NTFR 2026/534 met annotatie van mr. drs. F. de Jong", "V-N 2026/39.18.18"]
 ---
 
 # ECLI:NL:GHARL:2026:555 Gerechtshof Arnhem-Leeuwarden , 27-01-2026 / 24/1054
