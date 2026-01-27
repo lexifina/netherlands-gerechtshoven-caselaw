@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:178"
-published_in: ["Rechtspraak.nl", "RCR 2026/30"]
+published_in: ["Rechtspraak.nl", "RCR 2026/30", "TvPP 2026/36, p.135 met annotatie van K.N. Campagne"]
 ---
 
 # ECLI:NL:GHAMS:2026:178 Gerechtshof Amsterdam , 27-01-2026 / 200.343.470/01
