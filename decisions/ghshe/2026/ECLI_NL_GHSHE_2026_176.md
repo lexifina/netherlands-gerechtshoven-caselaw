@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Aanbestedingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:176"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/64"]
 ---
 
 # ECLI:NL:GHSHE:2026:176 Gerechtshof 's-Hertogenbosch , 27-01-2026 / 200.348.310_01
