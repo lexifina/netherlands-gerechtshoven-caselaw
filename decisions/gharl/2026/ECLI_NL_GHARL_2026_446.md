@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:446"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2521", "JA 2026/48"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2521", "JA 2026/48", "JAAN 2026/63", "NJFCZ 2026/165", "Jurisprudentie Grondzaken 2026/14 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:GHARL:2026:446 Gerechtshof Arnhem-Leeuwarden , 27-01-2026 / 200.344.366/01
