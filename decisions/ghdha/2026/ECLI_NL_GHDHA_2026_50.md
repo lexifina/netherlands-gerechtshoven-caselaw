@@ -61,11 +61,11 @@ gevestigd in Klaaswaal, gemeente Hoeksche Waard,geïntimeerde 4 in het principaa
 
 appellante in incidenteel hoger beroep,
 
-hierna: [geïntimeerde 4],
+hierna: [geïntimeerde 4] ,
 
 advocaat: mr. P.A. Visser, kantoorhoudend in Rotterdam.
 
-Het hof noemt partijen hierna, zoals gezegd, [appellant] , Bogaerds, Vcon, [geïntimeerde 3] en [geïntimeerde 4].
+Het hof noemt partijen hierna, zoals gezegd, [appellant] , Bogaerds, Vcon, [geïntimeerde 3] en [geïntimeerde 4] .
 
 1
 De zaak in het kort
@@ -93,7 +93,7 @@ de memorie van antwoord van Bogaerds, met bijlagen;
 
 de memorie van antwoord van Vcon en [geïntimeerde 3] ;
 
-de memorie van antwoord van [geïntimeerde 4], tevens memorie van grieven in voorwaardelijk incidenteel appel, met bijlagen;
+de memorie van antwoord van [geïntimeerde 4] , tevens memorie van grieven in voorwaardelijk incidenteel appel, met bijlagen;
 
 de memorie van antwoord in het voorwaardelijk incidenteel appel van [appellant] ;
 
@@ -132,11 +132,11 @@ Vcon heeft vervolgens constructieberekeningen ten aanzien van 1) en 2) uitgevoer
 
 3.6
 
-Als productie 11 bij inleidende dagvaarding is gevoegd een e-mailwisseling van 17 september 2018 tussen [persoon 5]  en [geïntimeerde 4], waarbij [persoon 5] heeft geschreven: “Hallo [geïntimeerde 4], Hierbij ontvang je de kapberekening en gewijzigde kaptekening. Er moet door hoofdconstructeur wel gecontroleerd worden of de belasting uit kap op de onderliggende constructie kan worden toegelaten.”
+Als productie 11 bij inleidende dagvaarding is gevoegd een e-mailwisseling van 17 september 2018 tussen [persoon 5]  en [geïntimeerde 4] , waarbij [persoon 5] heeft geschreven: “Hallo [geïntimeerde 4] , Hierbij ontvang je de kapberekening en gewijzigde kaptekening. Er moet door hoofdconstructeur wel gecontroleerd worden of de belasting uit kap op de onderliggende constructie kan worden toegelaten.”
 
 3.7
 
-[geïntimeerde 4] heeft deze e-mail dezelfde dag doorgestuurd naar Bogaerds ( [persoon 4]  ), Vcon ( [geïntimeerde 3]  ) en [appellant] , met de volgende tekst:“Goedemorgen,Hierbij de gegevens van de kap, graag van [geïntimeerde 3] goedkeuring op de berekening,Vriendelijke groet, [geïntimeerde 4]”Deze e-mail heeft geen vervolg gekregen.
+[geïntimeerde 4] heeft deze e-mail dezelfde dag doorgestuurd naar Bogaerds ( [persoon 4]  ), Vcon ( [geïntimeerde 3]  ) en [appellant] , met de volgende tekst:“Goedemorgen,Hierbij de gegevens van de kap, graag van [geïntimeerde 3] goedkeuring op de berekening,Vriendelijke groet, [geïntimeerde 4] ”Deze e-mail heeft geen vervolg gekregen.
 
 3.8
 
@@ -155,7 +155,7 @@ Procedure bij de rechtbank
 
 4.1
 
-[appellant] heeft, heel kort samengevat en na wijziging van eis, (in conventie) gevorderd 1.	hem te machtigen de in het rapport Propendum e.a. geconstateerde gebreken te doen herstellen voor rekening van de hoofdelijk aansprakelijken Bogaerds Vcon en [geïntimeerde 4], onverminderd zijn recht op schadevergoeding;2.	Bogaerds, Vcon en [geïntimeerde 4] hoofdelijk te veroordelen tot betaling van een voorschot van € 165.000,-;3.	hen te veroordelen tot herstel, op straffe van een dwangsom.
+[appellant] heeft, heel kort samengevat en na wijziging van eis, (in conventie) gevorderd 1.	hem te machtigen de in het rapport Propendum e.a. geconstateerde gebreken te doen herstellen voor rekening van de hoofdelijk aansprakelijken Bogaerds Vcon en [geïntimeerde 4] , onverminderd zijn recht op schadevergoeding;2.	Bogaerds, Vcon en [geïntimeerde 4] hoofdelijk te veroordelen tot betaling van een voorschot van € 165.000,-;3.	hen te veroordelen tot herstel, op straffe van een dwangsom.
 
 4.2
 
