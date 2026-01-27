@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:181"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0039", "RI 2026/29"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0039", "RI 2026/29", "JOR 2026/117 met annotatie van mr. M.C. van Genugten"]
 ---
 
 # ECLI:NL:GHAMS:2026:181 Gerechtshof Amsterdam , 27-01-2026 / 200.346.651/01
