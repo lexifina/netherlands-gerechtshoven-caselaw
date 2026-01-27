@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:468"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTHR 2026/30, p.140", "JOR 2026/163 met annotatie van mr. M. van der Beek", "RF 2026/49", "JONDR 2026/693"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:2806"]]
 ---
 
