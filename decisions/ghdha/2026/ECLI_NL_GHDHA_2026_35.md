@@ -10,7 +10,7 @@ procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:35"
 published_in: ["Rechtspraak.nl"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:11370, Overig"]]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:11370, Overig"], ["Formele relatie", "Einduitspraak: ECLI:NL:GHDHA:2026:2883"]]
 ---
 
 # ECLI:NL:GHDHA:2026:35 Gerechtshof Den Haag , 27-01-2026 / 200.359.981/01
