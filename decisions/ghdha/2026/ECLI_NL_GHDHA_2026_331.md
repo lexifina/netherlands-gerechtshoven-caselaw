@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Herroeping"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:331"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/47"]
 relations: [["Formele relatie", "Herstelarrest: ECLI:NL:GHDHA:2020:2415"]]
 ---
 
