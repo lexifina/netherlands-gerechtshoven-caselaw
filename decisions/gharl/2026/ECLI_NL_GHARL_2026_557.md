@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:557"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/319", "Viditax (FutD) 2026021902", "FutD 2026-0321", "V-N 2026/10.26.9", "NLF 2026/0360 met annotatie van mr. M.N.H. Hintzen", "NDFR Nieuws 2026/339"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/319", "Viditax (FutD) 2026021902", "FutD 2026-0321", "V-N 2026/10.26.9", "NLF 2026/0360 met annotatie van mr. M.N.H. Hintzen", "NDFR Nieuws 2026/339", "NTFR 2026/740 met annotatie van mr. T.J. Droog"]
 ---
 
 # ECLI:NL:GHARL:2026:557 Gerechtshof Arnhem-Leeuwarden , 27-01-2026 / 22/1113 tm 22/1118 en 22/1119, 22/1121 en 22/1122
