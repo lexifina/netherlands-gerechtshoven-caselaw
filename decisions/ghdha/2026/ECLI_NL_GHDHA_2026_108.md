@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:108"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/81 met annotatie van mr. S. Pieters"]
 ---
 
 # ECLI:NL:GHDHA:2026:108 Gerechtshof Den Haag , 28-01-2026 / 22-002078-23
