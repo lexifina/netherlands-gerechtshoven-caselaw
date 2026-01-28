@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:184"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031809", "FutD 2026-0493", "V-N Vandaag 2026/524", "NDFR Nieuws 2026/452", "V-N 2026/18.18.13"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031809", "FutD 2026-0493", "V-N Vandaag 2026/524", "NDFR Nieuws 2026/452", "V-N 2026/18.18.13", "NTFR 2026/783 met annotatie van mr. E.H.A.M. Thijssen"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:138, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-002.md", "netherlands/national/acts/wet-omzetbelasting-1968/art-015.md"]
 ---
