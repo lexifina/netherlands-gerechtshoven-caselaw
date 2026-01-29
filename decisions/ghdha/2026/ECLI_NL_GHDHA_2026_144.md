@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:144"
-published_in: ["Rechtspraak.nl", "NJFS 2026/72"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/72", "VR 2026/113"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2022:12346"]]
 ---
 
