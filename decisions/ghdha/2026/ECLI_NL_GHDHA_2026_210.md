@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:210"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030307", "V-N Vandaag 2026/397", "NLF 2026/0443", "Sdu Nieuws Belastingzaken 2026/350", "FutD 2026-0412", "NDFR Nieuws 2026/415", "VFP 2026/63"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030307", "V-N Vandaag 2026/397", "NLF 2026/0443", "Sdu Nieuws Belastingzaken 2026/350", "FutD 2026-0412", "NDFR Nieuws 2026/415", "VFP 2026/63", "V-N 2026/19.1.3", "NTFR 2026/765 met annotatie van mr. P.R.M. Bierlaagh"]
 ---
 
 # ECLI:NL:GHDHA:2026:210 Gerechtshof Den Haag , 03-02-2026 / BK-25/471
