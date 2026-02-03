@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:794"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042809", "FutD 2026-0774", "V-N Vandaag 2026/899"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1466"]]
 ---
 
 # ECLI:NL:GHAMS:2026:794 Gerechtshof Amsterdam , 03-02-2026 / 24/3087 t/m 24/3092
