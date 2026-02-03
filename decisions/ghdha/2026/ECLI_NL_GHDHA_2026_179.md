@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:179"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/392"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/392", "V-N 2026/20.1.3", "Belastingblad 2026/263 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:GHDHA:2026:179 Gerechtshof Den Haag , 03-02-2026 / BK-25/286
