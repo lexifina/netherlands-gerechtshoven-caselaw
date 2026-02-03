@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:587"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Belastingzaken 2026/1082"]
 ---
 
 # ECLI:NL:GHARL:2026:587 Gerechtshof Arnhem-Leeuwarden , 03-02-2026 / 21-001940-23
