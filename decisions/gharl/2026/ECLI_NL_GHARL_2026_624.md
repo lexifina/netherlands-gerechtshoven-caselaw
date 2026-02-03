@@ -2,17 +2,17 @@
 ecli: "ECLI:NL:GHARL:2026:624"
 court: "Gerechtshof Arnhem-Leeuwarden"
 court_code: "GHARL"
-docket: "200.357.217"
+docket: "200.357.217 en 200.357.219"
 decided: "2026-02-03"
 published: "2026-02-04"
 type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:624"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0123", "VEAN-ERF-Updates.nl 2026-0123"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0123", "VEAN-ERF-Updates.nl 2026-0123", "RBP 2026/35", "JBPr 2026/39 met annotatie van mr. S.M.A.M Venhuizen"]
 ---
 
-# ECLI:NL:GHARL:2026:624 Gerechtshof Arnhem-Leeuwarden , 03-02-2026 / 200.357.217
+# ECLI:NL:GHARL:2026:624 Gerechtshof Arnhem-Leeuwarden , 03-02-2026 / 200.357.217 en 200.357.219
 
 ## Inhoudsindicatie
 
