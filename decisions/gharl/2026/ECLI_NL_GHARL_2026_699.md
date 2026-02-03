@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:699"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021002", "V-N Vandaag 2026/268", "FutD 2026-0284"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026021002", "V-N Vandaag 2026/268", "FutD 2026-0284", "V-N 2026/23.20.4"]
 ---
 
 # ECLI:NL:GHARL:2026:699 Gerechtshof Arnhem-Leeuwarden , 03-02-2026 / 23/2945
