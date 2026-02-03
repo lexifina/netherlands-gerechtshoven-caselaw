@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:256"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0145"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0145", "NJFCZ 2026/177", "JA 2026/62", "VR 2026/117"]
 relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2023:1164"]]
 ---
 
