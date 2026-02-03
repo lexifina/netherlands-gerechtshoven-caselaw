@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:349"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2527"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2527", "JAAN 2026/88", "Jurisprudentie Grondzaken 2026/23 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 ---
 
 # ECLI:NL:GHDHA:2026:349 Gerechtshof Den Haag , 03-02-2026 / 200.354.856/01
