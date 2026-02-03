@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:257"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0359", "VAAN-AR-Updates.nl 2026-0359", "Sdu Nieuws Arbeidsrecht 2026/91"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0359", "VAAN-AR-Updates.nl 2026-0359", "Sdu Nieuws Arbeidsrecht 2026/91", "RAR 2026/77"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:4980, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
