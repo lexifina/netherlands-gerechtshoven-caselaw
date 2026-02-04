@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:234"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/547", "Viditax (FutD) 2026041401", "FutD 2026-0685"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:885, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/547", "Viditax (FutD) 2026041401", "FutD 2026-0685", "V-N 2026/27.17 met annotatie van Redactie"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:885, (Gedeeltelijke) vernietiging en zelf afgedaan"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1468"]]
 ---
 
 # ECLI:NL:GHSHE:2026:234 Gerechtshof 's-Hertogenbosch , 04-02-2026 / 24/419
