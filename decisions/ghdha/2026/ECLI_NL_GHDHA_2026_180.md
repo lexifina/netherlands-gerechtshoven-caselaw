@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:180"
-published_in: ["Rechtspraak.nl", "Notamail 2026/39", "Sdu Nieuws Personen- en familierecht 2026/109", "EB 2026/39"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/39", "Sdu Nieuws Personen- en familierecht 2026/109", "EB 2026/39", "JPF 2026/50 met annotatie van mr. H.J. Weijers", "RFR 2026/63", "RN 2026/56"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:2664, Meerdere afhandelingswijzen"]]
 ---
 
