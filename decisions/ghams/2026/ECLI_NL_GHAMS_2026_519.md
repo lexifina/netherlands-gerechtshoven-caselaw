@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:519"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/408"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/408", "V-N 2026/19.1.2"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1464"]]
 ---
 
 # ECLI:NL:GHAMS:2026:519 Gerechtshof Amsterdam , 05-02-2026 / 24/3212
