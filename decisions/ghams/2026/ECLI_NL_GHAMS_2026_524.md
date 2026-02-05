@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:524"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/448"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/448", "V-N 2026/25.15.23"]
 ---
 
 # ECLI:NL:GHAMS:2026:524 Gerechtshof Amsterdam , 05-02-2026 / 24/1968
