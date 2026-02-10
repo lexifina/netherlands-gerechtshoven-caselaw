@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:330"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0279", "JAR 2026/86"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0279", "JAR 2026/86", "RAR 2026/75"]
 ---
 
 # ECLI:NL:GHAMS:2026:330 Gerechtshof Amsterdam , 10-02-2026 / 200.357.910
