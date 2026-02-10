@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:845"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/342"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/342", "Belastingblad 2026/202 met annotatie van J.M.J.F. Jansen"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:4419, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
