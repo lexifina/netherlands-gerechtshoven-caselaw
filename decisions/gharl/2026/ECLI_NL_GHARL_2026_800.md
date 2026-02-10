@@ -16,8 +16,6 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Inhoudsindicatie 21-000723-25, R. Merks
-
 Tussenarrest inzake ontneming wederrechtelijk verkregen voordeel amfetamineproductie. Heropening van het onderzoek met opdracht aan de Dienst Landelijke Operationele Samenwerking, Landelijke Faciliteit Ondersteuning Ontmantelen van de Landelijke Eenheid van Politie (LFO) tot verduidelijking van het rapport berekening wederrechtelijk verkregen voordeel kasopstelling. Toewijzing verzoek getuigenverhoren op grond van noodzakelijkheidscriterium.
 
 ## Uitspraak
