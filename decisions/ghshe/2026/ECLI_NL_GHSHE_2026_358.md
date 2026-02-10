@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:358"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Jurisprudentie Grondzaken 2026/24 met annotatie van mr. N. Thorborg, R.C.K. van Andel"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2024:3128"]]
 ---
 
