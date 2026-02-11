@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:318"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/42", "RO 2026/18", "JONDR 2026/253", "JIN 2026/44 met annotatie van mr. B.N. Goedhart, mr. R.A.M.D. Smit"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/42", "RO 2026/18", "JONDR 2026/253", "JIN 2026/44 met annotatie van mr. B.N. Goedhart, mr. R.A.M.D. Smit", "JOR 2026/128 met annotatie van mr. P.H.M. Broere", "JONDR 2026/440", "ARO 2026/14"]
 ---
 
 # ECLI:NL:GHAMS:2026:318 Gerechtshof Amsterdam , 11-02-2026 / 200.359.769/01 OK
