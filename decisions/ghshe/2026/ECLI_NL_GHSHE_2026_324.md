@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:324"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/557"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/557", "Belastingblad 2026/184 met annotatie van B.S. Kats", "V-N 2026/25.15.21"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1269, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
