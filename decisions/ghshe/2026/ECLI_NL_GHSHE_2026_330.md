@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:330"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/545", "NDFR Nieuws 2026/530"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/545", "NDFR Nieuws 2026/530", "V-N 2026/23.20.29", "NTFR 2026/886 met annotatie van mr. H.A. Elbert"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:180, Bekrachtiging/bevestiging"]]
 ---
 
