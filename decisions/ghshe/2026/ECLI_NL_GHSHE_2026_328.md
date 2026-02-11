@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:328"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032405", "V-N Vandaag 2026/553", "FutD 2026-0556", "NDFR Nieuws 2026/508"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032405", "V-N Vandaag 2026/553", "FutD 2026-0556", "NDFR Nieuws 2026/508", "NTFR 2026/716 met annotatie van mr. E. Swaving Dijkstra"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:573, Bekrachtiging/bevestiging"]]
 ---
 
