@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:319"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/514", "NDFR Nieuws 2026/491", "NTFR 2026/690 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/514", "NDFR Nieuws 2026/491", "NTFR 2026/690 met annotatie van Redactie", "Belastingblad 2026/272 met annotatie van M.P. van der Burg"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:2491, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
