@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:338"
-published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0232", "AR-Updates.nl 2026-0232", "Sdu Nieuws Arbeidsrecht 2026/58", "JAR 2026/69"]
+published_in: ["Rechtspraak.nl", "VAAN-AR-Updates.nl 2026-0232", "AR-Updates.nl 2026-0232", "Sdu Nieuws Arbeidsrecht 2026/58", "JAR 2026/69", "Jurisprudentie HSE 2026/17"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2025:1339"]]
 ---
 
