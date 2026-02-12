@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:521"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/127"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2020:7846, Overig"]]
 ---
 
