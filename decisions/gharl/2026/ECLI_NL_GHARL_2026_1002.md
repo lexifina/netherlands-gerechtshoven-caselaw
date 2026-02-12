@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1002"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Mediaforum 2026-2, nr. 6 met annotatie van W.F. Korthals Altes"]
 ---
 
 # ECLI:NL:GHARL:2026:1002 Gerechtshof Arnhem-Leeuwarden , 12-02-2026 / 25/210148
