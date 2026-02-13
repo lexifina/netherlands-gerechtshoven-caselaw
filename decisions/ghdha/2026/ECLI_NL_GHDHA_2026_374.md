@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:374"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0433", "VAAN-AR-Updates.nl 2026-0433", "Sdu Nieuws Arbeidsrecht 2026/104", "JAR 2026/102"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0433", "VAAN-AR-Updates.nl 2026-0433", "Sdu Nieuws Arbeidsrecht 2026/104", "JAR 2026/102", "RAR 2026/90"]
 ---
 
 # ECLI:NL:GHDHA:2026:374 Gerechtshof Den Haag , 13-02-2026 / 200.355.800/01
