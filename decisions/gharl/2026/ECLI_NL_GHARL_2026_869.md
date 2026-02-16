@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:869"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0412", "VAAN-AR-Updates.nl 2026-0412", "Sdu Nieuws Arbeidsrecht 2026/98", "JAR 2026/100"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0412", "VAAN-AR-Updates.nl 2026-0412", "Sdu Nieuws Arbeidsrecht 2026/98", "JAR 2026/100", "PR-Updates.nl 2026-0098", "Jurisprudentie HSE 2026/37"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:3619"]]
 ---
 
