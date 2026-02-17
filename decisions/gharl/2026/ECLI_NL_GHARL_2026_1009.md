@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1009"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/377"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/377", "V-N 2026/23.20.23"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:2553, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
