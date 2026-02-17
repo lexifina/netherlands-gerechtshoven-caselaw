@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:364"
-published_in: ["Rechtspraak.nl", "JM 2026/53 met annotatie van mr. drs. J.C. Ozinga"]
+published_in: ["Rechtspraak.nl", "JM 2026/53 met annotatie van mr. drs. J.C. Ozinga", "M en R 2026/48 met annotatie van P. Mendelts", "NJFCZ 2026/190", "TvAR 2026/8259 met annotatie van E.C.W. van der Poel en E.A. Schouwvlieger"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2025:10176"]]
 ---
 
