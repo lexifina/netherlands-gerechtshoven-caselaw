@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:384"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033011", "V-N Vandaag 2026/647", "FutD 2026-0608", "NDFR Nieuws 2026/526"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026033011", "V-N Vandaag 2026/647", "FutD 2026-0608", "NDFR Nieuws 2026/526", "NTFR 2026/936 met annotatie van mr. V.S. Huygen van Dyck-Jagersma", "JERF Actueel 2026/103", "JERF 2026/88 met annotatie van mr. T.C. Hoogwout"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1650"]]
 ---
 
 # ECLI:NL:GHDHA:2026:384 Gerechtshof Den Haag , 17-02-2026 / BK-24/1001
