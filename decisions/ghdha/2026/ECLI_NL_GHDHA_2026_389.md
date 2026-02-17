@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:389"
-published_in: ["Rechtspraak.nl", "Notamail 2026/82", "Sdu Nieuws Personen- en familierecht 2026/215"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/82", "Sdu Nieuws Personen- en familierecht 2026/215", "ERF-Updates.nl 2026-0185", "VEAN-ERF-Updates.nl 2026-0185"]
+relations: [["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1647"]]
 ---
 
 # ECLI:NL:GHDHA:2026:389 Gerechtshof Den Haag , 17-02-2026 / BK-24/1012
