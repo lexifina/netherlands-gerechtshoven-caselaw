@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:385"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JIN 2026/58 met annotatie van mr. L. van Straten"]
 ---
 
 # ECLI:NL:GHAMS:2026:385 Gerechtshof Amsterdam , 17-02-2026 / 200.354.414/01
