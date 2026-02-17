@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:459"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GJ 2026/44 met annotatie van prof. mr. J.G. Sijmons", "NTHR 2026/36, p.165", "Module Privacy & AVG 2026/4506"]
 ---
 
 # ECLI:NL:GHAMS:2026:459 Gerechtshof Amsterdam , 17-02-2026 / 200.352.865/01
