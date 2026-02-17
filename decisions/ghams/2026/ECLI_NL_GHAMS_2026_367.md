@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:367"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0041"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0041", "JPF 2026/51 met annotatie van mr. H.J. Weijers", "JIN 2026/57 met annotatie van mr. J.C.M. Groenestijn"]
 ---
 
 # ECLI:NL:GHAMS:2026:367 Gerechtshof Amsterdam , 17-02-2026 / 200.354.234/01
