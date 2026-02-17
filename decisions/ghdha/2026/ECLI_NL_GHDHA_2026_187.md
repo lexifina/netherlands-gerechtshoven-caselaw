@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:187"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0113", "VEAN-ERF-Updates.nl 2026-0113", "JERF Actueel 2026/61"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0113", "VEAN-ERF-Updates.nl 2026-0113", "JERF Actueel 2026/61", "JERF 2026/77"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:12615, Meerdere afhandelingswijzen"]]
 ---
 
