@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:239"
-published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0120", "JA 2026/52"]
+published_in: ["Rechtspraak.nl", "PS-Updates.nl 2026-0120", "JA 2026/52", "RAV 2026/38", "NTHR 2026/36, p.166", "VR 2026/116"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:3326, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
