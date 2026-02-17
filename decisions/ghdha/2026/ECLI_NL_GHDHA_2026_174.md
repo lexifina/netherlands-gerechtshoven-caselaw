@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:174"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "OR-Updates.nl 2026-0068", "JOR 2026/93 met annotatie van mr. I. Öncü", "JONDR 2026/437"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:3070, Bekrachtiging/bevestiging"]]
 ---
 
