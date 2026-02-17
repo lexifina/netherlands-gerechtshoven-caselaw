@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:421"
-published_in: ["Rechtspraak.nl", "RO 2026/27"]
+published_in: ["Rechtspraak.nl", "RO 2026/27", "JONDR 2026/351"]
 ---
 
 # ECLI:NL:GHSHE:2026:421 Gerechtshof 's-Hertogenbosch , 17-02-2026 / 200.338.261_01 + 200.337.850_01
