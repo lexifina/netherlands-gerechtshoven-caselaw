@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:161"
-published_in: ["Rechtspraak.nl", "NJFCZ 2026/117"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/117", "JOR 2026/173 met annotatie van mr. dr. V.J.M. van Hoof"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:13034, Bekrachtiging/bevestiging"]]
 ---
 
