@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:529"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031206", "Sdu Nieuws Belastingzaken 2026/383", "FutD 2026-0445", "V-N Vandaag 2026/477", "NDFR Nieuws 2026/592"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031206", "Sdu Nieuws Belastingzaken 2026/383", "FutD 2026-0445", "V-N Vandaag 2026/477", "NDFR Nieuws 2026/592", "V-N 2026/25.1.3", "NTFR 2026/1403 met annotatie van mr. drs. C. Presilli"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNHO:2024:14244, Bekrachtiging/bevestiging"]]
 ---
 
