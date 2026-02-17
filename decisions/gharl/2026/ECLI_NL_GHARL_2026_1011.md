@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1011"
-published_in: ["Rechtspraak.nl", "NLF 2026/0439", "Viditax (FutD) 2026030409", "V-N Vandaag 2026/410", "FutD 2026-0404", "NDFR Nieuws 2026/447", "NTFR 2026/621 met annotatie van mr. E. Alink"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0439", "Viditax (FutD) 2026030409", "V-N Vandaag 2026/410", "FutD 2026-0404", "NDFR Nieuws 2026/447", "NTFR 2026/621 met annotatie van mr. E. Alink", "V-N 2026/27.1.1", "Vp-bulletin 2026/22 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:6105, Meerdere afhandelingswijzen"]]
 ---
 
