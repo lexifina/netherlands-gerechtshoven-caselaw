@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:155"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0416", "PJ 2026/46 met annotatie van D.J.P. Beliën, L.A.J. Kuijpers", "JAR 2026/103"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0416", "PJ 2026/46 met annotatie van D.J.P. Beliën, L.A.J. Kuijpers", "JAR 2026/103", "PR-Updates.nl 2026-0095"]
 relations: [["Formele relatie", "Na prejudiciële beslissing van : ECLI:NL:HR:2023:969"]]
 ---
 
