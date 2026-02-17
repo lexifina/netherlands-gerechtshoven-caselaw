@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:449"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RFR 2026/71", "PJ 2026/84", "PR-Updates.nl 2026-0094"]
 ---
 
 # ECLI:NL:GHAMS:2026:449 Gerechtshof Amsterdam , 17-02-2026 / 200.176.227/01
