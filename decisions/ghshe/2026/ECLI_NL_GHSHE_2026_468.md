@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:468"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/679"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/679", "V-N 2026/23.20.27"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3467, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/uitvoeringsregeling-belasting-van-personenauto-s-en-motorrijwielen-1992/art-008d.md"]
 ---
