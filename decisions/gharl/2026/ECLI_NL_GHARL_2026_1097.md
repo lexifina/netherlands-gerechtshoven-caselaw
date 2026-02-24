@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1097"
-published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0049", "Sdu Nieuws Insolventierecht 2026/34"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0049", "Sdu Nieuws Insolventierecht 2026/34", "RI 2026/36", "JOR 2026/146 met annotatie van mr. E. Loesberg"]
 ---
 
 # ECLI:NL:GHARL:2026:1097 Gerechtshof Arnhem-Leeuwarden , 24-02-2026 / 200.363.591
