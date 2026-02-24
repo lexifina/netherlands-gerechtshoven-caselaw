@@ -126,7 +126,7 @@ Partijen hebben vanaf medio 2006 een affectieve relatie met elkaar gehad. Op 27 
 
 2.2.
 
-De vrouw houdt alle aandelen in Beverly Business B.V., welke vennootschap op haar beurt alle aandelen houdt in een aantal dochtervennootschappen. De vrouw is daarnaast eigenaar (geweest) van een aantal onroerende zaken, waaronder een tweetal panden aan de [A-straat] te [plaats B] .
+De vrouw houdt alle aandelen in [X] B.V., welke vennootschap op haar beurt alle aandelen houdt in een aantal dochtervennootschappen. De vrouw is daarnaast eigenaar (geweest) van een aantal onroerende zaken, waaronder een tweetal panden aan de [A-straat] te [plaats B] .
 
 3
 Beoordeling
