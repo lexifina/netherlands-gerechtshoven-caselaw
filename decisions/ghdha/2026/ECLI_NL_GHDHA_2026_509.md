@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Wraking"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:509"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/203", "TvPP 2026/35, p.131 met annotatie van A.J.J. Kool"]
 ---
 
 # ECLI:NL:GHDHA:2026:509 Gerechtshof Den Haag , 24-02-2026 / 200.348.646/02
