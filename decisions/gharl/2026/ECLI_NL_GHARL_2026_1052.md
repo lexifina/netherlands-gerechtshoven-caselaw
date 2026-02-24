@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1052"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/107"]
 ---
 
 # ECLI:NL:GHARL:2026:1052 Gerechtshof Arnhem-Leeuwarden , 24-02-2026 / Wahv 200.353.299/01
