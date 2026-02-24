@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:527"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031104", "V-N Vandaag 2026/449", "FutD 2026-0453"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026031104", "V-N Vandaag 2026/449", "FutD 2026-0453", "V-N 2026/26.1.1"]
 ---
 
 # ECLI:NL:GHAMS:2026:527 Gerechtshof Amsterdam , 24-02-2026 / 25/1045 tot en met 25/1047
