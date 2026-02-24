@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:181"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/45"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:16440, Bekrachtiging/bevestiging"]]
 ---
 
