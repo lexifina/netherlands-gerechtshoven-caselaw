@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:190"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0178", "VEAN-ERF-Updates.nl 2026-0178"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0178", "VEAN-ERF-Updates.nl 2026-0178", "JERF Actueel 2026/67", "JA 2026/55"]
 ---
 
 # ECLI:NL:GHDHA:2026:190 Gerechtshof Den Haag , 24-02-2026 / 200.329.343/01
