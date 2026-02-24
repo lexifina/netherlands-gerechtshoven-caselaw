@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:544"
-published_in: ["Rechtspraak.nl", "Notamail 2026/56", "Sdu Nieuws Personen- en familierecht 2026/149", "ERF-Updates.nl 2026-0173", "VEAN-ERF-Updates.nl 2026-0173"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/56", "Sdu Nieuws Personen- en familierecht 2026/149", "ERF-Updates.nl 2026-0173", "VEAN-ERF-Updates.nl 2026-0173", "RN 2026/30", "JERF Actueel 2026/66", "JERF 2026/92"]
 ---
 
 # ECLI:NL:GHAMS:2026:544 Gerechtshof Amsterdam , 24-02-2026 / 200.354.777
