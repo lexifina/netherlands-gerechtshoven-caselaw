@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:462"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032609", "V-N Vandaag 2026/582", "FutD 2026-0544"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4626, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032609", "V-N Vandaag 2026/582", "FutD 2026-0544", "V-N 2026/20.1.1", "PJ 2026/58"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4626, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1465"]]
 ---
 
 # ECLI:NL:GHSHE:2026:462 Gerechtshof 's-Hertogenbosch , 25-02-2026 / 24/1254
