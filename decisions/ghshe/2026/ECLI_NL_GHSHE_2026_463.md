@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:463"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032608", "FutD 2026-0543", "V-N Vandaag 2026/632", "NDFR Nieuws 2026/512", "V-N 2026/18.9 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026032608", "FutD 2026-0543", "V-N Vandaag 2026/632", "NDFR Nieuws 2026/512", "V-N 2026/18.9 met annotatie van Redactie", "NTFR 2026/784 met annotatie van mr. M.W.C. Soltysik"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3444, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
