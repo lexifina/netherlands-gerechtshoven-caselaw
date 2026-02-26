@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verwijzing na Hoge Raad"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:522"
-published_in: ["Rechtspraak.nl", "Notamail 2026/58", "Sdu Nieuws Personen- en familierecht 2026/156"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/58", "Sdu Nieuws Personen- en familierecht 2026/156", "PR-Updates.nl 2026-0097", "RFR 2026/74", "JPF 2026/98 met annotatie van mr. dr. H.J. Weijers", "RN 2026/43"]
 cites_law: ["netherlands/national/acts/bw-boek-3/art-033.md", "netherlands/national/acts/bw-boek-3/art-035.md"]
 ---
 
