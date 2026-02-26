@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1177"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "EB 2026/46"]
 ---
 
 # ECLI:NL:GHARL:2026:1177 Gerechtshof Arnhem-Leeuwarden , 26-02-2026 / 200.357.235
