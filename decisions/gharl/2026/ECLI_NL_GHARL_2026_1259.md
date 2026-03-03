@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1259"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/93 met annotatie van prof. mr. P. Vlaardingerbroek"]
 ---
 
 # ECLI:NL:GHARL:2026:1259 Gerechtshof Arnhem-Leeuwarden , 03-03-2026 / 200.359.991
