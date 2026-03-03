@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1264"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/86 met annotatie van J.H. de Graaf"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2025:4237"]]
 ---
 
