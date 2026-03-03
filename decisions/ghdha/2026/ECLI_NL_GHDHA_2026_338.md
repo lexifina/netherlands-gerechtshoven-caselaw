@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:338"
-published_in: ["Rechtspraak.nl", "NLF 2026/0482", "Viditax (FutD) 2026031105", "V-N Vandaag 2026/440", "Sdu Nieuws Belastingzaken 2026/378", "FutD 2026-0451", "NDFR Nieuws 2026/453", "NTFR 2026/683 met annotatie van drs. R. van Haperen"]
+published_in: ["Rechtspraak.nl", "NLF 2026/0482", "Viditax (FutD) 2026031105", "V-N Vandaag 2026/440", "Sdu Nieuws Belastingzaken 2026/378", "FutD 2026-0451", "NDFR Nieuws 2026/453", "NTFR 2026/683 met annotatie van drs. R. van Haperen", "V-N 2026/29.34.20"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:9995, Bekrachtiging/bevestiging"]]
 ---
 
