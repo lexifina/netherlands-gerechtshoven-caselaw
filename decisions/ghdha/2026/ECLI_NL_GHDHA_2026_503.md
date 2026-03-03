@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:503"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0204", "VEAN-ERF-Updates.nl 2026-0204"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:1873, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
