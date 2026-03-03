@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1273"
-published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0068"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0068", "JPF 2026/85 met annotatie van J.H. de Graaf"]
 ---
 
 # ECLI:NL:GHARL:2026:1273 Gerechtshof Arnhem-Leeuwarden , 03-03-2026 / 200.360.345/01
