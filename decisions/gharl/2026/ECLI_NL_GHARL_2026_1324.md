@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1324"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/430 met annotatie van L.J. Boone, Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:1230, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
