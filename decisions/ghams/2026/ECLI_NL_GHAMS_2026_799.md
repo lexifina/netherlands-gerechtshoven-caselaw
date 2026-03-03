@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:799"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040708", "V-N Vandaag 2026/673", "FutD 2026-0649", "NDFR Nieuws 2026/578"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040708", "V-N Vandaag 2026/673", "FutD 2026-0649", "NDFR Nieuws 2026/578", "NTFR 2026/766 met annotatie van drs. R.P. Bitter", "V-N 2026/29.34.34"]
 ---
 
 # ECLI:NL:GHAMS:2026:799 Gerechtshof Amsterdam , 03-03-2026 / 24/3232
