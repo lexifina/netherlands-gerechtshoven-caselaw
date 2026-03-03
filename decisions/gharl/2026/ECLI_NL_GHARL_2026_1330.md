@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1330"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030905", "Sdu Nieuws Belastingzaken 2026/370", "V-N Vandaag 2026/442", "FutD 2026-0452"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026030905", "Sdu Nieuws Belastingzaken 2026/370", "V-N Vandaag 2026/442", "FutD 2026-0452", "V-N 2026/29.34.3"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2023:953, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
