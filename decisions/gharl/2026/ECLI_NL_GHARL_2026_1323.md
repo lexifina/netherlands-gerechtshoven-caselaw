@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Verzet"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1323"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026050807", "FutD 2026-0850"]
 ---
 
 # ECLI:NL:GHARL:2026:1323 Gerechtshof Arnhem-Leeuwarden , 03-03-2026 / 25/1409 tm 25/1412
