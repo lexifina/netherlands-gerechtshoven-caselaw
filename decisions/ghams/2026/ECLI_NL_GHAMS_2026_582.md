@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:582"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JOR 2026/174 met annotatie van mr. B.W. Wijnstekers"]
 ---
 
 # ECLI:NL:GHAMS:2026:582 Gerechtshof Amsterdam , 03-03-2026 / 200.357.977
