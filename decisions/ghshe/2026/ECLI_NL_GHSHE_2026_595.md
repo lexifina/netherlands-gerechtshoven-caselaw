@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:595"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/665", "NDFR Nieuws 2026/597"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/665", "NDFR Nieuws 2026/597", "NTFR 2026/726 met annotatie van mr. F.W. Wiggers", "V-N 2026/29.34.42"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:2172, Bekrachtiging/bevestiging"]]
 ---
 
