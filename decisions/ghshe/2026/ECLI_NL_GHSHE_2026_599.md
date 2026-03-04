@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:599"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/636", "NDFR Nieuws 2026/546"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/636", "NDFR Nieuws 2026/546", "NTFR 2026/926 met annotatie van mr. B.S. Kats", "V-N 2026/31.22 met annotatie van Redactie"]
 ---
 
 # ECLI:NL:GHSHE:2026:599 Gerechtshof 's-Hertogenbosch , 04-03-2026 / 24/1718
