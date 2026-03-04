@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:485"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/204"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/204", "JIN 2026/74 met annotatie van mr. P.A. den Hollander"]
 ---
 
 # ECLI:NL:GHDHA:2026:485 Gerechtshof Den Haag , 04-03-2026 / 200.358.329/01
