@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:594"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040109", "V-N Vandaag 2026/642", "Sdu Nieuws Belastingzaken 2026/464", "FutD 2026-0596", "NDFR Nieuws 2026/548"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040109", "V-N Vandaag 2026/642", "Sdu Nieuws Belastingzaken 2026/464", "FutD 2026-0596", "NDFR Nieuws 2026/548", "V-N 2026/23.1.2", "NTFR 2026/971 met annotatie van mr. D.C. Simonis"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1917, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-op-belastingen-van-rechtsverkeer/art-004.md"]
 ---
