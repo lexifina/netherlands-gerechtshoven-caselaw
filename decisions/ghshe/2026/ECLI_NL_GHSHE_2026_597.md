@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:597"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040106", "FutD 2026-0607", "V-N Vandaag 2026/662", "NDFR Nieuws 2026/579"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3123, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040106", "FutD 2026-0607", "V-N Vandaag 2026/662", "NDFR Nieuws 2026/579", "NTFR 2026/799 met annotatie van mr. K. de Jong-Braaksma"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:3123, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1502"]]
 cites_law: ["netherlands/national/acts/awb/art-06-009.md", "netherlands/national/acts/uitvoeringsregeling-inkomstenbelasting-2001/art-045aa.md"]
 ---
 
