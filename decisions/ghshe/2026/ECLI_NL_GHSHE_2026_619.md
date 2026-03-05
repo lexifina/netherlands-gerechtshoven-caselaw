@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:619"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/46.35", "RFR 2026/86"]
 ---
 
 # ECLI:NL:GHSHE:2026:619 Gerechtshof 's-Hertogenbosch , 05-03-2026 / 200.361.579_01
