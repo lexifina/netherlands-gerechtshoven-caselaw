@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1312"
-published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0035"]
+published_in: ["Rechtspraak.nl", "GZR-Updates.nl 2026-0035", "NJFS 2026/113", "GJ 2026/47"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBMNE:2024:1595"]]
 ---
 
