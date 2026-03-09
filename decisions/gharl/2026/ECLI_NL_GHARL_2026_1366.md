@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1366"
-published_in: ["Rechtspraak.nl", "NJFS 2026/98"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/98", "O&A 2026/42"]
 ---
 
 # ECLI:NL:GHARL:2026:1366 Gerechtshof Arnhem-Leeuwarden , 09-03-2026 / 000461-25
