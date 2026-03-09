@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beslissing RC"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:634"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RO 2026/40", "JOR 2026/161 met annotatie van mr. dr. M. Holtzer", "ARO 2026/33", "JONDR 2026/738"]
 ---
 
 # ECLI:NL:GHAMS:2026:634 Gerechtshof Amsterdam , 09-03-2026 / 200.334.340/01OK
