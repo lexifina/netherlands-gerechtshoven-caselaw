@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:629"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "GJ 2026/32"]
 ---
 
 # ECLI:NL:GHAMS:2026:629 Gerechtshof Amsterdam , 10-03-2026 / 200.360.720/01 SKG
