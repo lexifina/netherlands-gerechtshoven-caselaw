@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:531"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RO 2026/41", "JONDR 2026/603", "JOR 2026/184 met annotatie van mr. S.E. Streng"]
 ---
 
 # ECLI:NL:GHDHA:2026:531 Gerechtshof Den Haag , 10-03-2026 / 200.349.117/01
