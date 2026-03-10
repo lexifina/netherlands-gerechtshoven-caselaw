@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1421"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/186"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/186", "JPF 2026/79 met annotatie van mr. A. Wakker"]
 ---
 
 # ECLI:NL:GHARL:2026:1421 Gerechtshof Arnhem-Leeuwarden , 10-03-2026 / 200.355.590/01
