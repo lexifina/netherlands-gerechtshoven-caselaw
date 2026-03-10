@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1418"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/66", "JHV 2026/11 met annotatie van mr. N.L. Bol", "RVR 2026/43", "RN 2026/41", "TvHB 2026/23, UDH:TvHB/57360 met annotatie van mr. I.E. (Irene) Hofhuis"]
 ---
 
 # ECLI:NL:GHARL:2026:1418 Gerechtshof Arnhem-Leeuwarden , 10-03-2026 / 200.355.545/01 en 200.355.608/01
