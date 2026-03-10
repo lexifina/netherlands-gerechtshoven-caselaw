@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:431"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042005"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042005", "V-N Vandaag 2026/835", "FutD 2026-0742", "NDFR Nieuws 2026/669", "NTFR 2026/959 met annotatie van mr. T.J. Mooij"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:16826, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
