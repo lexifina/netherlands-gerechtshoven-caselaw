@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:604"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0216", "VEAN-ERF-Updates.nl 2026-0216", "JERF Actueel 2026/82"]
 ---
 
 # ECLI:NL:GHAMS:2026:604 Gerechtshof Amsterdam , 10-03-2026 / 200.343.232/01
