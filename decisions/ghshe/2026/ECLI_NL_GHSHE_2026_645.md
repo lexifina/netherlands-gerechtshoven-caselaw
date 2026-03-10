@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:645"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/39"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Financieel recht 2026/39", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/117", "NTHR 2026/30, p.140", "JOR 2026/220 met annotatie van mr. W.A.M. Jitan"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2023:401"]]
 ---
 
