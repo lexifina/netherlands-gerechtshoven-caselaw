@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:432"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042002", "V-N Vandaag 2026/786"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042002", "V-N Vandaag 2026/786", "FutD 2026-0722", "NDFR Nieuws 2026/668", "NTFR 2026/861 met annotatie van mr. R. Zeldenrust", "V-N 2026/27.1.3"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2024:16827, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
