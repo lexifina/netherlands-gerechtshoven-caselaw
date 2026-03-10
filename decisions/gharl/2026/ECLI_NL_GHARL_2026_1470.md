@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1470"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/42", "NTHR 2026/33, p.147"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:9959"]]
 ---
 
