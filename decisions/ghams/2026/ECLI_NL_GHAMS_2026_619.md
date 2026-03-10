@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:619"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JHV 2026/14 met annotatie van mr. E.P.W. Korevaar", "WR 2026/101 met annotatie van R.L. Fabritius"]
 ---
 
 # ECLI:NL:GHAMS:2026:619 Gerechtshof Amsterdam , 10-03-2026 / 200.339.506/01
