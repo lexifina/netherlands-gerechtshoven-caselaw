@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:298"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RBP 2026/44", "NTHR 2026/40, p.180", "TVA 2026/46"]
 ---
 
 # ECLI:NL:GHDHA:2026:298 Gerechtshof Den Haag , 10-03-2026 / 200.356.317/01
