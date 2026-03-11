@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:674"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040809", "FutD 2026-0651", "NDFR Nieuws 2026/589", "V-N Vandaag 2026/767"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040809", "FutD 2026-0651", "NDFR Nieuws 2026/589", "V-N Vandaag 2026/767", "NTFR 2026/928 met annotatie van mr. V. Sathananthan", "Belastingblad 2026/231 met annotatie van S. Kapoerchan", "V-N 2026/2205", "V-N 2026/46.16.13"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:824, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/gemeentewet/art-220e.md"]
 ---
