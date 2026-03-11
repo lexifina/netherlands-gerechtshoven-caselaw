@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:671"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040705", "V-N Vandaag 2026/682", "FutD 2026-0646", "NDFR Nieuws 2026/576", "Notamail 2026/92"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040705", "V-N Vandaag 2026/682", "FutD 2026-0646", "NDFR Nieuws 2026/576", "Notamail 2026/92", "NTFR 2026/745 met annotatie van mr. R.B.H. Beune", "Sdu Nieuws Ondernemingsrechtpraktijk 2026/122", "Sdu Nieuws Insolventierecht 2026/59", "JOR 2026/179 met annotatie van mr. M.P. Waninge"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:13, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/invorderingswet-1990/art-036.md"]
 ---
