@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:478"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/73 met annotatie van mr. H.J. Weijers"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:16267, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
