@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1656"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040906", "FutD 2026-0650"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026040906", "FutD 2026-0650", "Belastingblad 2026/183 met annotatie van S. Kapoerchan"]
 ---
 
 # ECLI:NL:GHARL:2026:1656 Gerechtshof Arnhem-Leeuwarden , 17-03-2026 / 24/1321
