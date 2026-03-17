@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:434"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/818"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/818", "Belastingblad 2026/237 met annotatie van C.M. Dijkstra", "V-N 2026/30.17.16"]
 ---
 
 # ECLI:NL:GHDHA:2026:434 Gerechtshof Den Haag , 17-03-2026 / BK-25/411
