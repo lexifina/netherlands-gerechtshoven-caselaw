@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:405"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RI 2026/37", "JOR 2026/148 met annotatie van mr. K.R. Kedis"]
 ---
 
 # ECLI:NL:GHDHA:2026:405 Gerechtshof Den Haag , 17-03-2026 / 200.363.918/01
