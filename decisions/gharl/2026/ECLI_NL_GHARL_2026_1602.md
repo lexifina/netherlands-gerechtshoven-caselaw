@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1602"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "EB 2026/53", "JPF 2026/70 met annotatie van mr. A.J.I. Mullenders"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2025:1783"]]
 ---
 
