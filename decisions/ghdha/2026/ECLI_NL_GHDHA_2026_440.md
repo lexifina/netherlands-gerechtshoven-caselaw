@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep kort geding"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:440"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0466", "VAAN-AR-Updates.nl 2026-0466"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0466", "VAAN-AR-Updates.nl 2026-0466", "RAR 2026/89"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:14262, Bekrachtiging/bevestiging"]]
 ---
 
