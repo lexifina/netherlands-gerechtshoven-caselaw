@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Goederenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:402"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RVR 2026/57"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2023:6884, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
