@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:610"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/65 met annotatie van mr. dr. E.J. Wervelman", "NTHR 2026/36, p.165", "JOR 2026/180 met annotatie van mr. J. Derksen"]
 ---
 
 # ECLI:NL:GHAMS:2026:610 Gerechtshof Amsterdam , 17-03-2026 / 200.329.833
