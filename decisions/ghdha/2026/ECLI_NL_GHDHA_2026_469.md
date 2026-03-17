@@ -2,7 +2,7 @@
 ecli: "ECLI:NL:GHDHA:2026:469"
 court: "Gerechtshof Den Haag"
 court_code: "GHDHA"
-docket: "200.356.325/01"
+docket: "200.311.086/01"
 decided: "2026-03-17"
 published: "2026-03-27"
 type: "uitspraak"
@@ -13,7 +13,7 @@ published_in: ["Rechtspraak.nl"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2022:1358, Bekrachtiging/bevestiging"]]
 ---
 
-# ECLI:NL:GHDHA:2026:469 Gerechtshof Den Haag , 17-03-2026 / 200.356.325/01
+# ECLI:NL:GHDHA:2026:469 Gerechtshof Den Haag , 17-03-2026 / 200.311.086/01
 
 ## Inhoudsindicatie
 
