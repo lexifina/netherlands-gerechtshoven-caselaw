@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:585"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0460", "VAAN-AR-Updates.nl 2026-0460", "Sdu Nieuws Arbeidsrecht 2026/105", "JAR 2026/99 met annotatie van mr. dr. J.P.H. Zwemmer"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0460", "VAAN-AR-Updates.nl 2026-0460", "Sdu Nieuws Arbeidsrecht 2026/105", "JAR 2026/99 met annotatie van mr. dr. J.P.H. Zwemmer", "RAR 2026/87", "Prg. 2026/170"]
 ---
 
 # ECLI:NL:GHAMS:2026:585 Gerechtshof Amsterdam , 17-03-2026 / 200.358.280
