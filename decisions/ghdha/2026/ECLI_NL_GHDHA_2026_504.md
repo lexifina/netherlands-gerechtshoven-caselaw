@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:504"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0200", "VEAN-ERF-Updates.nl 2026-0200"]
 ---
 
 # ECLI:NL:GHDHA:2026:504 Gerechtshof Den Haag , 17-03-2026 / 200.343.534/01
