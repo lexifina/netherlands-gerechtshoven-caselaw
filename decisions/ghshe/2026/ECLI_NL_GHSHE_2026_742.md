@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:742"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/227 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:GHSHE:2026:742 Gerechtshof 's-Hertogenbosch , 18-03-2026 / 25/818
