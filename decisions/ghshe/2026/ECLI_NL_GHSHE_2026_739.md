@@ -9,8 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:739"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/815"]
-relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:8032, Bekrachtiging/bevestiging"]]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/815", "NDFR Nieuws 2026/665", "NTFR 2026/1579 met annotatie van mr. D.F.R. van Beek"]
+relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:8032, Bekrachtiging/bevestiging"], ["Formele relatie", "Cassatie: ECLI:NL:HR:2026:1638"]]
 cites_law: ["netherlands/national/acts/wet-inkomstenbelasting-2001/art-06-017.md"]
 ---
 
