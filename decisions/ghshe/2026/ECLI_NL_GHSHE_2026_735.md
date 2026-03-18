@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:735"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/236 met annotatie van A.P. Monsma"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:2725, Bekrachtiging/bevestiging"]]
 ---
 
