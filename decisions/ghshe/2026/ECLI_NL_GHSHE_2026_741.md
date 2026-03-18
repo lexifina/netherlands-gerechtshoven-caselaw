@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:741"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041707", "Sdu Nieuws Belastingzaken 2026/517", "FutD 2026-0673", "V-N Vandaag 2026/780"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041707", "Sdu Nieuws Belastingzaken 2026/517", "FutD 2026-0673", "V-N Vandaag 2026/780", "NLF 2026/0782 met annotatie van mr. M.W.C. Soltysik", "V-N 2026/33.18 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2023:517, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-omzetbelasting-1968/art-037.md"]
 ---
