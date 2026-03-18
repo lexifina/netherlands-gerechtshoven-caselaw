@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:551"
-published_in: ["Rechtspraak.nl", "Notamail 2026/83", "Sdu Nieuws Personen- en familierecht 2026/218"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/83", "Sdu Nieuws Personen- en familierecht 2026/218", "EB 2026/56", "JPF 2026/74 met annotatie van mr. H.J. Weijers"]
 ---
 
 # ECLI:NL:GHDHA:2026:551 Gerechtshof Den Haag , 18-03-2026 / 200.355.856/01
