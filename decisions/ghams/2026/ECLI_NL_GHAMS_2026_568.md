@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:568"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ARO 2026/22"]
 ---
 
 # ECLI:NL:GHAMS:2026:568 Gerechtshof Amsterdam , 18-03-2026 / 200.351.523/01 OK
