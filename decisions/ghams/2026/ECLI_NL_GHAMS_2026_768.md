@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Ondernemingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:768"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JIN 2026/105 met annotatie van mr. F.C.B. Poiron, mr. J.R. Everhardus", "ARO 2026/41", "JODNR 2026/734"]
 ---
 
 # ECLI:NL:GHAMS:2026:768 Gerechtshof Amsterdam , 19-03-2026 / 200.359/744/01 OK
