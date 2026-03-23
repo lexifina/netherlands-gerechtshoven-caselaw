@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1714"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAR 2026/119 met annotatie van mr. P.A. Hogewind-Wolters", "School en Wet 2026/91"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2025:7249"]]
 ---
 
