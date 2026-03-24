@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1881"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0212", "VEAN-ERF-Updates.nl 2026-0212", "GJ 2026/33", "JERF Actueel 2026/104", "Module Privacy & AVG 2026/4511", "GZR-Updates.nl 2026-0129", "JERF 2026/96 met annotatie van Redactie"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2025:1685"]]
 ---
 
