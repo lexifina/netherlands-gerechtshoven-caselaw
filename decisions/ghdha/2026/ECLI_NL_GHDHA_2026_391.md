@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:391"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/47", "JA 2026/56"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2023:8822, Bekrachtiging/bevestiging"]]
 ---
 
