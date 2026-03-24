@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:479"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/119"]
 ---
 
 # ECLI:NL:GHDHA:2026:479 Gerechtshof Den Haag , 24-03-2026 / 22-002770-25
