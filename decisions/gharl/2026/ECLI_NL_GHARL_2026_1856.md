@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1856"
-published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/656", "Viditax (FutD) 2026040703", "NDFR Nieuws 2026/539", "FutD 2026-0647"]
+published_in: ["Rechtspraak.nl", "V-N Vandaag 2026/656", "Viditax (FutD) 2026040703", "NDFR Nieuws 2026/539", "FutD 2026-0647", "NTFR 2026/811 met annotatie van mr. A.A. Fase", "V-N 2026/29.34.15"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBGEL:2024:6161, Bekrachtiging/bevestiging"]]
 ---
 
