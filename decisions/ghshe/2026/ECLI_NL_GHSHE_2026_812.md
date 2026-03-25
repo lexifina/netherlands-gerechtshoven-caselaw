@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:812"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042205", "V-N Vandaag 2026/823"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042205", "V-N Vandaag 2026/823", "FutD 2026-0730", "Sdu Nieuws Belastingzaken 2026/555", "NDFR Nieuws 2026/675", "Sdu Nieuws Insolventierecht 2026/58", "NTFR 2026/862 met annotatie van mr. drs. B.J.E. Lodder"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1487, (Gedeeltelijke) vernietiging met terugwijzen"]]
 ---
 
