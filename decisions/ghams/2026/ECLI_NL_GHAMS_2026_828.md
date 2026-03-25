@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Raadkamer"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:828"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/116", "O&A 2026/41"]
 ---
 
 # ECLI:NL:GHAMS:2026:828 Gerechtshof Amsterdam , 25-03-2026 / 000508-25
