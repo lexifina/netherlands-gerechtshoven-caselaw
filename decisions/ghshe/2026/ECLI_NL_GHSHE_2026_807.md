@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:807"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042110", "V-N Vandaag 2026/793", "Sdu Nieuws Belastingzaken 2026/540"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042110", "V-N Vandaag 2026/793", "Sdu Nieuws Belastingzaken 2026/540", "FutD 2026-0737", "NDFR Nieuws 2026/711", "NTFR 2026/843 met annotatie van M.W. Krijger MB RB"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:1608, Overig"]]
 ---
 
