@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:805"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042111", "V-N Vandaag 2026/812"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042111", "V-N Vandaag 2026/812", "Sdu Nieuws Belastingzaken 2026/544", "FutD 2026-0738", "NLF 2026/0863", "V-N 2026/29.34.16"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:2190, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
