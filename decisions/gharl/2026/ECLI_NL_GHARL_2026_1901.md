@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:1901"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0558"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0558", "JAR 2026/121", "TAR 2026/28"]
 ---
 
 # ECLI:NL:GHARL:2026:1901 Gerechtshof Arnhem-Leeuwarden , 30-03-2026 / 200.358.364
