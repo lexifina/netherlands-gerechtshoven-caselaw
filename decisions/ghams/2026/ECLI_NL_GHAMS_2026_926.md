@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:926"
-published_in: ["Rechtspraak.nl", "Notamail 2026/79", "Sdu Nieuws Personen- en familierecht 2026/209"]
+published_in: ["Rechtspraak.nl", "Notamail 2026/79", "Sdu Nieuws Personen- en familierecht 2026/209", "ERF-Updates.nl 2026-0197", "VEAN-ERF-Updates.nl 2026-0197", "JERF Actueel 2026/111", "JERF 2026/114 met annotatie van mr. L.H. Rammeloo"]
 ---
 
 # ECLI:NL:GHAMS:2026:926 Gerechtshof Amsterdam , 31-03-2026 / 200.359.015
