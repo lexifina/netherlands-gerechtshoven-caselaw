@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:502"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/69 met annotatie van mr. E.A.L. van Emden"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2024:8671, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
