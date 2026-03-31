@@ -2,17 +2,17 @@
 ecli: "ECLI:NL:GHDHA:2026:468"
 court: "Gerechtshof Den Haag"
 court_code: "GHDHA"
-docket: "200.356.325/01"
+docket: "200.357.918/01"
 decided: "2026-03-31"
 published: "2026-03-27"
 type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:468"
-published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2533"]
+published_in: ["Rechtspraak.nl", "Module Aanbesteding 2026/2533", "ERF-Updates.nl 2026-0180", "VEAN-ERF-Updates.nl 2026-0180"]
 ---
 
-# ECLI:NL:GHDHA:2026:468 Gerechtshof Den Haag , 31-03-2026 / 200.356.325/01
+# ECLI:NL:GHDHA:2026:468 Gerechtshof Den Haag , 31-03-2026 / 200.357.918/01
 
 ## Inhoudsindicatie
 
