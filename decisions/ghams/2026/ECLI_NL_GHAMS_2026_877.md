@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:877"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NTFR 2026/933 met annotatie van mr. R.B.H. Beune", "NDFR Nieuws 2026/837"]
 ---
 
 # ECLI:NL:GHAMS:2026:877 Gerechtshof Amsterdam , 31-03-2026 / 23-000388-24
