@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2011"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041301", "FutD 2026-0661", "V-N Vandaag 2026/772"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041301", "FutD 2026-0661", "V-N Vandaag 2026/772", "NDFR Nieuws 2026/657", "NLF 2026/0737", "NTFR 2026/951 met annotatie van mr. R.S. Bekker", "V-N 2026/29.1.1"]
 ---
 
 # ECLI:NL:GHARL:2026:2011 Gerechtshof Arnhem-Leeuwarden , 31-03-2026 / 23/3046 tm 23/3054
