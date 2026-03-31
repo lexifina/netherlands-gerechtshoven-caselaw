@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht; Verbintenissenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:855"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RAV 2026/44"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBOBR:2025:517"]]
 cites_law: ["netherlands/national/acts/bw-boek-6/art-162.md"]
 ---
