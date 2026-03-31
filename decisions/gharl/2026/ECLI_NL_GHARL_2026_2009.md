@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2009"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041308", "V-N Vandaag 2026/727", "FutD 2026-0672", "NDFR Nieuws 2026/637"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041308", "V-N Vandaag 2026/727", "FutD 2026-0672", "NDFR Nieuws 2026/637", "NTFR 2026/896 met annotatie van mr. C.H. Strating"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2024:890, Bekrachtiging/bevestiging"]]
 ---
 
