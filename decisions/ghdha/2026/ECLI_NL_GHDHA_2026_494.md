@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:494"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0564", "Sdu Nieuws Arbeidsrecht 2026/134"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0564", "Sdu Nieuws Arbeidsrecht 2026/134", "PJ 2026/50 met annotatie van M. van Benthem", "PR-Updates.nl 2026-0121"]
 relations: [["Formele relatie", "Na verwijzing door: ECLI:NL:HR:2024:1102"]]
 ---
 
