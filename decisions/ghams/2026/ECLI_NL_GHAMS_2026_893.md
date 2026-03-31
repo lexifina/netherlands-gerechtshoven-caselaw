@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:893"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0543"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0543", "JAR 2026/117 met annotatie van mr. K. Wiersma", "PR-Updates.nl 2026-0127"]
 ---
 
 # ECLI:NL:GHAMS:2026:893 Gerechtshof Amsterdam , 31-03-2026 / 200.358.697
