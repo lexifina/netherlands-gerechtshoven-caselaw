@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:924"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "TT 2026/29 met annotatie van mr. G.L. Maaldrink"]
 ---
 
 # ECLI:NL:GHAMS:2026:924 Gerechtshof Amsterdam , 31-03-2026 / 200.359.502
