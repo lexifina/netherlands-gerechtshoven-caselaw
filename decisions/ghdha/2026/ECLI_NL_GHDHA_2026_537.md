@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:537"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/124"]
 ---
 
 # ECLI:NL:GHDHA:2026:537 Gerechtshof Den Haag , 01-04-2026 / 22-004258-24
