@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:925"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/214"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Personen- en familierecht 2026/214", "PFR-Updates.nl 2026-0084", "RAV 2026/42", "NJFCZ 2026/226", "JPF 2026/84 met annotatie van prof. mr. P. Vlaardingerbroek"]
 ---
 
 # ECLI:NL:GHAMS:2026:925 Gerechtshof Amsterdam , 07-04-2026 / 200.349.639
