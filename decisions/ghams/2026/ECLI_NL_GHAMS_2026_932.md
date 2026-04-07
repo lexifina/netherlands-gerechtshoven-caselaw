@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:932"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PFR-Updates.nl 2026-0086", "JIN 2026/88 met annotatie van mr. J.S. Maspaitella", "RFR 2026/82"]
 ---
 
 # ECLI:NL:GHAMS:2026:932 Gerechtshof Amsterdam , 07-04-2026 / 200.359.806/01
