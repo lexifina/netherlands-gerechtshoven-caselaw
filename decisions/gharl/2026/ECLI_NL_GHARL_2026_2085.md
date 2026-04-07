@@ -7,7 +7,7 @@ decided: "2026-04-07"
 published: "2026-04-07"
 type: "uitspraak"
 procedure: "Hoger beroep"
-subject: "Civiel recht; Arbeidsrecht"
+subject: "Civiel recht; Insolventierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2085"
 published_in: ["Rechtspraak.nl"]
 ---
