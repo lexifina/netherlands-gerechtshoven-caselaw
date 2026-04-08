@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:948"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042202", "V-N Vandaag 2026/811"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042202", "V-N Vandaag 2026/811", "FutD 2026-0732", "NDFR Nieuws 2026/674", "NLF 2026/0807 met annotatie van mr. M.H.C. Ruijschop", "NTFR 2026/907 met annotatie van mr. F. van Horzen", "V-N 2026/31.1.2"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4736, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-vennootschapsbelasting-1969/art-015ai.md"]
 ---
