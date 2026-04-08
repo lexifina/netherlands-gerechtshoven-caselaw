@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2090"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/257 met annotatie van L.J. Boone"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:4007, Bekrachtiging/bevestiging"]]
 ---
 
