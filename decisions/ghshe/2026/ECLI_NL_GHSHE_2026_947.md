@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:947"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042201"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042201", "FutD 2026-0731", "V-N Vandaag 2026/854", "NLF 2026/0857", "NDFR Nieuws 2026/714", "NTFR 2026/869 met annotatie van mr. drs. G. Benning", "V-N 2026/32.28.22"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4237, Bekrachtiging/bevestiging"]]
 cites_law: ["netherlands/national/acts/wet-loonbelasting-1964/art-012a.md"]
 ---
