@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:952"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Douanerechtspraak 2026/57"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:4239, Bekrachtiging/bevestiging"]]
 ---
 
