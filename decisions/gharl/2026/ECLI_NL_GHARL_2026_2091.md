@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2091"
-published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/632"]
+published_in: ["Rechtspraak.nl", "NDFR Nieuws 2026/632", "NTFR 2026/859 met annotatie van mr. drs. C.M. Dijkstra", "Belastingblad 2026/260 met annotatie van L.J. Boone"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBNNE:2023:4005, Bekrachtiging/bevestiging"]]
 ---
 
