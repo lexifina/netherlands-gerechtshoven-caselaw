@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2117"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/89 met annotatie van mr. dr. J.I. Huijer"]
 ---
 
 # ECLI:NL:GHARL:2026:2117 Gerechtshof Arnhem-Leeuwarden , 09-04-2026 / 200.363.873/01
