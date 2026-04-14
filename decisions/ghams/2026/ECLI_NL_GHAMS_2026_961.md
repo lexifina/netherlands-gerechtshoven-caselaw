@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:961"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Module Privacy & AVG 2026/4514", "JBP 2026/105 met annotatie van mr. D. Knibbeler, mr. S. Kramer", "IR 2026/19, UDH:IR/57254 met annotatie van S. (Silvia) van Schaik"]
 ---
 
 # ECLI:NL:GHAMS:2026:961 Gerechtshof Amsterdam , 14-04-2026 / 200.346.613/01
