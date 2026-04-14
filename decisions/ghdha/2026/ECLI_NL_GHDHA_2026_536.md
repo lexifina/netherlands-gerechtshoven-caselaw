@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:536"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0618", "VAAN-AR-Updates.nl 2026-0618"]
 ---
 
 # ECLI:NL:GHDHA:2026:536 Gerechtshof Den Haag , 14-04-2026 / 200.354.485/01
