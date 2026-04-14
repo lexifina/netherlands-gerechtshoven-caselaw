@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1031"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "INS-Updates.nl 2026-0087", "OR-Updates.nl 2026-0070", "RO 2026/32", "JONDR 2026/434", "RI 2026/47", "JOR 2026/186 met annotatie van mr. F.J. Verhagen"]
 ---
 
 # ECLI:NL:GHAMS:2026:1031 Gerechtshof Amsterdam , 14-04-2026 / 200.347.907/01
