@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:557"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0623", "VAAN-AR-Updates.nl 2026-0623", "JAR 2026/143"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBROT:2025:7719, Bekrachtiging/bevestiging"]]
 ---
 
