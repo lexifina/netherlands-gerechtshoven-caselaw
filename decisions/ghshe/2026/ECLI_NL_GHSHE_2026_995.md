@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:995"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFS 2026/144"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBZWB:2024:6392, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
