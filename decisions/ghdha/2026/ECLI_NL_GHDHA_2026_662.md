@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHDHA:2026:662"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026042902", "FutD 2026-0788", "Belastingblad 2026/230 met annotatie van J.C. Scherff"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBDHA:2025:10945, Bekrachtiging/bevestiging"]]
 ---
 
