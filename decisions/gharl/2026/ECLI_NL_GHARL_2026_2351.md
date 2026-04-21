@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHARL:2026:2351"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/89", "GJ 2026/59 met annotatie van mr. N.A.D. Groot"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:GHARL:2026:6991"]]
 ---
 
 # ECLI:NL:GHARL:2026:2351 Gerechtshof Arnhem-Leeuwarden , 21-04-2026 / 200.364.945/01
