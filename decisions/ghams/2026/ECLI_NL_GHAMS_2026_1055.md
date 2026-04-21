@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1055"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VR 2026/131"]
 ---
 
 # ECLI:NL:GHAMS:2026:1055 Gerechtshof Amsterdam , 21-04-2026 / 23-000243-24
