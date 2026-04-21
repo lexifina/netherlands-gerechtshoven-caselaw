@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHSHE:2026:1063"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/82 met annotatie van mr. S. Pieters"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:RBLIM:2023:5413, Bekrachtiging/bevestiging"]]
 ---
 
