@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1058"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JA 2026/80", "RAV 2026/52", "NTHR 2026/46, p.195", "VR 2026/149"]
 ---
 
 # ECLI:NL:GHAMS:2026:1058 Gerechtshof Amsterdam , 21-04-2026 / 200.350.925/01
