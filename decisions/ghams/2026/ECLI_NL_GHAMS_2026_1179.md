@@ -1,0 +1,270 @@
+---
+ecli: "ECLI:NL:GHAMS:2026:1179"
+court: "Gerechtshof Amsterdam"
+court_code: "GHAMS"
+docket: "23-002196-25"
+decided: "2026-04-28"
+published: "2026-05-01"
+type: "uitspraak"
+procedure: "Hoger beroep"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:GHAMS:2026:1179"
+published_in: ["Rechtspraak.nl", "NJFS 2026/152"]
+---
+
+# ECLI:NL:GHAMS:2026:1179 Gerechtshof Amsterdam , 28-04-2026 / 23-002196-25
+
+## Inhoudsindicatie
+
+Openlijke geweldpleging in vereniging. Verbale aanmoedigingen en het filmen van het geweld. Hogere straf dan in eerste aanleg, gelet op LOVS oriëntatiepunten. Overwegingen vordering benadeelde partij: Verplaatste schade ex art. 6:107 BW - reiskosten dochter deels, en kosten huishoudelijke hulp volledig toewijsbaar. Aan smartengeld is € 5.500 toewijsbaar ogv lichamelijk letsel (knieletsel), met verwijzing naar de Rotterdamse Schaal. Eigen schuld verweer wordt verworpen. Aanvangsdatum wettelijke rente smartengeld: Anders dan de raadsman met verwijzing naar de Rotterdamse Schaal heeft bepleit, te weten per de begrotingsdatum, ziet het hof in dit geval geen aanleiding af te wijken van het beginsel dat de wettelijke rente verschuldigd is vanaf het moment waarop de schade als gevolg van de onrechtmatige daad is ingetreden (HR:2019:793, r.o. 2.5), zijnde de dag waarop het strafbare feit heeft plaatsgevonden.
+
+## Uitspraak
+
+afdeling strafrecht
+
+parketnummer: 23-002196-25
+
+datum uitspraak: 28 april 2026
+
+TEGENSPRAAK
+
+Verkort arrest van het gerechtshof Amsterdam gewezen op het hoger beroep, ingesteld tegen het vonnis van de politierechter in de rechtbank Amsterdam van 12 september 2025 in de strafzaak onder parketnummer 13-306622-24 tegen
+
+[verdachte]
+,
+
+geboren te [geboorteplaats] op [geboortedag] 1998,
+
+adres: [adres] .
+
+Onderzoek van de zaak
+
+Dit arrest is gewezen naar aanleiding van het onderzoek ter terechtzitting in hoger beroep van 14 april 2026 en naar aanleiding van het onderzoek ter terechtzitting in eerste aanleg.
+
+De verdachte heeft hoger beroep ingesteld tegen voormeld vonnis.
+
+Het hof heeft kennisgenomen van de vordering van de advocaat-generaal en van hetgeen de verdachte en de raadsman en de advocaat van de benadeelde partij naar voren hebben gebracht.
+
+Tenlastelegging
+
+Gelet op de door de rechtbank toegelaten wijziging is aan de verdachte tenlastegelegd dat:
+
+hij/zij op of omstreeks 23 juli 2024 te Amsterdam, in elk geval in Nederland, openlijk, te weten de Schoolmeesterstraat, in elk geval op of aan de openbare weg en/of op een voor het publiek toegankelijke plaats, in vereniging geweld heeft gepleegd tegen een persoon, te weten dhr. [benadeelde partij] , door;
+
+- die [benadeelde partij] ten val te brengen en/of
+
+- die [benadeelde partij] stevig vast te houden en/of
+
+- te slaan en/of te schoppen tegen het hoofd van die [benadeelde partij] en/of
+
+- te slaan met een slipper op het lichaam en/of het hoofd van die [benadeelde partij] en/of
+
+- voornoemde handelingen met een telefoon te filmen, terwijl dit door hem/haar gepleegde geweld zwaar lichamelijk letsel, althans enig lichamelijk letsel, te weten gescheurde kniepezen en/of een gebroken (linker)duim voor slachtoffer ten gevolge heeft gehad;
+
+Voor zover in de tenlastelegging taal- en/of schrijffouten voorkomen, zal het hof deze verbeterd lezen. De verdachte wordt daardoor niet in de verdediging geschaad.
+
+Vonnis waarvan beroep
+
+Het vonnis waarvan beroep zal worden vernietigd, alleen al omdat het hof tot een andere bewezenverklaring komt dan de politierechter.
+
+Bewijsoverweging
+
+De advocaat-generaal heeft gerekwireerd tot bewezenverklaring van het tenlastegelegde, behalve ten aanzien van het strafverzwarende gevolg (zwaar lichamelijk letsel).
+
+De raadsman van de verdachte heeft vrijspraak bepleit. Hiertoe heeft hij aangevoerd dat de verdachte geen significante of wezenlijke bijdrage heeft geleverd, waardoor niet kan worden gesproken van het in vereniging plegen van openlijk geweld. Subsidiair stelt de raadsman dat de verdachte geen geweldshandelingen heeft gepleegd, waardoor zij moet worden vrijgesproken van het geobjectiveerde gevolg.
+
+Het hof stelt op basis van het dossier het volgende vast.
+
+De verdachte is eerder op meerdere momenten met haar auto tegen de rijrichting in gereden, tot ergernis van de aangever. Op 23 juli 2024 is het tot een confrontatie gekomen waarbij ook de broer en de vader van de verdachte aanwezig waren. Op de camerabeelden van het incident die door de verdachte zelf zijn gemaakt, is te zien dat de broer de aangever op enig moment achterna rent en slaande en stompende bewegingen maakt met zijn armen. De aangever moet achteruit lopen om de broer te ontwijken. Dit achteruit lopen, onder dreiging van de slaande bewegingen, leidt ertoe dat de aangever struikelt en ten val komt. Vervolgens komt de vader aanrennen, pakt zijn slipper en slaat de aangever daarmee. Op dat moment is op de beelden te zien dat de aangever wordt vastgehouden op de grond door de broer. De vader geeft de aangever tenslotte nog een trap na tegen het hoofd. Het geweld heeft op een openbare plaats plaatsgevonden en was derhalve waarneembaar voor derden. De verdachte heeft zelf geen geweld gepleegd tegen de aangever. Zij heeft het incident wel van dichtbij gefilmd en te horen is dat zij, terwijl zij dit doet, de medeverdachten en de aangever aanspreekt in opruiende zin.
+
+Het hof overweegt als volgt.
+
+Het hof stelt dat van het in vereniging plegen van openlijk geweld gesproken kan worden, als de verdachte een voldoende significante of wezenlijke bijdrage heeft geleverd aan het geweld. Uit jurisprudentie volgt dat hier ook sprake van kan zijn in het geval van verbale aanmoedigingen en het filmen van het geweld.
+
+De verdachte heeft haar vader en broer met het filmen getalsmatig versterkt. Zij is – zichtbaar voor de aangever – begonnen met filmen al vóór de eerste geweldshandeling plaatsvond. Op de beelden is te zien dat de verdachte achter haar broer aan is gelopen en heel dichtbij heeft gestaan terwijl de aangever werd vastgehouden, geslagen en getrapt. Daarnaast is te horen dat zij haar broer en vader heeft aangemoedigd en de aangever heeft gekleineerd door te roepen: “ga maar verstoppen als een klein kind” en “nu ben je bang, net als kleine mannen”.  Het hof is van oordeel dat het filmen van het incident, in combinatie met de opruiende uitlatingen van de verdachte, onder de gegeven omstandigheden een wezenlijke bijdrage aan het geweld oplevert. Daarmee is wettig en overtuigend bewezen dat de verdachte zich schuldig heeft gemaakt aan het in vereniging plegen van openlijk geweld.
+
+Het hof is voorts, met de advocaat-generaal en de raadsman, van oordeel dat het geobjectiveerde strafverzwarende gevolg (zwaar lichamelijk letsel) ten aanzien van deze verdachte niet bewezenverklaard kan worden.
+
+Bewezenverklaring
+
+Het hof acht wettig en overtuigend bewezen dat de verdachte het tenlastegelegde heeft begaan, met dien verstande dat:
+
+zij op 23 juli 2024 te Amsterdam, openlijk, te weten aan de Schoolmeesterstraat, in vereniging geweld heeft gepleegd tegen een persoon, te weten dhr. [benadeelde partij] , door:
+
+- die [benadeelde partij] ten val te brengen en
+
+- die [benadeelde partij] stevig vast te houden en
+
+- te slaan en te schoppen tegen het hoofd van die [benadeelde partij] en
+
+- te slaan met een slipper op het lichaam en het hoofd van die [benadeelde partij] en
+
+- voornoemde handelingen met een telefoon te filmen.
+
+Hetgeen meer of anders is tenlastegelegd, is niet bewezen. De verdachte moet hiervan worden vrijgesproken.
+
+Het bewezenverklaarde is gegrond op de feiten en omstandigheden die in de bewijsmiddelen zijn vervat, zoals deze na het eventueel instellen van beroep in cassatie zullen worden opgenomen in de op te maken aanvulling op dit arrest.
+
+Strafbaarheid van het bewezenverklaarde
+
+Geen omstandigheid is aannemelijk geworden die de strafbaarheid van het bewezenverklaarde uitsluit, zodat dit strafbaar is.
+
+Het bewezenverklaarde levert op:
+
+openlijk in vereniging geweld plegen tegen personen.
+
+Strafbaarheid van de verdachte
+
+De verdachte is strafbaar, omdat geen omstandigheid aannemelijk is geworden die de strafbaarheid ten aanzien van het bewezenverklaarde uitsluit.
+
+Oplegging van straf
+
+De politierechter heeft de verdachte voor het in eerste aanleg bewezenverklaarde veroordeeld tot een taakstraf voor de duur van 30 uren, subsidiair 15 dagen hechtenis.
+
+De advocaat-generaal heeft gevorderd dat de verdachte voor het tenlastegelegde zal worden veroordeeld tot een taakstraf voor de duur van 60 uren, subsidiair 30 dagen hechtenis.
+
+De raadsman heeft verzocht een geldboete dan wel voorwaardelijke taakstraf op te leggen en bij de strafoplegging rekening te houden met het feit dat het handelen van de verdachte de ondergrens van strafbaar handelen raakt, de rol van de aangever, de persoonlijke omstandigheden van de verdachte en het positieve reclasseringsrapport van 26 februari 2025.
+
+Het hof heeft in hoger beroep de op te leggen straf bepaald op grond van de ernst van het feit en de omstandigheden waaronder dit is begaan en gelet op de persoon van de verdachte. Het hof heeft daarbij in het bijzonder het volgende in beschouwing genomen.
+
+De verdachte heeft zich samen met anderen schuldig gemaakt aan openlijke geweldpleging. De aangever is hierbij ernstig toegetakeld. Dergelijk geweld veroorzaakt niet alleen bij het slachtoffer pijn, angst en gevoelens van onveiligheid, maar draagt ook in bredere zin bij aan gevoelens van onrust en onveiligheid in de samenleving. De ernst van dit feit wordt in het bijzonder bepaald door de gevolgen voor de aangever, die als gevolg van het geweld zwaar lichamelijk letsel heeft opgelopen. Dit rekent het hof de verdachte zwaar aan.
+
+Het hof heeft acht geslagen op straffen die in vergelijkbare gevallen plegen te worden opgelegd en die hun weerslag hebben gevonden in de oriëntatiepunten voor straftoemeting van het Landelijk Overleg Vakinhoud Strafrecht (LOVS). Daarin wordt voor openlijke geweldpleging met enig letsel als gevolg een onvoorwaardelijke taakstraf voor de duur van 150 uren genoemd en voor gevallen waarin het geweld heeft geleid tot zwaar lichamelijk letsel een onvoorwaardelijke gevangenisstraf van 6 maanden. Gelet op deze oriëntatiepunten en de ernst van het feit acht het hof een fors hogere straf dan door de rechtbank is opgelegd en door de advocaat-generaal is gevorderd passend en geboden.
+
+Het hof overweegt voorts dat het feit dat de aangever zelf ook een aandeel heeft gehad in het stadium voorafgaand aan de escalatie van de situatie geen matigend effect kan hebben op de straf, nu dit het handelen van de verdachte niet rechtvaardigt.
+
+Het hof acht, alles afwegende, een taakstraf van na te melden duur passend en geboden.
+
+Vordering van de benadeelde partij [benadeelde partij]
+
+De benadeelde partij heeft zich in eerste aanleg in het strafproces gevoegd met een vordering tot schadevergoeding. Deze bedraagt € 8.942,17, bestaande uit € 3.442,17 materiële schade en € 5.500,- immateriële schade. De vordering is bij het vonnis waarvan beroep toegewezen tot een bedrag van
+
+€ 4.601,20, te weten € 1.601,20 materiële schade en € 3.000,- immateriële schade. De benadeelde partij is voor het méér gevorderde niet-ontvankelijk verklaard. De benadeelde partij heeft zich in hoger beroep opnieuw gevoegd voor het bedrag van de oorspronkelijke vordering.
+
+De advocaat-generaal heeft de volledige toewijzing van de vordering benadeelde partij gevorderd.
+
+De verdediging heeft ter terechtzitting verzocht de benadeelde partij niet-ontvankelijk te verklaren; primair in verband met de bepleite vrijspraak en subsidiair omdat de beoordeling van de vordering vanwege de complexiteit een onevenredige belasting van het strafproces zou opleveren. Inhoudelijk is het causaal verband tussen het handelen van de verdachte en het bij de benadeelde partij ontstane letsel betwist, althans moet neerwaarts rekening worden gehouden met eigen schuld aan de zijde van de aangever gelet op diens actieve aandeel in het conflict. Ook de noodzaak van de gevorderde kosten wordt weersproken.
+
+Ten aanzien van de gevorderde reiskosten en de huishoudelijke hulp heeft de verdediging aangevoerd dat deze niet voor vergoeding in aanmerking komen als verplaatste schade. Ten slotte is betoogd, met verwijzing naar de Rotterdamse Schaal, dat indien smartengeld wordt toegekend, de aanvangsdatum van de wettelijke rente daarover zou moeten worden bepaald op het moment waarop de immateriële schade wordt begroot, dus per datum van dit arrest.
+
+De advocaat van de benadeelde partij heeft ter terechtzitting in hoger beroep aangevoerd dat het hof de vordering in zijn geheel toewijst.
+
+Het hof overweegt als volgt.
+
+Uit het onderzoek ter terechtzitting is voldoende gebleken dat de benadeelde partij als gevolg van het bewezenverklaarde handelen van de verdachte en de medeverdachte rechtstreeks schade heeft geleden, zowel materieel als immaterieel. De raadsvrouw van de benadeelde partij heeft het gevorderde schadebedrag onderbouwd door middel van een schriftelijke toelichting van 8 mei 2025 en een nadere toelichting ter terechtzitting in hoger beroep.
+
+Causaal verband verweer
+
+Het door de verdediging gevoerde causaal verband verweer wordt verworpen. De broer (tevens mede verdachte) van de verdachte is, terwijl hij slaande bewegingen maakte, achter de benadeelde partij aangerend, terwijl de verdachte achter de broer aankwam terwijl zij het gebeuren filmde. De benadeelde partij moest achteruit lopen om de broer te ontwijken, waardoor hij ten val is gekomen. De verdachte heeft hieraan, zoals eerder overwogen, een wezenlijke bijdrage geleverd. Als gevolg van de val heeft de benadeelde partij lichamelijk letsel opgelopen in de vorm van onder meer gescheurde pezen van beide knieën. Dit letsel was van dien aard dat een operatie noodzakelijk was. Na twee maanden revalideren is de verdachte met restklachten en rollatorafhankelijk thuis gekomen. Op grond hiervan neemt het hof het causaal verband, daaronder begrepen de redelijke toerekening aan de verdachte, tussen het letsel en het bewezenverklaarde aan. Dat de verdachte zelf geen geweldshandelingen heeft verricht doet daar niet aan af.
+
+Materiële schade
+
+De vordering ten aanzien van de materiële schade bedraagt € 3.442,17 te vermeerderen met de wettelijke rente en bestaat uit de volgende schadeposten:
+
+Kosten huur rollator				€    296,20
+
+Ziekenhuis- en revalidatievergoeding		€ 1.305,00
+
+Huishoudelijke hulp				€    750,00
+
+Reiskosten					€ 1.090,97
+
+Ad a-b)
+
+De kosten onder a. en b. zijn voldoende onderbouwd en niet (voldoende) inhoudelijk betwist. Voor zover de noodzaak hiervan wordt betwist door de verdediging, verwijst het hof naar de hierna volgende overwegingen.
+
+Ad c) en d) toetsingskader
+
+Ten aanzien van de huishoudelijke hulp en reiskosten overweegt het hof als volgt.
+
+Gelet op het bepaalde in artikel 6:107 lid 1 sub a van het Burgerlijk Wetboek (BW), is de aansprakelijke partij gehouden de kosten te vergoeden voor verpleging, verzorging en andere hulp, ook als deze is verleend door derden, zoals familie. Dit wordt ‘verplaatste schade’ genoemd. Het moet dan gaan om hulp waarvan het ‘normaal en gebruikelijk’ is dat deze wordt geboden door een professional, waarvoor kosten in rekening zouden worden gebracht.
+
+Ad c) huishoudelijke hulp
+
+Vaststaat dat de benadeelde partij door de bewezenverklaarde openlijke geweldpleging rechtstreeks materiële schade heeft geleden. Op grond van de toelichting van de vordering en bij gebreke van relevante contra indicaties, acht het hof aannemelijk dat de verdachte voor het incident een sportieve, fitte man was van 72 jaar, die actief was in het vrijwilligerswerk als personal trainer. Als rechtstreeks gevolg van het bewezenverklaarde heeft hij lichamelijk letsel opgelopen, onderbouwd zoals hierna nader te noemen. Hij moest dientengevolge een operatie ondergaan en heeft negen dagen in het ziekenhuis gelegen. Aansluitend heeft hij een periode van 55 dagen verbleven in een revalidatiecentrum voor verdere behandeling en herstel. Het hof acht weliswaar aannemelijk dat hij, gezien de overgelegde ontslagbrief van het revalidatiecentrum, na thuiskomst geen thuiszorg nodig had in de zin van medische zorg, opstaan, aankleden en eten, maar dat hij, gelet op de aannemelijke restklachten, nog wel zeer beperkt was in het verrichten van de gebruikelijke huishoudelijke taken. Op basis van de overlegde rollator-facturen is aannemelijk dat hij bij thuiskomst nog een periode rollator-afhankelijk is gebleven. Daarbij komt dat de benadeelde alleenstaand en op leeftijd is. Daarmee heeft de benadeelde, ook in het licht van de betwisting, voldoende aannemelijk gemaakt dat de gevorderde huishoudelijke hulp voor hem tot eind februari 2025 noodzakelijk was als rechtstreeks gevolg van het bewezenverklaarde. Deze huishoudelijke hulp, die ten behoeve van de benadeelde partij door zijn dochter werd verricht, is dan ook volgens vaste jurisprudentie toewijsbaar als verplaatste schade. De daarvoor gevorderde kosten ad c) zijn dus toewijsbaar.
+
+Ad d) reiskosten
+
+De benadeelde partij heeft ook vergoeding gevraagd van de reiskosten die zijn dochter heeft gemaakt om hem te komen bezoeken in het ziekenhuis, in het revalidatiecentrum en vervolgens thuis ten behoeve van het helpen in het huishouden. De voorliggende vraag is in hoeverre deze kosten kunnen worden aangemerkt als “verplaatste schade”. Het hof overweegt als volgt per deelpost.
+
+Reiskosten huishoudelijke hulp
+
+In lijn met het overwogene ad c) zijn deze reiskosten, waarvan de hoogte voldoende is onderbouwd en als zodanig niet weersproken, eveneens toewijsbaar.
+
+Reiskosten bezoeken ziekenhuis
+
+Het hof is van oordeel dat de reiskosten van de dochter voor haar bezoeken de benadeelde partij in het ziekenhuis toewijsbaar zijn als verplaatste schade. De benadeelde partij heeft aangevoerd dat deze bezoeken dienden ter ondersteuning van zijn mentale welzijn. Het hof acht de behoefte aan en noodzaak van mentale steun waarvan het “normaal en gebruikelijk” is dat deze wordt geboden door een professional, aannemelijk gezien de grove en plotselinge inbreuk die door het bewezenverklaarde is gemaakt op zijn lichamelijke integriteit en de negatieve psychische gevolgen die dit alles bij hem teweeg heeft gebracht, onderbouwd zoals hierna nader te noemen. Niet gesteld noch gebleken is dat hij in het ziekenhuis die professionele betaalde zorg heeft gehad. Daarom zijn de hiertoe door de benadeelde partij gevorderde reiskosten van de dochter - waarvan de hoogte voldoende is onderbouwd en niet is bestreden - als verplaatste schade rechtstreeks als gevolg van het bewezenverklaarde toewijsbaar.
+
+Reiskosten bezoeken revalidatiecentrum
+
+Dit geldt niet voor de reiskosten van de bezoeken aan het revalidatiecentrum, door de benadeelde gesteld op € 327,43. Uit de stukken volgt dat de benadeelde partij in het revalidatiecentrum wekelijks professionele psychologische hulp heeft gehad. Naar het oordeel van het hof is onder die omstandigheden de noodzaak van de bezoeken (hoe zeer als zodanig ook te waarderen) in de zin van ‘verplaatste schade’ volgens artikel 6:107 BW niet vast te stellen op basis van de nu voorhanden gegevens. In zoverre wordt de benadeelde partij niet-ontvankelijk verklaard in zijn vordering zodat hij zich eventueel hiervoor kan wenden tot de civiele rechter.
+
+Conclusie materiële schade
+
+Van het gevorderde totaalbedrag aan materiële schade is een bedrag van  € 3.114,74 (zijnde € 3.442,17 minus reiskosten revalidatiecentrum ad € 327,43) toewijsbaar.
+
+Immateriële schade
+
+Het hof is van oordeel dat genoegzaam is onderbouwd dat de benadeelde partij als rechtstreeks gevolg van het bewezenverklaarde feit immateriële schade heeft geleden. Er is sprake van objectief vastgesteld lichamelijk letsel in de zin van art. 6:106 onder b van het Burgerlijk Wetboek (BW). De verdachte is, terwijl hij slaande bewegingen maakte, achter de benadeelde partij aangerend. De benadeelde partij moest achteruit lopen om hem te ontwijken, waardoor hij ten val is gekomen. Als gevolg van de val heeft de benadeelde partij zwaar lichamelijk letsel opgelopen in de vorm van gescheurde kniepezen en schaafwonden op zijn rechter elleboog. Het letsel aan zijn knieën was van dien aard dat een operatie noodzakelijk was. Na twee maanden revalideren is de verdachte met aannemelijke restklachten en dus rollatorafhankelijk thuis gekomen, zoals hiervoor is overwogen. Op enig moment is hij thuis gevallen waardoor hij een duimfractuur heeft opgelopen, maar het hof is onvoldoende gebleken dat dit letsel als gevolg van het handelen van de verdachte is ontstaan.
+
+De begroting van immateriële schade geschiedt naar billijkheid met inachtneming van alle omstandigheden van het geval, waaronder de aard van de aansprakelijkheid en de ernst van het aan de aansprakelijke te maken verwijt, alsmede, in geval van letselschade, de aard van het letsel, de ernst van het letsel (waaronder de duur en de intensiteit), de verwachting ten aanzien van het herstel en de leeftijd van het slachtoffer. Verder dient de rechter bij de begroting, indien mogelijk, te letten op de bedragen die door Nederlandse rechters in vergelijkbare gevallen zijn toegekend. Concreet heeft het hof acht geslagen op de Rotterdamse Schaal (RS) in samenhang met de ‘Aanbevelingen rechtspraak voor de begroting van smartengeld op basis van art. 6:106 BW’ (rechtspraak.nl).
+
+Ten aanzien van het knieletsel neemt het hof als uitgangspunt dat tussen ongeveer zes maanden tot twee jaar herstel plaatsvindt, met een bandbreedte tussen € 3.000,- en € 6.000,- (analoog aan RS paragraaf 5.14, sub c, categorie I).
+
+Het hof stelt alles afwegend en in onderlinge samenhang bezien de omvang van de vergoedbare immateriële schade van deze benadeelde partij naar billijkheid vast op € 5.500,-.
+
+Ingangsmoment wettelijke rente smartengeld
+
+Anders dan de raadsman heeft bepleit, ziet het hof in dit geval geen aanleiding af te wijken van het beginsel dat de wettelijke rente verschuldigd is vanaf het moment waarop de schade als gevolg van de onrechtmatige daad is ingetreden (HR:2019:793, r.o. 2.5), zijnde de dag waarop het strafbare feit heeft plaatsgevonden: 23 juli 2024. Ten aanzien van de materiële schade heeft de rechtbank de ingangsdatum eveneens bepaald op 23 juli 2024. Het hof zal daar ook vanuit gaan nu daar geen concreet verweer op is gevoerd.
+
+Beroep op eigen schuld
+
+De verdediging voert aan dat de schadevergoedingsplicht verrekend dient te worden met ‘eigen schuld’ van de benadeelde als bedoeld in artikel 6:101 BW. Het hof is van oordeel dat sprake is van twee losse gebeurtenissen. Eerder had de benadeelde partij, getergd door een al lang bestaand meningsverschil en zijn ergernis over het tegen het verkeer in rijden door de verdachte, dingen (mogelijk eieren of sinaasappels) gegooid in de richting van de verdachte. Vervolgens heeft hebben de verdachten een nieuw wilsbesluit genomen door het openlijk geweld in te zetten tegen de benadeelde, zoals hiervoor is beschreven. Er bestaat daarom niet het vereiste causaal verband tussen de eerdere handelingen van de benadeelde partij en het openlijk geweld daarna door de verdachten. Reeds daarop strandt dit verweer.
+
+Hoofdelijke aansprakelijkheid voor ontstane schade
+
+In de onderhavige zaak is bewezenverklaard dat de verdachte het onder 1 tenlastegelegde in vereniging met anderen heeft gepleegd. Dit brengt met zich dat de verdachte hoofdelijk aansprakelijk is voor de ontstane schade ten bedrage van in totaal € 8.614,74 plus rente, zoals hiervoor is vastgesteld
+
+Schadevergoedingsmaatregel
+
+Het hof zal – eveneens hoofdelijk – de schadevergoedingsmaatregel opleggen op de hierna te noemen wijze om te bevorderen dat de schade door de verdachte wordt vergoed.
+
+Toepasselijke wettelijke voorschriften
+
+De op te leggen sancties zijn gegrond op de artikelen 9, 22c, 22d, 36f en 141 van het Wetboek van Strafrecht.
+
+BESLISSING
+
+Het hof:
+
+Vernietigt het vonnis waarvan beroep en doet opnieuw recht:
+
+Verklaart zoals hiervoor overwogen bewezen dat de verdachte het tenlastegelegde heeft begaan.
+
+Verklaart niet bewezen hetgeen de verdachte meer of anders is tenlastegelegd dan hierboven is bewezenverklaard en spreekt de verdachte daarvan vrij.
+
+Verklaart het bewezenverklaarde strafbaar, kwalificeert dit als hiervoor vermeld en verklaart de verdachte strafbaar.
+
+Veroordeelt de verdachte tot een taakstraf voor de duur van 120 (honderdtwintig) uren, indien niet naar behoren verricht te vervangen door 60 (zestig) dagen hechtenis.
+
+Vordering van de benadeelde partij [benadeelde partij]
+
+Wijst toe de vordering tot schadevergoeding van de benadeelde partij [benadeelde partij] ter zake van het onder 1 en 2 bewezenverklaarde tot het bedrag van € 8.614,74 (achtduizend zeshonderdveertien euro en vierenzeventig cent) bestaande uit € 3.114,74 (drieduizend honderdveertien euro en vierenzeventig cent) materiële schade en € 5.500,00 (vijfduizend vijfhonderd euro) immateriële schade, waarvoor de verdachte met de mededader(s) hoofdelijk voor het gehele bedrag aansprakelijk is, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Verklaart de benadeelde partij voor het overige niet-ontvankelijk in de vordering en bepaalt dat de benadeelde partij in zoverre de vordering slechts bij de burgerlijke rechter kan aanbrengen.
+
+Veroordeelt de verdachte in de door de benadeelde partij gemaakte en ten behoeve van de tenuitvoerlegging nog te maken kosten, tot aan de datum van deze uitspraak begroot op nihil.
+
+Legt aan de verdachte de verplichting op om aan de Staat, ten behoeve van het slachtoffer, genaamd [benadeelde partij] , ter zake van het onder 1 en 2 bewezenverklaarde een bedrag te betalen van € 8.614,74 (achtduizend zeshonderdveertien euro en vierenzeventig cent) bestaande uit € 3.114,74 (drieduizend honderdveertien euro en vierenzeventig cent) materiële schade en € 5.500,00 (vijfduizend vijfhonderd euro) immateriële schade, vermeerderd met de wettelijke rente vanaf de hierna te noemen aanvangsdatum tot aan de dag der voldoening.
+
+Bepaalt de duur van de gijzeling op ten hoogste 68 (achtenzestig) dagen. Toepassing van die gijzeling heft de verplichting tot schadevergoeding aan de Staat ten behoeve van het slachtoffer niet op.
+
+Bepaalt dat indien en voor zover de verdachte of zijn mededader(s) aan een van beide betalingsverplichtingen hebben voldaan, de andere vervalt.
+
+Bepaalt de aanvangsdatum van de wettelijke rente voor de materiële en de immateriële schade op 23 juli 2024.
+
+Bevestigt het vonnis waarvan beroep voor het overige, met inachtneming van het hiervoor overwogene.
+
+Dit arrest is gewezen door de meervoudige strafkamer van het gerechtshof Amsterdam, waarin zitting hadden mr. P.J. van Eekeren, mr. A.R.O. Mooy en mr. B. de Wilde, in tegenwoordigheid van mr. J.P.M. Veerman, griffier, en is uitgesproken op de openbare terechtzitting van dit gerechtshof van 28 april 2026.
+
+Mr. Mooy en mr. De Wilde zijn buiten staat dit arrest mede te ondertekenen.
