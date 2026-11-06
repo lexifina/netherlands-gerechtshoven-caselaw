@@ -1,5 +1,7 @@
 # Dutch case law: the gerechtshoven (courts of appeal)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the gerechtshoven (courts of appeal), Netherlands, which global-law reads at `netherlands/gerechtshoven/caselaw/`.
+
 Every decision of the gerechtshoven (courts of appeal) that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 161,154 decisions from 1943-02-25 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/gerechtshoven/caselaw`.
